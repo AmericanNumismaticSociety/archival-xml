@@ -4,7 +4,9 @@
     <fileDesc>
       <titleStmt>
         <title>Edward T. Newell notebook of notes and drafts on western Seleucid mints, circa 1940</title>
-        <author>Newell, Edward Theodore, 1886-1941</author>
+        <author>
+          <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher>American Numismatic Society</publisher>
