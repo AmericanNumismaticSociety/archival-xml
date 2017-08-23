@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>cartier</recordId>
@@ -80,8 +80,8 @@
         </dateRange>
       </existDates>
       <biogHist>
-        <abstract>&#xC9;tienne Jean Baptiste Cartier (1870-1859) specialized in medieval and modern, particularly French, coins.</abstract>
-        <p>&#xC9;tienne Jean Baptiste Cartier (1870-1859) co-founded the journal Revue Numismatique (Numismatic Review) in France with Jean-Francois de Paule-Louis de La Saussaye in 1836. The two served as coeditors from 1836 until 1856 when they sold it. In the early 1800s, Cartier held a position in the currency exchange at the Paris Mint, but was forced out during the 1830 Revolution and withdrew to Amboise. Cartier specialized in medieval and modern, particularly French, coins.</p>
+        <abstract>Étienne Jean Baptiste Cartier (1870-1859) specialized in medieval and modern, particularly French, coins.</abstract>
+        <p>Étienne Jean Baptiste Cartier (1870-1859) co-founded the journal Revue Numismatique (Numismatic Review) in France with Jean-Francois de Paule-Louis de La Saussaye in 1836. The two served as coeditors from 1836 until 1856 when they sold it. In the early 1800s, Cartier held a position in the currency exchange at the Paris Mint, but was forced out during the 1830 Revolution and withdrew to Amboise. Cartier specialized in medieval and modern, particularly French, coins.</p>
       </biogHist>
     </description>
   </cpfDescription>

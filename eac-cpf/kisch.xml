@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>kisch</recordId>
@@ -94,7 +94,7 @@
           </chronItem>
         </chronList>
         <abstract>Guido Kisch (1889-1985) was a professor of jurisprudence and the history of law and a collector of medals, tokens, and coins relating to law and the legal profession.</abstract>
-        <p>Guido Kisch (1889-1985) was a professor of jurisprudence and the history of law and a collector of medals, tokens, and coins relating to law and the legal profession. Born in Prague, he went on to teach the history of medieval law at Leipzig and K&#xF6;nigsberg and Halle, but was removed by the Nazis in 1933. He then taught at Prague University and the Jewish Theological Seminary at Breslau before emigrating to the United States where he taught at the Jewish Institute of Religion-Hebrew Union College of New York. In 1962 he moved to Switzerland and was a professor at Basel University. Early in his career, Kisch focused mainly on medieval German law, but after moving to the United States he turned his attention to the history of Jewish-German jurisprudence and to Jewish history generally. In 2007, the American Numismatic Society purchased more than one thousand pieces from his collection of law-related materials, which included medals, tokens, badges, coins, and emblems dating from the 1500s to the mid-1900s.</p>
+        <p>Guido Kisch (1889-1985) was a professor of jurisprudence and the history of law and a collector of medals, tokens, and coins relating to law and the legal profession. Born in Prague, he went on to teach the history of medieval law at Leipzig and Königsberg and Halle, but was removed by the Nazis in 1933. He then taught at Prague University and the Jewish Theological Seminary at Breslau before emigrating to the United States where he taught at the Jewish Institute of Religion-Hebrew Union College of New York. In 1962 he moved to Switzerland and was a professor at Basel University. Early in his career, Kisch focused mainly on medieval German law, but after moving to the United States he turned his attention to the history of Jewish-German jurisprudence and to Jewish history generally. In 2007, the American Numismatic Society purchased more than one thousand pieces from his collection of law-related materials, which included medals, tokens, badges, coins, and emblems dating from the 1500s to the mid-1900s.</p>
       </biogHist>
       <occupation>
         <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>

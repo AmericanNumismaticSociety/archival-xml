@@ -1,1 +1,77 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0137" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader langencoding="iso639-2b"><eadid countrycode="US" mainagencycode="US-nnan">nnan0137</eadid><filedesc><titlestmt><titleproper>Scrapbook of newspaper clippings, 1860-1864</titleproper><author>David Hill</author></titlestmt><publicationstmt><date>2014</date><address><addressline>American Numismatic Society Archives</addressline><addressline>75 Varick Street, 11th floor</addressline><addressline>New York, NY 10013</addressline></address><publisher>ANS Archives</publisher></publicationstmt></filedesc><profiledesc><creation>Finding aid encoded by David Hill using EADitor ©2011</creation><langusage>Finding aid written in English</langusage></profiledesc></eadheader><frontmatter/><archdesc level="collection"><did><head>Descriptive Summary</head><unittitle>Scrapbook of newspaper clippings</unittitle><abstract>Scrapbook of clippings and notes, possibly of Daniel Parish, Jr.</abstract><physloc audience="internal">ANS Rare Book Room</physloc><physdesc><extent>1 bound item (1 box)</extent></physdesc><langmaterial><language langcode="eng">English</language></langmaterial><unitdate>1860-1864</unitdate><repository>American Numismatic Society</repository><daogrp><daodesc><p>A clipping from the scrapbook</p></daodesc><daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7330/10407392844_6a23eed698_s.jpg" xlink:label="Square"/><daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7330/10407392844_6a23eed698_q.jpg" xlink:label="Large Square"/><daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7330/10407392844_6a23eed698_t.jpg" xlink:label="Thumbnail"/><daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7330/10407392844_6a23eed698_m.jpg" xlink:label="Small"/><daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7330/10407392844_6a23eed698_n.jpg" xlink:label="Small 320"/><daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7330/10407392844_6a23eed698.jpg" xlink:label="Medium"/><daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7330/10407392844_6a23eed698_z.jpg" xlink:label="Medium 640"/><daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7330/10407392844_9deda7fe8b_o.jpg" xlink:label="Original"/></daogrp></did><controlaccess><genreform authfilenumber="300027341" source="aat">Scrapbooks</genreform><subject>Coins--Collectors and collecting</subject><genreform authfilenumber="300026867" source="aat">Clippings (Information artifacts)</genreform><persname authfilenumber="http://numismatics.org/authority/parish" type="xeac:entity">Parish, Daniel, 1842-1914</persname></controlaccess><scopecontent><head>Scope and Content</head><p>Scrapbook contains clippings mostly from newspapers from New York—such as the Observer, Times, Post, and Journal of Commerce—but also some from New England. Topics include coins and medals, counterfeiting, coins of the New Testament, medals of Washington, medals of the British army, Pickens and Sumter medals, a medal of South Carolina (Palmetto State), a new Japanese coin, gold coinage, meetings of the Boston Numismatic Society, a gold medal for General Grant (1864), a criticism and defense of American die-sinkers, and reports of coin sales of Cogan, Bangs, Merlin, Leavitt, and Bramhall. Throughout is handwritten text that appears mostly to have been copied directly from articles on numismatic topics in publications such as Penny Magazine, but there are also brief comments on a few articles, one of which is signed “D.P.,” possibly indicating that the scrapbook was compiled by Daniel Parish, Jr., president of ANS from 1884 to 1896.</p></scopecontent><accessrestrict><head>Access</head><p>Collection open to all researchers.</p></accessrestrict><prefercite><head>Preferred Citation</head><p>Scrapbook, 1860-1864, Archives, American Numismatic Society</p></prefercite><userestrict><head>Restrictions</head><p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p></userestrict></archdesc></ead>
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0137" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="US-nnan">nnan0137</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Scrapbook of newspaper clippings, 1860-1864</titleproper>
+        <author>David Hill</author>
+      </titlestmt>
+      <publicationstmt>
+        <date>2014</date>
+        <address>
+          <addressline>American Numismatic Society Archives</addressline>
+          <addressline>75 Varick Street, 11th floor</addressline>
+          <addressline>New York, NY 10013</addressline>
+        </address>
+        <publisher>ANS Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded by David Hill using EADitor ©2011</creation>
+      <langusage>Finding aid written in English</langusage>
+    </profiledesc>
+  </eadheader>
+  <frontmatter/>
+  <archdesc level="collection">
+    <did>
+      <head>Descriptive Summary</head>
+      <unittitle>Scrapbook of newspaper clippings</unittitle>
+      <abstract>Scrapbook of clippings and notes, possibly of Daniel Parish, Jr.</abstract>
+      <physloc audience="internal">ANS Rare Book Room</physloc>
+      <physdesc>
+        <extent>1 bound item (1 box)</extent>
+      </physdesc>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <unitdate>1860-1864</unitdate>
+      <repository>American Numismatic Society</repository>
+      <daogrp>
+        <daodesc>
+          <p>A clipping from the scrapbook</p>
+        </daodesc>
+        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7330/10407392844_6a23eed698_s.jpg" xlink:label="Square"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7330/10407392844_6a23eed698_q.jpg" xlink:label="Large Square"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7330/10407392844_6a23eed698_t.jpg" xlink:label="Thumbnail"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7330/10407392844_6a23eed698_m.jpg" xlink:label="Small"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7330/10407392844_6a23eed698_n.jpg" xlink:label="Small 320"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7330/10407392844_6a23eed698.jpg" xlink:label="Medium"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7330/10407392844_6a23eed698_z.jpg" xlink:label="Medium 640"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7330/10407392844_9deda7fe8b_o.jpg" xlink:label="Original"/>
+      </daogrp>
+    </did>
+    <controlaccess>
+      <genreform authfilenumber="300027341" source="aat">Scrapbooks</genreform>
+      <subject>Coins--Collectors and collecting</subject>
+      <genreform authfilenumber="300026867" source="aat">Clippings (Information artifacts)</genreform>
+      <persname authfilenumber="http://numismatics.org/authority/parish" type="xeac:entity">Parish, Daniel, 1842-1914</persname>
+    </controlaccess>
+    <scopecontent>
+      <head>Scope and Content</head>
+      <p>Scrapbook contains clippings mostly from newspapers from New York—such as the Observer, Times, Post, and Journal of Commerce—but also some from New England. Topics include coins and medals, counterfeiting, coins of the New Testament, medals of Washington, medals of the British army, Pickens and Sumter medals, a medal of South Carolina (Palmetto State), a new Japanese coin, gold coinage, meetings of the Boston Numismatic Society, a gold medal for General Grant (1864), a criticism and defense of American die-sinkers, and reports of coin sales of Cogan, Bangs, Merlin, Leavitt, and Bramhall. Throughout is handwritten text that appears mostly to have been copied directly from articles on numismatic topics in publications such as Penny Magazine, but there are also brief comments on a few articles, one of which is signed “D.P.,” possibly indicating that the scrapbook was compiled by Daniel Parish, Jr., president of ANS from 1884 to 1896.</p>
+    </scopecontent>
+    <accessrestrict>
+      <head>Access</head>
+      <p>Collection open to all researchers.</p>
+    </accessrestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>Scrapbook, 1860-1864, Archives, American Numismatic Society</p>
+    </prefercite>
+    <userestrict>
+      <head>Restrictions</head>
+      <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
+    </userestrict>
+  </archdesc>
+</ead>

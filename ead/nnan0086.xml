@@ -1,5 +1,57 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0086"><eadheader><eadid countrycode="US" mainagencycode="US-nnan">nnan0086</eadid><filedesc><titlestmt><titleproper>R. Henry Norweb and Emery May Norweb ledgers and auction catalogs, 1867-circa 1984.</titleproper><author>David Hill</author></titlestmt><publicationstmt><publisher>ANS Archives</publisher><date normal="2011">2011</date><address><addressline>American Numismatic Society Archives</addressline><addressline>75 Varick Street, 11th floor</addressline><addressline>New York, NY 10013</addressline></address></publicationstmt></filedesc><profiledesc><creation>Finding aid encoded by David Hill using EADitor ©2011</creation><langusage>Finding aid written in English</langusage></profiledesc></eadheader><archdesc level="collection"><did><head>Descriptive Summary</head><unittitle>R. Henry Norweb and Emery May Norweb ledgers and auction catalogs</unittitle><abstract>Five ledgers containing an inventory of the Norweb collection of United States, Canadian, Latin American, and English coins. Also includes auction catalogs and a portfolio of
-				coin rubbings.</abstract><physloc audience="internal">ANS Rare Book Room</physloc><langmaterial><language langcode="eng">English</language></langmaterial><unitdate type="inclusive" normal="1867/1984">1867 - 1984</unitdate><repository>American Numismatic Society</repository><physdesc><extent>1 cubic foot (1 box)</extent></physdesc><daogrp><daodesc><p>Rubbings prepared by Emery in 1908</p></daodesc><daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6176/6218172902_13a1cffa22_s.jpg" xlink:label="Square"/><daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6176/6218172902_13a1cffa22_t.jpg" xlink:label="Thumbnail"/><daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6176/6218172902_13a1cffa22_m.jpg" xlink:label="Small"/><daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6176/6218172902_13a1cffa22.jpg" xlink:label="Medium"/><daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6176/6218172902_13a1cffa22_z.jpg" xlink:label="Medium 640"/><daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6176/6218172902_13a1cffa22_b.jpg" xlink:label="Large"/></daogrp></did><bioghist><head>Biographical Note</head><p>Numismatists R. Henry Norweb (1895-1983) and his wife Emery May Norweb (1895-1984) pursued their interest in coin collecting as a team, serving together as members of the American
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0086">
+  <eadheader>
+    <eadid countrycode="US" mainagencycode="US-nnan">nnan0086</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>R. Henry Norweb and Emery May Norweb ledgers and auction catalogs, 1867-circa 1984.</titleproper>
+        <author>David Hill</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>ANS Archives</publisher>
+        <date normal="2011">2011</date>
+        <address>
+          <addressline>American Numismatic Society Archives</addressline>
+          <addressline>75 Varick Street, 11th floor</addressline>
+          <addressline>New York, NY 10013</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded by David Hill using EADitor ©2011</creation>
+      <langusage>Finding aid written in English</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <head>Descriptive Summary</head>
+      <unittitle>R. Henry Norweb and Emery May Norweb ledgers and auction catalogs</unittitle>
+      <abstract>Five ledgers containing an inventory of the Norweb collection of United States, Canadian, Latin American, and English coins. Also includes auction catalogs and a portfolio of
+				coin rubbings.</abstract>
+      <physloc audience="internal">ANS Rare Book Room</physloc>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <unitdate type="inclusive" normal="1867/1984">1867 - 1984</unitdate>
+      <repository>American Numismatic Society</repository>
+      <physdesc>
+        <extent>1 cubic foot (1 box)</extent>
+      </physdesc>
+      <daogrp>
+        <daodesc>
+          <p>Rubbings prepared by Emery in 1908</p>
+        </daodesc>
+        <daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6176/6218172902_13a1cffa22_s.jpg" xlink:label="Square"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6176/6218172902_13a1cffa22_t.jpg" xlink:label="Thumbnail"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6176/6218172902_13a1cffa22_m.jpg" xlink:label="Small"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6176/6218172902_13a1cffa22.jpg" xlink:label="Medium"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6176/6218172902_13a1cffa22_z.jpg" xlink:label="Medium 640"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6176/6218172902_13a1cffa22_b.jpg" xlink:label="Large"/>
+      </daogrp>
+    </did>
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>Numismatists R. Henry Norweb (1895-1983) and his wife Emery May Norweb (1895-1984) pursued their interest in coin collecting as a team, serving together as members of the American
 				Numismatic Society’s governing council. Henry began his first term in 1960 and Emery became the first woman member of the council when she took office in 1969. They both served until
 				1978. Henry was born in Nottingham, England, and eventually moved to Elyria, Ohio, in 1907. He graduated from Harvard in 1916, and he and Emory married in 1917. He was a career
 				diplomat, starting in 1917 as second secretary to Ambassador William G. Sharp in Paris and eventually serving as U.S. ambassador to Lima, Panama, and Cuba. His wife, Emery, graduated
@@ -7,8 +59,51 @@
 				she joined the American Numismatic Association (ANA) in 1914, continuing her membership for over seventy years. Through the years they made numerous gifts of rare coins to American
 				numismatic institutions, including a 52-piece collection of U.S. colonial coins and the Proof 1913 Liberty Head nickel to the Smithsonian Institution (1982), and the Brasher doubloon
 				to the American Numismatic Society (1969). They retired together to Bratenahl, Ohio, where Henry was city councilman from 1950 to 1969. Their son, R. Henry Norweb Jr. (1918-1995),
-				carried on the family tradition and served as ANS president from 1990 to 1994.</p></bioghist><acqinfo audience="internal"><head>Provenance</head><p>Ledgers, coin rubbing portfolios, and catalogs donated by ANS president R. Henry Norweb Jr. in 1992. Inventory of Washington collection donated by George J. Fuld in 2011.</p></acqinfo><accessrestrict><head>Access</head><p>Collection open to all researchers.</p></accessrestrict><custodhist audience="internal"><head>Custodial History</head><p>Ledgers, coin rubbing portfolios, and catalogs held by the ANS since 1992, and the Washington collection inventory held since 2011.</p></custodhist><prefercite><head>Preferred Citation</head><p>R. Henry Norweb and Emery May Norweb ledgers and auction catalogs, 1867-circa 1984, Archives, American Numismatic Society.</p></prefercite><userestrict><head>Restrictions</head><p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p></userestrict><controlaccess><subject>Coins--Collectors and collecting</subject><persname authfilenumber="18848007" source="viaf">Norweb, Emery May, 1895-1984</persname><persname authfilenumber="http://numismatics.org/authority/mickley" role="xeac:entity">Mickley, Joseph J. (Joseph Jacob), 1799-1878</persname><persname authfilenumber="http://numismatics.org/authority/zabriskie" role="xeac:entity">Zabriskie, Andrew C. (Andrew Christian), 1853-1916</persname><persname authfilenumber="304914816" source="viaf">Lockett, Richard Cyril</persname><persname>Miles, R.L</persname><persname>Holden, Albert</persname><corpname>Grant Pierce &amp; Sons</corpname><genreform source="aat" authfilenumber="300027045">Inventories</genreform><genreform source="aat" authfilenumber="300026068">Auction catalogs</genreform><genreform source="aat" authfilenumber="300103035">Rubbings (Visual works)</genreform><genreform authfilenumber="300264354" source="aat">Notebooks</genreform><genreform source="aat" authfilenumber="300026059">Catalogs (Documents)</genreform><persname authfilenumber="http://numismatics.org/authority/norweb_jr" role="xeac:entity">Norweb, R. Henry, 1918-1995</persname></controlaccess><scopecontent><head>Scope and Content Note</head><p>Five ledgers containing an inventory of Emery May Norweb and her husband R. Henry Norweb’s collection of United States, Canadian, Latin American, and English coins (1936-1957). Most
+				carried on the family tradition and served as ANS president from 1990 to 1994.</p>
+    </bioghist>
+    <acqinfo audience="internal">
+      <head>Provenance</head>
+      <p>Ledgers, coin rubbing portfolios, and catalogs donated by ANS president R. Henry Norweb Jr. in 1992. Inventory of Washington collection donated by George J. Fuld in 2011.</p>
+    </acqinfo>
+    <accessrestrict>
+      <head>Access</head>
+      <p>Collection open to all researchers.</p>
+    </accessrestrict>
+    <custodhist audience="internal">
+      <head>Custodial History</head>
+      <p>Ledgers, coin rubbing portfolios, and catalogs held by the ANS since 1992, and the Washington collection inventory held since 2011.</p>
+    </custodhist>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>R. Henry Norweb and Emery May Norweb ledgers and auction catalogs, 1867-circa 1984, Archives, American Numismatic Society.</p>
+    </prefercite>
+    <userestrict>
+      <head>Restrictions</head>
+      <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
+    </userestrict>
+    <controlaccess>
+      <subject>Coins--Collectors and collecting</subject>
+      <persname authfilenumber="18848007" source="viaf">Norweb, Emery May, 1895-1984</persname>
+      <persname authfilenumber="http://numismatics.org/authority/mickley" role="xeac:entity">Mickley, Joseph J. (Joseph Jacob), 1799-1878</persname>
+      <persname authfilenumber="http://numismatics.org/authority/zabriskie" role="xeac:entity">Zabriskie, Andrew C. (Andrew Christian), 1853-1916</persname>
+      <persname authfilenumber="304914816" source="viaf">Lockett, Richard Cyril</persname>
+      <persname>Miles, R.L</persname>
+      <persname>Holden, Albert</persname>
+      <corpname>Grant Pierce &amp; Sons</corpname>
+      <genreform source="aat" authfilenumber="300027045">Inventories</genreform>
+      <genreform source="aat" authfilenumber="300026068">Auction catalogs</genreform>
+      <genreform source="aat" authfilenumber="300103035">Rubbings (Visual works)</genreform>
+      <genreform authfilenumber="300264354" source="aat">Notebooks</genreform>
+      <genreform source="aat" authfilenumber="300026059">Catalogs (Documents)</genreform>
+      <persname authfilenumber="http://numismatics.org/authority/norweb_jr" role="xeac:entity">Norweb, R. Henry, 1918-1995</persname>
+    </controlaccess>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>Five ledgers containing an inventory of Emery May Norweb and her husband R. Henry Norweb’s collection of United States, Canadian, Latin American, and English coins (1936-1957). Most
 				entries include denomination, date, description, source of purchase, and price. Also included are auction catalogs from the sale of collections of Joseph J. Mickley (1867), Andrew C.
 				Zabriskie (1909), Richard Cyril Lockett (1956), R.L. Miles Jr. (1968-1969), and Grant Pierce &amp; Sons (1965). In addition, there is portfolio of coin rubbings prepared by Emery in
 				1908 that were made from the American coins in the collection of her father, Albert Holden. The rubbings are arranged chronologically with Crosby numbers for the colonial pieces and
-				other citations for the federal issues. Also includes photocopies of two notebooks containing an inventory of Emery’s collection of Washington coins.</p></scopecontent></archdesc></ead>
+				other citations for the federal issues. Also includes photocopies of two notebooks containing an inventory of Emery’s collection of Washington coins.</p>
+    </scopecontent>
+  </archdesc>
+</ead>

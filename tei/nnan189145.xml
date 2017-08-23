@@ -1,1 +1,173 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="nnan189145" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"><teiHeader><fileDesc><titleStmt><title>Edward T. Newell notebook on finds at Susa</title><author>Newell, Edward Theodore, 1886-1941</author></titleStmt><publicationStmt><publisher>American Numismatic Society</publisher><pubPlace>New York (N.Y.)</pubPlace><idno type="donum">189145</idno></publicationStmt><notesStmt><note type="abstract"><p>Notebook containing handwritten notes on coin finds at the ancient city of Susa in Iran.</p></note></notesStmt><sourceDesc><biblStruct><monogr><author>Newell, Edward Theodore, 1886-1941</author><title>Edward T. Newell notebook on finds at Susa</title><imprint><date>unknown</date></imprint><extent>circa 80 pages (approximately 30 used) ; 16 x 10 cm.</extent></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><textClass><keywords corresp="nnan189145_0001"/><keywords corresp="nnan189145_0002"/><keywords corresp="nnan189145_0003"/><keywords corresp="nnan189145_0004"/><keywords corresp="nnan189145_0005"/><keywords corresp="nnan189145_0006"/><keywords corresp="nnan189145_0007"/><keywords corresp="nnan189145_0008"/><keywords corresp="nnan189145_0009"/><keywords corresp="nnan189145_0010"/><keywords corresp="nnan189145_0011"/><keywords corresp="nnan189145_0012"/><keywords corresp="nnan189145_0013"/><keywords corresp="nnan189145_0014"/><keywords corresp="nnan189145_0015"/><keywords corresp="nnan189145_0016"/><keywords corresp="nnan189145_0017"/><keywords corresp="nnan189145_0018"/><keywords corresp="nnan189145_0019"/><keywords corresp="nnan189145_0020"/><keywords corresp="nnan189145_0021"/><keywords corresp="nnan189145_0022"/><keywords corresp="nnan189145_0023"/><keywords corresp="nnan189145_0024"/><keywords corresp="nnan189145_0025"/><keywords corresp="nnan189145_0026"/><keywords corresp="nnan189145_0027"/><keywords corresp="nnan189145_0028"/><keywords corresp="nnan189145_0029"/><keywords corresp="nnan189145_0030"/><keywords corresp="nnan189145_0031"/><keywords corresp="nnan189145_0032"/><keywords corresp="nnan189145_0033"/><keywords corresp="nnan189145_0034"/></textClass></profileDesc></teiHeader><facsimile xml:id="nnan189145_0001"><graphic url="189145_0001"/></facsimile><facsimile xml:id="nnan189145_0002"><graphic url="189145_0002"/></facsimile><facsimile xml:id="nnan189145_0003"><graphic url="189145_0003"/></facsimile><facsimile xml:id="nnan189145_0004"><graphic url="189145_0004"/></facsimile><facsimile xml:id="nnan189145_0005"><graphic url="189145_0005"/></facsimile><facsimile xml:id="nnan189145_0006"><graphic url="189145_0006"/></facsimile><facsimile xml:id="nnan189145_0007"><graphic url="189145_0007"/></facsimile><facsimile xml:id="nnan189145_0008"><graphic url="189145_0008"/></facsimile><facsimile xml:id="nnan189145_0009"><graphic url="189145_0009"/></facsimile><facsimile xml:id="nnan189145_0010"><graphic url="189145_0010"/></facsimile><facsimile xml:id="nnan189145_0011"><graphic url="189145_0011"/></facsimile><facsimile xml:id="nnan189145_0012"><graphic url="189145_0012"/></facsimile><facsimile xml:id="nnan189145_0013"><graphic url="189145_0013"/></facsimile><facsimile xml:id="nnan189145_0014"><graphic url="189145_0014"/></facsimile><facsimile xml:id="nnan189145_0015"><graphic url="189145_0015"/></facsimile><facsimile xml:id="nnan189145_0016"><graphic url="189145_0016"/></facsimile><facsimile xml:id="nnan189145_0017"><graphic url="189145_0017"/></facsimile><facsimile xml:id="nnan189145_0018"><graphic url="189145_0018"/></facsimile><facsimile xml:id="nnan189145_0019"><graphic url="189145_0019"/></facsimile><facsimile xml:id="nnan189145_0020"><graphic url="189145_0020"/></facsimile><facsimile xml:id="nnan189145_0021"><graphic url="189145_0021"/></facsimile><facsimile xml:id="nnan189145_0022"><graphic url="189145_0022"/></facsimile><facsimile xml:id="nnan189145_0023"><graphic url="189145_0023"/></facsimile><facsimile xml:id="nnan189145_0024"><graphic url="189145_0024"/></facsimile><facsimile xml:id="nnan189145_0025"><graphic url="189145_0025"/></facsimile><facsimile xml:id="nnan189145_0026"><graphic url="189145_0026"/></facsimile><facsimile xml:id="nnan189145_0027"><graphic url="189145_0027"/></facsimile><facsimile xml:id="nnan189145_0028"><graphic url="189145_0028"/></facsimile><facsimile xml:id="nnan189145_0029"><graphic url="189145_0029"/></facsimile><facsimile xml:id="nnan189145_0030"><graphic url="189145_0030"/></facsimile><facsimile xml:id="nnan189145_0031"><graphic url="189145_0031"/></facsimile><facsimile xml:id="nnan189145_0032"><graphic url="189145_0032"/></facsimile><facsimile xml:id="nnan189145_0033"><graphic url="189145_0033"/></facsimile><facsimile xml:id="nnan189145_0034"><graphic url="189145_0034"/></facsimile></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="nnan189145" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Edward T. Newell notebook on finds at Susa</title>
+        <author>Newell, Edward Theodore, 1886-1941</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>American Numismatic Society</publisher>
+        <pubPlace>New York (N.Y.)</pubPlace>
+        <idno type="donum">189145</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note type="abstract">
+          <p>Notebook containing handwritten notes on coin finds at the ancient city of Susa in Iran.</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Newell, Edward Theodore, 1886-1941</author>
+            <title>Edward T. Newell notebook on finds at Susa</title>
+            <imprint>
+              <date>unknown</date>
+            </imprint>
+            <extent>circa 80 pages (approximately 30 used) ; 16 x 10 cm.</extent>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords corresp="nnan189145_0001"/>
+        <keywords corresp="nnan189145_0002"/>
+        <keywords corresp="nnan189145_0003"/>
+        <keywords corresp="nnan189145_0004"/>
+        <keywords corresp="nnan189145_0005"/>
+        <keywords corresp="nnan189145_0006"/>
+        <keywords corresp="nnan189145_0007"/>
+        <keywords corresp="nnan189145_0008"/>
+        <keywords corresp="nnan189145_0009"/>
+        <keywords corresp="nnan189145_0010"/>
+        <keywords corresp="nnan189145_0011"/>
+        <keywords corresp="nnan189145_0012"/>
+        <keywords corresp="nnan189145_0013"/>
+        <keywords corresp="nnan189145_0014"/>
+        <keywords corresp="nnan189145_0015"/>
+        <keywords corresp="nnan189145_0016"/>
+        <keywords corresp="nnan189145_0017"/>
+        <keywords corresp="nnan189145_0018"/>
+        <keywords corresp="nnan189145_0019"/>
+        <keywords corresp="nnan189145_0020"/>
+        <keywords corresp="nnan189145_0021"/>
+        <keywords corresp="nnan189145_0022"/>
+        <keywords corresp="nnan189145_0023"/>
+        <keywords corresp="nnan189145_0024"/>
+        <keywords corresp="nnan189145_0025"/>
+        <keywords corresp="nnan189145_0026"/>
+        <keywords corresp="nnan189145_0027"/>
+        <keywords corresp="nnan189145_0028"/>
+        <keywords corresp="nnan189145_0029"/>
+        <keywords corresp="nnan189145_0030"/>
+        <keywords corresp="nnan189145_0031"/>
+        <keywords corresp="nnan189145_0032"/>
+        <keywords corresp="nnan189145_0033"/>
+        <keywords corresp="nnan189145_0034"/>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile xml:id="nnan189145_0001">
+    <graphic url="189145_0001"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0002">
+    <graphic url="189145_0002"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0003">
+    <graphic url="189145_0003"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0004">
+    <graphic url="189145_0004"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0005">
+    <graphic url="189145_0005"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0006">
+    <graphic url="189145_0006"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0007">
+    <graphic url="189145_0007"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0008">
+    <graphic url="189145_0008"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0009">
+    <graphic url="189145_0009"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0010">
+    <graphic url="189145_0010"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0011">
+    <graphic url="189145_0011"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0012">
+    <graphic url="189145_0012"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0013">
+    <graphic url="189145_0013"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0014">
+    <graphic url="189145_0014"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0015">
+    <graphic url="189145_0015"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0016">
+    <graphic url="189145_0016"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0017">
+    <graphic url="189145_0017"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0018">
+    <graphic url="189145_0018"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0019">
+    <graphic url="189145_0019"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0020">
+    <graphic url="189145_0020"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0021">
+    <graphic url="189145_0021"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0022">
+    <graphic url="189145_0022"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0023">
+    <graphic url="189145_0023"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0024">
+    <graphic url="189145_0024"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0025">
+    <graphic url="189145_0025"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0026">
+    <graphic url="189145_0026"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0027">
+    <graphic url="189145_0027"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0028">
+    <graphic url="189145_0028"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0029">
+    <graphic url="189145_0029"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0030">
+    <graphic url="189145_0030"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0031">
+    <graphic url="189145_0031"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0032">
+    <graphic url="189145_0032"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0033">
+    <graphic url="189145_0033"/>
+  </facsimile>
+  <facsimile xml:id="nnan189145_0034">
+    <graphic url="189145_0034"/>
+  </facsimile>
+</TEI>

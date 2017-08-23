@@ -1,1 +1,88 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0022" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader langencoding="iso639-2b"><eadid countrycode="US" mainagencycode="US-nnan">nnan0022</eadid><filedesc><titlestmt><titleproper>Ulysses S. Grant monument medal scrapbooks, 1897-1898</titleproper><author>David Hill</author></titlestmt><publicationstmt><date>© 2013</date><address><addressline>American Numismatic Society Archives</addressline><addressline>75 Varick Street, 11th floor</addressline><addressline>New York, NY 10013</addressline></address><publisher>ANS Archives</publisher></publicationstmt></filedesc><profiledesc><creation>Finding aid encoded by David Hill using EADitor ©2011</creation><langusage>Finding aid written in English</langusage></profiledesc></eadheader><frontmatter/><archdesc level="collection"><did><head>Descriptive Summary</head><unittitle>Ulysses S. Grant monument medal scrapbooks</unittitle><abstract>A set of two scrapbooks containing clippings, correspondence, designs, and other materials relating to the dedication of the General Grant National Memorial, or Grant’s Tomb.</abstract><physloc audience="internal">Rare Book Room - ANS publications shelf</physloc><physdesc><extent>2 bound volumes</extent></physdesc><langmaterial><language langcode="eng">English</language></langmaterial><unitdate>1897-1898</unitdate><repository>American Numismatic Society</repository><daogrp><daodesc><p>A rejected design for the medal</p></daodesc><daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7294/10999997404_529405e802_s.jpg" xlink:label="Square"/><daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7294/10999997404_529405e802_q.jpg" xlink:label="Large Square"/><daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7294/10999997404_529405e802_t.jpg" xlink:label="Thumbnail"/><daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7294/10999997404_529405e802_m.jpg" xlink:label="Small"/><daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7294/10999997404_529405e802_n.jpg" xlink:label="Small 320"/><daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7294/10999997404_529405e802.jpg" xlink:label="Medium"/><daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7294/10999997404_6eef428fb2_o.jpg" xlink:label="Original"/></daogrp></did><controlaccess><persname authfilenumber="66505625" source="viaf">Grant, Ulysses S. (Ulysses Simpson), 1822-1885</persname><persname authfilenumber="77116317" source="viaf">Porter, Horace, 1837-1921</persname><geogname>General Grant National Memorial (New York, N.Y.)</geogname><genreform authfilenumber="300027341" source="aat">Scrapbooks</genreform><genreform authfilenumber="300026877" source="aat">Correspondence</genreform><genreform authfilenumber="300046300" source="aat">Photographs</genreform><genreform authfilenumber="300203068" source="aat">Circulars (Fliers)</genreform><genreform authfilenumber="300027240" source="aat">Programs (Documents)</genreform><genreform authfilenumber="300102051" source="aat">Designs (Concepts)</genreform></controlaccess><scopecontent><head>Scope and Content Note</head><p>A set of two scrapbooks containing clippings, correspondence, designs, and other materials relating to the dedication of the General Grant National Memorial, or Grant’s Tomb. The scrapbook was assembled by Tiffany &amp; Co., designer of the medal, and bound by Club Bindery. Bronze copies of the medal, showing obverse and reverse, are bound into the covers of each volume. Contains artwork submitted but not approved, as well as a photograph of Tiffany’s selected design. Correspondence includes numerous responses to invitations to an April 23, 1897, ceremony where General Horace Porter was presented the single gold medal struck. Many of those invited declined, including the president and vice president of the United States, the secretaries of defense and state, and the postmaster general. Also present are international acknowledgment and thank you letters from representatives of heads of state that were sent silver medals; a letter from Porter approving the design; a thank you note from Grant’s son Frederick sent on behalf of him and his mother; newspaper clippings on the medal and the Porter presentation; a list of medal subscribers indicating number and type ordered; a subscription circular; an engraved portrait of Grant opposite the title page of volume one; a copy of the Century magazine engraving used for the medal portrait; the badge, or ribbon, of the reception committee for the Porter presentation; a program of ceremony exercises; and a copy of the History of the Grant Monument Medal. Both volumes are indexed.</p></scopecontent><note><p>Mostly English, with some letters in other languages and translations into English.</p></note><bioghist><head>Biographical Note</head><p>On January 11, 1897, the president of the American Numismatic and Archaeological Society, Andrew Zabriskie, proposed to commemorate the completion and dedication of the tomb of U.S. president Ulysses S. Grant, to be held on April 27 on the upper west side of Manhattan, with the issuance of a medal. The proposal was approved, and much of the shepherding of the process was done by George F. Kunz. Designs were solicited, and the one submitted by Tiffany &amp; Co., of which Kunz was a vice president, was selected. It was decided that the portrait used would be based on one published in a December 1884 issue of Century magazine, a likeness said to be favored by Grant. On April 23, 1897, at the Academy of Medicine building that served as the Society’s headquarters, the medal in gold was presented to General Horace Porter, Grant’s personal secretary and a driving force behind the Grant memorial. Speakers at the ceremony included George Maccullach Miller, president of St. Luke’s Hospital, and Seth Low, president of Columbia University, both from neighboring institutions that had just moved to Morningside Heights. Silver versions of the medal were sent to President McKinley and New York City mayor William Strong, and to international figures of eminence, such as Pope Leo XIII, Queen Victoria, the czar of Russia, and the emperors of China and Japan. Bronze medals were distributed to numismatic societies. Medals were also made available by subscription, at a price “not to exceed ten dollars for a medal in silver or three dollars for each medal in bronze,” according to a circular. </p></bioghist><accessrestrict><head>Access</head><p>Collection open to all researchers.</p></accessrestrict><prefercite><head>Preferred Citation</head><p>Ulysses S. Grant monument medal scrapbooks, Archives, American Numismatic Society.</p></prefercite><userestrict><head>Restrictions</head><p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p></userestrict></archdesc></ead>
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0022" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="US-nnan">nnan0022</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Ulysses S. Grant monument medal scrapbooks, 1897-1898</titleproper>
+        <author>David Hill</author>
+      </titlestmt>
+      <publicationstmt>
+        <date>© 2013</date>
+        <address>
+          <addressline>American Numismatic Society Archives</addressline>
+          <addressline>75 Varick Street, 11th floor</addressline>
+          <addressline>New York, NY 10013</addressline>
+        </address>
+        <publisher>ANS Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded by David Hill using EADitor ©2011</creation>
+      <langusage>Finding aid written in English</langusage>
+    </profiledesc>
+  </eadheader>
+  <frontmatter/>
+  <archdesc level="collection">
+    <did>
+      <head>Descriptive Summary</head>
+      <unittitle>Ulysses S. Grant monument medal scrapbooks</unittitle>
+      <abstract>A set of two scrapbooks containing clippings, correspondence, designs, and other materials relating to the dedication of the General Grant National Memorial, or Grant’s Tomb.</abstract>
+      <physloc audience="internal">Rare Book Room - ANS publications shelf</physloc>
+      <physdesc>
+        <extent>2 bound volumes</extent>
+      </physdesc>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <unitdate>1897-1898</unitdate>
+      <repository>American Numismatic Society</repository>
+      <daogrp>
+        <daodesc>
+          <p>A rejected design for the medal</p>
+        </daodesc>
+        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7294/10999997404_529405e802_s.jpg" xlink:label="Square"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7294/10999997404_529405e802_q.jpg" xlink:label="Large Square"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7294/10999997404_529405e802_t.jpg" xlink:label="Thumbnail"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7294/10999997404_529405e802_m.jpg" xlink:label="Small"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7294/10999997404_529405e802_n.jpg" xlink:label="Small 320"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7294/10999997404_529405e802.jpg" xlink:label="Medium"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7294/10999997404_6eef428fb2_o.jpg" xlink:label="Original"/>
+      </daogrp>
+    </did>
+    <controlaccess>
+      <persname authfilenumber="66505625" source="viaf">Grant, Ulysses S. (Ulysses Simpson), 1822-1885</persname>
+      <persname authfilenumber="77116317" source="viaf">Porter, Horace, 1837-1921</persname>
+      <geogname>General Grant National Memorial (New York, N.Y.)</geogname>
+      <genreform authfilenumber="300027341" source="aat">Scrapbooks</genreform>
+      <genreform authfilenumber="300026877" source="aat">Correspondence</genreform>
+      <genreform authfilenumber="300046300" source="aat">Photographs</genreform>
+      <genreform authfilenumber="300203068" source="aat">Circulars (Fliers)</genreform>
+      <genreform authfilenumber="300027240" source="aat">Programs (Documents)</genreform>
+      <genreform authfilenumber="300102051" source="aat">Designs (Concepts)</genreform>
+    </controlaccess>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>A set of two scrapbooks containing clippings, correspondence, designs, and other materials relating to the dedication of the General Grant National Memorial, or Grant’s Tomb. The scrapbook was assembled by Tiffany &amp; Co., designer of the medal, and bound by Club Bindery. Bronze copies of the medal, showing obverse and reverse, are bound into the covers of each volume. Contains artwork submitted but not approved, as well as a photograph of Tiffany’s selected design. Correspondence includes numerous responses to invitations to an April 23, 1897, ceremony where General Horace Porter was presented the single gold medal struck. Many of those invited declined, including the president and vice president of the United States, the secretaries of defense and state, and the postmaster general. Also present are international acknowledgment and thank you letters from representatives of heads of state that were sent silver medals; a letter from Porter approving the design; a thank you note from Grant’s son Frederick sent on behalf of him and his mother; newspaper clippings on the medal and the Porter presentation; a list of medal subscribers indicating number and type ordered; a subscription circular; an engraved portrait of Grant opposite the title page of volume one; a copy of the Century magazine engraving used for the medal portrait; the badge, or ribbon, of the reception committee for the Porter presentation; a program of ceremony exercises; and a copy of the History of the Grant Monument Medal. Both volumes are indexed.</p>
+    </scopecontent>
+    <note>
+      <p>Mostly English, with some letters in other languages and translations into English.</p>
+    </note>
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>On January 11, 1897, the president of the American Numismatic and Archaeological Society, Andrew Zabriskie, proposed to commemorate the completion and dedication of the tomb of U.S. president Ulysses S. Grant, to be held on April 27 on the upper west side of Manhattan, with the issuance of a medal. The proposal was approved, and much of the shepherding of the process was done by George F. Kunz. Designs were solicited, and the one submitted by Tiffany &amp; Co., of which Kunz was a vice president, was selected. It was decided that the portrait used would be based on one published in a December 1884 issue of Century magazine, a likeness said to be favored by Grant. On April 23, 1897, at the Academy of Medicine building that served as the Society’s headquarters, the medal in gold was presented to General Horace Porter, Grant’s personal secretary and a driving force behind the Grant memorial. Speakers at the ceremony included George Maccullach Miller, president of St. Luke’s Hospital, and Seth Low, president of Columbia University, both from neighboring institutions that had just moved to Morningside Heights. Silver versions of the medal were sent to President McKinley and New York City mayor William Strong, and to international figures of eminence, such as Pope Leo XIII, Queen Victoria, the czar of Russia, and the emperors of China and Japan. Bronze medals were distributed to numismatic societies. Medals were also made available by subscription, at a price “not to exceed ten dollars for a medal in silver or three dollars for each medal in bronze,” according to a circular. </p>
+    </bioghist>
+    <accessrestrict>
+      <head>Access</head>
+      <p>Collection open to all researchers.</p>
+    </accessrestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>Ulysses S. Grant monument medal scrapbooks, Archives, American Numismatic Society.</p>
+    </prefercite>
+    <userestrict>
+      <head>Restrictions</head>
+      <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
+    </userestrict>
+  </archdesc>
+</ead>

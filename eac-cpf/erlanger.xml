@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>erlanger</recordId>
@@ -94,7 +94,7 @@
           </chronItem>
         </chronList>
         <abstract>Numismatist Herbert J. Erlanger (1906-1988) was born in Nuremberg, Germany, and became an expert in the coins of that city.</abstract>
-        <p>Numismatist Herbert J. Erlanger (1906-1988) was born in Nuremberg, Germany, and became an expert in the coins of that city, publishing articles on the topic in The Numismatist and other publications, and in the books Die Reichsm&#xFC;nzst&#xE4;tte in N&#xFC;rnberg and N&#xFC;rnberger Medaillen. Erlanger was trained as an attorney at the University of Munich, and went on to represent motion picture companies such as Warner Brothers on the world market. He became an associate member of the American Numismatic Society in 1940 and a fellow in 1941. Stationed in Germany during World War II as a lieutenant in the United States Army, he acted as a liaison between the Society and German numismatists such as Max Bernhart, director of the numismatic cabinet of the Bavarian Academy of Science and recipient of the Huntington Medal (1946).</p>
+        <p>Numismatist Herbert J. Erlanger (1906-1988) was born in Nuremberg, Germany, and became an expert in the coins of that city, publishing articles on the topic in The Numismatist and other publications, and in the books Die Reichsmünzstätte in Nürnberg and Nürnberger Medaillen. Erlanger was trained as an attorney at the University of Munich, and went on to represent motion picture companies such as Warner Brothers on the world market. He became an associate member of the American Numismatic Society in 1940 and a fellow in 1941. Stationed in Germany during World War II as a lieutenant in the United States Army, he acted as a liaison between the Society and German numismatists such as Max Bernhart, director of the numismatic cabinet of the Bavarian Academy of Science and recipient of the Huntington Medal (1946).</p>
       </biogHist>
       <occupation>
         <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>

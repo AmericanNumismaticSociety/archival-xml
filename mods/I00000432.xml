@@ -1,1 +1,60 @@
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd"><mods version="3.5"><titleInfo xmlns:xlink="http://www.w3.org/1999/xlink"><title>Portrait photograph of Sawyer McArthur Mosser</title></titleInfo><identifier xmlns:xlink="http://www.w3.org/1999/xlink">07-00015</identifier><abstract xmlns:xlink="http://www.w3.org/1999/xlink">The image shows Mosser at the time of his hiring by the ANS as Assistant Librarian.</abstract><originInfo xmlns:xlink="http://www.w3.org/1999/xlink"><dateCreated>ca. 1930</dateCreated></originInfo><physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink"><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin><form>Digital images</form></physicalDescription><relatedItem xmlns:xlink="http://www.w3.org/1999/xlink"><location><physicalLocation>Archives, Princeton University</physicalLocation></location><originInfo><dateCreated>ca. 1930</dateCreated></originInfo><physicalDescription><form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form><extent>1 photograph : b&amp;w</extent></physicalDescription></relatedItem><location xmlns:xlink="http://www.w3.org/1999/xlink"><url access="preview">http://numismatics.org/archives/ui/media/thumbnail/07-00015.jpg</url><url usage="primary display">http://numismatics.org/archives/ui/media/reference/07-00015.jpg</url></location><accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition><note xmlns:xlink="http://www.w3.org/1999/xlink">Reproduced courtesy of University Archives, Princeton University Library.</note><recordInfo xmlns:xlink="http://www.w3.org/1999/xlink"><recordContentSource>American Numismatic Society</recordContentSource><recordCreationDate encoding="iso8601">2012-07-23</recordCreationDate><recordIdentifier>I00000432</recordIdentifier></recordInfo><subject><name type="personal"><namePart>Mosser, Sawyer McArthur, b. 1905</namePart></name></subject><subject><topic>American Numismatic Society--Officers</topic></subject><subject><topic>American Numismatic Society--Employees</topic></subject><subject><topic>American Numismatic Society. Editorial Department</topic></subject><subject><name type="corporate"><namePart>American Numismatic Society. Office of the Secretary</namePart></name></subject></mods></modsCollection>
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
+  <mods version="3.5">
+    <titleInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <title>Portrait photograph of Sawyer McArthur Mosser</title>
+    </titleInfo>
+    <identifier xmlns:xlink="http://www.w3.org/1999/xlink">07-00015</identifier>
+    <abstract xmlns:xlink="http://www.w3.org/1999/xlink">The image shows Mosser at the time of his hiring by the ANS as Assistant Librarian.</abstract>
+    <originInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <dateCreated>ca. 1930</dateCreated>
+    </originInfo>
+    <physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink">
+      <internetMediaType>image/jpeg</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>Digital images</form>
+    </physicalDescription>
+    <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink">
+      <location>
+        <physicalLocation>Archives, Princeton University</physicalLocation>
+      </location>
+      <originInfo>
+        <dateCreated>ca. 1930</dateCreated>
+      </originInfo>
+      <physicalDescription>
+        <form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form>
+        <extent>1 photograph : b&amp;w</extent>
+      </physicalDescription>
+    </relatedItem>
+    <location xmlns:xlink="http://www.w3.org/1999/xlink">
+      <url access="preview">http://numismatics.org/archives/ui/media/thumbnail/07-00015.jpg</url>
+      <url usage="primary display">http://numismatics.org/archives/ui/media/reference/07-00015.jpg</url>
+    </location>
+    <accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
+    <note xmlns:xlink="http://www.w3.org/1999/xlink">Reproduced courtesy of University Archives, Princeton University Library.</note>
+    <recordInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <recordContentSource>American Numismatic Society</recordContentSource>
+      <recordCreationDate encoding="iso8601">2012-07-23</recordCreationDate>
+      <recordIdentifier>I00000432</recordIdentifier>
+    </recordInfo>
+    <subject>
+      <name type="personal">
+        <namePart>Mosser, Sawyer McArthur, b. 1905</namePart>
+      </name>
+    </subject>
+    <subject>
+      <topic>American Numismatic Society--Officers</topic>
+    </subject>
+    <subject>
+      <topic>American Numismatic Society--Employees</topic>
+    </subject>
+    <subject>
+      <topic>American Numismatic Society. Editorial Department</topic>
+    </subject>
+    <subject>
+      <name type="corporate">
+        <namePart>American Numismatic Society. Office of the Secretary</namePart>
+      </name>
+    </subject>
+  </mods>
+</modsCollection>

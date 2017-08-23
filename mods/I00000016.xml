@@ -1,1 +1,54 @@
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd"><mods version="3.5"><titleInfo xmlns:xlink="http://www.w3.org/1999/xlink"><title>Painting of Louis C. West</title></titleInfo><identifier xmlns:xlink="http://www.w3.org/1999/xlink">05-00089</identifier><originInfo xmlns:xlink="http://www.w3.org/1999/xlink"><dateCreated>1954</dateCreated></originInfo><physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink"><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin><form>Digital images</form></physicalDescription><subject><name valueURI="http://numismatics.org/authority/west" type="personal"><namePart>West, Louis C. (Louis Caulton), 1882-1972</namePart></name></subject><subject><topic>American Numismatic Society--Officers</topic></subject><subject><topic>American Numismatic Society--Trustees and Councillors</topic></subject><subject><genre valueURI="http://vocab.getty.edu/aat/300033618">Paintings</genre></subject><relatedItem xmlns:xlink="http://www.w3.org/1999/xlink"><location><physicalLocation>ANS Photograph Collection</physicalLocation></location><originInfo><dateCreated>1954</dateCreated></originInfo><physicalDescription><form>Paintings (Visual works)</form><extent>1 painting</extent></physicalDescription></relatedItem><location xmlns:xlink="http://www.w3.org/1999/xlink"><url access="preview">http://numismatics.org/archives/ui/media/thumbnail/05-00089.jpg</url><url usage="primary display">http://numismatics.org/archives/ui/media/reference/05-00089.jpg</url></location><accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition><note xmlns:xlink="http://www.w3.org/1999/xlink" type="preferred_citation">Courtesy of Archives, American Numismatic Society.</note><recordInfo xmlns:xlink="http://www.w3.org/1999/xlink"><recordContentSource>American Numismatic Society</recordContentSource><recordCreationDate encoding="iso8601">2012-07-23</recordCreationDate><recordIdentifier>I00000016</recordIdentifier></recordInfo></mods></modsCollection>
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
+  <mods version="3.5">
+    <titleInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <title>Painting of Louis C. West</title>
+    </titleInfo>
+    <identifier xmlns:xlink="http://www.w3.org/1999/xlink">05-00089</identifier>
+    <originInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <dateCreated>1954</dateCreated>
+    </originInfo>
+    <physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink">
+      <internetMediaType>image/jpeg</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>Digital images</form>
+    </physicalDescription>
+    <subject>
+      <name valueURI="http://numismatics.org/authority/west" type="personal">
+        <namePart>West, Louis C. (Louis Caulton), 1882-1972</namePart>
+      </name>
+    </subject>
+    <subject>
+      <topic>American Numismatic Society--Officers</topic>
+    </subject>
+    <subject>
+      <topic>American Numismatic Society--Trustees and Councillors</topic>
+    </subject>
+    <subject>
+      <genre valueURI="http://vocab.getty.edu/aat/300033618">Paintings</genre>
+    </subject>
+    <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink">
+      <location>
+        <physicalLocation>ANS Photograph Collection</physicalLocation>
+      </location>
+      <originInfo>
+        <dateCreated>1954</dateCreated>
+      </originInfo>
+      <physicalDescription>
+        <form>Paintings (Visual works)</form>
+        <extent>1 painting</extent>
+      </physicalDescription>
+    </relatedItem>
+    <location xmlns:xlink="http://www.w3.org/1999/xlink">
+      <url access="preview">http://numismatics.org/archives/ui/media/thumbnail/05-00089.jpg</url>
+      <url usage="primary display">http://numismatics.org/archives/ui/media/reference/05-00089.jpg</url>
+    </location>
+    <accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
+    <note xmlns:xlink="http://www.w3.org/1999/xlink" type="preferred_citation">Courtesy of Archives, American Numismatic Society.</note>
+    <recordInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <recordContentSource>American Numismatic Society</recordContentSource>
+      <recordCreationDate encoding="iso8601">2012-07-23</recordCreationDate>
+      <recordIdentifier>I00000016</recordIdentifier>
+    </recordInfo>
+  </mods>
+</modsCollection>

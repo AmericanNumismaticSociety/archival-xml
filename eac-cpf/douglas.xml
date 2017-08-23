@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>douglas</recordId>
@@ -83,7 +83,7 @@
       </existDates>
       <biogHist>
         <abstract>Numismatist and engineer Damon G. Douglas (d. 1974) was born in Worcester, Massachusetts, and grew up in Jacksonville, Florida.</abstract>
-        <p>Numismatist and engineer Damon G. Douglas (d. 1974) was born in Worcester, Massachusetts, and grew up in Jacksonville, Florida. He graduated from Cornell College of Civil Engineering and went to work at Turner Construction Co. in New York City. In 1931 he started the Damon G. Douglas Construction Co. in Newark, New Jersey. He became a fellow of the American Numismatic Society in 1943 and was a member of the Society&#x2019;s standing committee on United States coins. He also served as president of the New York Numismatic Club from 1949 to 1951. Beginning in the 1940s, he published articles on numismatics in The Numismatist, the monthly journal of the American Numismatic Association, and other publications.</p>
+        <p>Numismatist and engineer Damon G. Douglas (d. 1974) was born in Worcester, Massachusetts, and grew up in Jacksonville, Florida. He graduated from Cornell College of Civil Engineering and went to work at Turner Construction Co. in New York City. In 1931 he started the Damon G. Douglas Construction Co. in Newark, New Jersey. He became a fellow of the American Numismatic Society in 1943 and was a member of the Society’s standing committee on United States coins. He also served as president of the New York Numismatic Club from 1949 to 1951. Beginning in the 1940s, he published articles on numismatics in The Numismatist, the monthly journal of the American Numismatic Association, and other publications.</p>
       </biogHist>
       <occupation>
         <term vocabularySource="http://vocab.getty.edu/aat/300025063">engineers</term>

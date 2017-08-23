@@ -1,1 +1,137 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="nnan189217" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"><teiHeader><fileDesc><titleStmt><title>Edward T. Newell notebook on coins in American private collections, undated</title><author>Newell, Edward Theodore, 1886-1941</author></titleStmt><publicationStmt><publisher>American Numismatic Society</publisher><pubPlace>New York (N.Y.)</pubPlace><idno type="donum">189217</idno></publicationStmt><notesStmt><note type="abstract"><p>Notebook containing notes on coins in United States private collections: Clarence S. Bement, Jeremiah Zimmerman, George A. Gillette, and George J. Bauer.</p></note></notesStmt><sourceDesc><biblStruct><monogr><author>Newell, Edward Theodore, 1886-1941</author><title>Edward T. Newell notebook on coins in American private collections, undated</title><imprint><date>unknown</date></imprint><extent>circa 60 pages (circa 25 used) ; 15 x 9 cm.</extent></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><textClass><keywords corresp="nnan189217_0001"/><keywords corresp="nnan189217_0002"/><keywords corresp="nnan189217_0003"/><keywords corresp="nnan189217_0004"/><keywords corresp="nnan189217_0005"/><keywords corresp="nnan189217_0006"/><keywords corresp="nnan189217_0007"/><keywords corresp="nnan189217_0008"/><keywords corresp="nnan189217_0009"/><keywords corresp="nnan189217_0010"/><keywords corresp="nnan189217_0011"/><keywords corresp="nnan189217_0012"/><keywords corresp="nnan189217_0013"/><keywords corresp="nnan189217_0014"/><keywords corresp="nnan189217_0015"/><keywords corresp="nnan189217_0016"/><keywords corresp="nnan189217_0017"/><keywords corresp="nnan189217_0018"/><keywords corresp="nnan189217_0019"/><keywords corresp="nnan189217_0020"/><keywords corresp="nnan189217_0021"/><keywords corresp="nnan189217_0022"/><keywords corresp="nnan189217_0023"/><keywords corresp="nnan189217_0024"/><keywords corresp="nnan189217_0025"/></textClass></profileDesc></teiHeader><facsimile xml:id="nnan189217_0001"><graphic url="189217_0001"/></facsimile><facsimile xml:id="nnan189217_0002"><graphic url="189217_0002"/></facsimile><facsimile xml:id="nnan189217_0003"><graphic url="189217_0003"/></facsimile><facsimile xml:id="nnan189217_0004"><graphic url="189217_0004"/></facsimile><facsimile xml:id="nnan189217_0005"><graphic url="189217_0005"/></facsimile><facsimile xml:id="nnan189217_0006"><graphic url="189217_0006"/></facsimile><facsimile xml:id="nnan189217_0007"><graphic url="189217_0007"/></facsimile><facsimile xml:id="nnan189217_0008"><graphic url="189217_0008"/></facsimile><facsimile xml:id="nnan189217_0009"><graphic url="189217_0009"/></facsimile><facsimile xml:id="nnan189217_0010"><graphic url="189217_0010"/></facsimile><facsimile xml:id="nnan189217_0011"><graphic url="189217_0011"/></facsimile><facsimile xml:id="nnan189217_0012"><graphic url="189217_0012"/></facsimile><facsimile xml:id="nnan189217_0013"><graphic url="189217_0013"/></facsimile><facsimile xml:id="nnan189217_0014"><graphic url="189217_0014"/></facsimile><facsimile xml:id="nnan189217_0015"><graphic url="189217_0015"/></facsimile><facsimile xml:id="nnan189217_0016"><graphic url="189217_0016"/></facsimile><facsimile xml:id="nnan189217_0017"><graphic url="189217_0017"/></facsimile><facsimile xml:id="nnan189217_0018"><graphic url="189217_0018"/></facsimile><facsimile xml:id="nnan189217_0019"><graphic url="189217_0019"/></facsimile><facsimile xml:id="nnan189217_0020"><graphic url="189217_0020"/></facsimile><facsimile xml:id="nnan189217_0021"><graphic url="189217_0021"/></facsimile><facsimile xml:id="nnan189217_0022"><graphic url="189217_0022"/></facsimile><facsimile xml:id="nnan189217_0023"><graphic url="189217_0023"/></facsimile><facsimile xml:id="nnan189217_0024"><graphic url="189217_0024"/></facsimile><facsimile xml:id="nnan189217_0025"><graphic url="189217_0025"/></facsimile></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="nnan189217" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Edward T. Newell notebook on coins in American private collections, undated</title>
+        <author>Newell, Edward Theodore, 1886-1941</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>American Numismatic Society</publisher>
+        <pubPlace>New York (N.Y.)</pubPlace>
+        <idno type="donum">189217</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note type="abstract">
+          <p>Notebook containing notes on coins in United States private collections: Clarence S. Bement, Jeremiah Zimmerman, George A. Gillette, and George J. Bauer.</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Newell, Edward Theodore, 1886-1941</author>
+            <title>Edward T. Newell notebook on coins in American private collections, undated</title>
+            <imprint>
+              <date>unknown</date>
+            </imprint>
+            <extent>circa 60 pages (circa 25 used) ; 15 x 9 cm.</extent>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords corresp="nnan189217_0001"/>
+        <keywords corresp="nnan189217_0002"/>
+        <keywords corresp="nnan189217_0003"/>
+        <keywords corresp="nnan189217_0004"/>
+        <keywords corresp="nnan189217_0005"/>
+        <keywords corresp="nnan189217_0006"/>
+        <keywords corresp="nnan189217_0007"/>
+        <keywords corresp="nnan189217_0008"/>
+        <keywords corresp="nnan189217_0009"/>
+        <keywords corresp="nnan189217_0010"/>
+        <keywords corresp="nnan189217_0011"/>
+        <keywords corresp="nnan189217_0012"/>
+        <keywords corresp="nnan189217_0013"/>
+        <keywords corresp="nnan189217_0014"/>
+        <keywords corresp="nnan189217_0015"/>
+        <keywords corresp="nnan189217_0016"/>
+        <keywords corresp="nnan189217_0017"/>
+        <keywords corresp="nnan189217_0018"/>
+        <keywords corresp="nnan189217_0019"/>
+        <keywords corresp="nnan189217_0020"/>
+        <keywords corresp="nnan189217_0021"/>
+        <keywords corresp="nnan189217_0022"/>
+        <keywords corresp="nnan189217_0023"/>
+        <keywords corresp="nnan189217_0024"/>
+        <keywords corresp="nnan189217_0025"/>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile xml:id="nnan189217_0001">
+    <graphic url="189217_0001"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0002">
+    <graphic url="189217_0002"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0003">
+    <graphic url="189217_0003"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0004">
+    <graphic url="189217_0004"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0005">
+    <graphic url="189217_0005"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0006">
+    <graphic url="189217_0006"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0007">
+    <graphic url="189217_0007"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0008">
+    <graphic url="189217_0008"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0009">
+    <graphic url="189217_0009"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0010">
+    <graphic url="189217_0010"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0011">
+    <graphic url="189217_0011"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0012">
+    <graphic url="189217_0012"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0013">
+    <graphic url="189217_0013"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0014">
+    <graphic url="189217_0014"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0015">
+    <graphic url="189217_0015"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0016">
+    <graphic url="189217_0016"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0017">
+    <graphic url="189217_0017"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0018">
+    <graphic url="189217_0018"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0019">
+    <graphic url="189217_0019"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0020">
+    <graphic url="189217_0020"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0021">
+    <graphic url="189217_0021"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0022">
+    <graphic url="189217_0022"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0023">
+    <graphic url="189217_0023"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0024">
+    <graphic url="189217_0024"/>
+  </facsimile>
+  <facsimile xml:id="nnan189217_0025">
+    <graphic url="189217_0025"/>
+  </facsimile>
+</TEI>

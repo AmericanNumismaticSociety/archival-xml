@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>beach_chester</recordId>
@@ -98,7 +98,7 @@
             <placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry>
           </chronItem>
           <chronItem>
-            <event>Attended &#xC9;cole des Beaux-Arts</event>
+            <event>Attended École des Beaux-Arts</event>
             <dateRange>
               <fromDate standardDate="1904">1904</fromDate>
               <toDate standardDate="1907">1907</toDate>
@@ -126,7 +126,7 @@
           </chronItem>
         </chronList>
         <abstract>Chester A. Beach (1881-1956) was a sculptor and medalist.</abstract>
-        <p>American sculptor Chester A. Beach (1881-1956) was born in San Francisco, moved to New York City in 1903, and then to Paris in 1904 where he attended the &#xC9;cole des Beaux-Arts. He returned to Manhattan in 1907 and established a studio he maintained for forty-five years. In 1915 he designed three statues for the Panama-Pacific International Exposition and received a silver medal. In 1919 his entry was selected in a competition held by the American Numismatic Society (ANS) for the design of a peace medal commemorating the Treaty of Versailles. ANS awarded Beach its Saltus Medal in 1946 in recognition for his work in medals.</p>
+        <p>American sculptor Chester A. Beach (1881-1956) was born in San Francisco, moved to New York City in 1903, and then to Paris in 1904 where he attended the École des Beaux-Arts. He returned to Manhattan in 1907 and established a studio he maintained for forty-five years. In 1915 he designed three statues for the Panama-Pacific International Exposition and received a silver medal. In 1919 his entry was selected in a competition held by the American Numismatic Society (ANS) for the design of a peace medal commemorating the Treaty of Versailles. ANS awarded Beach its Saltus Medal in 1946 in recognition for his work in medals.</p>
       </biogHist>
       <occupation>
         <term vocabularySource="http://vocab.getty.edu/aat/300025181">sculptors</term>

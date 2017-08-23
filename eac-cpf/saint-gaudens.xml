@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>saint-gaudens</recordId>
@@ -98,7 +98,7 @@
             <placeEntry vocabularySource="http://www.geonames.org/5085014/">Town of Cornish (N.H.)</placeEntry>
           </chronItem>
         </chronList>
-        <abstract>Augustus Saint-Gaudens (March 1, 1848 &#x2013; August 3, 1907) was an American sculptor of the Beaux-Arts generation who most embodied the ideals of the "American Renaissance".</abstract>
+        <abstract>Augustus Saint-Gaudens (March 1, 1848 – August 3, 1907) was an American sculptor of the Beaux-Arts generation who most embodied the ideals of the "American Renaissance".</abstract>
       </biogHist>
       <existDates localType="xeac:life">
         <dateRange>

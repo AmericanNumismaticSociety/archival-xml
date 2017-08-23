@@ -1,1 +1,48 @@
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd"><mods version="3.5"><titleInfo xmlns:xlink="http://www.w3.org/1999/xlink"><title>Photograph of the 2006 Graduate Summer Seminar participants</title></titleInfo><identifier xmlns:xlink="http://www.w3.org/1999/xlink">07-00008</identifier><abstract xmlns:xlink="http://www.w3.org/1999/xlink">2006 Graduate Seminar participants pictured (front, left to right): Ben Zurawel, Anna Zawadzka, Emily Haug, Lisa Anderson, Craig Caldwell. Back: William Bubelis, Matthew Polk, Pangiotis Iossif.</abstract><name xmlns:xlink="http://www.w3.org/1999/xlink"><namePart>Roche, Alan.</namePart></name><originInfo xmlns:xlink="http://www.w3.org/1999/xlink"><dateCreated>2006</dateCreated></originInfo><physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink"><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin><form>Digital images</form></physicalDescription><relatedItem xmlns:xlink="http://www.w3.org/1999/xlink"><originInfo><dateCreated>2006</dateCreated></originInfo><physicalDescription><form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form><extent>1 electronic file : col.</extent></physicalDescription><location><physicalLocation>ANS Photograph Collection</physicalLocation></location></relatedItem><location xmlns:xlink="http://www.w3.org/1999/xlink"><url access="preview">http://numismatics.org/archives/ui/media/thumbnail/07-00008.jpg</url><url usage="primary display">http://numismatics.org/archives/ui/media/reference/07-00008.jpg</url></location><accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition><note xmlns:xlink="http://www.w3.org/1999/xlink">Courtesy of Archives, American Numismatic Society.</note><note xmlns:xlink="http://www.w3.org/1999/xlink">Photograph by Alan Roche.</note><recordInfo xmlns:xlink="http://www.w3.org/1999/xlink"><recordContentSource>American Numismatic Society</recordContentSource><recordCreationDate encoding="iso8601">2012-07-23</recordCreationDate><recordIdentifier>I00000242</recordIdentifier></recordInfo><subject><topic>American Numismatic Society--Educational Programming--Graduate Summer Seminar</topic></subject></mods></modsCollection>
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
+  <mods version="3.5">
+    <titleInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <title>Photograph of the 2006 Graduate Summer Seminar participants</title>
+    </titleInfo>
+    <identifier xmlns:xlink="http://www.w3.org/1999/xlink">07-00008</identifier>
+    <abstract xmlns:xlink="http://www.w3.org/1999/xlink">2006 Graduate Seminar participants pictured (front, left to right): Ben Zurawel, Anna Zawadzka, Emily Haug, Lisa Anderson, Craig Caldwell. Back: William Bubelis, Matthew Polk, Pangiotis Iossif.</abstract>
+    <name xmlns:xlink="http://www.w3.org/1999/xlink">
+      <namePart>Roche, Alan.</namePart>
+    </name>
+    <originInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <dateCreated>2006</dateCreated>
+    </originInfo>
+    <physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink">
+      <internetMediaType>image/jpeg</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>Digital images</form>
+    </physicalDescription>
+    <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink">
+      <originInfo>
+        <dateCreated>2006</dateCreated>
+      </originInfo>
+      <physicalDescription>
+        <form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form>
+        <extent>1 electronic file : col.</extent>
+      </physicalDescription>
+      <location>
+        <physicalLocation>ANS Photograph Collection</physicalLocation>
+      </location>
+    </relatedItem>
+    <location xmlns:xlink="http://www.w3.org/1999/xlink">
+      <url access="preview">http://numismatics.org/archives/ui/media/thumbnail/07-00008.jpg</url>
+      <url usage="primary display">http://numismatics.org/archives/ui/media/reference/07-00008.jpg</url>
+    </location>
+    <accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
+    <note xmlns:xlink="http://www.w3.org/1999/xlink">Courtesy of Archives, American Numismatic Society.</note>
+    <note xmlns:xlink="http://www.w3.org/1999/xlink">Photograph by Alan Roche.</note>
+    <recordInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <recordContentSource>American Numismatic Society</recordContentSource>
+      <recordCreationDate encoding="iso8601">2012-07-23</recordCreationDate>
+      <recordIdentifier>I00000242</recordIdentifier>
+    </recordInfo>
+    <subject>
+      <topic>American Numismatic Society--Educational Programming--Graduate Summer Seminar</topic>
+    </subject>
+  </mods>
+</modsCollection>

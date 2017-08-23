@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>lawrence</recordId>
@@ -82,7 +82,7 @@
         </dateRange>
       </existDates>
       <biogHist>
-        <abstract>Richard Hoe Lawrence (1858-1936) of New York City was a numismatic collector and scholar who was closely associated with the American Numismatic and Archeological Society (later the American Numismatic Society) during its early formative years in the nineteenth century. He amassed notable collections of Roman Republican and Early Imperial denarii and served as the Society&#x2019;s curator (1879) and librarian (1880-1885), overseeing the production of the library&#x2019;s first printed catalog. Lawrence served as president of the Grolier Club in New York City (1906-1908).</abstract>
+        <abstract>Richard Hoe Lawrence (1858-1936) of New York City was a numismatic collector and scholar who was closely associated with the American Numismatic and Archeological Society (later the American Numismatic Society) during its early formative years in the nineteenth century. He amassed notable collections of Roman Republican and Early Imperial denarii and served as the Society’s curator (1879) and librarian (1880-1885), overseeing the production of the library’s first printed catalog. Lawrence served as president of the Grolier Club in New York City (1906-1908).</abstract>
       </biogHist>
       <occupation>
         <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>

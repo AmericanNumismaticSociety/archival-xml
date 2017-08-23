@@ -1,3 +1,72 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0144" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader langencoding="iso639-2b"><eadid countrycode="US" mainagencycode="US-nnan">nnan0144</eadid><filedesc><titlestmt><titleproper>Thomas Burke letter, 1778 December 20</titleproper><author>David Hill</author></titlestmt><publicationstmt><date>© 2013</date><address><addressline>American Numismatic Society Archives</addressline><addressline>75 Varick Street, 11th floor</addressline><addressline>New York, NY 10013</addressline></address><publisher>ANS Archives</publisher></publicationstmt></filedesc><profiledesc><creation>Finding aid encoded by David Hill using EADitor ©2011</creation><langusage>Finding aid written in English</langusage></profiledesc></eadheader><frontmatter/><archdesc level="item"><did><head>Descriptive Summary</head><unittitle>Thomas Burke letter</unittitle><physloc audience="internal">Rare Book Room - Pamphlet - Folio - A-HA</physloc><physdesc><extent>1 letter</extent></physdesc><langmaterial><language langcode="eng">English</language></langmaterial><origination><persname authfilenumber="http://numismatics.org/authority/burke" role="xeac:entity">Burke, Thomas</persname></origination><unitdate normal="1778">1778 December 20</unitdate><repository>American Numismatic Society</repository></did><controlaccess><genreform authfilenumber="300026877" source="aat">Correspondence</genreform><subject>Paper money--United States</subject><subject>Counterfeits and counterfeiting</subject><persname authfilenumber="http://numismatics.org/authority/burke" role="xeac:entity">Burke, Thomas</persname></controlaccess><scopecontent><head>Scope and Content Note</head><p>Letter from Thomas Burke (December 20, 1778) sent from Philadelphia to an unnamed correspondent and discussing the withdrawal by Congress of two Continental currency issues (May 20, 1777 and April 11, 1778) from circulation because of British counterfeiting.</p></scopecontent><bioghist><head>Biographical Note</head><p>Thomas Burke (ca. 1747-1783) was a physician and lawyer. He served North Carolina as a delegate to the Continental Congress and as Governor.</p></bioghist><accessrestrict><head>Access</head><p>Open to all researchers.</p></accessrestrict><prefercite><head>Preferred Citation</head><p>Thomas Burke letter, 1778 December 20, Archives, American Numismatic Society.
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0144" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="US-nnan">nnan0144</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Thomas Burke letter, 1778 December 20</titleproper>
+        <author>David Hill</author>
+      </titlestmt>
+      <publicationstmt>
+        <date>© 2013</date>
+        <address>
+          <addressline>American Numismatic Society Archives</addressline>
+          <addressline>75 Varick Street, 11th floor</addressline>
+          <addressline>New York, NY 10013</addressline>
+        </address>
+        <publisher>ANS Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded by David Hill using EADitor ©2011</creation>
+      <langusage>Finding aid written in English</langusage>
+    </profiledesc>
+  </eadheader>
+  <frontmatter/>
+  <archdesc level="item">
+    <did>
+      <head>Descriptive Summary</head>
+      <unittitle>Thomas Burke letter</unittitle>
+      <physloc audience="internal">Rare Book Room - Pamphlet - Folio - A-HA</physloc>
+      <physdesc>
+        <extent>1 letter</extent>
+      </physdesc>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <origination>
+        <persname authfilenumber="http://numismatics.org/authority/burke" role="xeac:entity">Burke, Thomas</persname>
+      </origination>
+      <unitdate normal="1778">1778 December 20</unitdate>
+      <repository>American Numismatic Society</repository>
+    </did>
+    <controlaccess>
+      <genreform authfilenumber="300026877" source="aat">Correspondence</genreform>
+      <subject>Paper money--United States</subject>
+      <subject>Counterfeits and counterfeiting</subject>
+      <persname authfilenumber="http://numismatics.org/authority/burke" role="xeac:entity">Burke, Thomas</persname>
+    </controlaccess>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>Letter from Thomas Burke (December 20, 1778) sent from Philadelphia to an unnamed correspondent and discussing the withdrawal by Congress of two Continental currency issues (May 20, 1777 and April 11, 1778) from circulation because of British counterfeiting.</p>
+    </scopecontent>
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>Thomas Burke (ca. 1747-1783) was a physician and lawyer. He served North Carolina as a delegate to the Continental Congress and as Governor.</p>
+    </bioghist>
+    <accessrestrict>
+      <head>Access</head>
+      <p>Open to all researchers.</p>
+    </accessrestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>Thomas Burke letter, 1778 December 20, Archives, American Numismatic Society.
 
-</p></prefercite><userestrict><head>Restrictions</head><p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p></userestrict></archdesc></ead>
+</p>
+    </prefercite>
+    <userestrict>
+      <head>Restrictions</head>
+      <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
+    </userestrict>
+  </archdesc>
+</ead>

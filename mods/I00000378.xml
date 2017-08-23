@@ -1,1 +1,51 @@
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd"><mods version="3.5"><titleInfo xmlns:xlink="http://www.w3.org/1999/xlink"><title>Photograph of the members of the Princeton University Classics Department</title></titleInfo><identifier xmlns:xlink="http://www.w3.org/1999/xlink"/><originInfo xmlns:xlink="http://www.w3.org/1999/xlink"><dateCreated>undated</dateCreated></originInfo><physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink"><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin><form>Digital images</form></physicalDescription><relatedItem xmlns:xlink="http://www.w3.org/1999/xlink"><originInfo><dateCreated>undated</dateCreated></originInfo><physicalDescription><form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form><extent>1 photograph : b&amp;w</extent></physicalDescription><location><physicalLocation>Archives, Princeton University</physicalLocation></location></relatedItem><location xmlns:xlink="http://www.w3.org/1999/xlink"><url access="preview">http://numismatics.org/archives/ui/media/thumbnail/05-00082.jpg</url><url usage="primary display">http://numismatics.org/archives/ui/media/reference/05-00082.jpg</url></location><accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition><note xmlns:xlink="http://www.w3.org/1999/xlink">Reproduced courtesy of University Archives, Princeton University Library.</note><recordInfo xmlns:xlink="http://www.w3.org/1999/xlink"><recordContentSource>American Numismatic Society</recordContentSource><recordCreationDate encoding="iso8601">2012-07-23</recordCreationDate><recordIdentifier>05-00082</recordIdentifier></recordInfo><abstract xmlns:xlink="http://www.w3.org/1999/xlink">Princeton University Classics Department.  Louis West is seated in the front row, far right.  Other individuals pictured include: (front row, from left to right) G.E. Duckworth, A. Johnson, W.I. Oates, F.R.B. Godolph, and West; (back row, left to right) B. Meritt, J.V.A. Fine, S.D. Atkins, F.C. Bourne and R.F. Goheen.</abstract><subject><name valueURI="http://viaf.org/viaf/138454964" type="corporate"><namePart>Princeton University. Dept. of Classics</namePart></name></subject><subject><name valueURI="http://numismatics.org/authority/west" type="personal"><namePart>West, Louis C. (Louis Caulton), 1882-1972</namePart></name></subject></mods></modsCollection>
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
+  <mods version="3.5">
+    <titleInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <title>Photograph of the members of the Princeton University Classics Department</title>
+    </titleInfo>
+    <identifier xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <originInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <dateCreated>undated</dateCreated>
+    </originInfo>
+    <physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink">
+      <internetMediaType>image/jpeg</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>Digital images</form>
+    </physicalDescription>
+    <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink">
+      <originInfo>
+        <dateCreated>undated</dateCreated>
+      </originInfo>
+      <physicalDescription>
+        <form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form>
+        <extent>1 photograph : b&amp;w</extent>
+      </physicalDescription>
+      <location>
+        <physicalLocation>Archives, Princeton University</physicalLocation>
+      </location>
+    </relatedItem>
+    <location xmlns:xlink="http://www.w3.org/1999/xlink">
+      <url access="preview">http://numismatics.org/archives/ui/media/thumbnail/05-00082.jpg</url>
+      <url usage="primary display">http://numismatics.org/archives/ui/media/reference/05-00082.jpg</url>
+    </location>
+    <accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
+    <note xmlns:xlink="http://www.w3.org/1999/xlink">Reproduced courtesy of University Archives, Princeton University Library.</note>
+    <recordInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <recordContentSource>American Numismatic Society</recordContentSource>
+      <recordCreationDate encoding="iso8601">2012-07-23</recordCreationDate>
+      <recordIdentifier>05-00082</recordIdentifier>
+    </recordInfo>
+    <abstract xmlns:xlink="http://www.w3.org/1999/xlink">Princeton University Classics Department.  Louis West is seated in the front row, far right.  Other individuals pictured include: (front row, from left to right) G.E. Duckworth, A. Johnson, W.I. Oates, F.R.B. Godolph, and West; (back row, left to right) B. Meritt, J.V.A. Fine, S.D. Atkins, F.C. Bourne and R.F. Goheen.</abstract>
+    <subject>
+      <name valueURI="http://viaf.org/viaf/138454964" type="corporate">
+        <namePart>Princeton University. Dept. of Classics</namePart>
+      </name>
+    </subject>
+    <subject>
+      <name valueURI="http://numismatics.org/authority/west" type="personal">
+        <namePart>West, Louis C. (Louis Caulton), 1882-1972</namePart>
+      </name>
+    </subject>
+  </mods>
+</modsCollection>

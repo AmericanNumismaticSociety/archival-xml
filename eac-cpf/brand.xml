@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>brand</recordId>
@@ -83,8 +83,8 @@
         </dateRange>
       </existDates>
       <biogHist>
-        <abstract>Coin collector Virgil M. Brand (1862-1926) was born in Chicago, where he eventually worked as a bookkeeper in his father&#x2019;s business, the Michael Brand Company Brewery.</abstract>
-        <p>Coin collector Virgil M. Brand (1862-1926) was born in Chicago, where he eventually worked as a bookkeeper in his father&#x2019;s business, the Michael Brand Company Brewery. In 1899, after the death of his father, Brand formed the Brand Brewing Company with his two brothers, Horace L. Brand (1868-1962) and Armin W. Brand (d. 1946), and a cousin. He developed an interest in coin collecting in 1889, eventually amassing one of the greatest private collections of all time. In 1907 he formed the Chicago Coin Company, which was owned by Virgil and managed by Theophile Leon. The company closed in 1915, transferring its unsold inventory to Brand. Brand also served as president of the Chicago Numismatic Society. Brand did not leave a will, and upon his death his collection was inherited by his brothers, who began to sell off pieces during the 1930s. Tensions between the brothers eventually had to be resolved in probate court, and in 1937 the Brand estate was divided between them. The brothers continued to sell parts of the collection, but some coins were inherited by Armin&#x2019;s daughter, Jane Brand Allen. Those coins were sold in a series of auctions conducted by Sotheby&#x2019;s, Bowers &amp; Merena, and Sprink &amp; Son during the 1980s.</p>
+        <abstract>Coin collector Virgil M. Brand (1862-1926) was born in Chicago, where he eventually worked as a bookkeeper in his father’s business, the Michael Brand Company Brewery.</abstract>
+        <p>Coin collector Virgil M. Brand (1862-1926) was born in Chicago, where he eventually worked as a bookkeeper in his father’s business, the Michael Brand Company Brewery. In 1899, after the death of his father, Brand formed the Brand Brewing Company with his two brothers, Horace L. Brand (1868-1962) and Armin W. Brand (d. 1946), and a cousin. He developed an interest in coin collecting in 1889, eventually amassing one of the greatest private collections of all time. In 1907 he formed the Chicago Coin Company, which was owned by Virgil and managed by Theophile Leon. The company closed in 1915, transferring its unsold inventory to Brand. Brand also served as president of the Chicago Numismatic Society. Brand did not leave a will, and upon his death his collection was inherited by his brothers, who began to sell off pieces during the 1930s. Tensions between the brothers eventually had to be resolved in probate court, and in 1937 the Brand estate was divided between them. The brothers continued to sell parts of the collection, but some coins were inherited by Armin’s daughter, Jane Brand Allen. Those coins were sold in a series of auctions conducted by Sotheby’s, Bowers &amp; Merena, and Sprink &amp; Son during the 1980s.</p>
       </biogHist>
       <occupation>
         <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>

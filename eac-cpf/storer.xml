@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>storer</recordId>
@@ -101,7 +101,7 @@
           </chronItem>
         </chronList>
         <abstract>Like his father, Horatio Robinson Storer (1830-1922), Malcolm Storer (1862-1935) was a prominent physician and numismatist of Boston.</abstract>
-        <p>Like his father, Horatio Robinson Storer (1830-1922), Malcolm Storer (1862-1935) was a prominent physician and numismatist of Boston. Malcolm oversaw collections held by the Boston Medical Library, Harvard College, the Massachusetts Historical Society, and the Boston Museum of Fine Arts. He was an active member of the Boston Numismatic Society, serving as curator, secretary, and president. Born in Milton, Massachusetts, he was a graduate of Harvard College (1885) and Harvard Medical School (1889). He amassed a collection of Navy medals and was the author of numerous articles published in the American Numismatic Association&#x2019;s journal The Numismatist and elsewhere. He became an associate member of the American Numismatic Society in 1913.</p>
+        <p>Like his father, Horatio Robinson Storer (1830-1922), Malcolm Storer (1862-1935) was a prominent physician and numismatist of Boston. Malcolm oversaw collections held by the Boston Medical Library, Harvard College, the Massachusetts Historical Society, and the Boston Museum of Fine Arts. He was an active member of the Boston Numismatic Society, serving as curator, secretary, and president. Born in Milton, Massachusetts, he was a graduate of Harvard College (1885) and Harvard Medical School (1889). He amassed a collection of Navy medals and was the author of numerous articles published in the American Numismatic Association’s journal The Numismatist and elsewhere. He became an associate member of the American Numismatic Society in 1913.</p>
       </biogHist>
       <occupation>
         <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>

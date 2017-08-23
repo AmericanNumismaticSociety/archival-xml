@@ -1,1 +1,44 @@
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd"><mods version="3.5"><titleInfo xmlns:xlink="http://www.w3.org/1999/xlink"><title>Photograph of the East Hall of the ANS Audubon Terrace headquarters building</title></titleInfo><identifier xmlns:xlink="http://www.w3.org/1999/xlink">04-00052</identifier><abstract xmlns:xlink="http://www.w3.org/1999/xlink">Image shows the East Hall of the ANS Audubon Terrace headquarters building, facing east, with the front door just visible on the left side of the image.</abstract><originInfo xmlns:xlink="http://www.w3.org/1999/xlink"><dateCreated>undated</dateCreated></originInfo><physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink"><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin><form>Digital images</form></physicalDescription><relatedItem xmlns:xlink="http://www.w3.org/1999/xlink"><originInfo><dateCreated>undated</dateCreated></originInfo><physicalDescription><form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form><extent>1 photograph : b&amp;w</extent></physicalDescription><location><physicalLocation>ANS Photograph Collection</physicalLocation></location></relatedItem><location xmlns:xlink="http://www.w3.org/1999/xlink"><url access="preview">http://numismatics.org/archives/ui/media/thumbnail/04-00052.jpg</url><url usage="primary display">http://numismatics.org/archives/ui/media/reference/04-00052.jpg</url></location><accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition><note xmlns:xlink="http://www.w3.org/1999/xlink">Courtesy of Archives, American Numismatic Society.</note><recordInfo xmlns:xlink="http://www.w3.org/1999/xlink"><recordContentSource>American Numismatic Society</recordContentSource><recordCreationDate encoding="iso8601">2012-08-07</recordCreationDate><recordIdentifier>I00000500</recordIdentifier></recordInfo><subject><geographic valueURI="http://www.geonames.org/7177500">Audubon Terrace (New York, N.Y.)</geographic></subject></mods></modsCollection>
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
+  <mods version="3.5">
+    <titleInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <title>Photograph of the East Hall of the ANS Audubon Terrace headquarters building</title>
+    </titleInfo>
+    <identifier xmlns:xlink="http://www.w3.org/1999/xlink">04-00052</identifier>
+    <abstract xmlns:xlink="http://www.w3.org/1999/xlink">Image shows the East Hall of the ANS Audubon Terrace headquarters building, facing east, with the front door just visible on the left side of the image.</abstract>
+    <originInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <dateCreated>undated</dateCreated>
+    </originInfo>
+    <physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink">
+      <internetMediaType>image/jpeg</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>Digital images</form>
+    </physicalDescription>
+    <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink">
+      <originInfo>
+        <dateCreated>undated</dateCreated>
+      </originInfo>
+      <physicalDescription>
+        <form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form>
+        <extent>1 photograph : b&amp;w</extent>
+      </physicalDescription>
+      <location>
+        <physicalLocation>ANS Photograph Collection</physicalLocation>
+      </location>
+    </relatedItem>
+    <location xmlns:xlink="http://www.w3.org/1999/xlink">
+      <url access="preview">http://numismatics.org/archives/ui/media/thumbnail/04-00052.jpg</url>
+      <url usage="primary display">http://numismatics.org/archives/ui/media/reference/04-00052.jpg</url>
+    </location>
+    <accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
+    <note xmlns:xlink="http://www.w3.org/1999/xlink">Courtesy of Archives, American Numismatic Society.</note>
+    <recordInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <recordContentSource>American Numismatic Society</recordContentSource>
+      <recordCreationDate encoding="iso8601">2012-08-07</recordCreationDate>
+      <recordIdentifier>I00000500</recordIdentifier>
+    </recordInfo>
+    <subject>
+      <geographic valueURI="http://www.geonames.org/7177500">Audubon Terrace (New York, N.Y.)</geographic>
+    </subject>
+  </mods>
+</modsCollection>

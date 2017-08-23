@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>brett</recordId>
@@ -126,7 +126,7 @@
             <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
           </chronItem>
           <chronItem>
-            <event>Studied at the Cabinet des M&#xE9;dailles in Paris</event>
+            <event>Studied at the Cabinet des Médailles in Paris</event>
             <dateRange>
               <fromDate standardDate="1912">1912</fromDate>
               <toDate standardDate="1914">1914</toDate>
@@ -162,10 +162,10 @@
         </chronList>
         <abstract>Assistant Curator, then Curator of the ANS from 1909 to 1912, Brett also served as honorary Associate Curator of Ancient Coins from 1923 to 1955 and Chair of the ANS Publication Committee from 1923 to 1946.</abstract>
         <p>Agnes Baldwin Brett, the first female curator at the American Numismatic Society, was born in 1876 and grew up in Newark, New Jersey. She received her B.A. from Barnard College in 1897. After graduation Brett studied archaeology at Columbia, receiving her master's degree there in 1900. She then spent two fellowship years at the American School in Athens, where she discovered her interest in numismatics. </p>
-        <p>From 1910 through 1913, Brett worked as Curator at the ANS. (At the time, the ANS maintained only one curatorial position.) Between 1912 and 1914, the Society granted her permission to study abroad at the Cabinet des M&#xE9;dailles in Paris and to consult the private and museum collections of Europe. This research resulted in the publication of her first monograph, The Electrum Coinage of Lampsakos. In 1914 she returned to New York to marry George Monroe Brett, a professor of accountancy and curator at the City College of New York. </p>
+        <p>From 1910 through 1913, Brett worked as Curator at the ANS. (At the time, the ANS maintained only one curatorial position.) Between 1912 and 1914, the Society granted her permission to study abroad at the Cabinet des Médailles in Paris and to consult the private and museum collections of Europe. This research resulted in the publication of her first monograph, The Electrum Coinage of Lampsakos. In 1914 she returned to New York to marry George Monroe Brett, a professor of accountancy and curator at the City College of New York. </p>
         <p>In 1919 the ANS honored Brett as the second recipient of the Archer M. Huntington Medal Award for her work in ancient numismatics. However, her achievements were not limited to classical studies. In 1922 and again in 1929, Brett temporarily shifted her focus any from ancient numismatics to the study of contemporary medals and sculpture, compiling two important catalogues for the ANS and National Sculpture Society. Brett returned to Columbia to teach courses in numismatics as a visiting lecturer of archaeology in 1936. Brett's broad knowledge of numismatics is also demonstrated through her long tenure as the Chair of the ANS Publications Committee from 1923 to 1946, and her continued work as a member of the committee up until the time of her death in December 1955. </p>
         <p>Brett was a particularly noted authority on the coinages of the city-states Chios and Lampsakos in Asia Minor and her studies of their coinage continue to be standard works. She also worked extensively on Roman Medallions, publishing four books on this subject. Brett's most highly acclaimed work, Catalog of Greek Coins, was produced during her time as honorary Curator of Classical Coins at Boston's Museum of Fine Arts. She was also an important collector of ancient Babylonian cylinder seals, and in 1936 the University of Chicago's Oriental Institute published a catalog of her collection. Edward Newell's seal collection was published in the same series two years before.</p>
-        <p>Brett was a fellow of the Royal Numismatic Society, a member of the Society for the Promotion of Roman Studies London, and an honorary member of the Soci&#xE9;t&#xE9; Royale de Numismatique de Belgique. </p>
+        <p>Brett was a fellow of the Royal Numismatic Society, a member of the Society for the Promotion of Roman Studies London, and an honorary member of the Société Royale de Numismatique de Belgique. </p>
       </biogHist>
       <occupation>
         <dateRange>

@@ -1,1 +1,44 @@
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd"><mods version="3.5"><titleInfo xmlns:xlink="http://www.w3.org/1999/xlink"><title>Portrait photograph of Archer M. Huntington</title></titleInfo><identifier xmlns:xlink="http://www.w3.org/1999/xlink">I00000100</identifier><originInfo xmlns:xlink="http://www.w3.org/1999/xlink"><dateCreated>1905</dateCreated></originInfo><physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink"><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription><subject><topic>American Numismatic Society--Officers</topic></subject><subject><name valueURI="http://numismatics.org/authority/huntington" type="personal"><namePart>Huntington, Archer M. (Archer Milton), 1870-1955</namePart></name></subject><relatedItem xmlns:xlink="http://www.w3.org/1999/xlink" type="original"><originInfo><dateCreated>1905</dateCreated></originInfo><physicalDescription><form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form><extent>1 photograph :</extent></physicalDescription></relatedItem><location xmlns:xlink="http://www.w3.org/1999/xlink"><url access="preview">http://numismatics.org/archives/ui/media/thumbnail/05-00057.jpg</url><url usage="primary display">http://numismatics.org/archives/ui/media/reference/05-00057.jpg</url></location><accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition><note xmlns:xlink="http://www.w3.org/1999/xlink" type="preferred_citation">Courtesy of Archives, American Numismatic Society.</note><recordInfo xmlns:xlink="http://www.w3.org/1999/xlink"><recordContentSource>American Numismatic Society</recordContentSource><recordCreationDate encoding="iso8601">2012-07-23</recordCreationDate><recordIdentifier>I00000100</recordIdentifier></recordInfo></mods></modsCollection>
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
+  <mods version="3.5">
+    <titleInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <title>Portrait photograph of Archer M. Huntington</title>
+    </titleInfo>
+    <identifier xmlns:xlink="http://www.w3.org/1999/xlink">I00000100</identifier>
+    <originInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <dateCreated>1905</dateCreated>
+    </originInfo>
+    <physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink">
+      <internetMediaType>image/jpeg</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <subject>
+      <topic>American Numismatic Society--Officers</topic>
+    </subject>
+    <subject>
+      <name valueURI="http://numismatics.org/authority/huntington" type="personal">
+        <namePart>Huntington, Archer M. (Archer Milton), 1870-1955</namePart>
+      </name>
+    </subject>
+    <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink" type="original">
+      <originInfo>
+        <dateCreated>1905</dateCreated>
+      </originInfo>
+      <physicalDescription>
+        <form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form>
+        <extent>1 photograph :</extent>
+      </physicalDescription>
+    </relatedItem>
+    <location xmlns:xlink="http://www.w3.org/1999/xlink">
+      <url access="preview">http://numismatics.org/archives/ui/media/thumbnail/05-00057.jpg</url>
+      <url usage="primary display">http://numismatics.org/archives/ui/media/reference/05-00057.jpg</url>
+    </location>
+    <accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
+    <note xmlns:xlink="http://www.w3.org/1999/xlink" type="preferred_citation">Courtesy of Archives, American Numismatic Society.</note>
+    <recordInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <recordContentSource>American Numismatic Society</recordContentSource>
+      <recordCreationDate encoding="iso8601">2012-07-23</recordCreationDate>
+      <recordIdentifier>I00000100</recordIdentifier>
+    </recordInfo>
+  </mods>
+</modsCollection>

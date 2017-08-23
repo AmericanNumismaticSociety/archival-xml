@@ -1,3 +1,66 @@
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd"><mods version="3.5"><titleInfo xmlns:xlink="http://www.w3.org/1999/xlink"><title>Photograph of (L to R) R. Henry Norweb Sr., Emery May Norweb, R. Henry Norweb Jr., and two unidentified men attending the International Numismatic Congress held at Audubon
-				Terrace</title></titleInfo><identifier xmlns:xlink="http://www.w3.org/1999/xlink">12-00001</identifier><originInfo xmlns:xlink="http://www.w3.org/1999/xlink"><dateCreated>1973 September 10</dateCreated></originInfo><physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink"><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin><form>Digital images</form></physicalDescription><relatedItem xmlns:xlink="http://www.w3.org/1999/xlink"><originInfo><dateCreated>1973 September 10</dateCreated></originInfo><physicalDescription><form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form><extent>1 photograph : b&amp;w</extent><note>film 4340, frame 06</note></physicalDescription><location><physicalLocation>ANS Photograph Collection, ANS Archives</physicalLocation></location></relatedItem><location xmlns:xlink="http://www.w3.org/1999/xlink"><url access="preview">http://numismatics.org/archives/ui/media/thumbnail/12-00001.jpg</url><url usage="primary display">http://numismatics.org/archives/ui/media/reference/12-00001.jpg</url></location><accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also
-			apply.</accessCondition><recordInfo xmlns:xlink="http://www.w3.org/1999/xlink"><recordContentSource>American Numismatic Society</recordContentSource><recordCreationDate encoding="iso8601">2012-07-23</recordCreationDate><recordIdentifier>12-00001</recordIdentifier></recordInfo><subject><name valueURI="http://viaf.org/viaf/189726052" type="personal"><namePart>Norweb, R. Henry, 1895-1983</namePart></name></subject><subject><name valueURI="http://viaf.org/viaf/18848007" type="personal"><namePart>Norweb, Emery May, 1895-1984</namePart></name></subject><subject><name valueURI="http://numismatics.org/authority/norweb_jr" type="personal"><namePart>Norweb, R. Henry, 1918-1995</namePart></name></subject><subject><topic>American Numismatic Society--Officers</topic></subject><subject><topic>American Numismatic Society--Trustees and Councillors</topic></subject><subject><topic>Congresses and conferences--8th International Numismatic Congress, 1973</topic></subject></mods></modsCollection>
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
+  <mods version="3.5">
+    <titleInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <title>Photograph of (L to R) R. Henry Norweb Sr., Emery May Norweb, R. Henry Norweb Jr., and two unidentified men attending the International Numismatic Congress held at Audubon
+				Terrace</title>
+    </titleInfo>
+    <identifier xmlns:xlink="http://www.w3.org/1999/xlink">12-00001</identifier>
+    <originInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <dateCreated>1973 September 10</dateCreated>
+    </originInfo>
+    <physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink">
+      <internetMediaType>image/jpeg</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>Digital images</form>
+    </physicalDescription>
+    <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink">
+      <originInfo>
+        <dateCreated>1973 September 10</dateCreated>
+      </originInfo>
+      <physicalDescription>
+        <form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form>
+        <extent>1 photograph : b&amp;w</extent>
+        <note>film 4340, frame 06</note>
+      </physicalDescription>
+      <location>
+        <physicalLocation>ANS Photograph Collection, ANS Archives</physicalLocation>
+      </location>
+    </relatedItem>
+    <location xmlns:xlink="http://www.w3.org/1999/xlink">
+      <url access="preview">http://numismatics.org/archives/ui/media/thumbnail/12-00001.jpg</url>
+      <url usage="primary display">http://numismatics.org/archives/ui/media/reference/12-00001.jpg</url>
+    </location>
+    <accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also
+			apply.</accessCondition>
+    <recordInfo xmlns:xlink="http://www.w3.org/1999/xlink">
+      <recordContentSource>American Numismatic Society</recordContentSource>
+      <recordCreationDate encoding="iso8601">2012-07-23</recordCreationDate>
+      <recordIdentifier>12-00001</recordIdentifier>
+    </recordInfo>
+    <subject>
+      <name valueURI="http://viaf.org/viaf/189726052" type="personal">
+        <namePart>Norweb, R. Henry, 1895-1983</namePart>
+      </name>
+    </subject>
+    <subject>
+      <name valueURI="http://viaf.org/viaf/18848007" type="personal">
+        <namePart>Norweb, Emery May, 1895-1984</namePart>
+      </name>
+    </subject>
+    <subject>
+      <name valueURI="http://numismatics.org/authority/norweb_jr" type="personal">
+        <namePart>Norweb, R. Henry, 1918-1995</namePart>
+      </name>
+    </subject>
+    <subject>
+      <topic>American Numismatic Society--Officers</topic>
+    </subject>
+    <subject>
+      <topic>American Numismatic Society--Trustees and Councillors</topic>
+    </subject>
+    <subject>
+      <topic>Congresses and conferences--8th International Numismatic Congress, 1973</topic>
+    </subject>
+  </mods>
+</modsCollection>

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>roty</recordId>
@@ -95,7 +95,7 @@
             <placeEntry vocabularySource="http://www.geonames.org/2988507/">Paris (France)</placeEntry>
           </chronItem>
           <chronItem>
-            <event>Entered &#xC9;cole des Beaux-Arts</event>
+            <event>Entered École des Beaux-Arts</event>
             <date standardDate="1864">1864</date>
             <placeEntry vocabularySource="http://www.geonames.org/2988507/">Paris (France)</placeEntry>
           </chronItem>
@@ -122,7 +122,7 @@
           </chronItem>
         </chronList>
         <abstract>Louis Oscar Roty (1846-1911), a French artist known for his highly influential work as an art medalist, was born and died in Paris.</abstract>
-        <p>Louis Oscar Roty (1846-1911), a French artist known for his highly influential work as an art medalist, was born and died in Paris. He entered the &#xC9;cole des Beaux-Arts in 1864, starting out as a painter, then turning to sculpture, having early demonstrated a great aptitude for engraving. His talents were acknowledged when he was awarded the second Grand Prix de Rome in 1872 and the first Grand Prix de Rome in 1875. His plaquettes sparked a renewed interest in a form that had languished for centuries. In 1879 he married Marie Boulanger. His most recognizable creation is perhaps The Sower (La Semeuse), which has been used on various denominations of French coins and stamps since its debut in 1897.</p>
+        <p>Louis Oscar Roty (1846-1911), a French artist known for his highly influential work as an art medalist, was born and died in Paris. He entered the École des Beaux-Arts in 1864, starting out as a painter, then turning to sculpture, having early demonstrated a great aptitude for engraving. His talents were acknowledged when he was awarded the second Grand Prix de Rome in 1872 and the first Grand Prix de Rome in 1875. His plaquettes sparked a renewed interest in a form that had languished for centuries. In 1879 he married Marie Boulanger. His most recognizable creation is perhaps The Sower (La Semeuse), which has been used on various denominations of French coins and stamps since its debut in 1897.</p>
       </biogHist>
       <occupation>
         <term vocabularySource="http://vocab.getty.edu/aat/300025337">medalists</term>

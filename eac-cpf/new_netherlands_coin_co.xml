@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>new_netherlands_coin_co</recordId>
@@ -88,7 +88,7 @@
         </dateRange>
       </existDates>
       <biogHist>
-        <abstract>Coin dealer Moritz Wormser (1878-1940) formed New Netherlands Coin Company in New York City in 1936. His son Charles (1911-1990), an associate of the company from the time of its founding, ran the firm after his father&#x2019;s death. In 1950 Charles invited John J. Ford to assist him and he shortly became a full partner running the business. The company closed in 1988.</abstract>
+        <abstract>Coin dealer Moritz Wormser (1878-1940) formed New Netherlands Coin Company in New York City in 1936. His son Charles (1911-1990), an associate of the company from the time of its founding, ran the firm after his father’s death. In 1950 Charles invited John J. Ford to assist him and he shortly became a full partner running the business. The company closed in 1988.</abstract>
       </biogHist>
     </description>
   </cpfDescription>

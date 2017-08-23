@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>poillon</recordId>
@@ -83,7 +83,7 @@
       </existDates>
       <biogHist>
         <abstract>Numismatist William Poillon (1844-1918) of New York City was an early member of the American Numismatic and Archeological Society (later the American Numismatic Society).</abstract>
-        <p>Numismatist William Poillon (1844-1918) of New York City was an early member of the American Numismatic and Archeological Society (later the American Numismatic Society). A collector of Masonic Medals, he served the Society as recording secretary (1873-1886), vice president (1886-1894), and curator (beginning in 1905). As a businessman, Poillon in 1867 took over the operations of Salamander Works, a clay manufacturing company that made fireproof items such as cupola linings, furnace blocks, bakers&#x2019; ovens, and pipes. The factory was located on Rahway Avenue in Woodbridge, New Jersey, and the offices were on Bethune Street in Manhattan. He ran the business with his son, Cornelius, until 1896 when the factory was destroyed in a fire. Poillon was a veteran of the 7th Regiment N.G.S.N.Y. and was a Knight Templar and a 32d Degree Mason.</p>
+        <p>Numismatist William Poillon (1844-1918) of New York City was an early member of the American Numismatic and Archeological Society (later the American Numismatic Society). A collector of Masonic Medals, he served the Society as recording secretary (1873-1886), vice president (1886-1894), and curator (beginning in 1905). As a businessman, Poillon in 1867 took over the operations of Salamander Works, a clay manufacturing company that made fireproof items such as cupola linings, furnace blocks, bakers’ ovens, and pipes. The factory was located on Rahway Avenue in Woodbridge, New Jersey, and the offices were on Bethune Street in Manhattan. He ran the business with his son, Cornelius, until 1896 when the factory was destroyed in a fire. Poillon was a veteran of the 7th Regiment N.G.S.N.Y. and was a Knight Templar and a 32d Degree Mason.</p>
       </biogHist>
       <occupation>
         <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>

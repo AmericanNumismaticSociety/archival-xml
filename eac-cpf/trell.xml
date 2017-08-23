@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>trell</recordId>
@@ -123,7 +123,7 @@
           </chronItem>
         </chronList>
         <abstract>Bluma L. Trell (1903-1997) of New York City was a professor and expert on Greece.</abstract>
-        <p>Bluma L. Trell (1903-1997) of New York City was a professor and expert on Greece. At the age of 21 she received a law degree from New York University and for the next decade she maintained a private practice. She ultimately abandoned law, returning to NYU to earn a bachelor&#x2019;s degree in 1935 and a doctorate in 1942. She began to develop an interest in the study of the depictions of buildings on ancient coins and did much of her research at the American Numismatic Society, which resulted in works such as her dissertation, Architictura Numismatica: The Temples in Asia Minor, and Coins and Their Cities: Architecture on the Ancient Coins of Greece, Rome and Palestine (coauthored with Martin Price, 1977). She began teaching at NYU in 1959 and retired as a full professor in 1972.</p>
+        <p>Bluma L. Trell (1903-1997) of New York City was a professor and expert on Greece. At the age of 21 she received a law degree from New York University and for the next decade she maintained a private practice. She ultimately abandoned law, returning to NYU to earn a bachelor’s degree in 1935 and a doctorate in 1942. She began to develop an interest in the study of the depictions of buildings on ancient coins and did much of her research at the American Numismatic Society, which resulted in works such as her dissertation, Architictura Numismatica: The Temples in Asia Minor, and Coins and Their Cities: Architecture on the Ancient Coins of Greece, Rome and Palestine (coauthored with Martin Price, 1977). She began teaching at NYU in 1959 and retired as a full professor in 1972.</p>
       </biogHist>
       <occupation>
         <term vocabularySource="http://vocab.getty.edu/aat/300025627">lawyers</term>

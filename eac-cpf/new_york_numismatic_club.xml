@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>new_york_numismatic_club</recordId>
@@ -141,7 +141,7 @@
     </identity>
     <description>
       <biogHist>
-        <p>The idea for a New York Numismatic Club developed within the American Numismatic Association, and numerous ANA figures, such as President Farran Zerbe and General Secretary Howland Wood, were among those in attendance at the club&#x2019;s first meeting, which took place on December 11, 1908, at Keen&#x2019;s Old English Chop House at 36th Street and 6th Avenue in New York City. The group then decided to hold regular monthly meetings. The first was in January 1909, and it has been meeting monthly ever since. The club&#x2019;s bylaws were adopted in November 1909 and it was incorporated on December 3, 1909.</p>
+        <p>The idea for a New York Numismatic Club developed within the American Numismatic Association, and numerous ANA figures, such as President Farran Zerbe and General Secretary Howland Wood, were among those in attendance at the club’s first meeting, which took place on December 11, 1908, at Keen’s Old English Chop House at 36th Street and 6th Avenue in New York City. The group then decided to hold regular monthly meetings. The first was in January 1909, and it has been meeting monthly ever since. The club’s bylaws were adopted in November 1909 and it was incorporated on December 3, 1909.</p>
       </biogHist>
     </description>
   </cpfDescription>

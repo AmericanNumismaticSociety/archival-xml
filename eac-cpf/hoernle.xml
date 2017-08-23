@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>hoernle</recordId>
@@ -103,12 +103,12 @@
             <placeEntry vocabularySource="http://www.geonames.org/2643743/">London (England)</placeEntry>
           </chronItem>
           <chronItem>
-            <event>Became professor of philosophy at Jay Narayan&#x2019;s College</event>
+            <event>Became professor of philosophy at Jay Narayan’s College</event>
             <date standardDate="1865">1865</date>
             <placeEntry vocabularySource="http://www.geonames.org/1253405/">Varanasi (India)</placeEntry>
           </chronItem>
         </chronList>
-        <abstract>Augustus F. R. (Frederic Rudolf) Hoernle (1841-1918) was an Indologist, philologist, and numismatist born at Secundra, near Agra, India. He left for Europe as a young boy in 1848 and attended universities in Basel, Switzerland (1858), and London (1860). He returned to India in 1865, becoming professor of philosophy at Jay Narayan&#x2019;s College in Benares. He was a scholar of Indo-Aryan languages and is remembered for deciphering the Bower Manuscript. He retired to Oxford, England.</abstract>
+        <abstract>Augustus F. R. (Frederic Rudolf) Hoernle (1841-1918) was an Indologist, philologist, and numismatist born at Secundra, near Agra, India. He left for Europe as a young boy in 1848 and attended universities in Basel, Switzerland (1858), and London (1860). He returned to India in 1865, becoming professor of philosophy at Jay Narayan’s College in Benares. He was a scholar of Indo-Aryan languages and is remembered for deciphering the Bower Manuscript. He retired to Oxford, England.</abstract>
       </biogHist>
       <occupation>
         <term vocabularySource="http://vocab.getty.edu/aat/300025568">philologists</term>

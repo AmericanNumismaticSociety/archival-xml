@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>fecht</recordId>
@@ -83,7 +83,7 @@
       </existDates>
       <biogHist>
         <abstract>A petroleum geophysicist with the Houston firm McCollum Exploration Company, Arthur J. Fecht (d. 1945) of Kansas City, Kansas, and Mercedes, Texas, amassed a collection of over 3,000 coins.</abstract>
-        <p>A petroleum geophysicist with the Houston firm McCollum Exploration Company, Arthur J. Fecht (d. 1945) of Kansas City, Kansas, and Mercedes, Texas, amassed a collection of over 3,000 coins, including hundreds of ancient, medieval, and modern gold pieces, with such notable items as a rare 1907 Saint-Gaudens double eagle and the first Paquet 1861-S double eagle to be photographed. He bequeathed the collection to the American Numismatic Society (ANS), but with the stipulation that it not formally pass to the ANS until after his sister Neoma&#x2019;s death. After she died in 1979, the coins formally became part of the ANS&#x2019;s collections, although the holdings had been housed there and made available for study for decades. Fecht joined the American Numismatic Association in the 1930s when he began collecting coins but did not join the ANS until 1941.</p>
+        <p>A petroleum geophysicist with the Houston firm McCollum Exploration Company, Arthur J. Fecht (d. 1945) of Kansas City, Kansas, and Mercedes, Texas, amassed a collection of over 3,000 coins, including hundreds of ancient, medieval, and modern gold pieces, with such notable items as a rare 1907 Saint-Gaudens double eagle and the first Paquet 1861-S double eagle to be photographed. He bequeathed the collection to the American Numismatic Society (ANS), but with the stipulation that it not formally pass to the ANS until after his sister Neoma’s death. After she died in 1979, the coins formally became part of the ANS’s collections, although the holdings had been housed there and made available for study for decades. Fecht joined the American Numismatic Association in the 1930s when he began collecting coins but did not join the ANS until 1941.</p>
       </biogHist>
       <occupation>
         <term vocabularySource="http://vocab.getty.edu/aat/300264406">geophysicists</term>

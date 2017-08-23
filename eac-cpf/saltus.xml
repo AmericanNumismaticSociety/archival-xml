@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>saltus</recordId>
@@ -95,7 +95,7 @@
             <date standardDate="1908">1908</date>
           </chronItem>
           <chronItem>
-            <event>Founded a prize at the &#xC9;cole des Beaux Arts</event>
+            <event>Founded a prize at the École des Beaux Arts</event>
             <date standardDate="1910">1910</date>
           </chronItem>
           <chronItem>
@@ -110,10 +110,10 @@
         </chronList>
         <abstract>A prominent figure in the leadership of the Society from the 1890s until his death in 1922, Saltus championed the Society's medals program during this period and endowed the medal award named in his honor.</abstract>
         <p>J. Sanford Saltus was born on March 9, 1853 in New Haven, Connecticut, the only son of Theodore Saltus, founder of the Saltus Steel Company. </p>
-        <p>Saltus devoted much of his life&#x2014;and inherited fortune&#x2014;to supporting the arts, founding prizes at the National Academy of Design (in 1908), &#xC9;cole des Beaux Arts (in 1910) and Art Students' League. In 1913, Saltus endowed the ANS award that bears his name. </p>
-        <p>Saltus was also an avowed Francophile and commissioned statues of Joan of Arc in New York City and New Orleans; in France in Nice, Blois, Rouen, and Domr&#xE9;my; and in England at Winchester Cathedral. Saltus was equally passionate about the fate of the lost Dauphin, Louis XVII, and amassed an extensive library of works on the fate of the Dauphin, which he eventually donated to the Salmagundi Club. </p>
+        <p>Saltus devoted much of his life—and inherited fortune—to supporting the arts, founding prizes at the National Academy of Design (in 1908), École des Beaux Arts (in 1910) and Art Students' League. In 1913, Saltus endowed the ANS award that bears his name. </p>
+        <p>Saltus was also an avowed Francophile and commissioned statues of Joan of Arc in New York City and New Orleans; in France in Nice, Blois, Rouen, and Domrémy; and in England at Winchester Cathedral. Saltus was equally passionate about the fate of the lost Dauphin, Louis XVII, and amassed an extensive library of works on the fate of the Dauphin, which he eventually donated to the Salmagundi Club. </p>
         <p>Saltus joined the ANS as a life member in 1892 and quickly became one of its more active members, serving in a number of capacities: from 1897 to 1898 he was Second Vice President, and from 1900 to 1905 Corresponding Secretary. He was also an avid proponent of the Society's publications and medallic programs, serving on the Society's publications committee from 1899 through 1905 (he chaired the committee from 1900 to 1904) and on its orders and decorations committee from its inception in 1901. In addition, Saltus provided significant funding for the Society's efforts to commission commemorative medals and he had a role in many if not most of the medals the Society issued between 1897 until his death in 1922. </p>
-        <p>Saltus died on June 23, 1922 under peculiar circumstances: while in London to attend a meeting of the British Numismatic Society, Saltus poisoned himself with cyanide. After his death it was suggested that Saltus had committed suicide because a secret engagement was not going well; however, the cause of death was officially listed as "death by misadventure"&#x2014;the coroner held that Saltus had been drinking ginger ale while cleaning coins with the cyanide and had accidentally mistaken the glass of cyanide for the one containing ginger ale. At the time of his death, Saltus was president of both the New York Numismatic Club and British Numismatic Society. </p>
+        <p>Saltus died on June 23, 1922 under peculiar circumstances: while in London to attend a meeting of the British Numismatic Society, Saltus poisoned himself with cyanide. After his death it was suggested that Saltus had committed suicide because a secret engagement was not going well; however, the cause of death was officially listed as "death by misadventure"—the coroner held that Saltus had been drinking ginger ale while cleaning coins with the cyanide and had accidentally mistaken the glass of cyanide for the one containing ginger ale. At the time of his death, Saltus was president of both the New York Numismatic Club and British Numismatic Society. </p>
       </biogHist>
       <occupation>
         <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>

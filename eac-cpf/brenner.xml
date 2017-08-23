@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>brenner</recordId>
@@ -89,7 +89,7 @@
           <chronItem>
             <event>Born</event>
             <date standardDate="1871-06-12">June 12, 1871</date>
-            <placeEntry vocabularySource="http://www.geonames.org/594739/">&#x160;iauliai (Lithuania)</placeEntry>
+            <placeEntry vocabularySource="http://www.geonames.org/594739/">Šiauliai (Lithuania)</placeEntry>
           </chronItem>
           <chronItem>
             <event>Emigrated to the United States</event>

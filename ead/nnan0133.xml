@@ -1,3 +1,344 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0133" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader langencoding="iso639-2b"><eadid countrycode="US" mainagencycode="US-nnan">nnan0133</eadid><filedesc><titlestmt><titleproper>ANS Record Group 10: Publishing, 1860-ongoing</titleproper><author>David Hill</author></titlestmt><publicationstmt><date>© 2013</date><address><addressline>American Numismatic Society Archives</addressline><addressline>75 Varick Street, 11th floor</addressline><addressline>New York, NY 10013</addressline></address><publisher>ANS Archives</publisher></publicationstmt></filedesc><profiledesc><creation>Finding aid encoded by David Hill using EADitor ©2011</creation><langusage>Finding aid written in English</langusage></profiledesc></eadheader><archdesc level="recordgrp"><did><head>Descriptive Summary</head><unittitle>ANS Record Group 10: Publishing</unittitle><abstract>Records relating to the Society's publishing program.</abstract><physloc audience="internal">Mostly Rare Book Room. Also Vault.</physloc><physdesc><extent>150 cubic feet</extent></physdesc><langmaterial><language langcode="eng">English</language></langmaterial><unitdate normal="1860/2999">1860-ongoing</unitdate><repository>American Numismatic Society</repository><note><p>PORTIONS OF THE FINDING AID ARE SUPPRESSED FROM PUBLIC VIEW. ANS staff can log into Staff View for the full record group description.</p></note></did><scopecontent><p>Records related to the Society's publishing program, including records related to the following monograph series and journals: Ancient Coins in North American Collections; COAC Proceedings; Numismatic Notes and Monographs; Numismatic Studies; Sylloge Nummorum Graecorum: American Numismatic Society; Hispanic Numismatic Series; Museum Notes; American Journal of Numismatics, Second Series; Numismatic Literature; Colonial Newsletter; and International Numismatic Newsletter.</p></scopecontent><accessrestrict><head>Access</head><p>Some later materials may be closed to outside researchers.</p></accessrestrict><userestrict><head>Restrictions</head><p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p></userestrict><dsc><c id="c_9b5b7eff6425c85ccb3efd43ead3bb0c" level="series"><did><unittitle>Numismatic Notes and Monographs printer correspondence and record of production</unittitle><unitdate>1860-ongoing</unitdate><physdesc><extent>0.75 cubic foot (1 box and one loose notebook)</extent></physdesc><physloc audience="internal">Vault</physloc></did><scopecontent><p>Predominately correspondence between an ANS curator, secretary, or other representative and various printing companies regarding the printing of works published in the Society’s Numismatic Notes and Monographs series, the ANS’s forum for presenting numismatic scholarship that was established in 1920 with an initial sponsorship from Archer M. Huntington of $100,000. Not all of the publications in the series are represented in the records. Includes items relating to the production of the Society’s annual Proceedings, which prior to this time had been printed by the American Numismatic Association but for the years 1920 to the 1936 (printed in 1921 and 1937) were part of the Numismatic Notes and Monographs series. The principal firm used for the printing was T.R. Marvin &amp; Son of Boston, and much of the correspondence is with George R. Marvin. Others firms involved in the work include The De Vinne Press and J.C. &amp; W.E. Powers of New York City, Patterson &amp; White of Philadelphia, and Lancaster Press of Lancaster, Pennsylvania. Much of the correspondence has to do with technical matters such as difficulties arising from the printing of special characters as well as issues relating to correcting page proofs. Also includes two files (1920-1924 &amp; 1920-1926) and an oversized notebook (1920-1935) containing printing and other production costs, print runs, sales price, and other information.
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0133" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="US-nnan">nnan0133</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>ANS Record Group 10: Publishing, 1860-ongoing</titleproper>
+        <author>David Hill</author>
+      </titlestmt>
+      <publicationstmt>
+        <date>© 2013</date>
+        <address>
+          <addressline>American Numismatic Society Archives</addressline>
+          <addressline>75 Varick Street, 11th floor</addressline>
+          <addressline>New York, NY 10013</addressline>
+        </address>
+        <publisher>ANS Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded by David Hill using EADitor ©2011</creation>
+      <langusage>Finding aid written in English</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="recordgrp">
+    <did>
+      <head>Descriptive Summary</head>
+      <unittitle>ANS Record Group 10: Publishing</unittitle>
+      <abstract>Records relating to the Society's publishing program.</abstract>
+      <physloc audience="internal">Mostly Rare Book Room. Also Vault.</physloc>
+      <physdesc>
+        <extent>150 cubic feet</extent>
+      </physdesc>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <unitdate normal="1860/2999">1860-ongoing</unitdate>
+      <repository>American Numismatic Society</repository>
+      <note>
+        <p>PORTIONS OF THE FINDING AID ARE SUPPRESSED FROM PUBLIC VIEW. ANS staff can log into Staff View for the full record group description.</p>
+      </note>
+    </did>
+    <scopecontent>
+      <p>Records related to the Society's publishing program, including records related to the following monograph series and journals: Ancient Coins in North American Collections; COAC Proceedings; Numismatic Notes and Monographs; Numismatic Studies; Sylloge Nummorum Graecorum: American Numismatic Society; Hispanic Numismatic Series; Museum Notes; American Journal of Numismatics, Second Series; Numismatic Literature; Colonial Newsletter; and International Numismatic Newsletter.</p>
+    </scopecontent>
+    <accessrestrict>
+      <head>Access</head>
+      <p>Some later materials may be closed to outside researchers.</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Restrictions</head>
+      <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
+    </userestrict>
+    <dsc>
+      <c id="c_9b5b7eff6425c85ccb3efd43ead3bb0c" level="series">
+        <did>
+          <unittitle>Numismatic Notes and Monographs printer correspondence and record of production</unittitle>
+          <unitdate>1860-ongoing</unitdate>
+          <physdesc>
+            <extent>0.75 cubic foot (1 box and one loose notebook)</extent>
+          </physdesc>
+          <physloc audience="internal">Vault</physloc>
+        </did>
+        <scopecontent>
+          <p>Predominately correspondence between an ANS curator, secretary, or other representative and various printing companies regarding the printing of works published in the Society’s Numismatic Notes and Monographs series, the ANS’s forum for presenting numismatic scholarship that was established in 1920 with an initial sponsorship from Archer M. Huntington of $100,000. Not all of the publications in the series are represented in the records. Includes items relating to the production of the Society’s annual Proceedings, which prior to this time had been printed by the American Numismatic Association but for the years 1920 to the 1936 (printed in 1921 and 1937) were part of the Numismatic Notes and Monographs series. The principal firm used for the printing was T.R. Marvin &amp; Son of Boston, and much of the correspondence is with George R. Marvin. Others firms involved in the work include The De Vinne Press and J.C. &amp; W.E. Powers of New York City, Patterson &amp; White of Philadelphia, and Lancaster Press of Lancaster, Pennsylvania. Much of the correspondence has to do with technical matters such as difficulties arising from the printing of special characters as well as issues relating to correcting page proofs. Also includes two files (1920-1924 &amp; 1920-1926) and an oversized notebook (1920-1935) containing printing and other production costs, print runs, sales price, and other information.
 
-</p></scopecontent><accessrestrict><p>Open to all researchers.</p></accessrestrict><controlaccess><genreform authfilenumber="300026877" source="aat">Correspondence</genreform><genreform authfilenumber="300264354" source="aat">Notebooks</genreform></controlaccess><c id="c_f77e842b11dcf1c90f2ccebbb2d42443" level="otherlevel" otherlevel="Box"><did><unittitle>Box 1 of 2</unittitle></did><c id="c_4f3e43a2062ef4b87e0c2584e43c4897" level="file"><did><unittitle>Numismatic Notes and Monographs – Lists – Printers, cost, etc., 1920-1924</unittitle></did></c><c id="c_2b35a4370cc4836a2f2fe0120912163d" level="file"><did><unittitle>Numismatic Notes and Monographs—Accounts, 1920-1936</unittitle></did></c><c id="c_2defb79d4376759dbffa09f64c43323f" level="file"><did><unittitle>Marvin, George R., 1920</unittitle></did></c><c id="c_21771cba5d006d0a11f733152f4f5cc0" level="file"><did><unittitle>Histiaea – Newell, 1920</unittitle></did></c><c id="c_de7541851886978e85117d367917c252" level="file"><did><unittitle>Publication of the ANS—Letter and list, 1920</unittitle></did></c><c id="c_8cf2b30d366af14edad295555c1f3f6f" level="file"><did><unittitle>Announcement of first Numismatic Notes and Monographs—Draft—Inserted in first brochure, 1920</unittitle></did></c><c id="c_b1b0230f2e4f715da4219ea59e04bfa6" level="file"><did><unittitle>Correspondence—A.C. Wyman and Archer Huntington</unittitle></did></c><c id="c_520807c2e917730d1c07d5586f858784" level="file"><did><unittitle>Alexander Hoards—Newell, 1920</unittitle></did></c><c id="c_09eb24e0a280b423ba2289488e79bc75" level="file"><did><unittitle>Coin Hoards—Noe, 1920-1921</unittitle></did></c><c id="c_52fbb34d802c9b2405273aa134f73443" level="file"><did><unittitle>Five Roman Gold Medallions, Baldwin (Brett), 1920-1921</unittitle></did></c><c id="c_8ccd5f20794e58777c21798487deec80" level="file"><did><unittitle>General, 1920-1925</unittitle></did></c><c id="c_e39154a17b90e0261d275979ff5886cc" level="file"><did><unittitle>Westervelt—Lind, 1921</unittitle></did></c><c id="c_f584480fe485c1bbc3c28195516c98fd" level="file"><did><unittitle>The First Seleucid Coinage of Tyre—Newell, 1921 (2 folders)</unittitle></did></c><c id="c_29b60e1b5072a3b7e384c26f325ec17f" level="file"><did><unittitle>Computing Jetons—Smith, 1921</unittitle></did></c><c id="c_28386e9edae910810ca8822e70510ce0" level="file"><did><unittitle>Mexican Revolutionary Coins, 1921</unittitle></did></c><c id="c_ce81c6d1c76efbc660bb39527da4b405" level="file"><did><unittitle>Publishers—Re mongraphs, 1921</unittitle></did></c><c id="c_135ac6f7ba8afcd29c75ad4415df21a0" level="file"><did><unittitle>Newspapers, 1921</unittitle></did></c><c id="c_1047b018c371a51f701c38cb962e5f07" level="file"><did><unittitle>Proceedings, 1921</unittitle></did></c><c id="c_328b496b29140f9a94e4cd1a0643bf7f" level="file"><did><unittitle>Mint of Philippine Islands, 1921-1927</unittitle></did></c><c id="c_5bb93ddd1b759ced8d89ac88aa562f8d" level="file"><did><unittitle>French Decorations—Gillingham, 1921-1922 (2 folders)</unittitle></did></c><c id="c_856cbafb643c89d770a8ce64b47ff78c" level="file"><did><unittitle>The Andritsaena Hoard—Newell, 1921-1923</unittitle></did></c><c id="c_f76b65cc66dd2ff5cdbe483b3e75130e" level="file"><did><unittitle>Names of printers—Estimates, etc., 1921-1926</unittitle></did></c><c id="c_4ecce0c49b22d7e9d4a58f40756019b3" level="file"><did><unittitle>Attambelos I of Characene—Hill, 1922</unittitle></did></c><c id="c_922bfb685e9e7106730e698a8384c6a5" level="file"><did><unittitle>Weinman monograph, 1922</unittitle></did></c><c id="c_65a9852534b01b14ad6ddce7b82b1bf3" level="file"><did><unittitle>Gold Dollars of 1858—Wood, 1922</unittitle></did></c><c id="c_591a6c77835a41c2b430752adb30c353" level="file"><did><unittitle>Proceedings, 1922</unittitle></did></c><c id="c_b2acc129a05314e14043be05a322351b" level="file"><did><unittitle>Commemorative coinage of the United States—Wood, 1922</unittitle></did></c><c id="c_e1cf9519fae18123c084bb01fb7cd682" level="file"><did><unittitle>Mergenthaler linotype, 1922</unittitle></did></c><c id="c_3e0acd4c8db7dde49480b60be0fd1ea2" level="file"><did><unittitle>The Tegucigalpa Coinage of 1823—Wood, 1922-1923</unittitle></did></c><c id="c_e71c7b4ba8ad6adcb2aebf7908ec6fed" level="file"><did><unittitle>Six Bronze Roman Medallions—Baldwin (Brett), 1922-1923</unittitle></did></c><c id="c_21783229753e0726cf608dc9e67f4318" level="file"><did><unittitle>Pre-Mohammedan Coinage of Northwestern India—Whitehead, 1922</unittitle></did></c><c id="c_5d5ca9e69f5a96dbba903958f22d8837" level="file"><did><unittitle>Italian Decorations—Gillingham, 1923</unittitle></did></c><c id="c_0847fb66a60c547d23688c5038d2d6c3" level="file"><did><unittitle>Tyrus Rediviva—Newell, 1923</unittitle></did></c><c id="c_c42824ede6d222b36dc12ed7d5aede8f" level="file"><did><unittitle>Coinage of Tarentum—Vlasto, 1922-1923</unittitle></did></c><c id="c_f9339953e8d1dde0a62c0c72c5790cf9" level="file"><did><unittitle>A Hoard from Side—Seltman, 1923-1924</unittitle></did></c><c id="c_8df6ad53495b3659ab4d43b6fb6cb236" level="file"><did><unittitle>T.R. Marvin and Sons, 1923-1924</unittitle></did></c><c id="c_cc7ec6a188fe353eed77801f662ce4a6" level="file"><did><unittitle>Lampsakos—Baldwin (Brett), 1923-1924</unittitle></did></c><c id="c_a6128f3eb6b44af8ef68968713f415c1" level="file"><did><unittitle>Andritsaena article, 1923-1924</unittitle></did></c><c id="c_e22f530f6285669c87ae719b31ad6bf2" level="file"><did><unittitle>A Cretan Coin Hoard, 1924</unittitle></did></c><c id="c_3eb48c90b7358a3430d08374c5281aab" level="file"><did><unittitle>Numismatist—Printing of ANS minutes, 1924</unittitle></did></c><c id="c_ca4edef1fc7b0f2101950fa97a9778d7" level="file"><did><unittitle>Tioga Paper samples, 1925</unittitle></did></c><c id="c_65a3588dbe0a0780135c622797c19673" level="file"><did><unittitle>Spanish Decorations—Gillingham, 1926</unittitle></did></c><c id="c_a599335ad720e20c199380158ee38846" level="file"><did><unittitle>Bellinger, 1928</unittitle></did></c><c id="c_a1c55361e616c375bdaa6a77e9e21749" level="file"><did><unittitle>Earliest Coins of Norway—Parsons, 1926</unittitle></did></c><c id="c_26948f4bf29e3292d199bbb79b4ab822" level="file"><did><unittitle>Some Unpublished Coins, 1926</unittitle></did></c><c id="c_fe5fe2fccce3b1e7508d3c99f13135a1" level="file"><did><unittitle>Indian Peace Medals—Belden (2 folders), 1927</unittitle></did></c><c id="c_dc7415507e54d3234fefb4e383705884" level="file"><did><unittitle>Intelligencer Printing, 1928</unittitle></did></c><c id="c_be91f8d1178bbfb26e4a9aac6c6c2fa0" level="file"><did><unittitle>Olympia Hoard, 1928-1929</unittitle></did></c><c id="c_a89e74629604436f6dcfd9c07c7942a4" level="file"><did><unittitle>Lancaster Press, 1928-1929</unittitle></did></c><c id="c_f64ead057da4107944617ab207945417" level="file"><did><unittitle>Printers, 1928-1929</unittitle></did></c><c id="c_771cd780b1895609113bb37425b5e426" level="file"><did><unittitle>West, 1929</unittitle></did></c></c><c id="c_cc46540713b8ab40224bad9f2b79ecc0" level="item"><did><unittitle>2 of 2 - Notebook: Numismatic Notes and Monographs printing record, 1920-1935 (loose)</unittitle></did></c></c></dsc></archdesc></ead>
+</p>
+        </scopecontent>
+        <accessrestrict>
+          <p>Open to all researchers.</p>
+        </accessrestrict>
+        <controlaccess>
+          <genreform authfilenumber="300026877" source="aat">Correspondence</genreform>
+          <genreform authfilenumber="300264354" source="aat">Notebooks</genreform>
+        </controlaccess>
+        <c id="c_f77e842b11dcf1c90f2ccebbb2d42443" level="otherlevel" otherlevel="Box">
+          <did>
+            <unittitle>Box 1 of 2</unittitle>
+          </did>
+          <c id="c_4f3e43a2062ef4b87e0c2584e43c4897" level="file">
+            <did>
+              <unittitle>Numismatic Notes and Monographs – Lists – Printers, cost, etc., 1920-1924</unittitle>
+            </did>
+          </c>
+          <c id="c_2b35a4370cc4836a2f2fe0120912163d" level="file">
+            <did>
+              <unittitle>Numismatic Notes and Monographs—Accounts, 1920-1936</unittitle>
+            </did>
+          </c>
+          <c id="c_2defb79d4376759dbffa09f64c43323f" level="file">
+            <did>
+              <unittitle>Marvin, George R., 1920</unittitle>
+            </did>
+          </c>
+          <c id="c_21771cba5d006d0a11f733152f4f5cc0" level="file">
+            <did>
+              <unittitle>Histiaea – Newell, 1920</unittitle>
+            </did>
+          </c>
+          <c id="c_de7541851886978e85117d367917c252" level="file">
+            <did>
+              <unittitle>Publication of the ANS—Letter and list, 1920</unittitle>
+            </did>
+          </c>
+          <c id="c_8cf2b30d366af14edad295555c1f3f6f" level="file">
+            <did>
+              <unittitle>Announcement of first Numismatic Notes and Monographs—Draft—Inserted in first brochure, 1920</unittitle>
+            </did>
+          </c>
+          <c id="c_b1b0230f2e4f715da4219ea59e04bfa6" level="file">
+            <did>
+              <unittitle>Correspondence—A.C. Wyman and Archer Huntington</unittitle>
+            </did>
+          </c>
+          <c id="c_520807c2e917730d1c07d5586f858784" level="file">
+            <did>
+              <unittitle>Alexander Hoards—Newell, 1920</unittitle>
+            </did>
+          </c>
+          <c id="c_09eb24e0a280b423ba2289488e79bc75" level="file">
+            <did>
+              <unittitle>Coin Hoards—Noe, 1920-1921</unittitle>
+            </did>
+          </c>
+          <c id="c_52fbb34d802c9b2405273aa134f73443" level="file">
+            <did>
+              <unittitle>Five Roman Gold Medallions, Baldwin (Brett), 1920-1921</unittitle>
+            </did>
+          </c>
+          <c id="c_8ccd5f20794e58777c21798487deec80" level="file">
+            <did>
+              <unittitle>General, 1920-1925</unittitle>
+            </did>
+          </c>
+          <c id="c_e39154a17b90e0261d275979ff5886cc" level="file">
+            <did>
+              <unittitle>Westervelt—Lind, 1921</unittitle>
+            </did>
+          </c>
+          <c id="c_f584480fe485c1bbc3c28195516c98fd" level="file">
+            <did>
+              <unittitle>The First Seleucid Coinage of Tyre—Newell, 1921 (2 folders)</unittitle>
+            </did>
+          </c>
+          <c id="c_29b60e1b5072a3b7e384c26f325ec17f" level="file">
+            <did>
+              <unittitle>Computing Jetons—Smith, 1921</unittitle>
+            </did>
+          </c>
+          <c id="c_28386e9edae910810ca8822e70510ce0" level="file">
+            <did>
+              <unittitle>Mexican Revolutionary Coins, 1921</unittitle>
+            </did>
+          </c>
+          <c id="c_ce81c6d1c76efbc660bb39527da4b405" level="file">
+            <did>
+              <unittitle>Publishers—Re mongraphs, 1921</unittitle>
+            </did>
+          </c>
+          <c id="c_135ac6f7ba8afcd29c75ad4415df21a0" level="file">
+            <did>
+              <unittitle>Newspapers, 1921</unittitle>
+            </did>
+          </c>
+          <c id="c_1047b018c371a51f701c38cb962e5f07" level="file">
+            <did>
+              <unittitle>Proceedings, 1921</unittitle>
+            </did>
+          </c>
+          <c id="c_328b496b29140f9a94e4cd1a0643bf7f" level="file">
+            <did>
+              <unittitle>Mint of Philippine Islands, 1921-1927</unittitle>
+            </did>
+          </c>
+          <c id="c_5bb93ddd1b759ced8d89ac88aa562f8d" level="file">
+            <did>
+              <unittitle>French Decorations—Gillingham, 1921-1922 (2 folders)</unittitle>
+            </did>
+          </c>
+          <c id="c_856cbafb643c89d770a8ce64b47ff78c" level="file">
+            <did>
+              <unittitle>The Andritsaena Hoard—Newell, 1921-1923</unittitle>
+            </did>
+          </c>
+          <c id="c_f76b65cc66dd2ff5cdbe483b3e75130e" level="file">
+            <did>
+              <unittitle>Names of printers—Estimates, etc., 1921-1926</unittitle>
+            </did>
+          </c>
+          <c id="c_4ecce0c49b22d7e9d4a58f40756019b3" level="file">
+            <did>
+              <unittitle>Attambelos I of Characene—Hill, 1922</unittitle>
+            </did>
+          </c>
+          <c id="c_922bfb685e9e7106730e698a8384c6a5" level="file">
+            <did>
+              <unittitle>Weinman monograph, 1922</unittitle>
+            </did>
+          </c>
+          <c id="c_65a9852534b01b14ad6ddce7b82b1bf3" level="file">
+            <did>
+              <unittitle>Gold Dollars of 1858—Wood, 1922</unittitle>
+            </did>
+          </c>
+          <c id="c_591a6c77835a41c2b430752adb30c353" level="file">
+            <did>
+              <unittitle>Proceedings, 1922</unittitle>
+            </did>
+          </c>
+          <c id="c_b2acc129a05314e14043be05a322351b" level="file">
+            <did>
+              <unittitle>Commemorative coinage of the United States—Wood, 1922</unittitle>
+            </did>
+          </c>
+          <c id="c_e1cf9519fae18123c084bb01fb7cd682" level="file">
+            <did>
+              <unittitle>Mergenthaler linotype, 1922</unittitle>
+            </did>
+          </c>
+          <c id="c_3e0acd4c8db7dde49480b60be0fd1ea2" level="file">
+            <did>
+              <unittitle>The Tegucigalpa Coinage of 1823—Wood, 1922-1923</unittitle>
+            </did>
+          </c>
+          <c id="c_e71c7b4ba8ad6adcb2aebf7908ec6fed" level="file">
+            <did>
+              <unittitle>Six Bronze Roman Medallions—Baldwin (Brett), 1922-1923</unittitle>
+            </did>
+          </c>
+          <c id="c_21783229753e0726cf608dc9e67f4318" level="file">
+            <did>
+              <unittitle>Pre-Mohammedan Coinage of Northwestern India—Whitehead, 1922</unittitle>
+            </did>
+          </c>
+          <c id="c_5d5ca9e69f5a96dbba903958f22d8837" level="file">
+            <did>
+              <unittitle>Italian Decorations—Gillingham, 1923</unittitle>
+            </did>
+          </c>
+          <c id="c_0847fb66a60c547d23688c5038d2d6c3" level="file">
+            <did>
+              <unittitle>Tyrus Rediviva—Newell, 1923</unittitle>
+            </did>
+          </c>
+          <c id="c_c42824ede6d222b36dc12ed7d5aede8f" level="file">
+            <did>
+              <unittitle>Coinage of Tarentum—Vlasto, 1922-1923</unittitle>
+            </did>
+          </c>
+          <c id="c_f9339953e8d1dde0a62c0c72c5790cf9" level="file">
+            <did>
+              <unittitle>A Hoard from Side—Seltman, 1923-1924</unittitle>
+            </did>
+          </c>
+          <c id="c_8df6ad53495b3659ab4d43b6fb6cb236" level="file">
+            <did>
+              <unittitle>T.R. Marvin and Sons, 1923-1924</unittitle>
+            </did>
+          </c>
+          <c id="c_cc7ec6a188fe353eed77801f662ce4a6" level="file">
+            <did>
+              <unittitle>Lampsakos—Baldwin (Brett), 1923-1924</unittitle>
+            </did>
+          </c>
+          <c id="c_a6128f3eb6b44af8ef68968713f415c1" level="file">
+            <did>
+              <unittitle>Andritsaena article, 1923-1924</unittitle>
+            </did>
+          </c>
+          <c id="c_e22f530f6285669c87ae719b31ad6bf2" level="file">
+            <did>
+              <unittitle>A Cretan Coin Hoard, 1924</unittitle>
+            </did>
+          </c>
+          <c id="c_3eb48c90b7358a3430d08374c5281aab" level="file">
+            <did>
+              <unittitle>Numismatist—Printing of ANS minutes, 1924</unittitle>
+            </did>
+          </c>
+          <c id="c_ca4edef1fc7b0f2101950fa97a9778d7" level="file">
+            <did>
+              <unittitle>Tioga Paper samples, 1925</unittitle>
+            </did>
+          </c>
+          <c id="c_65a3588dbe0a0780135c622797c19673" level="file">
+            <did>
+              <unittitle>Spanish Decorations—Gillingham, 1926</unittitle>
+            </did>
+          </c>
+          <c id="c_a599335ad720e20c199380158ee38846" level="file">
+            <did>
+              <unittitle>Bellinger, 1928</unittitle>
+            </did>
+          </c>
+          <c id="c_a1c55361e616c375bdaa6a77e9e21749" level="file">
+            <did>
+              <unittitle>Earliest Coins of Norway—Parsons, 1926</unittitle>
+            </did>
+          </c>
+          <c id="c_26948f4bf29e3292d199bbb79b4ab822" level="file">
+            <did>
+              <unittitle>Some Unpublished Coins, 1926</unittitle>
+            </did>
+          </c>
+          <c id="c_fe5fe2fccce3b1e7508d3c99f13135a1" level="file">
+            <did>
+              <unittitle>Indian Peace Medals—Belden (2 folders), 1927</unittitle>
+            </did>
+          </c>
+          <c id="c_dc7415507e54d3234fefb4e383705884" level="file">
+            <did>
+              <unittitle>Intelligencer Printing, 1928</unittitle>
+            </did>
+          </c>
+          <c id="c_be91f8d1178bbfb26e4a9aac6c6c2fa0" level="file">
+            <did>
+              <unittitle>Olympia Hoard, 1928-1929</unittitle>
+            </did>
+          </c>
+          <c id="c_a89e74629604436f6dcfd9c07c7942a4" level="file">
+            <did>
+              <unittitle>Lancaster Press, 1928-1929</unittitle>
+            </did>
+          </c>
+          <c id="c_f64ead057da4107944617ab207945417" level="file">
+            <did>
+              <unittitle>Printers, 1928-1929</unittitle>
+            </did>
+          </c>
+          <c id="c_771cd780b1895609113bb37425b5e426" level="file">
+            <did>
+              <unittitle>West, 1929</unittitle>
+            </did>
+          </c>
+        </c>
+        <c id="c_cc46540713b8ab40224bad9f2b79ecc0" level="item">
+          <did>
+            <unittitle>2 of 2 - Notebook: Numismatic Notes and Monographs printing record, 1920-1935 (loose)</unittitle>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

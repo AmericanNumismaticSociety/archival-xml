@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>marvin</recordId>
@@ -110,7 +110,7 @@
           </chronItem>
         </chronList>
         <abstract>Genealogist and Masonic medal expert William T.R. Marvin (1832-1913) was born in Boston and died in Brookline, Massachusetts.</abstract>
-        <p>Genealogist and Masonic medal expert William T.R. Marvin (1832-1913) was born in Boston and died in Brookline, Massachusetts. He graduated from Williams College in 1854 and then earned a masters degree from there in 1857. He went on to work in his father&#x2019;s printing business in Boston, which then became T.R. Marvin &amp; Son. Marvin joined the Freemasons in 1857 and developed an interest in numismatics, particularly in medals. In 1880 he published his Medals of the Masonic Fraternity and he also wrote articles on the topic. He published and edited the American Numismatic Society&#x2019;s American Journal of Numismatics for nearly forty years. He was an active genealogist, serving as a member of the council of the New England Historic Genealogical Society and producing several works on the Marvin family.</p>
+        <p>Genealogist and Masonic medal expert William T.R. Marvin (1832-1913) was born in Boston and died in Brookline, Massachusetts. He graduated from Williams College in 1854 and then earned a masters degree from there in 1857. He went on to work in his father’s printing business in Boston, which then became T.R. Marvin &amp; Son. Marvin joined the Freemasons in 1857 and developed an interest in numismatics, particularly in medals. In 1880 he published his Medals of the Masonic Fraternity and he also wrote articles on the topic. He published and edited the American Numismatic Society’s American Journal of Numismatics for nearly forty years. He was an active genealogist, serving as a member of the council of the New England Historic Genealogical Society and producing several works on the Marvin family.</p>
       </biogHist>
       <occupation>
         <term vocabularySource="http://vocab.getty.edu/aat/300112028">genealogists</term>

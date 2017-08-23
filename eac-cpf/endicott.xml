@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>endicott</recordId>
@@ -90,7 +90,7 @@
         </dateRange>
       </existDates>
       <biogHist>
-        <abstract>Coin collector F. Munroe Endicott (1879-1935) was born in New York City, went to St. Mark&#x2019;s School in Southborough, Massachusetts, and earned an A.B. from Harvard University in 1905. He attended Harvard Law School for two years and then joined the U.S. Diplomatic Service, serving in Cairo, Norway, Costa Rica, and Santo Domingo. He returned to Boston in 1916 and became a property manager. His coin collecting interest was in Greek coins minted during the reign of Alexander the Great, and his collection was donated to the American Numismatic Society in 1935. The coins were exhibited that year.</abstract>
+        <abstract>Coin collector F. Munroe Endicott (1879-1935) was born in New York City, went to St. Mark’s School in Southborough, Massachusetts, and earned an A.B. from Harvard University in 1905. He attended Harvard Law School for two years and then joined the U.S. Diplomatic Service, serving in Cairo, Norway, Costa Rica, and Santo Domingo. He returned to Boston in 1916 and became a property manager. His coin collecting interest was in Greek coins minted during the reign of Alexander the Great, and his collection was donated to the American Numismatic Society in 1935. The coins were exhibited that year.</abstract>
       </biogHist>
       <occupation>
         <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>

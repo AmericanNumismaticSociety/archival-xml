@@ -1,1 +1,72 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0142" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader langencoding="iso639-2b"><eadid countrycode="US" mainagencycode="US-nnan">nnan0142</eadid><filedesc><titlestmt><titleproper>Examinar magazines with article on the ANS headquarters building at Audubon Terrace, 1906</titleproper><author>Arnold Tescher</author></titlestmt><publicationstmt><date>© 2013</date><address><addressline>American Numismatic Society Archives</addressline><addressline>75 Varick Street, 11th floor</addressline><addressline>New York, NY 10013</addressline></address><publisher>ANS Archives</publisher></publicationstmt></filedesc><profiledesc><creation>Finding aid encoded by David Hill using EADitor ©2011</creation><langusage>Finding aid written in English</langusage></profiledesc></eadheader><frontmatter/><archdesc level="collection"><did><head>Descriptive Summary</head><unittitle>Examinar magazines with article on the ANS headquarters building at Audubon Terrace</unittitle><abstract>Three copies of the Examiner containing an article on the ANS headquarters building at Audubon Terrace.</abstract><physloc audience="internal">Rare Book Room - Pamphlet - Archives 1</physloc><physdesc><extent>1 folder</extent></physdesc><langmaterial><language langcode="eng">English</language></langmaterial><unitdate normal="1906">1906</unitdate><repository>American Numismatic Society</repository><daogrp><daoloc xlink:type="locator" xlink:href="http://farm6.staticflickr.com/5536/10611475823_21dfc3557c_s.jpg" xlink:label="Square"/><daoloc xlink:type="locator" xlink:href="http://farm6.staticflickr.com/5536/10611475823_21dfc3557c_q.jpg" xlink:label="Large Square"/><daoloc xlink:type="locator" xlink:href="http://farm6.staticflickr.com/5536/10611475823_21dfc3557c_t.jpg" xlink:label="Thumbnail"/><daoloc xlink:type="locator" xlink:href="http://farm6.staticflickr.com/5536/10611475823_21dfc3557c_m.jpg" xlink:label="Small"/><daoloc xlink:type="locator" xlink:href="http://farm6.staticflickr.com/5536/10611475823_21dfc3557c_n.jpg" xlink:label="Small 320"/><daoloc xlink:type="locator" xlink:href="http://farm6.staticflickr.com/5536/10611475823_21dfc3557c.jpg" xlink:label="Medium"/><daoloc xlink:type="locator" xlink:href="http://farm6.staticflickr.com/5536/10611475823_21dfc3557c_z.jpg" xlink:label="Medium 640"/><daoloc xlink:type="locator" xlink:href="http://farm6.staticflickr.com/5536/10611475823_f6aca060c0_o.jpg" xlink:label="Original"/></daogrp></did><scopecontent><head>Scope and Content Note</head><p>Three copies of the Examiner (vol. 84, no. 18, May 3, 1906), a weekly Baptist newspaper, published at 38 Park Row, New York City. The issue contains an article about the ANS’s prospective new building to be erected in Audubon Park along West 156th Street in New York City, adjacent to the larger Hispanic Society of America building, both buildings designed by the same architect, Charles P. Huntington. Provides a short history of the ANS and a brief description of its holdings. The newspaper also contains a short eyewitness account of the San Francisco earthquake, written on April 24, 1906, just five days after the disaster. Of interest are the newspaper’s many advertisements for cure-all remedies.</p></scopecontent><controlaccess><genreform authfilenumber="300215389" source="aat">Magazines (Periodicals)</genreform><geogname>Audubon Terrace (New York, N.Y.)</geogname></controlaccess><accessrestrict><head>Access</head><p>Collection open to all researchers.</p></accessrestrict><prefercite><head>Preferred Citation</head><p>Examinar magazines with article on the ANS headquarters building at Audubon Terrace, 1906, Archives, American Numismatic Society.</p></prefercite><userestrict><head>Restrictions</head><p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p></userestrict></archdesc></ead>
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0142" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="US-nnan">nnan0142</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Examinar magazines with article on the ANS headquarters building at Audubon Terrace, 1906</titleproper>
+        <author>Arnold Tescher</author>
+      </titlestmt>
+      <publicationstmt>
+        <date>© 2013</date>
+        <address>
+          <addressline>American Numismatic Society Archives</addressline>
+          <addressline>75 Varick Street, 11th floor</addressline>
+          <addressline>New York, NY 10013</addressline>
+        </address>
+        <publisher>ANS Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded by David Hill using EADitor ©2011</creation>
+      <langusage>Finding aid written in English</langusage>
+    </profiledesc>
+  </eadheader>
+  <frontmatter/>
+  <archdesc level="collection">
+    <did>
+      <head>Descriptive Summary</head>
+      <unittitle>Examinar magazines with article on the ANS headquarters building at Audubon Terrace</unittitle>
+      <abstract>Three copies of the Examiner containing an article on the ANS headquarters building at Audubon Terrace.</abstract>
+      <physloc audience="internal">Rare Book Room - Pamphlet - Archives 1</physloc>
+      <physdesc>
+        <extent>1 folder</extent>
+      </physdesc>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <unitdate normal="1906">1906</unitdate>
+      <repository>American Numismatic Society</repository>
+      <daogrp>
+        <daoloc xlink:type="locator" xlink:href="http://farm6.staticflickr.com/5536/10611475823_21dfc3557c_s.jpg" xlink:label="Square"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm6.staticflickr.com/5536/10611475823_21dfc3557c_q.jpg" xlink:label="Large Square"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm6.staticflickr.com/5536/10611475823_21dfc3557c_t.jpg" xlink:label="Thumbnail"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm6.staticflickr.com/5536/10611475823_21dfc3557c_m.jpg" xlink:label="Small"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm6.staticflickr.com/5536/10611475823_21dfc3557c_n.jpg" xlink:label="Small 320"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm6.staticflickr.com/5536/10611475823_21dfc3557c.jpg" xlink:label="Medium"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm6.staticflickr.com/5536/10611475823_21dfc3557c_z.jpg" xlink:label="Medium 640"/>
+        <daoloc xlink:type="locator" xlink:href="http://farm6.staticflickr.com/5536/10611475823_f6aca060c0_o.jpg" xlink:label="Original"/>
+      </daogrp>
+    </did>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>Three copies of the Examiner (vol. 84, no. 18, May 3, 1906), a weekly Baptist newspaper, published at 38 Park Row, New York City. The issue contains an article about the ANS’s prospective new building to be erected in Audubon Park along West 156th Street in New York City, adjacent to the larger Hispanic Society of America building, both buildings designed by the same architect, Charles P. Huntington. Provides a short history of the ANS and a brief description of its holdings. The newspaper also contains a short eyewitness account of the San Francisco earthquake, written on April 24, 1906, just five days after the disaster. Of interest are the newspaper’s many advertisements for cure-all remedies.</p>
+    </scopecontent>
+    <controlaccess>
+      <genreform authfilenumber="300215389" source="aat">Magazines (Periodicals)</genreform>
+      <geogname>Audubon Terrace (New York, N.Y.)</geogname>
+    </controlaccess>
+    <accessrestrict>
+      <head>Access</head>
+      <p>Collection open to all researchers.</p>
+    </accessrestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>Examinar magazines with article on the ANS headquarters building at Audubon Terrace, 1906, Archives, American Numismatic Society.</p>
+    </prefercite>
+    <userestrict>
+      <head>Restrictions</head>
+      <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
+    </userestrict>
+  </archdesc>
+</ead>

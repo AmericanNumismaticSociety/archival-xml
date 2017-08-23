@@ -1,1 +1,71 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0116" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader langencoding="iso639-2b"><eadid countrycode="US" mainagencycode="US-nnan">nnan0116</eadid><filedesc><titlestmt><titleproper>Huey Long satirical medal correspondence and speech, 1933</titleproper><author>David Hill</author></titlestmt><publicationstmt><date>© 2011</date><address><addressline>American Numismatic Society Archives</addressline><addressline>75 Varick Street, 11th floor</addressline><addressline>New York, NY 10013</addressline></address><publisher>ANS Archives</publisher></publicationstmt></filedesc><profiledesc><creation>Finding aid encoded by David Hill using EADitor ©2011</creation><langusage>Finding aid written in English</langusage></profiledesc></eadheader><archdesc level="collection"><did><head>Descriptive Summary</head><unittitle>Correspondence and speech on Huey Long satirical medal </unittitle><abstract>Letters and other materials relating to the presentation to the ANS of a satirical medal to honor an unknown attacker of Senator Huey Long of Louisiana.</abstract><physloc audience="internal">Rare Book Room - Pamphlet - Archives 1</physloc><physdesc><extent>1 folder</extent></physdesc><langmaterial><language langcode="eng">English</language></langmaterial><unitdate normal="1933">1933</unitdate><repository>American Numismatic Society</repository></did><controlaccess><genreform authfilenumber="300026877" source="aat">Correspondence</genreform><genreform source="aat" authfilenumber="300027568">Invoices</genreform><genreform source="aat" authfilenumber="300027200">Notes</genreform><persname authfilenumber="http://numismatics.org/authority/newell" role="xeac:entity">Newell, Edward Theodore, 1886-1941</persname><persname authfilenumber="74101542" source="viaf">Long, Huey Pierce, 1893-1935</persname><persname authfilenumber="63024036" source="viaf">White, Owen P. (Owen Payne), 1879-1946</persname><persname>De Zayas, George</persname><subject source="lcsh" authfilenumber="sh92000418">Medals--United States</subject></controlaccess><scopecontent><head>Scope and Content Note</head><p>Three letters between Owen P. White and Edward T. Newell, clippings, and the text of a speech relating to the presentation to the ANS of a satirical medal to honor an unknown attacker of Senator Huey Long of Louisiana.</p></scopecontent><bioghist><head>Biographical Note</head><p>In 1933, an unknown assailant attacked Senator Huey Long of Louisiana, known as “Kingfish,” in the washroom of the Sands Point Bath Club on Long Island. The novelist Owen P. White jokingly suggested that the attacker should be given a gold medal, and soon money had been raised to actually produce one, which would be designed by George De Zayas. Though White believed “no dignified museum would be frivolous enough to accept it,” the American Numismatic Society’s president, Edward T. Newell, was happy to have it in the collections, which already housed numerous satirical medals.</p></bioghist><accessrestrict><head>Access</head><p>Collection open to all researchers.</p></accessrestrict><prefercite><head>Preferred Citation</head><p>Correspondence and speech on Huey Long satirical medal, 1933, Archives, American Numismatic Society</p></prefercite><userestrict><head>Restrictions</head><p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p></userestrict></archdesc></ead>
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0116" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="US-nnan">nnan0116</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Huey Long satirical medal correspondence and speech, 1933</titleproper>
+        <author>David Hill</author>
+      </titlestmt>
+      <publicationstmt>
+        <date>© 2011</date>
+        <address>
+          <addressline>American Numismatic Society Archives</addressline>
+          <addressline>75 Varick Street, 11th floor</addressline>
+          <addressline>New York, NY 10013</addressline>
+        </address>
+        <publisher>ANS Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded by David Hill using EADitor ©2011</creation>
+      <langusage>Finding aid written in English</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <head>Descriptive Summary</head>
+      <unittitle>Correspondence and speech on Huey Long satirical medal </unittitle>
+      <abstract>Letters and other materials relating to the presentation to the ANS of a satirical medal to honor an unknown attacker of Senator Huey Long of Louisiana.</abstract>
+      <physloc audience="internal">Rare Book Room - Pamphlet - Archives 1</physloc>
+      <physdesc>
+        <extent>1 folder</extent>
+      </physdesc>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <unitdate normal="1933">1933</unitdate>
+      <repository>American Numismatic Society</repository>
+    </did>
+    <controlaccess>
+      <genreform authfilenumber="300026877" source="aat">Correspondence</genreform>
+      <genreform source="aat" authfilenumber="300027568">Invoices</genreform>
+      <genreform source="aat" authfilenumber="300027200">Notes</genreform>
+      <persname authfilenumber="http://numismatics.org/authority/newell" role="xeac:entity">Newell, Edward Theodore, 1886-1941</persname>
+      <persname authfilenumber="74101542" source="viaf">Long, Huey Pierce, 1893-1935</persname>
+      <persname authfilenumber="63024036" source="viaf">White, Owen P. (Owen Payne), 1879-1946</persname>
+      <persname>De Zayas, George</persname>
+      <subject source="lcsh" authfilenumber="sh92000418">Medals--United States</subject>
+    </controlaccess>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>Three letters between Owen P. White and Edward T. Newell, clippings, and the text of a speech relating to the presentation to the ANS of a satirical medal to honor an unknown attacker of Senator Huey Long of Louisiana.</p>
+    </scopecontent>
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>In 1933, an unknown assailant attacked Senator Huey Long of Louisiana, known as “Kingfish,” in the washroom of the Sands Point Bath Club on Long Island. The novelist Owen P. White jokingly suggested that the attacker should be given a gold medal, and soon money had been raised to actually produce one, which would be designed by George De Zayas. Though White believed “no dignified museum would be frivolous enough to accept it,” the American Numismatic Society’s president, Edward T. Newell, was happy to have it in the collections, which already housed numerous satirical medals.</p>
+    </bioghist>
+    <accessrestrict>
+      <head>Access</head>
+      <p>Collection open to all researchers.</p>
+    </accessrestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>Correspondence and speech on Huey Long satirical medal, 1933, Archives, American Numismatic Society</p>
+    </prefercite>
+    <userestrict>
+      <head>Restrictions</head>
+      <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
+    </userestrict>
+  </archdesc>
+</ead>

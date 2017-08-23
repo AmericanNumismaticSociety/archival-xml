@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>clapp_charles</recordId>
@@ -71,7 +71,7 @@
     </identity>
     <description>
       <biogHist>
-        <abstract>Charles E. Clapp, a collector of American Colonial coins, purchased the bulk of James W. Ellsworth&#x2019;s copper cent collection in 1923. He sold his collections to his brother George Hubbard Clapp in 1924.</abstract>
+        <abstract>Charles E. Clapp, a collector of American Colonial coins, purchased the bulk of James W. Ellsworth’s copper cent collection in 1923. He sold his collections to his brother George Hubbard Clapp in 1924.</abstract>
       </biogHist>
     </description>
   </cpfDescription>

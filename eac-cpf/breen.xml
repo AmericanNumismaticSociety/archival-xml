@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>breen</recordId>
@@ -98,7 +98,7 @@
         </dateRange>
       </existDates>
       <biogHist>
-        <abstract>Walter H. Breen (1930?-1993) was the author of numerous numismatic works, including Proof Coins Struck by the United States Mint, 1817-1921 (1953), Walter Breen&#x2019;s Encyclopedia of United States Half Cents (1984), and Walter Breen&#x2019;s Complete Encyclopedia of U.S. and Colonial Coins (1988).</abstract>
+        <abstract>Walter H. Breen (1930?-1993) was the author of numerous numismatic works, including Proof Coins Struck by the United States Mint, 1817-1921 (1953), Walter Breen’s Encyclopedia of United States Half Cents (1984), and Walter Breen’s Complete Encyclopedia of U.S. and Colonial Coins (1988).</abstract>
       </biogHist>
       <occupation>
         <term vocabularySource="http://vocab.getty.edu/aat/300025492">authors</term>

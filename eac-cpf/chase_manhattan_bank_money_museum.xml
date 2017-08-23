@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>chase_manhattan_bank_money_museum</recordId>
@@ -82,7 +82,7 @@
     </identity>
     <description>
       <biogHist>
-        <abstract>The Chase Manhattan Bank Money Museum (1928-1977) was located at Rockefeller Center on Sixth Avenue in Manhattan, New York City. The collection contained legal tender in a variety of forms, including wampum, ancient and modern coins, and paper money. The bank&#x2019;s collection had originally been acquired in 1928 from Farran Zerbe. The museum closed in 1977 and most of the collection was donated to the Smithsonian Institution, though an 1804 U.S. dollar was given to the American Numismatic Society, the result of efforts by Eric P. Newman.</abstract>
+        <abstract>The Chase Manhattan Bank Money Museum (1928-1977) was located at Rockefeller Center on Sixth Avenue in Manhattan, New York City. The collection contained legal tender in a variety of forms, including wampum, ancient and modern coins, and paper money. The bank’s collection had originally been acquired in 1928 from Farran Zerbe. The museum closed in 1977 and most of the collection was donated to the Smithsonian Institution, though an 1804 U.S. dollar was given to the American Numismatic Society, the result of efforts by Eric P. Newman.</abstract>
       </biogHist>
     </description>
   </cpfDescription>

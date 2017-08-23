@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
   <control>
     <recordId>proskey</recordId>
@@ -94,7 +94,7 @@
             <placeEntry vocabularySource="http://www.geonames.org/5101901/">North Caldwell (N.J.)</placeEntry>
           </chronItem>
         </chronList>
-        <abstract>David U. Proskey was born in Wappingers Falls, New York. He became a coin dealer in 1873, conducting auctions under his own name and eventually working with Harlan P. Smith of New York Coin and Stamp. He ran the company after Smith died in 1903, and he served as the editor of Coin Collector&#x2019;s Journal. He died in North Caldwell, New Jersey.</abstract>
+        <abstract>David U. Proskey was born in Wappingers Falls, New York. He became a coin dealer in 1873, conducting auctions under his own name and eventually working with Harlan P. Smith of New York Coin and Stamp. He ran the company after Smith died in 1903, and he served as the editor of Coin Collector’s Journal. He died in North Caldwell, New Jersey.</abstract>
       </biogHist>
       <occupation>
         <term vocabularySource="http://vocab.getty.edu/aat/300025236">dealers</term>
