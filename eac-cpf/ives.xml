@@ -1,1 +1,154 @@
-<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink"><control><recordId>ives</recordId><maintenanceStatus>revised</maintenanceStatus><publicationStatus>approved</publicationStatus><maintenanceAgency><agencyName>American Numismatic Society</agencyName><agencyCode>US-nnan</agencyCode></maintenanceAgency><maintenanceHistory><maintenanceEvent><eventType>derived</eventType><eventDateTime standardDateTime="2014-06-12T14:17:06-04:00">Thu, 12 Jun 2014 14:17:06 -0400</eventDateTime><agentType>human</agentType><agent>Ethan Gruber</agent><eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2014-06-18T19:22:03.184Z"/><agentType>human</agentType><agent>Ethan Gruber</agent><eventDescription>Improved context</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2015-03-19T10:08:50.065Z"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2016-01-27T15:21:52.409-05:00"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription></maintenanceEvent></maintenanceHistory><conventionDeclaration><abbreviation>ANS</abbreviation><citation>American Numismatic Society</citation></conventionDeclaration><localTypeDeclaration><abbreviation>dcterms</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>foaf</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>org</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>rel</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>skos</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>xeac</abbreviation><citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation></localTypeDeclaration></control><cpfDescription><identity><entityId localType="skos:exactMatch">http://viaf.org/viaf/45085991</entityId><entityId localType="skos:exactMatch">http://d-nb.info/gnd/181635534</entityId><entityId localType="skos:exactMatch">http://dbpedia.org/resource/Herbert_E._Ives</entityId><entityType>person</entityType><nameEntry><part>Ives, Herbert E. (Herbert Eugene), 1882-1953</part><preferredForm>ANS</preferredForm></nameEntry></identity><description><existDates localType="xeac:life"><dateRange><fromDate standardDate="1882-07-21">July 21, 1882</fromDate><toDate standardDate="1953-11">November 1953</toDate></dateRange></existDates><biogHist><chronList><chronItem><event>Born</event><date standardDate="1882-07-21">July 21, 1882</date><placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry></chronItem><chronItem><event>Graduated from the University of Pennsylvania</event><date standardDate="1905">1905</date><placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry></chronItem><chronItem><event>Received Ph.D. from Johns Hopkins University</event><date standardDate="1908">1908</date><placeEntry vocabularySource="http://www.geonames.org/4347778/">Baltimore (Md.)</placeEntry></chronItem><chronItem><event>Joined U.S. Army Signal Corp</event><date standardDate="1919">1919</date></chronItem></chronList><abstract>President of the ANS from 1942 to 1947, Ives initiated educational programming which led to the creation of the Society's Graduate Summer Seminar program in 1954. </abstract><p>Herbert E. Ives was born in Philadelphia on July 21, 1882. His father, Frederic Ives, was a distinguished scientist who had invented techniques for color photography and the half-tone process which made it possible to reprint photographs in magazines and newspapers. The younger Ives attended the University of Pennsylvania, where he earned his bachelors degree in 1905, and Johns Hopkins University, where he earned his doctorate of philosophy in 1908. </p><p>Upon graduation, Ives held a series of positions in industrial research, but his greatest successes came during his tenure at Bell Laboratories, which he joined in 1919 after serving in the U.S. Army Signal Corps during World War I, where he did early work in aerial photography. </p><p>It was during his years at Bell that Ives became known as one of the world's leading electron-optical physicists. His research accomplishments were numerous and resulted in: the first demonstration of television (both black &amp; white and color); the first practical lamp for the production of artificial daylight (i.e., night vision); the first demonstration of two-way television; and the development the process of transmitting pictures over telephone lines, which became the wirephoto process subsequently used by newspapers. </p><p>During World War II he received the Medal for Merit — the nation's highest civilian honor — for his work on night-vision devices during that conflict. By the time of his retirement from Bell Labs in 1947, Ives had published more than 200 papers and secured more than 100 patents. </p><p>Ives joined the ANS as an associate member in April 1924. By 1925, he had been elected a Fellow. In 1937, Ives was named a Patron of the ANS because of his gift to the Society of twenty-two medals awarded to his father for his scientific accomplishments. </p><p>ves was first elected to the ANS Council in January 1934 and remained on the Council until his death in November 1953. While on the Council, Ives served on various committees including: Medals, European Coins, and Publications. He chaired the latter committee from 1947 until 1951 during which the Society launched its bibliographic publication, Numismatic Literature. </p><p>In January 1942, Ives was elected the 14th president of the ANS, succeeding Stephen H.P. Pell. (Pell had been serving as president since the sudden death of Edward Newell in February 1941.) </p><p>Ives took office at a critical time. With significant numbers of staff and Councilors joining the military and investment income decreasing, the Society was entering a period of fiscal conservatism which would last until 1946, when the Society's endowment was increased by "an anonymous donor" (i.e., Archer Huntington). </p><p>Nonetheless, the Society's accomplishments during this period were numerous. In 1942, the Society mounted an impressive exhibition of 17th century coins of the Americas — Early Coinages of the Americas — which featured the New England and Spanish-American issues from 1652-1700. </p><p>Ives also sought to increase the Society's use by student-scholars. With the outbreak of war in Europe, many of the world's leading numismatic museums and their collections were closed to US scholars, so visiting the Society's museum, with its extensive collections, could become an increasingly attractive option for these scholars. In 1943, the Society would initiate its first scholarship program — the Edward T. Newell Scholarship, which provided $300 to a graduate student from Yale University (Newell's alma mater) who would, in turn, spend the summer at the museum working on the listing of the Newell Collection. It was based on the success of this program that the Society would subsequently inaugurate its successful Graduate Summer Seminar program in 1952. </p><p>The major acquisition during Ives' tenure was the bequest of Edward T. Newell. Received in 1944, this bequest included more than 87,000 Roman and Greek coins, and funds for coin purchasing publishing. Ives deemed it "probably the most magnificent gift ever made to a numismatic Museum." In publishing, the Society would issue twelve monographs, primarily in its Numismatic Notes and Monographs series. </p><p>In 1946 — the final year of Ives' presidency — the Society would launch Museum Notes, the precedessor to today's American Journal of Numismatics. This new publication was designed to "present more adequately than in [the Society's] annual listing of items, a view of the acquisitions of [the Society's] collections" and included "a more representative selection of illustrations of new acquisitions, notes upon those of particular importance, as well as short articles, some supplementary to existing monographs, and some of which are not of monograph length." </p></biogHist><occupation><term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term></occupation><occupation><term vocabularySource="http://vocab.getty.edu/aat/300025816">physicists</term></occupation><occupation><placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry><dateRange><fromDate standardDate="1942-01">January 1942</fromDate><toDate standardDate="1946">1946</toDate></dateRange><term>President, ANS</term></occupation></description><relations><cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization"><relationEntry>American Numismatic Society</relationEntry></cpfRelation><resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/05-00065.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait"><relationEntry>portrait</relationEntry></resourceRelation><cpfRelation xlink:type="simple" xlink:href="newell" xlink:arcrole="xeac:correspondedWith" xlink:role="foaf:Person"><relationEntry>Newell, Edward Theodore, 1886-1941</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:arcrole="org:memberOf" xlink:role="org:Organization" xlink:href="http://viaf.org/viaf/133679516"><relationEntry>Bell Telephone Laboratories</relationEntry></cpfRelation></relations></cpfDescription></eac-cpf>
+<?xml version="1.0"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <control>
+    <recordId>ives</recordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+      <agencyCode>US-nnan</agencyCode>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2014-06-12T14:17:06-04:00">Thu, 12 Jun 2014 14:17:06 -0400</eventDateTime>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2014-06-18T19:22:03.184Z"/>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+        <eventDescription>Improved context</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2015-03-19T10:08:50.065Z"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-01-27T15:21:52.409-05:00"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <conventionDeclaration>
+      <abbreviation>ANS</abbreviation>
+      <citation>American Numismatic Society</citation>
+    </conventionDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>dcterms</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>foaf</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>org</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>rel</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>skos</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>xeac</abbreviation>
+      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+    </localTypeDeclaration>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityId localType="skos:exactMatch">http://viaf.org/viaf/45085991</entityId>
+      <entityId localType="skos:exactMatch">http://d-nb.info/gnd/181635534</entityId>
+      <entityId localType="skos:exactMatch">http://dbpedia.org/resource/Herbert_E._Ives</entityId>
+      <entityType>person</entityType>
+      <nameEntry>
+        <part>Ives, Herbert E. (Herbert Eugene), 1882-1953</part>
+        <preferredForm>ANS</preferredForm>
+      </nameEntry>
+    </identity>
+    <description>
+      <existDates localType="xeac:life">
+        <dateRange>
+          <fromDate standardDate="1882-07-21">July 21, 1882</fromDate>
+          <toDate standardDate="1953-11">November 1953</toDate>
+        </dateRange>
+      </existDates>
+      <biogHist>
+        <chronList>
+          <chronItem>
+            <event>Born</event>
+            <date standardDate="1882-07-21">July 21, 1882</date>
+            <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Graduated from the University of Pennsylvania</event>
+            <date standardDate="1905">1905</date>
+            <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Received Ph.D. from Johns Hopkins University</event>
+            <date standardDate="1908">1908</date>
+            <placeEntry vocabularySource="http://www.geonames.org/4347778/">Baltimore (Md.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Joined U.S. Army Signal Corp</event>
+            <date standardDate="1919">1919</date>
+          </chronItem>
+        </chronList>
+        <abstract>President of the ANS from 1942 to 1947, Ives initiated educational programming which led to the creation of the Society's Graduate Summer Seminar program in 1954. </abstract>
+        <p>Herbert E. Ives was born in Philadelphia on July 21, 1882. His father, Frederic Ives, was a distinguished scientist who had invented techniques for color photography and the half-tone process which made it possible to reprint photographs in magazines and newspapers. The younger Ives attended the University of Pennsylvania, where he earned his bachelors degree in 1905, and Johns Hopkins University, where he earned his doctorate of philosophy in 1908. </p>
+        <p>Upon graduation, Ives held a series of positions in industrial research, but his greatest successes came during his tenure at Bell Laboratories, which he joined in 1919 after serving in the U.S. Army Signal Corps during World War I, where he did early work in aerial photography. </p>
+        <p>It was during his years at Bell that Ives became known as one of the world's leading electron-optical physicists. His research accomplishments were numerous and resulted in: the first demonstration of television (both black &amp; white and color); the first practical lamp for the production of artificial daylight (i.e., night vision); the first demonstration of two-way television; and the development the process of transmitting pictures over telephone lines, which became the wirephoto process subsequently used by newspapers. </p>
+        <p>During World War II he received the Medal for Merit &#x2014; the nation's highest civilian honor &#x2014; for his work on night-vision devices during that conflict. By the time of his retirement from Bell Labs in 1947, Ives had published more than 200 papers and secured more than 100 patents. </p>
+        <p>Ives joined the ANS as an associate member in April 1924. By 1925, he had been elected a Fellow. In 1937, Ives was named a Patron of the ANS because of his gift to the Society of twenty-two medals awarded to his father for his scientific accomplishments. </p>
+        <p>ves was first elected to the ANS Council in January 1934 and remained on the Council until his death in November 1953. While on the Council, Ives served on various committees including: Medals, European Coins, and Publications. He chaired the latter committee from 1947 until 1951 during which the Society launched its bibliographic publication, Numismatic Literature. </p>
+        <p>In January 1942, Ives was elected the 14th president of the ANS, succeeding Stephen H.P. Pell. (Pell had been serving as president since the sudden death of Edward Newell in February 1941.) </p>
+        <p>Ives took office at a critical time. With significant numbers of staff and Councilors joining the military and investment income decreasing, the Society was entering a period of fiscal conservatism which would last until 1946, when the Society's endowment was increased by "an anonymous donor" (i.e., Archer Huntington). </p>
+        <p>Nonetheless, the Society's accomplishments during this period were numerous. In 1942, the Society mounted an impressive exhibition of 17th century coins of the Americas &#x2014; Early Coinages of the Americas &#x2014; which featured the New England and Spanish-American issues from 1652-1700. </p>
+        <p>Ives also sought to increase the Society's use by student-scholars. With the outbreak of war in Europe, many of the world's leading numismatic museums and their collections were closed to US scholars, so visiting the Society's museum, with its extensive collections, could become an increasingly attractive option for these scholars. In 1943, the Society would initiate its first scholarship program &#x2014; the Edward T. Newell Scholarship, which provided $300 to a graduate student from Yale University (Newell's alma mater) who would, in turn, spend the summer at the museum working on the listing of the Newell Collection. It was based on the success of this program that the Society would subsequently inaugurate its successful Graduate Summer Seminar program in 1952. </p>
+        <p>The major acquisition during Ives' tenure was the bequest of Edward T. Newell. Received in 1944, this bequest included more than 87,000 Roman and Greek coins, and funds for coin purchasing publishing. Ives deemed it "probably the most magnificent gift ever made to a numismatic Museum." In publishing, the Society would issue twelve monographs, primarily in its Numismatic Notes and Monographs series. </p>
+        <p>In 1946 &#x2014; the final year of Ives' presidency &#x2014; the Society would launch Museum Notes, the precedessor to today's American Journal of Numismatics. This new publication was designed to "present more adequately than in [the Society's] annual listing of items, a view of the acquisitions of [the Society's] collections" and included "a more representative selection of illustrations of new acquisitions, notes upon those of particular importance, as well as short articles, some supplementary to existing monographs, and some of which are not of monograph length." </p>
+      </biogHist>
+      <occupation>
+        <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
+      </occupation>
+      <occupation>
+        <term vocabularySource="http://vocab.getty.edu/aat/300025816">physicists</term>
+      </occupation>
+      <occupation>
+        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+        <dateRange>
+          <fromDate standardDate="1942-01">January 1942</fromDate>
+          <toDate standardDate="1946">1946</toDate>
+        </dateRange>
+        <term>President, ANS</term>
+      </occupation>
+    </description>
+    <relations>
+      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+        <relationEntry>American Numismatic Society</relationEntry>
+      </cpfRelation>
+      <resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/05-00065.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
+        <relationEntry>portrait</relationEntry>
+      </resourceRelation>
+      <cpfRelation xlink:type="simple" xlink:href="newell" xlink:arcrole="xeac:correspondedWith" xlink:role="foaf:Person">
+        <relationEntry>Newell, Edward Theodore, 1886-1941</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:arcrole="org:memberOf" xlink:role="org:Organization" xlink:href="http://viaf.org/viaf/133679516">
+        <relationEntry>Bell Telephone Laboratories</relationEntry>
+      </cpfRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

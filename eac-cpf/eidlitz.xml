@@ -1,1 +1,146 @@
-<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink"><control><recordId>eidlitz</recordId><maintenanceStatus>revised</maintenanceStatus><publicationStatus>approved</publicationStatus><maintenanceAgency><agencyName>American Numismatic Society</agencyName><agencyCode>US-nnan</agencyCode></maintenanceAgency><maintenanceHistory><maintenanceEvent><eventType>derived</eventType><eventDateTime standardDateTime="2014-06-12T14:17:05-04:00">Thu, 12 Jun 2014 14:17:05 -0400</eventDateTime><agentType>human</agentType><agent>Ethan Gruber</agent><eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2014-06-18T16:42:28.511Z"/><agentType>human</agentType><agent>Ethan Gruber</agent><eventDescription>Improved Description</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2015-03-19T10:08:50.164Z"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2016-01-27T15:21:52.516-05:00"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription></maintenanceEvent></maintenanceHistory><conventionDeclaration><abbreviation>ANS</abbreviation><citation>American Numismatic Society</citation></conventionDeclaration><sources><source xlink:type="simple" xlink:href="http://viaf.org/viaf/24528558"/></sources><localTypeDeclaration><abbreviation>dcterms</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>foaf</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>org</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>rel</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>skos</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>xeac</abbreviation><citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation></localTypeDeclaration></control><cpfDescription><identity><entityType>person</entityType><nameEntry><part>Eidlitz, Robert J. (Robert James), 1864-1935</part><preferredForm>ANS</preferredForm></nameEntry></identity><description><existDates localType="xeac:life"><dateRange><fromDate standardDate="1864-03-25">March 25, 1864</fromDate><toDate standardDate="1935-05-18">May 18, 1935</toDate></dateRange></existDates><biogHist><chronList><chronItem><event>Born</event><date standardDate="1864-03-25">March 25, 1864</date><placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry></chronItem><chronItem><event>Graduated from Cornell University</event><date standardDate="1885">1885</date><placeEntry vocabularySource="http://www.geonames.org/5113752/">Cornell University (N.Y.)</placeEntry></chronItem><chronItem><event>Became associate member of the ANS</event><date standardDate="1910">1910</date><placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry></chronItem><chronItem><event>Member of the ANS Council</event><dateRange><fromDate standardDate="1916">1916</fromDate><toDate standardDate="1935">1935</toDate></dateRange><placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry></chronItem><chronItem><event>Became president of Marc Eidlitz &amp; Son, Inc.</event><date standardDate="1928">1928</date><placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry></chronItem></chronList><abstract>Huntington medalist, collector of architectural medals and renown builder, Robert J. Eidlitz served on the ANS Council for almost twenty years and was responsible for the construction of much of the Society's Audubon Terrace headquarters. </abstract><p>Robert J. Eidlitz was born in New York City on March 25, 1864. He was educated at both Cornell University, from which he graduated in 1885, and later at the Berlin Polytechnic, where he studied architecture. After completing his schooling, Eidlitz went to work for his father in the latter's building firm, Marc Eidlitz &amp; Son, Inc. In 1928 Eidlitz was named president of the company, following the death of his older brother. Many of New York City's most prominent buildings—including the ANS's expanded Audubon Terrace facility—were built by Eidlitz's company. These buildings include the Federal Reserve Bank, Cloisters museum, New York Academy of Medicine, Yale Club, Astor Library, AT&amp;T building, and New York Stock Exchange. </p><p>Eidlitz joined the ANS as an associate member in 1910 and served on the Council from 1916 until his death in 1935. He collected architectural medals, about which he wrote the standard text, Medals and Medallions Relating to Architects, in 1927. That same year the ANS awarded Eidlitz its prestigious Archer M. Huntington Medal Award for this publication </p><p>While on the Council, much of Eidlitz's efforts involved his love of medals. For instance, he assisted with the publication of a number of the Society's commemorative medals, including the St. Bartholomew Church, 4th of July, and Red Cross medals. In addition, Eidlitz served on the original 1919 committee which established the standards for conferring the Society's new J. Sanford Saltus Medal Award. </p><p>In addition to his work with the Society's medallic program, Eidlitz also was deeply involved in the construction and maintenance of the Society's Audubon Terrace facility. His firm built the expanded wing (later known as the "west hall") in the 1920s. And after his death, the ANS established the Eidlitz Building Maintenance Fund to help support ongoing building maintenance using a bequest from Eidlitz's estate. In eulogizing Eidlitz, Newell would opine that he was "one of the most valuable members" of the ANS Council, in no small part because of the "constant supervision and the very personal interest which he devoted to the erection" of the Society's headquarters. </p><p>After Eidlitz's death the ANS received, in addition to the maintenance fund endowment, Eidlitz's collection of architectural medals—a collection which later was described as "probably the largest collection of medals relating to architecture and architects." </p><p>Robert Eidlitz died in New York City on May 18, 1935. He was 71. </p></biogHist><occupation><term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term></occupation><occupation><term vocabularySource="http://vocab.getty.edu/aat/300024987">architects</term></occupation></description><relations><resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/04-00009_001.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait"><relationEntry>portrait</relationEntry></resourceRelation><cpfRelation xlink:type="simple" xlink:arcrole="org:memberOf" xlink:role="org:Organization" xlink:href="http://viaf.org/viaf/124644017"><relationEntry>Marc Eidlitz &amp; Son</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization"><relationEntry>American Numismatic Society</relationEntry></cpfRelation></relations></cpfDescription></eac-cpf>
+<?xml version="1.0"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <control>
+    <recordId>eidlitz</recordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+      <agencyCode>US-nnan</agencyCode>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2014-06-12T14:17:05-04:00">Thu, 12 Jun 2014 14:17:05 -0400</eventDateTime>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2014-06-18T16:42:28.511Z"/>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+        <eventDescription>Improved Description</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2015-03-19T10:08:50.164Z"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-01-27T15:21:52.516-05:00"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <conventionDeclaration>
+      <abbreviation>ANS</abbreviation>
+      <citation>American Numismatic Society</citation>
+    </conventionDeclaration>
+    <sources>
+      <source xlink:type="simple" xlink:href="http://viaf.org/viaf/24528558"/>
+    </sources>
+    <localTypeDeclaration>
+      <abbreviation>dcterms</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>foaf</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>org</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>rel</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>skos</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>xeac</abbreviation>
+      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+    </localTypeDeclaration>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>person</entityType>
+      <nameEntry>
+        <part>Eidlitz, Robert J. (Robert James), 1864-1935</part>
+        <preferredForm>ANS</preferredForm>
+      </nameEntry>
+    </identity>
+    <description>
+      <existDates localType="xeac:life">
+        <dateRange>
+          <fromDate standardDate="1864-03-25">March 25, 1864</fromDate>
+          <toDate standardDate="1935-05-18">May 18, 1935</toDate>
+        </dateRange>
+      </existDates>
+      <biogHist>
+        <chronList>
+          <chronItem>
+            <event>Born</event>
+            <date standardDate="1864-03-25">March 25, 1864</date>
+            <placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Graduated from Cornell University</event>
+            <date standardDate="1885">1885</date>
+            <placeEntry vocabularySource="http://www.geonames.org/5113752/">Cornell University (N.Y.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Became associate member of the ANS</event>
+            <date standardDate="1910">1910</date>
+            <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Member of the ANS Council</event>
+            <dateRange>
+              <fromDate standardDate="1916">1916</fromDate>
+              <toDate standardDate="1935">1935</toDate>
+            </dateRange>
+            <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Became president of Marc Eidlitz &amp; Son, Inc.</event>
+            <date standardDate="1928">1928</date>
+            <placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry>
+          </chronItem>
+        </chronList>
+        <abstract>Huntington medalist, collector of architectural medals and renown builder, Robert J. Eidlitz served on the ANS Council for almost twenty years and was responsible for the construction of much of the Society's Audubon Terrace headquarters. </abstract>
+        <p>Robert J. Eidlitz was born in New York City on March 25, 1864. He was educated at both Cornell University, from which he graduated in 1885, and later at the Berlin Polytechnic, where he studied architecture. After completing his schooling, Eidlitz went to work for his father in the latter's building firm, Marc Eidlitz &amp; Son, Inc. In 1928 Eidlitz was named president of the company, following the death of his older brother. Many of New York City's most prominent buildings&#x2014;including the ANS's expanded Audubon Terrace facility&#x2014;were built by Eidlitz's company. These buildings include the Federal Reserve Bank, Cloisters museum, New York Academy of Medicine, Yale Club, Astor Library, AT&amp;T building, and New York Stock Exchange. </p>
+        <p>Eidlitz joined the ANS as an associate member in 1910 and served on the Council from 1916 until his death in 1935. He collected architectural medals, about which he wrote the standard text, Medals and Medallions Relating to Architects, in 1927. That same year the ANS awarded Eidlitz its prestigious Archer M. Huntington Medal Award for this publication </p>
+        <p>While on the Council, much of Eidlitz's efforts involved his love of medals. For instance, he assisted with the publication of a number of the Society's commemorative medals, including the St. Bartholomew Church, 4th of July, and Red Cross medals. In addition, Eidlitz served on the original 1919 committee which established the standards for conferring the Society's new J. Sanford Saltus Medal Award. </p>
+        <p>In addition to his work with the Society's medallic program, Eidlitz also was deeply involved in the construction and maintenance of the Society's Audubon Terrace facility. His firm built the expanded wing (later known as the "west hall") in the 1920s. And after his death, the ANS established the Eidlitz Building Maintenance Fund to help support ongoing building maintenance using a bequest from Eidlitz's estate. In eulogizing Eidlitz, Newell would opine that he was "one of the most valuable members" of the ANS Council, in no small part because of the "constant supervision and the very personal interest which he devoted to the erection" of the Society's headquarters. </p>
+        <p>After Eidlitz's death the ANS received, in addition to the maintenance fund endowment, Eidlitz's collection of architectural medals&#x2014;a collection which later was described as "probably the largest collection of medals relating to architecture and architects." </p>
+        <p>Robert Eidlitz died in New York City on May 18, 1935. He was 71. </p>
+      </biogHist>
+      <occupation>
+        <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
+      </occupation>
+      <occupation>
+        <term vocabularySource="http://vocab.getty.edu/aat/300024987">architects</term>
+      </occupation>
+    </description>
+    <relations>
+      <resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/04-00009_001.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
+        <relationEntry>portrait</relationEntry>
+      </resourceRelation>
+      <cpfRelation xlink:type="simple" xlink:arcrole="org:memberOf" xlink:role="org:Organization" xlink:href="http://viaf.org/viaf/124644017">
+        <relationEntry>Marc Eidlitz &amp; Son</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+        <relationEntry>American Numismatic Society</relationEntry>
+      </cpfRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

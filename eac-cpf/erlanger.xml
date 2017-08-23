@@ -1,1 +1,119 @@
-<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink"><control><recordId>erlanger</recordId><maintenanceStatus>revised</maintenanceStatus><publicationStatus>approved</publicationStatus><maintenanceAgency><agencyName>American Numismatic Society</agencyName><agencyCode>US-nnan</agencyCode></maintenanceAgency><maintenanceHistory><maintenanceEvent><eventType>derived</eventType><eventDateTime standardDateTime="2014-06-12T14:17:05-04:00">Thu, 12 Jun 2014 14:17:05 -0400</eventDateTime><agentType>human</agentType><agent>Ethan Gruber</agent><eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2014-06-19T15:12:53.948Z"/><agentType>human</agentType><agent>Ethan Gruber</agent><eventDescription>added context</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2015-03-19T10:08:49.986Z"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2016-01-27T15:21:52.331-05:00"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription></maintenanceEvent></maintenanceHistory><conventionDeclaration><abbreviation>ANS</abbreviation><citation>American Numismatic Society</citation></conventionDeclaration><sources><source xlink:type="simple" xlink:href="http://viaf.org/viaf/7467332"/></sources><localTypeDeclaration><abbreviation>dcterms</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>foaf</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>org</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>rel</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>skos</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>xeac</abbreviation><citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation></localTypeDeclaration></control><cpfDescription><identity><entityType>person</entityType><nameEntry><part>Erlanger, Herbert J. (Herbert Justin), 1906-1988</part><preferredForm>ANS</preferredForm></nameEntry></identity><description><existDates localType="xeac:life"><dateRange><fromDate standardDate="1906">1906</fromDate><toDate standardDate="1988">1988</toDate></dateRange></existDates><biogHist><chronList><chronItem><event>Born</event><date standardDate="1906">1906</date><placeEntry vocabularySource="http://www.geonames.org/2861650/">Nuremberg (Germany)</placeEntry></chronItem></chronList><abstract>Numismatist Herbert J. Erlanger (1906-1988) was born in Nuremberg, Germany, and became an expert in the coins of that city.</abstract><p>Numismatist Herbert J. Erlanger (1906-1988) was born in Nuremberg, Germany, and became an expert in the coins of that city, publishing articles on the topic in The Numismatist and other publications, and in the books Die Reichsmünzstätte in Nürnberg and Nürnberger Medaillen. Erlanger was trained as an attorney at the University of Munich, and went on to represent motion picture companies such as Warner Brothers on the world market. He became an associate member of the American Numismatic Society in 1940 and a fellow in 1941. Stationed in Germany during World War II as a lieutenant in the United States Army, he acted as a liaison between the Society and German numismatists such as Max Bernhart, director of the numismatic cabinet of the Bavarian Academy of Science and recipient of the Huntington Medal (1946).</p></biogHist><occupation><term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term></occupation><occupation><term vocabularySource="http://vocab.getty.edu/aat/300025627">lawyers</term></occupation><occupation><placeEntry vocabularySource="http://www.geonames.org/2921044/">Germany</placeEntry><descriptiveNote><p>Lieutenant in the U.S. Army</p></descriptiveNote><term vocabularySource="http://vocab.getty.edu/aat/300236210">military officers</term></occupation></description><relations><cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization"><relationEntry>American Numismatic Society</relationEntry></cpfRelation></relations></cpfDescription></eac-cpf>
+<?xml version="1.0"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <control>
+    <recordId>erlanger</recordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+      <agencyCode>US-nnan</agencyCode>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2014-06-12T14:17:05-04:00">Thu, 12 Jun 2014 14:17:05 -0400</eventDateTime>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2014-06-19T15:12:53.948Z"/>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+        <eventDescription>added context</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2015-03-19T10:08:49.986Z"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-01-27T15:21:52.331-05:00"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <conventionDeclaration>
+      <abbreviation>ANS</abbreviation>
+      <citation>American Numismatic Society</citation>
+    </conventionDeclaration>
+    <sources>
+      <source xlink:type="simple" xlink:href="http://viaf.org/viaf/7467332"/>
+    </sources>
+    <localTypeDeclaration>
+      <abbreviation>dcterms</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>foaf</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>org</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>rel</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>skos</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>xeac</abbreviation>
+      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+    </localTypeDeclaration>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>person</entityType>
+      <nameEntry>
+        <part>Erlanger, Herbert J. (Herbert Justin), 1906-1988</part>
+        <preferredForm>ANS</preferredForm>
+      </nameEntry>
+    </identity>
+    <description>
+      <existDates localType="xeac:life">
+        <dateRange>
+          <fromDate standardDate="1906">1906</fromDate>
+          <toDate standardDate="1988">1988</toDate>
+        </dateRange>
+      </existDates>
+      <biogHist>
+        <chronList>
+          <chronItem>
+            <event>Born</event>
+            <date standardDate="1906">1906</date>
+            <placeEntry vocabularySource="http://www.geonames.org/2861650/">Nuremberg (Germany)</placeEntry>
+          </chronItem>
+        </chronList>
+        <abstract>Numismatist Herbert J. Erlanger (1906-1988) was born in Nuremberg, Germany, and became an expert in the coins of that city.</abstract>
+        <p>Numismatist Herbert J. Erlanger (1906-1988) was born in Nuremberg, Germany, and became an expert in the coins of that city, publishing articles on the topic in The Numismatist and other publications, and in the books Die Reichsm&#xFC;nzst&#xE4;tte in N&#xFC;rnberg and N&#xFC;rnberger Medaillen. Erlanger was trained as an attorney at the University of Munich, and went on to represent motion picture companies such as Warner Brothers on the world market. He became an associate member of the American Numismatic Society in 1940 and a fellow in 1941. Stationed in Germany during World War II as a lieutenant in the United States Army, he acted as a liaison between the Society and German numismatists such as Max Bernhart, director of the numismatic cabinet of the Bavarian Academy of Science and recipient of the Huntington Medal (1946).</p>
+      </biogHist>
+      <occupation>
+        <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
+      </occupation>
+      <occupation>
+        <term vocabularySource="http://vocab.getty.edu/aat/300025627">lawyers</term>
+      </occupation>
+      <occupation>
+        <placeEntry vocabularySource="http://www.geonames.org/2921044/">Germany</placeEntry>
+        <descriptiveNote>
+          <p>Lieutenant in the U.S. Army</p>
+        </descriptiveNote>
+        <term vocabularySource="http://vocab.getty.edu/aat/300236210">military officers</term>
+      </occupation>
+    </description>
+    <relations>
+      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+        <relationEntry>American Numismatic Society</relationEntry>
+      </cpfRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

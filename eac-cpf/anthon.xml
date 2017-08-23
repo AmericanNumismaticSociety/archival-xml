@@ -1,1 +1,148 @@
-<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink"><control><recordId>anthon</recordId><maintenanceAgency><agencyName>American Numismatic Society</agencyName></maintenanceAgency><maintenanceHistory><maintenanceEvent><eventType>created</eventType><eventDateTime standardDateTime="2014-06-18T16:23:10.562Z"/><agentType>human</agentType><agent>Ethan Gruber</agent></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2015-03-19T10:08:50.14Z"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2016-01-27T15:21:52.49-05:00"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription></maintenanceEvent></maintenanceHistory><maintenanceStatus>revised</maintenanceStatus><publicationStatus>approved</publicationStatus><conventionDeclaration><abbreviation>ANS</abbreviation><citation>American Numismatic Society</citation></conventionDeclaration><sources><source xlink:type="simple" xlink:href="http://viaf.org/viaf/11886595"/></sources><localTypeDeclaration><abbreviation>dcterms</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>foaf</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>org</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>rel</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>skos</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>xeac</abbreviation><citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation></localTypeDeclaration></control><cpfDescription><identity><entityType>person</entityType><nameEntry><part>Anthon, Charles E., 1823-1883</part><preferredForm>ANS</preferredForm></nameEntry></identity><description><biogHist><chronList><chronItem><event>Born</event><date standardDate="1823">1823</date><placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry></chronItem><chronItem><event>Graduated from Columbia College</event><date standardDate="1839">1839</date><placeEntry vocabularySource="http://www.geonames.org/5113375/">Columbia University (N.Y.)</placeEntry></chronItem><chronItem><event>Appointed professor of history and belles-lettres at the New York Free Academy</event><dateRange><fromDate standardDate="1852">1852</fromDate><toDate standardDate="1883">1883</toDate></dateRange><placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry></chronItem><chronItem><event>Joined the ANS</event><date standardDate="1866">1866</date><placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry></chronItem><chronItem><event>Died</event><date standardDate="1883-06-07">June 07, 1883</date><placeEntry vocabularySource="http://www.geonames.org/2944388/">Bremen (Germany)</placeEntry></chronItem></chronList><abstract>President of the ANS from 1868 to 1870 and 1873 to 1883, it was due to Anthon that the Society made its initial efforts to transform itself from a group of local coin collectors to a recognized scholarly institution.</abstract><p>Charles E. Anthon was born in New York City in 1823, the son of a prominent lawyer. Anthon graduated from Columbia College in the class of 1839 at age sixteen. After some years spent studying abroad in Europe, he returned to the United States and accepted the position of chair of history at St. John's College in Annapolis, Maryland. </p><p>In 1852, Anthon was appointed professor of history and belles-lettres at the New York Free Academy (now the College of the City of New York) and remained in this position until shortly before his death in 1883. Anthon received an honorary degree of Master of the Arts from Columbia University in 1853 and received a Doctorate of Laws from the University of the City of New York in 1866. </p><p>Anthon began studying numismatics in 1865 and joined the ANS (then known as the American Numismatic &amp; Archaeological Society), in December of 1866. Anthon was first elected President of the Society in 1868. After reluctantly serving as President for two years, Anthon chose not to seek reelection in 1870. He was, however, prevailed upon to return to the Presidency in 1873, an office he held util his death in 1883. </p><p>As an officer of the ANS, Anthon played an important role in continuing and expanding the Society's publications program through his support of the Society's first periodical, the American Journal of Numismatics. An avid supporter of the AJN, Anthon challenged calls in 1867 to limit the scope and content of this new publication. And, from 1867 through 1870, Anthon took an active role in managing the AJN though his work as that publication's Literary Editor. Under his tenure, the AJN was doubled in length and included new features, such as book review. </p><p>A noted scholar of numismatics, Anthon was particularly known for his work on medallic art and the Gloriam Regni coins of the Franco-American colonies. </p><p>Anthon died on June 7, 1883 in Bremen, Germany, where he had gone to recuperate from an extended illness. </p></biogHist><existDates localType="xeac:life"><dateRange><fromDate standardDate="1822">1822</fromDate><toDate standardDate="1883">1883</toDate></dateRange></existDates><occupation><placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry><dateSet><dateRange><fromDate standardDate="1868">1868</fromDate><toDate standardDate="1870">1870</toDate></dateRange><dateRange><fromDate standardDate="1873">1873</fromDate><toDate standardDate="1883">1883</toDate></dateRange></dateSet><term>President, ANS</term></occupation><occupation><term vocabularySource="http://vocab.getty.edu/aat/300266109">academics (people)</term></occupation><occupation><term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term></occupation></description><relations><cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization"><relationEntry>American Numismatic Society</relationEntry></cpfRelation><resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/05-00034.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait"><relationEntry>portrait</relationEntry></resourceRelation></relations></cpfDescription></eac-cpf>
+<?xml version="1.0"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <control>
+    <recordId>anthon</recordId>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2014-06-18T16:23:10.562Z"/>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2015-03-19T10:08:50.14Z"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-01-27T15:21:52.49-05:00"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <publicationStatus>approved</publicationStatus>
+    <conventionDeclaration>
+      <abbreviation>ANS</abbreviation>
+      <citation>American Numismatic Society</citation>
+    </conventionDeclaration>
+    <sources>
+      <source xlink:type="simple" xlink:href="http://viaf.org/viaf/11886595"/>
+    </sources>
+    <localTypeDeclaration>
+      <abbreviation>dcterms</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>foaf</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>org</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>rel</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>skos</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>xeac</abbreviation>
+      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+    </localTypeDeclaration>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>person</entityType>
+      <nameEntry>
+        <part>Anthon, Charles E., 1823-1883</part>
+        <preferredForm>ANS</preferredForm>
+      </nameEntry>
+    </identity>
+    <description>
+      <biogHist>
+        <chronList>
+          <chronItem>
+            <event>Born</event>
+            <date standardDate="1823">1823</date>
+            <placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Graduated from Columbia College</event>
+            <date standardDate="1839">1839</date>
+            <placeEntry vocabularySource="http://www.geonames.org/5113375/">Columbia University (N.Y.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Appointed professor of history and belles-lettres at the New York Free Academy</event>
+            <dateRange>
+              <fromDate standardDate="1852">1852</fromDate>
+              <toDate standardDate="1883">1883</toDate>
+            </dateRange>
+            <placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Joined the ANS</event>
+            <date standardDate="1866">1866</date>
+            <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Died</event>
+            <date standardDate="1883-06-07">June 07, 1883</date>
+            <placeEntry vocabularySource="http://www.geonames.org/2944388/">Bremen (Germany)</placeEntry>
+          </chronItem>
+        </chronList>
+        <abstract>President of the ANS from 1868 to 1870 and 1873 to 1883, it was due to Anthon that the Society made its initial efforts to transform itself from a group of local coin collectors to a recognized scholarly institution.</abstract>
+        <p>Charles E. Anthon was born in New York City in 1823, the son of a prominent lawyer. Anthon graduated from Columbia College in the class of 1839 at age sixteen. After some years spent studying abroad in Europe, he returned to the United States and accepted the position of chair of history at St. John's College in Annapolis, Maryland. </p>
+        <p>In 1852, Anthon was appointed professor of history and belles-lettres at the New York Free Academy (now the College of the City of New York) and remained in this position until shortly before his death in 1883. Anthon received an honorary degree of Master of the Arts from Columbia University in 1853 and received a Doctorate of Laws from the University of the City of New York in 1866. </p>
+        <p>Anthon began studying numismatics in 1865 and joined the ANS (then known as the American Numismatic &amp; Archaeological Society), in December of 1866. Anthon was first elected President of the Society in 1868. After reluctantly serving as President for two years, Anthon chose not to seek reelection in 1870. He was, however, prevailed upon to return to the Presidency in 1873, an office he held util his death in 1883. </p>
+        <p>As an officer of the ANS, Anthon played an important role in continuing and expanding the Society's publications program through his support of the Society's first periodical, the American Journal of Numismatics. An avid supporter of the AJN, Anthon challenged calls in 1867 to limit the scope and content of this new publication. And, from 1867 through 1870, Anthon took an active role in managing the AJN though his work as that publication's Literary Editor. Under his tenure, the AJN was doubled in length and included new features, such as book review. </p>
+        <p>A noted scholar of numismatics, Anthon was particularly known for his work on medallic art and the Gloriam Regni coins of the Franco-American colonies. </p>
+        <p>Anthon died on June 7, 1883 in Bremen, Germany, where he had gone to recuperate from an extended illness. </p>
+      </biogHist>
+      <existDates localType="xeac:life">
+        <dateRange>
+          <fromDate standardDate="1822">1822</fromDate>
+          <toDate standardDate="1883">1883</toDate>
+        </dateRange>
+      </existDates>
+      <occupation>
+        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+        <dateSet>
+          <dateRange>
+            <fromDate standardDate="1868">1868</fromDate>
+            <toDate standardDate="1870">1870</toDate>
+          </dateRange>
+          <dateRange>
+            <fromDate standardDate="1873">1873</fromDate>
+            <toDate standardDate="1883">1883</toDate>
+          </dateRange>
+        </dateSet>
+        <term>President, ANS</term>
+      </occupation>
+      <occupation>
+        <term vocabularySource="http://vocab.getty.edu/aat/300266109">academics (people)</term>
+      </occupation>
+      <occupation>
+        <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
+      </occupation>
+    </description>
+    <relations>
+      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+        <relationEntry>American Numismatic Society</relationEntry>
+      </cpfRelation>
+      <resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/05-00034.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
+        <relationEntry>portrait</relationEntry>
+      </resourceRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

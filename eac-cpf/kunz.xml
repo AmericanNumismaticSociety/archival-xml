@@ -1,1 +1,145 @@
-<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink"><control><recordId>kunz</recordId><maintenanceStatus>revised</maintenanceStatus><publicationStatus>approved</publicationStatus><maintenanceAgency><agencyName>American Numismatic Society</agencyName><agencyCode>US-nnan</agencyCode></maintenanceAgency><maintenanceHistory><maintenanceEvent><eventType>derived</eventType><eventDateTime standardDateTime="2014-06-18T16:29:19.959Z">Thu, 12 Jun 2014 14:17:07 -0400</eventDateTime><agentType>human</agentType><agent>Ethan Gruber</agent><eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2014-06-18T16:29:46.976Z"/><agentType>human</agentType><agent>Ethan Gruber</agent><eventDescription>Added portrait</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2014-06-19T20:13:34.102Z"/><agentType>human</agentType><agent>Ethan Gruber</agent><eventDescription>Added context.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2015-03-19T10:08:49.438Z"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2016-01-27T15:21:51.77-05:00"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription></maintenanceEvent></maintenanceHistory><conventionDeclaration><abbreviation>ANS</abbreviation><citation>American Numismatic Society</citation></conventionDeclaration><localTypeDeclaration><abbreviation>dcterms</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>foaf</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>org</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>rel</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>skos</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>xeac</abbreviation><citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation></localTypeDeclaration></control><cpfDescription><identity><entityId localType="skos:exactMatch">http://viaf.org/viaf/30293517</entityId><entityId localType="skos:exactMatch">http://dbpedia.org/resource/George_Frederick_Kunz</entityId><entityId localType="skos:exactMatch">http://www.idref.fr/145819698/id</entityId><entityId localType="skos:exactMatch">http://d-nb.info/gnd/116660511</entityId><entityType>person</entityType><nameEntry><part>Kunz, George F. (George Frederick), 1856-1932</part><preferredForm>ANS</preferredForm></nameEntry></identity><description><existDates localType="xeac:life"><dateRange><fromDate standardDate="1856-09-29">September 29, 1856</fromDate><toDate standardDate="1932-06-29">June 29, 1932</toDate></dateRange></existDates><biogHist><chronList><chronItem><event>Born</event><date standardDate="1856-09-29">September 29, 1856</date><placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry></chronItem><chronItem><event>Vice President of Tiffany &amp; Company</event><dateRange><fromDate standardDate="1880">1880</fromDate><toDate standardDate="1932">1932</toDate></dateRange><placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry></chronItem></chronList><abstract>Mineralogist and gem expert George F. Kunz (1856-1932) became a vice president at Tiffany &amp; Company at the age of 23, a position he held until his death.</abstract><p>Mineralogist and gem expert George F. Kunz (1856-1932) became a vice president at Tiffany &amp; Company at the age of 23, a position he held until his death. He was born in New York City, was raised in Hoboken, New Jersey, and attended public schools and Cooper Union. He was in charge of the mining exhibits at the Paris Exposition (1889), the Kimberley, South Africa, Exposition (1892), and the Chicago Columbian Exposition (1893) and was a special agent at the Paris Exposition (1900) and commissioner on radium at the St. Louis Exposition (1904). A gem collector and discoverer, he traveled the world in search of pearls and gemstones, which he sometimes named after his associates and patrons, calling one rare find tiffanyite, after Charles L. Tiffany, and another morganite, after J. Pierpont Morgan. Kunzite, a mineral, is named after him. He wrote The Gems and Precious Stones of North America (1890) and The Curious Lore of Precious Stones (1913). Kunz became a resident member of the American Numismatic and Archeological Society (later the American Numismatic Society) in 1893 and was made a life member in 1913. He served as a link between the Society and Tiffany &amp; Company and played a role in the company’s production of Columbus medals for the Chicago exposition of 1893. In 1897 he was made secretary of a committee established to produce a Ulysses S. Grant medal. He also served on the Society’s committees on papers and publications, American insignia, and U.S. medals, and was corresponding secretary in 1898 and 1899. Kunz was active in the society’s efforts to impove U.S. coinage, proposing, for example, the adoption of the metric system.</p></biogHist><occupation><term vocabularySource="http://vocab.getty.edu/aat/300025801">mineralogists</term></occupation></description><relations><resourceRelation xlink:type="simple" xlink:href="http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GeorgeKunz1900circa.png/220px-GeorgeKunz1900circa.png" xlink:arcrole="foaf:depiction" xlink:role="portrait"><relationEntry>portrait</relationEntry></resourceRelation><cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization"><dateRange><fromDate standardDate="1893">1893</fromDate><toDate standardDate="1932">1932</toDate></dateRange><relationEntry>American Numismatic Society</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/154771285" xlink:arcrole="org:memberOf" xlink:role="org:Organization"><dateRange><fromDate standardDate="1880">1880</fromDate><toDate standardDate="1932">1932</toDate></dateRange><relationEntry>Tiffany and Company</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/57410770" xlink:arcrole="rel:colleagueOf" xlink:role="foaf:Person"><relationEntry>Morgan, J. Pierpont (John Pierpont), 1837-1913</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/4611736" xlink:arcrole="rel:employedBy" xlink:role="foaf:Person"><relationEntry>Tiffany, Charles Lewis, 1812-1902</relationEntry></cpfRelation></relations></cpfDescription></eac-cpf>
+<?xml version="1.0"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <control>
+    <recordId>kunz</recordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+      <agencyCode>US-nnan</agencyCode>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2014-06-18T16:29:19.959Z">Thu, 12 Jun 2014 14:17:07 -0400</eventDateTime>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2014-06-18T16:29:46.976Z"/>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+        <eventDescription>Added portrait</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2014-06-19T20:13:34.102Z"/>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+        <eventDescription>Added context.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2015-03-19T10:08:49.438Z"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-01-27T15:21:51.77-05:00"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <conventionDeclaration>
+      <abbreviation>ANS</abbreviation>
+      <citation>American Numismatic Society</citation>
+    </conventionDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>dcterms</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>foaf</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>org</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>rel</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>skos</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>xeac</abbreviation>
+      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+    </localTypeDeclaration>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityId localType="skos:exactMatch">http://viaf.org/viaf/30293517</entityId>
+      <entityId localType="skos:exactMatch">http://dbpedia.org/resource/George_Frederick_Kunz</entityId>
+      <entityId localType="skos:exactMatch">http://www.idref.fr/145819698/id</entityId>
+      <entityId localType="skos:exactMatch">http://d-nb.info/gnd/116660511</entityId>
+      <entityType>person</entityType>
+      <nameEntry>
+        <part>Kunz, George F. (George Frederick), 1856-1932</part>
+        <preferredForm>ANS</preferredForm>
+      </nameEntry>
+    </identity>
+    <description>
+      <existDates localType="xeac:life">
+        <dateRange>
+          <fromDate standardDate="1856-09-29">September 29, 1856</fromDate>
+          <toDate standardDate="1932-06-29">June 29, 1932</toDate>
+        </dateRange>
+      </existDates>
+      <biogHist>
+        <chronList>
+          <chronItem>
+            <event>Born</event>
+            <date standardDate="1856-09-29">September 29, 1856</date>
+            <placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Vice President of Tiffany &amp; Company</event>
+            <dateRange>
+              <fromDate standardDate="1880">1880</fromDate>
+              <toDate standardDate="1932">1932</toDate>
+            </dateRange>
+            <placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry>
+          </chronItem>
+        </chronList>
+        <abstract>Mineralogist and gem expert George F. Kunz (1856-1932) became a vice president at Tiffany &amp; Company at the age of 23, a position he held until his death.</abstract>
+        <p>Mineralogist and gem expert George F. Kunz (1856-1932) became a vice president at Tiffany &amp; Company at the age of 23, a position he held until his death. He was born in New York City, was raised in Hoboken, New Jersey, and attended public schools and Cooper Union. He was in charge of the mining exhibits at the Paris Exposition (1889), the Kimberley, South Africa, Exposition (1892), and the Chicago Columbian Exposition (1893) and was a special agent at the Paris Exposition (1900) and commissioner on radium at the St. Louis Exposition (1904). A gem collector and discoverer, he traveled the world in search of pearls and gemstones, which he sometimes named after his associates and patrons, calling one rare find tiffanyite, after Charles L. Tiffany, and another morganite, after J. Pierpont Morgan. Kunzite, a mineral, is named after him. He wrote The Gems and Precious Stones of North America (1890) and The Curious Lore of Precious Stones (1913). Kunz became a resident member of the American Numismatic and Archeological Society (later the American Numismatic Society) in 1893 and was made a life member in 1913. He served as a link between the Society and Tiffany &amp; Company and played a role in the company&#x2019;s production of Columbus medals for the Chicago exposition of 1893. In 1897 he was made secretary of a committee established to produce a Ulysses S. Grant medal. He also served on the Society&#x2019;s committees on papers and publications, American insignia, and U.S. medals, and was corresponding secretary in 1898 and 1899. Kunz was active in the society&#x2019;s efforts to impove U.S. coinage, proposing, for example, the adoption of the metric system.</p>
+      </biogHist>
+      <occupation>
+        <term vocabularySource="http://vocab.getty.edu/aat/300025801">mineralogists</term>
+      </occupation>
+    </description>
+    <relations>
+      <resourceRelation xlink:type="simple" xlink:href="http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GeorgeKunz1900circa.png/220px-GeorgeKunz1900circa.png" xlink:arcrole="foaf:depiction" xlink:role="portrait">
+        <relationEntry>portrait</relationEntry>
+      </resourceRelation>
+      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+        <dateRange>
+          <fromDate standardDate="1893">1893</fromDate>
+          <toDate standardDate="1932">1932</toDate>
+        </dateRange>
+        <relationEntry>American Numismatic Society</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/154771285" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+        <dateRange>
+          <fromDate standardDate="1880">1880</fromDate>
+          <toDate standardDate="1932">1932</toDate>
+        </dateRange>
+        <relationEntry>Tiffany and Company</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/57410770" xlink:arcrole="rel:colleagueOf" xlink:role="foaf:Person">
+        <relationEntry>Morgan, J. Pierpont (John Pierpont), 1837-1913</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/4611736" xlink:arcrole="rel:employedBy" xlink:role="foaf:Person">
+        <relationEntry>Tiffany, Charles Lewis, 1812-1902</relationEntry>
+      </cpfRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

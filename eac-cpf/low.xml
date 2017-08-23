@@ -1,1 +1,133 @@
-<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink"><control><recordId>low</recordId><maintenanceStatus>revised</maintenanceStatus><publicationStatus>approved</publicationStatus><maintenanceAgency><agencyName>American Numismatic Society</agencyName><agencyCode>US-nnan</agencyCode></maintenanceAgency><maintenanceHistory><maintenanceEvent><eventType>derived</eventType><eventDateTime standardDateTime="2014-06-12T14:17:08-04:00">Thu, 12 Jun 2014 14:17:08 -0400</eventDateTime><agentType>human</agentType><agent>Ethan Gruber</agent><eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2014-06-20T12:41:55.808Z"/><agentType>human</agentType><agent>Ethan Gruber</agent></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2015-03-19T10:08:49.963Z"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2016-01-27T15:21:52.308-05:00"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription></maintenanceEvent></maintenanceHistory><conventionDeclaration><abbreviation>ANS</abbreviation><citation>American Numismatic Society</citation></conventionDeclaration><localTypeDeclaration><abbreviation>dcterms</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>foaf</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>org</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>rel</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>skos</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>xeac</abbreviation><citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation></localTypeDeclaration></control><cpfDescription><identity><entityId localType="skos:exactMatch">http://viaf.org/viaf/45606719</entityId><entityId localType="skos:exactMatch">http://d-nb.info/gnd/102620989</entityId><entityType>person</entityType><nameEntry><part>Low, Lyman Haynes, 1844-1924</part><preferredForm>ANS</preferredForm></nameEntry></identity><description><existDates localType="xeac:life"><dateRange><fromDate standardDate="1844">1844</fromDate><toDate standardDate="1924">1924</toDate></dateRange></existDates><biogHist><chronList><chronItem><event>Born</event><date standardDate="1844">1844</date><placeEntry vocabularySource="http://www.geonames.org/4930956/">Boston (Mass.)</placeEntry></chronItem><chronItem><event>Moved to New York City</event><date standardDate="1870">1870</date><placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry></chronItem><chronItem><event>Joined the American Numismatic Society</event><date standardDate="1880">1880</date></chronItem><chronItem><event>Settle in New Rochelle, N.Y.</event><date standardDate="1911">1911</date><placeEntry vocabularySource="http://www.geonames.org/5128549/">New Rochelle (N.Y.)</placeEntry></chronItem></chronList><abstract>Lyman Haynes Low (1844-1924) was a coin dealer who published the book Hard Times Tokens in 1899.</abstract><p>Lyman Haynes Low (1844-1924) was a coin dealer who published the book Hard Times Tokens in 1899. He was born in Boston, moved to New York City in 1870, and settled in New Rochelle in 1911. He joined the American Numismatic and Archeological Society (later the American Numismatic Society) in 1880 and served as its librarian from 1886 to 1891. He served with the 13th Massachusetts Volunteers in the Civil War, and was associated with the Scott Stamp and Coin Company for nearly 20 years, beginning in 1878.</p></biogHist><occupation><placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry><dateRange><fromDate standardDate="1886">1886</fromDate><toDate standardDate="1891">1891</toDate></dateRange><term vocabularySource="http://vocab.getty.edu/aat/300025555">librarians</term></occupation></description><relations><cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization"><relationEntry>American Numismatic Society</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/154498098" xlink:arcrole="org:memberOf" xlink:role="org:Organization"><dateRange><fromDate standardDate="1878">1878</fromDate><toDate standardDate="1898">1898</toDate></dateRange><relationEntry>Scott Stamp &amp; Coin Company, Limited</relationEntry></cpfRelation></relations></cpfDescription></eac-cpf>
+<?xml version="1.0"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <control>
+    <recordId>low</recordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+      <agencyCode>US-nnan</agencyCode>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2014-06-12T14:17:08-04:00">Thu, 12 Jun 2014 14:17:08 -0400</eventDateTime>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2014-06-20T12:41:55.808Z"/>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2015-03-19T10:08:49.963Z"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-01-27T15:21:52.308-05:00"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <conventionDeclaration>
+      <abbreviation>ANS</abbreviation>
+      <citation>American Numismatic Society</citation>
+    </conventionDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>dcterms</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>foaf</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>org</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>rel</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>skos</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>xeac</abbreviation>
+      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+    </localTypeDeclaration>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityId localType="skos:exactMatch">http://viaf.org/viaf/45606719</entityId>
+      <entityId localType="skos:exactMatch">http://d-nb.info/gnd/102620989</entityId>
+      <entityType>person</entityType>
+      <nameEntry>
+        <part>Low, Lyman Haynes, 1844-1924</part>
+        <preferredForm>ANS</preferredForm>
+      </nameEntry>
+    </identity>
+    <description>
+      <existDates localType="xeac:life">
+        <dateRange>
+          <fromDate standardDate="1844">1844</fromDate>
+          <toDate standardDate="1924">1924</toDate>
+        </dateRange>
+      </existDates>
+      <biogHist>
+        <chronList>
+          <chronItem>
+            <event>Born</event>
+            <date standardDate="1844">1844</date>
+            <placeEntry vocabularySource="http://www.geonames.org/4930956/">Boston (Mass.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Moved to New York City</event>
+            <date standardDate="1870">1870</date>
+            <placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Joined the American Numismatic Society</event>
+            <date standardDate="1880">1880</date>
+          </chronItem>
+          <chronItem>
+            <event>Settle in New Rochelle, N.Y.</event>
+            <date standardDate="1911">1911</date>
+            <placeEntry vocabularySource="http://www.geonames.org/5128549/">New Rochelle (N.Y.)</placeEntry>
+          </chronItem>
+        </chronList>
+        <abstract>Lyman Haynes Low (1844-1924) was a coin dealer who published the book Hard Times Tokens in 1899.</abstract>
+        <p>Lyman Haynes Low (1844-1924) was a coin dealer who published the book Hard Times Tokens in 1899. He was born in Boston, moved to New York City in 1870, and settled in New Rochelle in 1911. He joined the American Numismatic and Archeological Society (later the American Numismatic Society) in 1880 and served as its librarian from 1886 to 1891. He served with the 13th Massachusetts Volunteers in the Civil War, and was associated with the Scott Stamp and Coin Company for nearly 20 years, beginning in 1878.</p>
+      </biogHist>
+      <occupation>
+        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+        <dateRange>
+          <fromDate standardDate="1886">1886</fromDate>
+          <toDate standardDate="1891">1891</toDate>
+        </dateRange>
+        <term vocabularySource="http://vocab.getty.edu/aat/300025555">librarians</term>
+      </occupation>
+    </description>
+    <relations>
+      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+        <relationEntry>American Numismatic Society</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/154498098" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+        <dateRange>
+          <fromDate standardDate="1878">1878</fromDate>
+          <toDate standardDate="1898">1898</toDate>
+        </dateRange>
+        <relationEntry>Scott Stamp &amp; Coin Company, Limited</relationEntry>
+      </cpfRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

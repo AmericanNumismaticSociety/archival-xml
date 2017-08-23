@@ -1,1 +1,107 @@
-<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink"><control><recordId>pell</recordId><maintenanceAgency><agencyName>American Numismatic Society</agencyName></maintenanceAgency><maintenanceHistory><maintenanceEvent><eventType>created</eventType><eventDateTime standardDateTime="2014-06-18T20:42:40.297Z"/><agentType>human</agentType><agent>Ethan Gruber</agent></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2015-03-19T10:08:49.869Z"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2016-01-27T15:21:52.228-05:00"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription></maintenanceEvent></maintenanceHistory><maintenanceStatus>revised</maintenanceStatus><publicationStatus>approved</publicationStatus><conventionDeclaration><abbreviation>ANS</abbreviation><citation>American Numismatic Society</citation></conventionDeclaration><localTypeDeclaration><abbreviation>dcterms</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>foaf</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>org</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>rel</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>skos</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>xeac</abbreviation><citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation></localTypeDeclaration></control><cpfDescription><identity><entityType>person</entityType><nameEntry><part>Pell, Stephen H. P., 1874-1950</part><preferredForm>ANS</preferredForm></nameEntry></identity><description><biogHist><chronList><chronItem><event>Born</event><date standardDate="1874-02-03">February 03, 1874</date><placeEntry vocabularySource="http://www.geonames.org/5117472/">Flushing (N.Y.)</placeEntry></chronItem></chronList><abstract>Long-time Councilor and collector of Colonial relics, Pell's greatest contribution to the ANS occurred when he volunteered to serve as ANS President after Edward Newell's untimely death. </abstract><p>Stephen H.P. Pell, a long-time ANS Council member with "an enthusiasm for anything having to do with Revolutionary relics," was born in Flushing, Long Island on February 3, 1874. He graduated from the Flushing Institute and subsequently became a banker and broker. </p><p>Pell was an avid collector of Colonial coinage. He joined the ANS in 1907 and by 1908 was elected Fellow. In 1915, Pell was named a Patron in part for his donation of the Indian Peace Medal collection which bears his name. </p><p>Pell's most significant contribution to ANS, however, came in the early 1940s. When Edward Newell, the Society's long-time president, died unexpectedly in February 1941, the Society was plunged into a crisis. The Society's constitution did not provide for presidential succession, and the Society had neither vice-presidents nor an executive director. Pell, a Councilor since 1916, volunteered to fill the leadership void. </p><p>Pell would serve as president for the the remainder of Newell's unexpired term. During his brief presidency, Pell oversaw revisions to the Society's constitution to create the positions of first and second vice president and allow for succession in case the president was unable to finish his term. </p><p>While on the Council, Pell served on numerous standing committees, including: Decorations, Insignia and War Medals (1908-33), Indian Peace Medals (1920-29), Publications (1934-46) and and U.S. Coins (1947-49). In 1949 he was elected Honorary President for Life in recognition of his role guiding the Society through the transition period after Newell's untimely death. </p><p>Pell's chief non-numismatic interest involved the restoration of the American revolutionary war site of Fort Ticonderoga. He had inherited the land the site was on from his great-grandfather and, beginning in 1909, began to faithfully — and successfully — restore the site as a museum. By the time of Pell's death, it was reported that the Fort Ticonderoga Museum housed the nation's largest collection of colonial artifacts. </p><p>Pell was also a decorated war veteran, having served in both the Spanish-American and First World Wars. In the latter conflict, Pell served initially with the French Army in the the American Volunteer Ambulance Service. After America's entry into the war, he joined the U.S. Army Ambulance Corps. Wounded in action, Pell received both the Croix de Guerre and Legion of Honor for this service. </p><p>Pell died in June 1950 at the age of 76. </p></biogHist><existDates localType="xeac:life"><dateRange><fromDate standardDate="1874-02-03">February 03, 1874</fromDate><toDate standardDate="1950-06">June 1950</toDate></dateRange></existDates><occupation><term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term></occupation></description><relations><cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization"><relationEntry>American Numismatic Society</relationEntry></cpfRelation><resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/S.H.P.Pell.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait"><relationEntry>portrait</relationEntry></resourceRelation></relations></cpfDescription></eac-cpf>
+<?xml version="1.0"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <control>
+    <recordId>pell</recordId>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2014-06-18T20:42:40.297Z"/>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2015-03-19T10:08:49.869Z"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-01-27T15:21:52.228-05:00"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <publicationStatus>approved</publicationStatus>
+    <conventionDeclaration>
+      <abbreviation>ANS</abbreviation>
+      <citation>American Numismatic Society</citation>
+    </conventionDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>dcterms</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>foaf</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>org</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>rel</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>skos</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>xeac</abbreviation>
+      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+    </localTypeDeclaration>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>person</entityType>
+      <nameEntry>
+        <part>Pell, Stephen H. P., 1874-1950</part>
+        <preferredForm>ANS</preferredForm>
+      </nameEntry>
+    </identity>
+    <description>
+      <biogHist>
+        <chronList>
+          <chronItem>
+            <event>Born</event>
+            <date standardDate="1874-02-03">February 03, 1874</date>
+            <placeEntry vocabularySource="http://www.geonames.org/5117472/">Flushing (N.Y.)</placeEntry>
+          </chronItem>
+        </chronList>
+        <abstract>Long-time Councilor and collector of Colonial relics, Pell's greatest contribution to the ANS occurred when he volunteered to serve as ANS President after Edward Newell's untimely death. </abstract>
+        <p>Stephen H.P. Pell, a long-time ANS Council member with "an enthusiasm for anything having to do with Revolutionary relics," was born in Flushing, Long Island on February 3, 1874. He graduated from the Flushing Institute and subsequently became a banker and broker. </p>
+        <p>Pell was an avid collector of Colonial coinage. He joined the ANS in 1907 and by 1908 was elected Fellow. In 1915, Pell was named a Patron in part for his donation of the Indian Peace Medal collection which bears his name. </p>
+        <p>Pell's most significant contribution to ANS, however, came in the early 1940s. When Edward Newell, the Society's long-time president, died unexpectedly in February 1941, the Society was plunged into a crisis. The Society's constitution did not provide for presidential succession, and the Society had neither vice-presidents nor an executive director. Pell, a Councilor since 1916, volunteered to fill the leadership void. </p>
+        <p>Pell would serve as president for the the remainder of Newell's unexpired term. During his brief presidency, Pell oversaw revisions to the Society's constitution to create the positions of first and second vice president and allow for succession in case the president was unable to finish his term. </p>
+        <p>While on the Council, Pell served on numerous standing committees, including: Decorations, Insignia and War Medals (1908-33), Indian Peace Medals (1920-29), Publications (1934-46) and and U.S. Coins (1947-49). In 1949 he was elected Honorary President for Life in recognition of his role guiding the Society through the transition period after Newell's untimely death. </p>
+        <p>Pell's chief non-numismatic interest involved the restoration of the American revolutionary war site of Fort Ticonderoga. He had inherited the land the site was on from his great-grandfather and, beginning in 1909, began to faithfully &#x2014; and successfully &#x2014; restore the site as a museum. By the time of Pell's death, it was reported that the Fort Ticonderoga Museum housed the nation's largest collection of colonial artifacts. </p>
+        <p>Pell was also a decorated war veteran, having served in both the Spanish-American and First World Wars. In the latter conflict, Pell served initially with the French Army in the the American Volunteer Ambulance Service. After America's entry into the war, he joined the U.S. Army Ambulance Corps. Wounded in action, Pell received both the Croix de Guerre and Legion of Honor for this service. </p>
+        <p>Pell died in June 1950 at the age of 76. </p>
+      </biogHist>
+      <existDates localType="xeac:life">
+        <dateRange>
+          <fromDate standardDate="1874-02-03">February 03, 1874</fromDate>
+          <toDate standardDate="1950-06">June 1950</toDate>
+        </dateRange>
+      </existDates>
+      <occupation>
+        <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
+      </occupation>
+    </description>
+    <relations>
+      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+        <relationEntry>American Numismatic Society</relationEntry>
+      </cpfRelation>
+      <resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/S.H.P.Pell.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
+        <relationEntry>portrait</relationEntry>
+      </resourceRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

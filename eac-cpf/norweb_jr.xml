@@ -1,1 +1,132 @@
-<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink"><control><recordId>norweb_jr</recordId><maintenanceAgency><agencyName>American Numismatic Society</agencyName></maintenanceAgency><maintenanceHistory><maintenanceEvent><eventType>created</eventType><eventDateTime standardDateTime="2014-06-18T20:26:07.57Z"/><agentType>human</agentType><agent>Ethan Gruber</agent></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2015-03-19T10:08:49.332Z"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2016-01-27T15:21:51.638-05:00"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription></maintenanceEvent></maintenanceHistory><maintenanceStatus>new</maintenanceStatus><publicationStatus>approved</publicationStatus><sources><source xlink:type="simple" xlink:href="http://viaf.org/viaf/258296933"/></sources><conventionDeclaration><abbreviation>ANS</abbreviation><citation>American Numismatic Society</citation></conventionDeclaration><localTypeDeclaration><abbreviation>dcterms</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>foaf</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>org</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>rel</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>skos</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>xeac</abbreviation><citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation></localTypeDeclaration></control><cpfDescription><identity><entityType>person</entityType><nameEntry><part>Norweb, R. Henry, 1918-1995</part></nameEntry></identity><description><biogHist><chronList><chronItem><event>Born</event><date standardDate="1918-08-19">August 19, 1918</date><placeEntry vocabularySource="http://www.geonames.org/2988507/">Paris (France)</placeEntry></chronItem></chronList><abstract>Norweb served on the Council from 1978 until his death in 1995 and as President of such from 1990 to 1994. Norweb's tenure on the Council included work as the co-chair of the Society's first annual giving campaign in the late 1980s and the Council's governance and long-range planning committees in the 1990s. </abstract><p>R. Henry Norweb, Jr., 20th President of the ANS, was born on August 19, 1918 in Paris, France, in a bomb shelter to which his mother was taken in anticipation of an air raid by German bombers. Norweb's father, R. Henry Norweb, Sr. was serving in the American embassy in Paris at the time. </p><p>Norweb initially was educated in foreign schools and by private tutors while he accompanied his parents to various diplomatic postings, mainly in Chile and the Netherlands. He obtained his bachelor's degree in American history in 1940 from Harvard University. </p><p>Although Norweb's numismatic interests were varied, they tended to focus on Western Hemisphere issues, in particular Brazilian coins. Norweb's mother, Emery May Holden Norweb, fostered his interest in numismatics early in life. Later, Norweb would recall his mother assigning him and his sister to attribute died varieties of Connecticut copper coins and large cents when they were only in their pre-teens. </p><p>Norweb first joined the ANS in 1956 and by 1975 was elected a fellow. In 1978, Norweb was also elected the ANS Council, where he succeeded his father, who had served on the Council since 1960. </p><p>Norweb was elected First Vice-President in 1984. He remained in this position until 1990, when he succeeded Harry Fowler as ANS President. During his tenure as First Vice-President, Norweb served as co-chair of the Society's first Annual Giving Drive in the late 1980s. Norweb would remain as President until 1994. After stepping down, Norweb continued to be an active member of the Council and co-chaired the Society's Governance and Long Range Planning Committees. </p><p>In addition to the ANS, Norweb's other numismatic affiliations included the American Numismatic Association, Central States Numismatic Society and Sociedade Numismatica Brasilera. </p><p>Outside of numismatics, Norweb served as Executive Director of the Holden Arboretum in Cleveland, Ohio — one of the nation's leading "living museums" for the care and study of woody plants — from 1959 until his retirement in 1983. In addition, he also served on the board of a numerous other organizations such as the Cleveland Orchestra and Western Reserve Historical Society. </p></biogHist><existDates localType="xeac:life"><dateRange><fromDate standardDate="1918-08-19">August 19, 1918</fromDate><toDate standardDate="1995">1995</toDate></dateRange></existDates><occupation><term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term></occupation><occupation><placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry><dateRange><fromDate standardDate="1990">1990</fromDate><toDate standardDate="1994">1994</toDate></dateRange><term>President, ANS</term></occupation><occupation><placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry><dateRange><fromDate standardDate="1984">1984</fromDate><toDate standardDate="1990">1990</toDate></dateRange><term>Vice President, ANS</term></occupation></description><relations><resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/norwebjr1978-01.jpg" xlink:arcrole="foaf:thumbnail" xlink:role="portrait"><relationEntry>portrait</relationEntry></resourceRelation><cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization"><relationEntry>American Numismatic Society</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:arcrole="org:memberOf" xlink:role="org:Organization" xlink:href="http://viaf.org/viaf/147178274"><dateRange><fromDate standardDate="1959">1959</fromDate><toDate standardDate="1983">1983</toDate></dateRange><relationEntry>Holden Arboretum</relationEntry><placeEntry vocabularySource="http://www.geonames.org/5150529/">Cleveland (Ohio)</placeEntry></cpfRelation></relations></cpfDescription></eac-cpf>
+<?xml version="1.0"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <control>
+    <recordId>norweb_jr</recordId>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2014-06-18T20:26:07.57Z"/>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2015-03-19T10:08:49.332Z"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-01-27T15:21:51.638-05:00"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <maintenanceStatus>new</maintenanceStatus>
+    <publicationStatus>approved</publicationStatus>
+    <sources>
+      <source xlink:type="simple" xlink:href="http://viaf.org/viaf/258296933"/>
+    </sources>
+    <conventionDeclaration>
+      <abbreviation>ANS</abbreviation>
+      <citation>American Numismatic Society</citation>
+    </conventionDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>dcterms</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>foaf</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>org</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>rel</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>skos</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>xeac</abbreviation>
+      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+    </localTypeDeclaration>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>person</entityType>
+      <nameEntry>
+        <part>Norweb, R. Henry, 1918-1995</part>
+      </nameEntry>
+    </identity>
+    <description>
+      <biogHist>
+        <chronList>
+          <chronItem>
+            <event>Born</event>
+            <date standardDate="1918-08-19">August 19, 1918</date>
+            <placeEntry vocabularySource="http://www.geonames.org/2988507/">Paris (France)</placeEntry>
+          </chronItem>
+        </chronList>
+        <abstract>Norweb served on the Council from 1978 until his death in 1995 and as President of such from 1990 to 1994. Norweb's tenure on the Council included work as the co-chair of the Society's first annual giving campaign in the late 1980s and the Council's governance and long-range planning committees in the 1990s. </abstract>
+        <p>R. Henry Norweb, Jr., 20th President of the ANS, was born on August 19, 1918 in Paris, France, in a bomb shelter to which his mother was taken in anticipation of an air raid by German bombers. Norweb's father, R. Henry Norweb, Sr. was serving in the American embassy in Paris at the time. </p>
+        <p>Norweb initially was educated in foreign schools and by private tutors while he accompanied his parents to various diplomatic postings, mainly in Chile and the Netherlands. He obtained his bachelor's degree in American history in 1940 from Harvard University. </p>
+        <p>Although Norweb's numismatic interests were varied, they tended to focus on Western Hemisphere issues, in particular Brazilian coins. Norweb's mother, Emery May Holden Norweb, fostered his interest in numismatics early in life. Later, Norweb would recall his mother assigning him and his sister to attribute died varieties of Connecticut copper coins and large cents when they were only in their pre-teens. </p>
+        <p>Norweb first joined the ANS in 1956 and by 1975 was elected a fellow. In 1978, Norweb was also elected the ANS Council, where he succeeded his father, who had served on the Council since 1960. </p>
+        <p>Norweb was elected First Vice-President in 1984. He remained in this position until 1990, when he succeeded Harry Fowler as ANS President. During his tenure as First Vice-President, Norweb served as co-chair of the Society's first Annual Giving Drive in the late 1980s. Norweb would remain as President until 1994. After stepping down, Norweb continued to be an active member of the Council and co-chaired the Society's Governance and Long Range Planning Committees. </p>
+        <p>In addition to the ANS, Norweb's other numismatic affiliations included the American Numismatic Association, Central States Numismatic Society and Sociedade Numismatica Brasilera. </p>
+        <p>Outside of numismatics, Norweb served as Executive Director of the Holden Arboretum in Cleveland, Ohio &#x2014; one of the nation's leading "living museums" for the care and study of woody plants &#x2014; from 1959 until his retirement in 1983. In addition, he also served on the board of a numerous other organizations such as the Cleveland Orchestra and Western Reserve Historical Society. </p>
+      </biogHist>
+      <existDates localType="xeac:life">
+        <dateRange>
+          <fromDate standardDate="1918-08-19">August 19, 1918</fromDate>
+          <toDate standardDate="1995">1995</toDate>
+        </dateRange>
+      </existDates>
+      <occupation>
+        <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
+      </occupation>
+      <occupation>
+        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+        <dateRange>
+          <fromDate standardDate="1990">1990</fromDate>
+          <toDate standardDate="1994">1994</toDate>
+        </dateRange>
+        <term>President, ANS</term>
+      </occupation>
+      <occupation>
+        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+        <dateRange>
+          <fromDate standardDate="1984">1984</fromDate>
+          <toDate standardDate="1990">1990</toDate>
+        </dateRange>
+        <term>Vice President, ANS</term>
+      </occupation>
+    </description>
+    <relations>
+      <resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/norwebjr1978-01.jpg" xlink:arcrole="foaf:thumbnail" xlink:role="portrait">
+        <relationEntry>portrait</relationEntry>
+      </resourceRelation>
+      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+        <relationEntry>American Numismatic Society</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:arcrole="org:memberOf" xlink:role="org:Organization" xlink:href="http://viaf.org/viaf/147178274">
+        <dateRange>
+          <fromDate standardDate="1959">1959</fromDate>
+          <toDate standardDate="1983">1983</toDate>
+        </dateRange>
+        <relationEntry>Holden Arboretum</relationEntry>
+        <placeEntry vocabularySource="http://www.geonames.org/5150529/">Cleveland (Ohio)</placeEntry>
+      </cpfRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

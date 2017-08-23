@@ -1,10 +1,217 @@
-<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink"><control><recordId>newell</recordId><maintenanceStatus>revised</maintenanceStatus><publicationStatus>approved</publicationStatus><maintenanceAgency><agencyName>American Numismatic Society</agencyName><agencyCode>US-nnan</agencyCode></maintenanceAgency><maintenanceHistory><maintenanceEvent><eventType>derived</eventType><eventDateTime standardDateTime="2014-06-12T14:17:10-04:00">Thu, 12 Jun 2014 14:17:10 -0400</eventDateTime><agentType>human</agentType><agent>Ethan Gruber</agent><eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2014-06-12T18:23:06.438Z"/><agentType>human</agentType><agent>Ethan Gruber</agent><eventDescription>Related Newell to Noe.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2014-06-12T18:33:02.375Z"/><agentType>machine</agentType><agent>xEAC</agent><eventDescription>Relation Inserted</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2014-06-18T19:22:04.976Z"/><agentType>machine</agentType><agent>xEAC</agent><eventDescription>Relation Inserted</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2014-06-19T20:32:37.314Z"/><agentType>human</agentType><agent>Updated relationship properties</agent></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2014-10-06T19:13:01.103Z"/><agentType>human</agentType><agent>Added SNAC URI</agent></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2016-01-19T14:47:02.879-05:00"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2016-01-27T15:21:51.803-05:00"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription></maintenanceEvent></maintenanceHistory><conventionDeclaration><abbreviation>ANS</abbreviation><citation>American Numismatic Society</citation></conventionDeclaration><sources><source xlink:type="simple" xlink:href="http://socialarchive.iath.virginia.edu/ark:/99166/w6x63rt8"><sourceEntry>SNAC</sourceEntry><descriptiveNote><p>Programmatically linked this record to SNAC with
-											xEAC.</p></descriptiveNote></source></sources><localTypeDeclaration><abbreviation>dcterms</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>foaf</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>org</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>rel</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>skos</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>xeac</abbreviation><citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation></localTypeDeclaration></control><cpfDescription><identity><entityId localType="skos:exactMatch">http://socialarchive.iath.virginia.edu/ark:/99166/w6x63rt8</entityId><entityId localType="skos:exactMatch">http://viaf.org/viaf/28124686</entityId><entityId localType="skos:exactMatch">http://dbpedia.org/resource/Edward_Theodore_Newell</entityId><entityId localType="skos:exactMatch">http://www.idref.fr/074163108/id</entityId><entityId localType="skos:exactMatch">http://d-nb.info/gnd/159145430</entityId><entityType>person</entityType><nameEntry><part>Newell, Edward Theodore, 1886-1941</part><preferredForm>ANS</preferredForm></nameEntry></identity><description><existDates localType="xeac:life"><dateRange><fromDate standardDate="1886">1886</fromDate><toDate standardDate="1941">1941</toDate></dateRange></existDates><biogHist><chronList><chronItem><event>Born</event><date standardDate="1886">1886</date><placeEntry vocabularySource="http://www.geonames.org/5258393/">Kenosha (Wis.)</placeEntry></chronItem><chronItem><event>Attended Yale</event><dateRange><fromDate standardDate="1903">1903</fromDate><toDate standardDate="1909">1909</toDate></dateRange><placeEntry vocabularySource="http://www.geonames.org/4846179/">Yale University (Conn.)</placeEntry></chronItem><chronItem><event>Received Archer M. Huntington Medal Award </event><date standardDate="1918">1918</date></chronItem><chronItem><event> The Royal Numismatic Society awarded him its medal for "distinguished service in numismatic research."</event><date standardDate="1925">1925</date></chronItem><chronItem><event>Died</event><date standardDate="1941">1941</date></chronItem></chronList><abstract>Edward Theodore Newell (1886–1941) was a U.S. numismatist. He served as the president of the American Numismatic Society between 1916 and 1941.</abstract><p>Edward T. Newell, the ANS's longest-serving President and perhaps the greatest numismatist of his generation, was born in Kenosha, Wisconsin in 1886. He attended Yale University,
-					from which he earned his bachelor of arts in 1907 and master of arts in 1909. It was during his tenure at Yale, that the young Newell — just 19 years old — first inquired in 1905
+<?xml version="1.0"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <control>
+    <recordId>newell</recordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+      <agencyCode>US-nnan</agencyCode>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2014-06-12T14:17:10-04:00">Thu, 12 Jun 2014 14:17:10 -0400</eventDateTime>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2014-06-12T18:23:06.438Z"/>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+        <eventDescription>Related Newell to Noe.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2014-06-12T18:33:02.375Z"/>
+        <agentType>machine</agentType>
+        <agent>xEAC</agent>
+        <eventDescription>Relation Inserted</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2014-06-18T19:22:04.976Z"/>
+        <agentType>machine</agentType>
+        <agent>xEAC</agent>
+        <eventDescription>Relation Inserted</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2014-06-19T20:32:37.314Z"/>
+        <agentType>human</agentType>
+        <agent>Updated relationship properties</agent>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2014-10-06T19:13:01.103Z"/>
+        <agentType>human</agentType>
+        <agent>Added SNAC URI</agent>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-01-19T14:47:02.879-05:00"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-01-27T15:21:51.803-05:00"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <conventionDeclaration>
+      <abbreviation>ANS</abbreviation>
+      <citation>American Numismatic Society</citation>
+    </conventionDeclaration>
+    <sources>
+      <source xlink:type="simple" xlink:href="http://socialarchive.iath.virginia.edu/ark:/99166/w6x63rt8">
+        <sourceEntry>SNAC</sourceEntry>
+        <descriptiveNote>
+          <p>Programmatically linked this record to SNAC with
+											xEAC.</p>
+        </descriptiveNote>
+      </source>
+    </sources>
+    <localTypeDeclaration>
+      <abbreviation>dcterms</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>foaf</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>org</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>rel</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>skos</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>xeac</abbreviation>
+      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+    </localTypeDeclaration>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityId localType="skos:exactMatch">http://socialarchive.iath.virginia.edu/ark:/99166/w6x63rt8</entityId>
+      <entityId localType="skos:exactMatch">http://viaf.org/viaf/28124686</entityId>
+      <entityId localType="skos:exactMatch">http://dbpedia.org/resource/Edward_Theodore_Newell</entityId>
+      <entityId localType="skos:exactMatch">http://www.idref.fr/074163108/id</entityId>
+      <entityId localType="skos:exactMatch">http://d-nb.info/gnd/159145430</entityId>
+      <entityType>person</entityType>
+      <nameEntry>
+        <part>Newell, Edward Theodore, 1886-1941</part>
+        <preferredForm>ANS</preferredForm>
+      </nameEntry>
+    </identity>
+    <description>
+      <existDates localType="xeac:life">
+        <dateRange>
+          <fromDate standardDate="1886">1886</fromDate>
+          <toDate standardDate="1941">1941</toDate>
+        </dateRange>
+      </existDates>
+      <biogHist>
+        <chronList>
+          <chronItem>
+            <event>Born</event>
+            <date standardDate="1886">1886</date>
+            <placeEntry vocabularySource="http://www.geonames.org/5258393/">Kenosha (Wis.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Attended Yale</event>
+            <dateRange>
+              <fromDate standardDate="1903">1903</fromDate>
+              <toDate standardDate="1909">1909</toDate>
+            </dateRange>
+            <placeEntry vocabularySource="http://www.geonames.org/4846179/">Yale University (Conn.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Received Archer M. Huntington Medal Award </event>
+            <date standardDate="1918">1918</date>
+          </chronItem>
+          <chronItem>
+            <event> The Royal Numismatic Society awarded him its medal for "distinguished service in numismatic research."</event>
+            <date standardDate="1925">1925</date>
+          </chronItem>
+          <chronItem>
+            <event>Died</event>
+            <date standardDate="1941">1941</date>
+          </chronItem>
+        </chronList>
+        <abstract>Edward Theodore Newell (1886&#x2013;1941) was a U.S. numismatist. He served as the president of the American Numismatic Society between 1916 and 1941.</abstract>
+        <p>Edward T. Newell, the ANS's longest-serving President and perhaps the greatest numismatist of his generation, was born in Kenosha, Wisconsin in 1886. He attended Yale University,
+					from which he earned his bachelor of arts in 1907 and master of arts in 1909. It was during his tenure at Yale, that the young Newell &#x2014; just 19 years old &#x2014; first inquired in 1905
 					about membership in the ANS. By 1910, at the age of 24, Newell was elected to the Society's governing Council. In 1916 he was named ANS President, a position he would hold until
-					his untimely death in 1941. </p><p>During his lifetime, Newell was considered to be the world's leading expert on the coinage of Alexander the Great and his successors. And Newell's collection — with more than 87,000
-					coins — was considered to be the largest private collection of Greek coins. Upon his death, Newell bequeathed this mammoth collection to the ANS. It was — and still is — the
-					largest single donation given to the Society. </p><p>Newell was a prolific author. From 1912 through 1941, Newell published more than 30 monographs, and left behind numerous unpublished manuscripts. In recognition of his contributions
+					his untimely death in 1941. </p>
+        <p>During his lifetime, Newell was considered to be the world's leading expert on the coinage of Alexander the Great and his successors. And Newell's collection &#x2014; with more than 87,000
+					coins &#x2014; was considered to be the largest private collection of Greek coins. Upon his death, Newell bequeathed this mammoth collection to the ANS. It was &#x2014; and still is &#x2014; the
+					largest single donation given to the Society. </p>
+        <p>Newell was a prolific author. From 1912 through 1941, Newell published more than 30 monographs, and left behind numerous unpublished manuscripts. In recognition of his contributions
 					to numismatic writings, Newell received the first Archer M. Huntington Medal Award in 1918. In addition, in 1925, the Royal Numismatic Society awarded him its medal for
-					"distinguished service in numismatic research." </p><p>In addition to his association with the ANS, Newell also was a Fellow of the Royal Numismatic Society, the British Numismatic Society and the American Numismatic Association. He
-					also served as President of the New York Numismatic Club in the 1930s. </p><p>Upon his passing in February of 1941, The Numismatist declared that "[Newell's] numismatic life was an ideal which others may strive to emulate." Newell was only 55 years old. </p></biogHist></description><relations><cpfRelation xlink:type="simple" xlink:role="foaf:Person" xlink:arcrole="xeac:correspondedWith" xlink:href="noe"><relationEntry>Noe, Sydney P. (Sydney Philip), 1885-1969</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:role="foaf:Person" xlink:arcrole="xeac:correspondedWith"><relationEntry>Bonner, Campbell, 1876-1954</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:role="foaf:Person" xlink:arcrole="xeac:correspondedWith"><relationEntry>Babelon, Jean, 1889-1978</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:role="foaf:Person" xlink:arcrole="xeac:correspondedWith"><relationEntry>Dewey, William S.</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:role="foaf:Person" xlink:arcrole="xeac:correspondedWith"><relationEntry>Clark, William L.</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:arcrole="xeac:correspondedWith" xlink:role="foaf:Person"><relationEntry>Mosser, Sawyer McArthur, b. 1905</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:role="foaf:Person" xlink:arcrole="xeac:correspondedWith"><relationEntry>Ball, George W.</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:arcrole="xeac:correspondedWith" xlink:role="foaf:Person" xlink:href="wood_howland"><relationEntry>Wood, Howland, 1877-1938</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:arcrole="xeac:correspondedWith" xlink:role="foaf:Person" xlink:href="endicott"><relationEntry>Endicott, F. Munroe (Francis Munroe), 1879-1935</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:arcrole="xeac:correspondedWith" xlink:role="foaf:Person" xlink:href="schulman"><relationEntry>Schulman, Hans M. F. (Hans Moritz Friedrich), 1913-1990</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:href="zerbe" xlink:arcrole="xeac:correspondedWith" xlink:role="foaf:Person"><relationEntry>Zerbe, Farran, 1871-1949</relationEntry></cpfRelation><cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="ives" xlink:arcrole="xeac:correspondedWith"><relationEntry>Ives, Herbert E. (Herbert Eugene), 1882-1953</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:arcrole="rel:spouseOf" xlink:role="foaf:Person"><relationEntry>Newell, Adra</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:href="miles" xlink:arcrole="rel:colleagueOf" xlink:role="foaf:Person"><relationEntry>Miles, George Carpenter, 1904-1975</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:role="org:Organization" xlink:arcrole="org:memberOf" xlink:href="american_numismatic_society"><relationEntry>American Numismatic Society</relationEntry></cpfRelation></relations></cpfDescription></eac-cpf>
+					"distinguished service in numismatic research." </p>
+        <p>In addition to his association with the ANS, Newell also was a Fellow of the Royal Numismatic Society, the British Numismatic Society and the American Numismatic Association. He
+					also served as President of the New York Numismatic Club in the 1930s. </p>
+        <p>Upon his passing in February of 1941, The Numismatist declared that "[Newell's] numismatic life was an ideal which others may strive to emulate." Newell was only 55 years old. </p>
+      </biogHist>
+    </description>
+    <relations>
+      <cpfRelation xlink:type="simple" xlink:role="foaf:Person" xlink:arcrole="xeac:correspondedWith" xlink:href="noe">
+        <relationEntry>Noe, Sydney P. (Sydney Philip), 1885-1969</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="foaf:Person" xlink:arcrole="xeac:correspondedWith">
+        <relationEntry>Bonner, Campbell, 1876-1954</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="foaf:Person" xlink:arcrole="xeac:correspondedWith">
+        <relationEntry>Babelon, Jean, 1889-1978</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="foaf:Person" xlink:arcrole="xeac:correspondedWith">
+        <relationEntry>Dewey, William S.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="foaf:Person" xlink:arcrole="xeac:correspondedWith">
+        <relationEntry>Clark, William L.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:arcrole="xeac:correspondedWith" xlink:role="foaf:Person">
+        <relationEntry>Mosser, Sawyer McArthur, b. 1905</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="foaf:Person" xlink:arcrole="xeac:correspondedWith">
+        <relationEntry>Ball, George W.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:arcrole="xeac:correspondedWith" xlink:role="foaf:Person" xlink:href="wood_howland">
+        <relationEntry>Wood, Howland, 1877-1938</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:arcrole="xeac:correspondedWith" xlink:role="foaf:Person" xlink:href="endicott">
+        <relationEntry>Endicott, F. Munroe (Francis Munroe), 1879-1935</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:arcrole="xeac:correspondedWith" xlink:role="foaf:Person" xlink:href="schulman">
+        <relationEntry>Schulman, Hans M. F. (Hans Moritz Friedrich), 1913-1990</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:href="zerbe" xlink:arcrole="xeac:correspondedWith" xlink:role="foaf:Person">
+        <relationEntry>Zerbe, Farran, 1871-1949</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="ives" xlink:arcrole="xeac:correspondedWith">
+        <relationEntry>Ives, Herbert E. (Herbert Eugene), 1882-1953</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:arcrole="rel:spouseOf" xlink:role="foaf:Person">
+        <relationEntry>Newell, Adra</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:href="miles" xlink:arcrole="rel:colleagueOf" xlink:role="foaf:Person">
+        <relationEntry>Miles, George Carpenter, 1904-1975</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="org:Organization" xlink:arcrole="org:memberOf" xlink:href="american_numismatic_society">
+        <relationEntry>American Numismatic Society</relationEntry>
+      </cpfRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

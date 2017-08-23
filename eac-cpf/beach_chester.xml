@@ -1,1 +1,144 @@
-<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink"><control><recordId>beach_chester</recordId><maintenanceStatus>revised</maintenanceStatus><publicationStatus>approved</publicationStatus><maintenanceAgency><agencyName>American Numismatic Society</agencyName><agencyCode>US-nnan</agencyCode></maintenanceAgency><maintenanceHistory><maintenanceEvent><eventType>derived</eventType><eventDateTime standardDateTime="2014-06-12T14:17:01-04:00">Thu, 12 Jun 2014 14:17:01 -0400</eventDateTime><agentType>human</agentType><agent>Ethan Gruber</agent><eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2014-06-19T13:43:31.004Z"/><agentType>human</agentType><agent>Ethan Gruber</agent><eventDescription>Added context.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2015-03-19T10:08:49.508Z"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2016-01-27T15:21:51.863-05:00"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription></maintenanceEvent></maintenanceHistory><conventionDeclaration><abbreviation>ANS</abbreviation><citation>American Numismatic Society</citation></conventionDeclaration><sources><source xlink:type="simple" xlink:href="http://viaf.org/viaf/17181229"/></sources><localTypeDeclaration><abbreviation>dcterms</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>foaf</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>org</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>rel</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>skos</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>xeac</abbreviation><citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation></localTypeDeclaration></control><cpfDescription><identity><entityType>person</entityType><nameEntry><part>Beach, Chester A., 1881-1956</part><preferredForm>ANS</preferredForm></nameEntry></identity><description><existDates localType="xeac:life"><dateRange><fromDate standardDate="1881">1881</fromDate><toDate standardDate="1956">1956</toDate></dateRange></existDates><biogHist><chronList><chronItem><event>Born</event><date standardDate="1881">1881</date><placeEntry vocabularySource="http://www.geonames.org/5391959/">San Francisco (Calif.)</placeEntry></chronItem><chronItem><event>Moved to New York</event><date standardDate="1903">1903</date><placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry></chronItem><chronItem><event>Attended École des Beaux-Arts</event><dateRange><fromDate standardDate="1904">1904</fromDate><toDate standardDate="1907">1907</toDate></dateRange><placeEntry vocabularySource="http://www.geonames.org/2988507/">Paris (France)</placeEntry></chronItem><chronItem><event>Returned to Manhattan</event><date standardDate="1907">1907</date><placeEntry vocabularySource="http://www.geonames.org/5125771/">Manhattan (N.Y.)</placeEntry></chronItem><chronItem><event>Designed statues for the Panama-Pacific International Exposition</event><date standardDate="1915">1915</date><placeEntry vocabularySource="http://www.geonames.org/5391959/">San Francisco (Calif.)</placeEntry></chronItem><chronItem><event>Designed peace medal</event><date standardDate="1919">1919</date></chronItem><chronItem><event>Awarded Saltus Medal</event><date standardDate="1946">1946</date><placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry></chronItem></chronList><abstract>Chester A. Beach (1881-1956) was a sculptor and medalist.</abstract><p>American sculptor Chester A. Beach (1881-1956) was born in San Francisco, moved to New York City in 1903, and then to Paris in 1904 where he attended the École des Beaux-Arts. He returned to Manhattan in 1907 and established a studio he maintained for forty-five years. In 1915 he designed three statues for the Panama-Pacific International Exposition and received a silver medal. In 1919 his entry was selected in a competition held by the American Numismatic Society (ANS) for the design of a peace medal commemorating the Treaty of Versailles. ANS awarded Beach its Saltus Medal in 1946 in recognition for his work in medals.</p></biogHist><occupation><term vocabularySource="http://vocab.getty.edu/aat/300025181">sculptors</term></occupation><occupation><term vocabularySource="http://vocab.getty.edu/aat/300025337">medalists</term></occupation></description><relations><resourceRelation xlink:type="simple" xlink:href="http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Chester_Beach.jpg/220px-Chester_Beach.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait"><relationEntry>portrait</relationEntry></resourceRelation></relations></cpfDescription></eac-cpf>
+<?xml version="1.0"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <control>
+    <recordId>beach_chester</recordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+      <agencyCode>US-nnan</agencyCode>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2014-06-12T14:17:01-04:00">Thu, 12 Jun 2014 14:17:01 -0400</eventDateTime>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2014-06-19T13:43:31.004Z"/>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+        <eventDescription>Added context.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2015-03-19T10:08:49.508Z"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-01-27T15:21:51.863-05:00"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <conventionDeclaration>
+      <abbreviation>ANS</abbreviation>
+      <citation>American Numismatic Society</citation>
+    </conventionDeclaration>
+    <sources>
+      <source xlink:type="simple" xlink:href="http://viaf.org/viaf/17181229"/>
+    </sources>
+    <localTypeDeclaration>
+      <abbreviation>dcterms</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>foaf</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>org</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>rel</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>skos</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>xeac</abbreviation>
+      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+    </localTypeDeclaration>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>person</entityType>
+      <nameEntry>
+        <part>Beach, Chester A., 1881-1956</part>
+        <preferredForm>ANS</preferredForm>
+      </nameEntry>
+    </identity>
+    <description>
+      <existDates localType="xeac:life">
+        <dateRange>
+          <fromDate standardDate="1881">1881</fromDate>
+          <toDate standardDate="1956">1956</toDate>
+        </dateRange>
+      </existDates>
+      <biogHist>
+        <chronList>
+          <chronItem>
+            <event>Born</event>
+            <date standardDate="1881">1881</date>
+            <placeEntry vocabularySource="http://www.geonames.org/5391959/">San Francisco (Calif.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Moved to New York</event>
+            <date standardDate="1903">1903</date>
+            <placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Attended &#xC9;cole des Beaux-Arts</event>
+            <dateRange>
+              <fromDate standardDate="1904">1904</fromDate>
+              <toDate standardDate="1907">1907</toDate>
+            </dateRange>
+            <placeEntry vocabularySource="http://www.geonames.org/2988507/">Paris (France)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Returned to Manhattan</event>
+            <date standardDate="1907">1907</date>
+            <placeEntry vocabularySource="http://www.geonames.org/5125771/">Manhattan (N.Y.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Designed statues for the Panama-Pacific International Exposition</event>
+            <date standardDate="1915">1915</date>
+            <placeEntry vocabularySource="http://www.geonames.org/5391959/">San Francisco (Calif.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Designed peace medal</event>
+            <date standardDate="1919">1919</date>
+          </chronItem>
+          <chronItem>
+            <event>Awarded Saltus Medal</event>
+            <date standardDate="1946">1946</date>
+            <placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry>
+          </chronItem>
+        </chronList>
+        <abstract>Chester A. Beach (1881-1956) was a sculptor and medalist.</abstract>
+        <p>American sculptor Chester A. Beach (1881-1956) was born in San Francisco, moved to New York City in 1903, and then to Paris in 1904 where he attended the &#xC9;cole des Beaux-Arts. He returned to Manhattan in 1907 and established a studio he maintained for forty-five years. In 1915 he designed three statues for the Panama-Pacific International Exposition and received a silver medal. In 1919 his entry was selected in a competition held by the American Numismatic Society (ANS) for the design of a peace medal commemorating the Treaty of Versailles. ANS awarded Beach its Saltus Medal in 1946 in recognition for his work in medals.</p>
+      </biogHist>
+      <occupation>
+        <term vocabularySource="http://vocab.getty.edu/aat/300025181">sculptors</term>
+      </occupation>
+      <occupation>
+        <term vocabularySource="http://vocab.getty.edu/aat/300025337">medalists</term>
+      </occupation>
+    </description>
+    <relations>
+      <resourceRelation xlink:type="simple" xlink:href="http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Chester_Beach.jpg/220px-Chester_Beach.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
+        <relationEntry>portrait</relationEntry>
+      </resourceRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

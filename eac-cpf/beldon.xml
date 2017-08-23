@@ -1,1 +1,140 @@
-<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink"><control><recordId>beldon</recordId><maintenanceStatus>revised</maintenanceStatus><publicationStatus>approved</publicationStatus><maintenanceAgency><agencyName>American Numismatic Society</agencyName><agencyCode>US-nnan</agencyCode></maintenanceAgency><maintenanceHistory><maintenanceEvent><eventType>derived</eventType><eventDateTime standardDateTime="2014-06-12T14:17:01-04:00">Thu, 12 Jun 2014 14:17:01 -0400</eventDateTime><agentType>human</agentType><agent>Ethan Gruber</agent><eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2014-06-18T16:27:58.994Z"/><agentType>human</agentType><agent>Ethan Gruber</agent><eventDescription>Added portrait</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2014-06-19T13:54:33.795Z"/><agentType>human</agentType><agent>Ethan Gruber</agent><eventDescription>Added biographical context.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2015-03-19T10:08:49.93Z"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2016-01-27T15:21:52.284-05:00"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription></maintenanceEvent></maintenanceHistory><conventionDeclaration><abbreviation>ANS</abbreviation><citation>American Numismatic Society</citation></conventionDeclaration><localTypeDeclaration><abbreviation>dcterms</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>foaf</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>org</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>rel</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>skos</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>xeac</abbreviation><citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation></localTypeDeclaration></control><cpfDescription><identity><entityId localType="skos:exactMatch">http://viaf.org/viaf/88776127</entityId><entityType>person</entityType><nameEntry><part>Belden, Bauman L. (Bauman Lowe), 1862-1931</part><preferredForm>ANS</preferredForm></nameEntry></identity><description><existDates localType="xeac:life"><dateRange><fromDate standardDate="1862">1862</fromDate><toDate standardDate="1931">1931</toDate></dateRange></existDates><biogHist><abstract>Bauman L. Belden (1862-1931) of Cranford, New Jersey, served the American Numismatic Society as librarian (1891-1896), secretary (1896-1903, 1905-1916), director (1909-1915), and council member (1906-1928). He sat on several Society committees, including the Committee on Indian Peace Medals, which he chaired. He was the author of Medals and Publications of the American Numismatic Society (1915), Indian Peace Medals Issued in the United States (1927), and A Mint in New York (1930). He was a member of the American Numismatic Association and was active in the New York Numismatic Club. At the time of his death he was working on a project involving life saving medals.</abstract></biogHist><occupation><placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry><dateRange><fromDate standardDate="1891">1891</fromDate><toDate standardDate="1896">1896</toDate></dateRange><term vocabularySource="http://vocab.getty.edu/aat/300025555">librarians</term></occupation><occupation><placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry><dateSet><dateRange><fromDate standardDate="1896">1896</fromDate><toDate standardDate="1903">1903</toDate></dateRange><dateRange><fromDate standardDate="1905">1905</fromDate><toDate standardDate="1916">1916</toDate></dateRange></dateSet><term vocabularySource="http://vocab.getty.edu/aat/300250373">secretaries (public officers)</term></occupation><occupation><term vocabularySource="http://vocab.getty.edu/aat/300025492">authors</term></occupation><occupation><term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term></occupation></description><relations><resourceRelation xlink:type="simple" xlink:href="http://farm7.static.flickr.com/6149/5933619209_f8f048b5aa_m.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait"><relationEntry>portrait</relationEntry></resourceRelation><cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization"><relationEntry>American Numismatic Society</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/157729460" xlink:arcrole="org:memberOf" xlink:role="org:Organization"><relationEntry>American Numismatic Association</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:href="new_york_numismatic_club" xlink:arcrole="org:memberOf" xlink:role="org:Organization"><relationEntry>New York Numismatic Club</relationEntry></cpfRelation></relations></cpfDescription></eac-cpf>
+<?xml version="1.0"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <control>
+    <recordId>beldon</recordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+      <agencyCode>US-nnan</agencyCode>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2014-06-12T14:17:01-04:00">Thu, 12 Jun 2014 14:17:01 -0400</eventDateTime>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2014-06-18T16:27:58.994Z"/>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+        <eventDescription>Added portrait</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2014-06-19T13:54:33.795Z"/>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+        <eventDescription>Added biographical context.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2015-03-19T10:08:49.93Z"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-01-27T15:21:52.284-05:00"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <conventionDeclaration>
+      <abbreviation>ANS</abbreviation>
+      <citation>American Numismatic Society</citation>
+    </conventionDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>dcterms</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>foaf</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>org</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>rel</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>skos</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>xeac</abbreviation>
+      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+    </localTypeDeclaration>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityId localType="skos:exactMatch">http://viaf.org/viaf/88776127</entityId>
+      <entityType>person</entityType>
+      <nameEntry>
+        <part>Belden, Bauman L. (Bauman Lowe), 1862-1931</part>
+        <preferredForm>ANS</preferredForm>
+      </nameEntry>
+    </identity>
+    <description>
+      <existDates localType="xeac:life">
+        <dateRange>
+          <fromDate standardDate="1862">1862</fromDate>
+          <toDate standardDate="1931">1931</toDate>
+        </dateRange>
+      </existDates>
+      <biogHist>
+        <abstract>Bauman L. Belden (1862-1931) of Cranford, New Jersey, served the American Numismatic Society as librarian (1891-1896), secretary (1896-1903, 1905-1916), director (1909-1915), and council member (1906-1928). He sat on several Society committees, including the Committee on Indian Peace Medals, which he chaired. He was the author of Medals and Publications of the American Numismatic Society (1915), Indian Peace Medals Issued in the United States (1927), and A Mint in New York (1930). He was a member of the American Numismatic Association and was active in the New York Numismatic Club. At the time of his death he was working on a project involving life saving medals.</abstract>
+      </biogHist>
+      <occupation>
+        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+        <dateRange>
+          <fromDate standardDate="1891">1891</fromDate>
+          <toDate standardDate="1896">1896</toDate>
+        </dateRange>
+        <term vocabularySource="http://vocab.getty.edu/aat/300025555">librarians</term>
+      </occupation>
+      <occupation>
+        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+        <dateSet>
+          <dateRange>
+            <fromDate standardDate="1896">1896</fromDate>
+            <toDate standardDate="1903">1903</toDate>
+          </dateRange>
+          <dateRange>
+            <fromDate standardDate="1905">1905</fromDate>
+            <toDate standardDate="1916">1916</toDate>
+          </dateRange>
+        </dateSet>
+        <term vocabularySource="http://vocab.getty.edu/aat/300250373">secretaries (public officers)</term>
+      </occupation>
+      <occupation>
+        <term vocabularySource="http://vocab.getty.edu/aat/300025492">authors</term>
+      </occupation>
+      <occupation>
+        <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
+      </occupation>
+    </description>
+    <relations>
+      <resourceRelation xlink:type="simple" xlink:href="http://farm7.static.flickr.com/6149/5933619209_f8f048b5aa_m.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
+        <relationEntry>portrait</relationEntry>
+      </resourceRelation>
+      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+        <relationEntry>American Numismatic Society</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/157729460" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+        <relationEntry>American Numismatic Association</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:href="new_york_numismatic_club" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+        <relationEntry>New York Numismatic Club</relationEntry>
+      </cpfRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

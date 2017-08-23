@@ -1,1 +1,150 @@
-<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink"><control><recordId>saltus</recordId><maintenanceAgency><agencyName>American Numismatic Society</agencyName></maintenanceAgency><maintenanceHistory><maintenanceEvent><eventType>created</eventType><eventDateTime standardDateTime="2014-06-20T19:55:02.66Z"/><agentType>human</agentType><agent>Ethan Gruber</agent></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2015-03-19T10:08:49.715Z"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2016-01-27T15:21:52.085-05:00"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription></maintenanceEvent></maintenanceHistory><maintenanceStatus>new</maintenanceStatus><publicationStatus>approved</publicationStatus><conventionDeclaration><abbreviation>ANS</abbreviation><citation>American Numismatic Society</citation></conventionDeclaration><sources><source xlink:type="simple" xlink:href="http://viaf.org/viaf/34346492"/></sources><localTypeDeclaration><abbreviation>dcterms</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>foaf</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>org</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>rel</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>skos</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>xeac</abbreviation><citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation></localTypeDeclaration></control><cpfDescription><identity><entityType>person</entityType><nameEntry><part>Saltus, J. Sanford, 1853-1922</part><preferredForm>ANS</preferredForm></nameEntry></identity><description><existDates localType="xeac:life"><dateRange><fromDate standardDate="1853-03-09">March 09, 1853</fromDate><toDate standardDate="1922-06-23">June 23, 1922</toDate></dateRange></existDates><biogHist><chronList><chronItem><event>Born</event><date standardDate="1853-03-09">March 09, 1853</date><placeEntry vocabularySource="http://www.geonames.org/4839366/">New Haven (Conn.)</placeEntry></chronItem><chronItem><event>Member of the American Numismatic Society</event><dateRange><fromDate standardDate="1892">1892</fromDate><toDate standardDate="1922">1922</toDate></dateRange></chronItem><chronItem><event>Founded prize at the National Academy of Design</event><date standardDate="1908">1908</date></chronItem><chronItem><event>Founded a prize at the École des Beaux Arts</event><date standardDate="1910">1910</date></chronItem><chronItem><event>Endowed the ANS award the bears his name</event><date standardDate="1913">1913</date></chronItem><chronItem><event>Died</event><date standardDate="1922-06-23">June 23, 1922</date><placeEntry vocabularySource="http://www.geonames.org/2643743/">London (England)</placeEntry></chronItem></chronList><abstract>A prominent figure in the leadership of the Society from the 1890s until his death in 1922, Saltus championed the Society's medals program during this period and endowed the medal award named in his honor.</abstract><p>J. Sanford Saltus was born on March 9, 1853 in New Haven, Connecticut, the only son of Theodore Saltus, founder of the Saltus Steel Company. </p><p>Saltus devoted much of his life—and inherited fortune—to supporting the arts, founding prizes at the National Academy of Design (in 1908), École des Beaux Arts (in 1910) and Art Students' League. In 1913, Saltus endowed the ANS award that bears his name. </p><p>Saltus was also an avowed Francophile and commissioned statues of Joan of Arc in New York City and New Orleans; in France in Nice, Blois, Rouen, and Domrémy; and in England at Winchester Cathedral. Saltus was equally passionate about the fate of the lost Dauphin, Louis XVII, and amassed an extensive library of works on the fate of the Dauphin, which he eventually donated to the Salmagundi Club. </p><p>Saltus joined the ANS as a life member in 1892 and quickly became one of its more active members, serving in a number of capacities: from 1897 to 1898 he was Second Vice President, and from 1900 to 1905 Corresponding Secretary. He was also an avid proponent of the Society's publications and medallic programs, serving on the Society's publications committee from 1899 through 1905 (he chaired the committee from 1900 to 1904) and on its orders and decorations committee from its inception in 1901. In addition, Saltus provided significant funding for the Society's efforts to commission commemorative medals and he had a role in many if not most of the medals the Society issued between 1897 until his death in 1922. </p><p>Saltus died on June 23, 1922 under peculiar circumstances: while in London to attend a meeting of the British Numismatic Society, Saltus poisoned himself with cyanide. After his death it was suggested that Saltus had committed suicide because a secret engagement was not going well; however, the cause of death was officially listed as "death by misadventure"—the coroner held that Saltus had been drinking ginger ale while cleaning coins with the cyanide and had accidentally mistaken the glass of cyanide for the one containing ginger ale. At the time of his death, Saltus was president of both the New York Numismatic Club and British Numismatic Society. </p></biogHist><occupation><placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry><dateRange><fromDate standardDate="1897">1897</fromDate><toDate standardDate="1898">1898</toDate></dateRange><term vocabularySource=""/></occupation><occupation><placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry><dateRange><fromDate standardDate="1900">1900</fromDate><toDate standardDate="1905">1905</toDate></dateRange><term vocabularySource=""/></occupation></description><relations><cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization"><relationEntry>American Numismatic Society</relationEntry></cpfRelation><resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/05-00038_000.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait"><relationEntry>portrait</relationEntry></resourceRelation><cpfRelation xlink:type="simple" xlink:href="new_york_numismatic_club" xlink:arcrole="org:memberOf" xlink:role="org:Organization"><relationEntry>New York Numismatic Club</relationEntry></cpfRelation><cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/138651970" xlink:arcrole="org:memberOf" xlink:role="org:Organization"><relationEntry>British Numismatic Society</relationEntry></cpfRelation></relations></cpfDescription></eac-cpf>
+<?xml version="1.0"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <control>
+    <recordId>saltus</recordId>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2014-06-20T19:55:02.66Z"/>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2015-03-19T10:08:49.715Z"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-01-27T15:21:52.085-05:00"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <maintenanceStatus>new</maintenanceStatus>
+    <publicationStatus>approved</publicationStatus>
+    <conventionDeclaration>
+      <abbreviation>ANS</abbreviation>
+      <citation>American Numismatic Society</citation>
+    </conventionDeclaration>
+    <sources>
+      <source xlink:type="simple" xlink:href="http://viaf.org/viaf/34346492"/>
+    </sources>
+    <localTypeDeclaration>
+      <abbreviation>dcterms</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>foaf</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>org</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>rel</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>skos</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>xeac</abbreviation>
+      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+    </localTypeDeclaration>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>person</entityType>
+      <nameEntry>
+        <part>Saltus, J. Sanford, 1853-1922</part>
+        <preferredForm>ANS</preferredForm>
+      </nameEntry>
+    </identity>
+    <description>
+      <existDates localType="xeac:life">
+        <dateRange>
+          <fromDate standardDate="1853-03-09">March 09, 1853</fromDate>
+          <toDate standardDate="1922-06-23">June 23, 1922</toDate>
+        </dateRange>
+      </existDates>
+      <biogHist>
+        <chronList>
+          <chronItem>
+            <event>Born</event>
+            <date standardDate="1853-03-09">March 09, 1853</date>
+            <placeEntry vocabularySource="http://www.geonames.org/4839366/">New Haven (Conn.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Member of the American Numismatic Society</event>
+            <dateRange>
+              <fromDate standardDate="1892">1892</fromDate>
+              <toDate standardDate="1922">1922</toDate>
+            </dateRange>
+          </chronItem>
+          <chronItem>
+            <event>Founded prize at the National Academy of Design</event>
+            <date standardDate="1908">1908</date>
+          </chronItem>
+          <chronItem>
+            <event>Founded a prize at the &#xC9;cole des Beaux Arts</event>
+            <date standardDate="1910">1910</date>
+          </chronItem>
+          <chronItem>
+            <event>Endowed the ANS award the bears his name</event>
+            <date standardDate="1913">1913</date>
+          </chronItem>
+          <chronItem>
+            <event>Died</event>
+            <date standardDate="1922-06-23">June 23, 1922</date>
+            <placeEntry vocabularySource="http://www.geonames.org/2643743/">London (England)</placeEntry>
+          </chronItem>
+        </chronList>
+        <abstract>A prominent figure in the leadership of the Society from the 1890s until his death in 1922, Saltus championed the Society's medals program during this period and endowed the medal award named in his honor.</abstract>
+        <p>J. Sanford Saltus was born on March 9, 1853 in New Haven, Connecticut, the only son of Theodore Saltus, founder of the Saltus Steel Company. </p>
+        <p>Saltus devoted much of his life&#x2014;and inherited fortune&#x2014;to supporting the arts, founding prizes at the National Academy of Design (in 1908), &#xC9;cole des Beaux Arts (in 1910) and Art Students' League. In 1913, Saltus endowed the ANS award that bears his name. </p>
+        <p>Saltus was also an avowed Francophile and commissioned statues of Joan of Arc in New York City and New Orleans; in France in Nice, Blois, Rouen, and Domr&#xE9;my; and in England at Winchester Cathedral. Saltus was equally passionate about the fate of the lost Dauphin, Louis XVII, and amassed an extensive library of works on the fate of the Dauphin, which he eventually donated to the Salmagundi Club. </p>
+        <p>Saltus joined the ANS as a life member in 1892 and quickly became one of its more active members, serving in a number of capacities: from 1897 to 1898 he was Second Vice President, and from 1900 to 1905 Corresponding Secretary. He was also an avid proponent of the Society's publications and medallic programs, serving on the Society's publications committee from 1899 through 1905 (he chaired the committee from 1900 to 1904) and on its orders and decorations committee from its inception in 1901. In addition, Saltus provided significant funding for the Society's efforts to commission commemorative medals and he had a role in many if not most of the medals the Society issued between 1897 until his death in 1922. </p>
+        <p>Saltus died on June 23, 1922 under peculiar circumstances: while in London to attend a meeting of the British Numismatic Society, Saltus poisoned himself with cyanide. After his death it was suggested that Saltus had committed suicide because a secret engagement was not going well; however, the cause of death was officially listed as "death by misadventure"&#x2014;the coroner held that Saltus had been drinking ginger ale while cleaning coins with the cyanide and had accidentally mistaken the glass of cyanide for the one containing ginger ale. At the time of his death, Saltus was president of both the New York Numismatic Club and British Numismatic Society. </p>
+      </biogHist>
+      <occupation>
+        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+        <dateRange>
+          <fromDate standardDate="1897">1897</fromDate>
+          <toDate standardDate="1898">1898</toDate>
+        </dateRange>
+        <term vocabularySource=""/>
+      </occupation>
+      <occupation>
+        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+        <dateRange>
+          <fromDate standardDate="1900">1900</fromDate>
+          <toDate standardDate="1905">1905</toDate>
+        </dateRange>
+        <term vocabularySource=""/>
+      </occupation>
+    </description>
+    <relations>
+      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+        <relationEntry>American Numismatic Society</relationEntry>
+      </cpfRelation>
+      <resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/05-00038_000.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
+        <relationEntry>portrait</relationEntry>
+      </resourceRelation>
+      <cpfRelation xlink:type="simple" xlink:href="new_york_numismatic_club" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+        <relationEntry>New York Numismatic Club</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/138651970" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+        <relationEntry>British Numismatic Society</relationEntry>
+      </cpfRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

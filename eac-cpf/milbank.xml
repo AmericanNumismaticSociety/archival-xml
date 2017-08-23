@@ -1,1 +1,131 @@
-<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink"><control><recordId>milbank</recordId><maintenanceAgency><agencyName>American Numismatic Society</agencyName></maintenanceAgency><maintenanceHistory><maintenanceEvent><eventType>created</eventType><eventDateTime standardDateTime="2014-06-18T19:39:37.712Z"/><agentType>human</agentType><agent>Ethan Gruber</agent></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2014-06-18T19:46:56.564Z"/><agentType>machine</agentType><agent>xEAC</agent><eventDescription>Relation Inserted</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2015-03-19T10:08:50.006Z"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription></maintenanceEvent><maintenanceEvent><eventType>revised</eventType><eventDateTime standardDateTime="2016-01-27T15:21:52.351-05:00"/><agentType>machine</agentType><agent>XSLT</agent><eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription></maintenanceEvent></maintenanceHistory><maintenanceStatus>new</maintenanceStatus><publicationStatus>approved</publicationStatus><conventionDeclaration><abbreviation>ANS</abbreviation><citation>American Numismatic Society</citation></conventionDeclaration><sources><source xlink:type="simple" xlink:href="http://viaf.org/viaf/286354537"/></sources><localTypeDeclaration><abbreviation>dcterms</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>foaf</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>org</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>rel</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>skos</abbreviation><citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation></localTypeDeclaration><localTypeDeclaration><abbreviation>xeac</abbreviation><citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation></localTypeDeclaration></control><cpfDescription><identity><entityType>person</entityType><nameEntry><part>Milbank, Samuel R., 1906-1985</part><preferredForm>ANS</preferredForm></nameEntry></identity><description><existDates localType="xeac:life"><dateRange><fromDate standardDate="1906">1906</fromDate><toDate standardDate="1985-01">January 1985</toDate></dateRange></existDates><biogHist><chronList><chronItem><event>Born</event><date standardDate="1906">1906</date><placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry></chronItem><chronItem><event>Died</event><date standardDate="1985-01">January 1985</date><placeEntry vocabularySource="http://www.geonames.org/5102922/">Princeton (N.J.)</placeEntry></chronItem></chronList><abstract>Milbank was the President of the ANS from 1959 to 1978, making him the second-longest serving president in ANS history. </abstract><p>Samuel R. Milbank was only 19 years old, just a sophomore in college, when the ANS published his monograph, The Coinage of Aegina, in its Numismatic Notes and Monographs series. Shortly after the book's publication Milbank visited the British Museum for the first time where, according to a colleague, "they were expecting this senior scholar of great distinction." As the colleague later recalled, instead of this senior scholar "in comes this nineteen-year-old boy. They were dumbfounded by it." This auspicious beginning would mark the start of Milbank's lengthy association with the ANS, one which would last for more than sixty years, culminating in his tenure as the second longest serving president in ANS history. </p><p>Samuel Robbins Milbank was born in New York City in 1906 to the one of the East Coast's distinguished families (Columbia University's Milbank Hall is named after a relative) and attended the Manhattan preparatory school, the Bovee School for Boys. He continued his studies at Princeton University, where he befriended another budding numismatist, George C. Miles. After graduating from Princeton 1927 with a bachelors degree in politics, Milbank began a career in investment banking, eventually rising to the Chairman of the Board with the firm of Wood, Struthers &amp; Winthrop.</p><p>Milbank joined the ANS in 1921, while still a student at Bovee, and was elected a Fellow in 1925, shortly after publication of his Aegina monograph. He was first elected to the Society's governing Council in 1935. Milbank briefly was Treasurer of the ANS before the outbreak of World War II. After the war (Milbank served in military intelligence during the conflict), Milbank returned to the ANS, serving as a vice president under both Arthur Dewing and Louis West. When the latter resigned from the presidency in 1958 due to ill health, Milbank was named President pro tem. He was elected President in his own right the following year. </p><p>Milbank consciously maintained an "arms-length presidency" according to one former associate, relying upon the Society's senior staff to manage the ANS on a day-to-day basis. (This was in marked contrast to his predecessor, Louis West, who was an "in house" president who visited at the ANS on a weekly, or even sometimes daily, basis.) </p><p>Milbank's presidency itself was marked by great contrasts. The high point certainly occurred in 1973, when the ANS co-hosted the 8th International Numismatic Congress (INC), the first time an INC had been held in the United States. The low point occurred the following year, when the ANS announced its first projected operating deficit. And although ANS made up the annual deficit with stopgap measures like annual appeals, Milbank declined to pursue an endowment campaign—a decision which would later impact upon the ANS as its financial constraints increased in the 1980s. </p><p>Milbank retired from the ANS presidency in 1978, after almost 20 years in office, making his tenure as ANS President second only to Edward Newell's in length. After his retirement he was named Honorary President for Life. Milbank died in Princeton in January 1985.</p></biogHist><occupation><term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term></occupation><occupation><placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry><dateRange><fromDate standardDate="1959">1959</fromDate><toDate standardDate="1978">1978</toDate></dateRange><term>President, ANS</term></occupation></description><relations><resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/05-00081_000.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait"><relationEntry>portrait</relationEntry></resourceRelation><cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization"><relationEntry>American Numismatic Society</relationEntry></cpfRelation><cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="miles" xlink:arcrole="rel:friendOf"><relationEntry>Miles, George C., 1904-1975</relationEntry></cpfRelation></relations></cpfDescription></eac-cpf>
+<?xml version="1.0"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <control>
+    <recordId>milbank</recordId>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2014-06-18T19:39:37.712Z"/>
+        <agentType>human</agentType>
+        <agent>Ethan Gruber</agent>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2014-06-18T19:46:56.564Z"/>
+        <agentType>machine</agentType>
+        <agent>xEAC</agent>
+        <eventDescription>Relation Inserted</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2015-03-19T10:08:50.006Z"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-01-27T15:21:52.351-05:00"/>
+        <agentType>machine</agentType>
+        <agent>XSLT</agent>
+        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <maintenanceStatus>new</maintenanceStatus>
+    <publicationStatus>approved</publicationStatus>
+    <conventionDeclaration>
+      <abbreviation>ANS</abbreviation>
+      <citation>American Numismatic Society</citation>
+    </conventionDeclaration>
+    <sources>
+      <source xlink:type="simple" xlink:href="http://viaf.org/viaf/286354537"/>
+    </sources>
+    <localTypeDeclaration>
+      <abbreviation>dcterms</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>foaf</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>org</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>rel</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>skos</abbreviation>
+      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+    </localTypeDeclaration>
+    <localTypeDeclaration>
+      <abbreviation>xeac</abbreviation>
+      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+    </localTypeDeclaration>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>person</entityType>
+      <nameEntry>
+        <part>Milbank, Samuel R., 1906-1985</part>
+        <preferredForm>ANS</preferredForm>
+      </nameEntry>
+    </identity>
+    <description>
+      <existDates localType="xeac:life">
+        <dateRange>
+          <fromDate standardDate="1906">1906</fromDate>
+          <toDate standardDate="1985-01">January 1985</toDate>
+        </dateRange>
+      </existDates>
+      <biogHist>
+        <chronList>
+          <chronItem>
+            <event>Born</event>
+            <date standardDate="1906">1906</date>
+            <placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry>
+          </chronItem>
+          <chronItem>
+            <event>Died</event>
+            <date standardDate="1985-01">January 1985</date>
+            <placeEntry vocabularySource="http://www.geonames.org/5102922/">Princeton (N.J.)</placeEntry>
+          </chronItem>
+        </chronList>
+        <abstract>Milbank was the President of the ANS from 1959 to 1978, making him the second-longest serving president in ANS history. </abstract>
+        <p>Samuel R. Milbank was only 19 years old, just a sophomore in college, when the ANS published his monograph, The Coinage of Aegina, in its Numismatic Notes and Monographs series. Shortly after the book's publication Milbank visited the British Museum for the first time where, according to a colleague, "they were expecting this senior scholar of great distinction." As the colleague later recalled, instead of this senior scholar "in comes this nineteen-year-old boy. They were dumbfounded by it." This auspicious beginning would mark the start of Milbank's lengthy association with the ANS, one which would last for more than sixty years, culminating in his tenure as the second longest serving president in ANS history. </p>
+        <p>Samuel Robbins Milbank was born in New York City in 1906 to the one of the East Coast's distinguished families (Columbia University's Milbank Hall is named after a relative) and attended the Manhattan preparatory school, the Bovee School for Boys. He continued his studies at Princeton University, where he befriended another budding numismatist, George C. Miles. After graduating from Princeton 1927 with a bachelors degree in politics, Milbank began a career in investment banking, eventually rising to the Chairman of the Board with the firm of Wood, Struthers &amp; Winthrop.</p>
+        <p>Milbank joined the ANS in 1921, while still a student at Bovee, and was elected a Fellow in 1925, shortly after publication of his Aegina monograph. He was first elected to the Society's governing Council in 1935. Milbank briefly was Treasurer of the ANS before the outbreak of World War II. After the war (Milbank served in military intelligence during the conflict), Milbank returned to the ANS, serving as a vice president under both Arthur Dewing and Louis West. When the latter resigned from the presidency in 1958 due to ill health, Milbank was named President pro tem. He was elected President in his own right the following year. </p>
+        <p>Milbank consciously maintained an "arms-length presidency" according to one former associate, relying upon the Society's senior staff to manage the ANS on a day-to-day basis. (This was in marked contrast to his predecessor, Louis West, who was an "in house" president who visited at the ANS on a weekly, or even sometimes daily, basis.) </p>
+        <p>Milbank's presidency itself was marked by great contrasts. The high point certainly occurred in 1973, when the ANS co-hosted the 8th International Numismatic Congress (INC), the first time an INC had been held in the United States. The low point occurred the following year, when the ANS announced its first projected operating deficit. And although ANS made up the annual deficit with stopgap measures like annual appeals, Milbank declined to pursue an endowment campaign&#x2014;a decision which would later impact upon the ANS as its financial constraints increased in the 1980s. </p>
+        <p>Milbank retired from the ANS presidency in 1978, after almost 20 years in office, making his tenure as ANS President second only to Edward Newell's in length. After his retirement he was named Honorary President for Life. Milbank died in Princeton in January 1985.</p>
+      </biogHist>
+      <occupation>
+        <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
+      </occupation>
+      <occupation>
+        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+        <dateRange>
+          <fromDate standardDate="1959">1959</fromDate>
+          <toDate standardDate="1978">1978</toDate>
+        </dateRange>
+        <term>President, ANS</term>
+      </occupation>
+    </description>
+    <relations>
+      <resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/05-00081_000.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
+        <relationEntry>portrait</relationEntry>
+      </resourceRelation>
+      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+        <relationEntry>American Numismatic Society</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="miles" xlink:arcrole="rel:friendOf">
+        <relationEntry>Miles, George C., 1904-1975</relationEntry>
+      </cpfRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>
