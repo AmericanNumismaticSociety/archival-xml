@@ -21,7 +21,9 @@
       <sourceDesc>
         <biblStruct>
           <monogr>
-            <author>Newell, Edward Theodore, 1886-1941</author>
+            <author>
+              <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
+            </author>
             <title>Edward T. Newell notebook on coins from collections in America and Toronto, undated</title>
             <imprint>
               <date>unknown</date>

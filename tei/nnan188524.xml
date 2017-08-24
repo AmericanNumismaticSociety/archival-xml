@@ -21,7 +21,9 @@
       <sourceDesc>
         <biblStruct>
           <monogr>
-            <author>Newell, Edward Theodore, 1886-1941</author>
+            <author>
+              <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
+            </author>
             <title>Edward T. Newell notebook of notes and drafts on western Seleucid mints, circa 1940</title>
             <imprint>
               <date when="1940">1940</date>
