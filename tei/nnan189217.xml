@@ -1,141 +1,218 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="nnan189217" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Edward T. Newell notebook on coins in American private collections, undated</title>
-        <author>
-          <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
-        </author>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>American Numismatic Society</publisher>
-        <pubPlace>New York (N.Y.)</pubPlace>
-        <idno type="donum">189217</idno>
-      </publicationStmt>
-      <notesStmt>
-        <note type="abstract">
-          <p>Notebook containing notes on coins in United States private collections: Clarence S. Bement, Jeremiah Zimmerman, George A. Gillette, and George J. Bauer.</p>
-        </note>
-      </notesStmt>
-      <sourceDesc>
-        <biblStruct>
-          <monogr>
-            <author>
-              <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
-            </author>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="nnan189217"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Edward T. Newell notebook on coins in American private collections, undated</title>
-            <imprint>
-              <date>unknown</date>
-            </imprint>
-            <extent>circa 60 pages (circa 25 used) ; 15 x 9 cm.</extent>
-          </monogr>
-        </biblStruct>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <textClass>
-        <keywords corresp="nnan189217_0001"/>
-        <keywords corresp="nnan189217_0002"/>
-        <keywords corresp="nnan189217_0003"/>
-        <keywords corresp="nnan189217_0004"/>
-        <keywords corresp="nnan189217_0005"/>
-        <keywords corresp="nnan189217_0006"/>
-        <keywords corresp="nnan189217_0007"/>
-        <keywords corresp="nnan189217_0008"/>
-        <keywords corresp="nnan189217_0009"/>
-        <keywords corresp="nnan189217_0010"/>
-        <keywords corresp="nnan189217_0011"/>
-        <keywords corresp="nnan189217_0012"/>
-        <keywords corresp="nnan189217_0013"/>
-        <keywords corresp="nnan189217_0014"/>
-        <keywords corresp="nnan189217_0015"/>
-        <keywords corresp="nnan189217_0016"/>
-        <keywords corresp="nnan189217_0017"/>
-        <keywords corresp="nnan189217_0018"/>
-        <keywords corresp="nnan189217_0019"/>
-        <keywords corresp="nnan189217_0020"/>
-        <keywords corresp="nnan189217_0021"/>
-        <keywords corresp="nnan189217_0022"/>
-        <keywords corresp="nnan189217_0023"/>
-        <keywords corresp="nnan189217_0024"/>
-        <keywords corresp="nnan189217_0025"/>
-      </textClass>
-    </profileDesc>
-  </teiHeader>
-  <facsimile xml:id="nnan189217_0001" style="depiction">
-    <graphic url="189217_0001"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0002">
-    <graphic url="189217_0002"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0003">
-    <graphic url="189217_0003"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0004">
-    <graphic url="189217_0004"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0005">
-    <graphic url="189217_0005"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0006">
-    <graphic url="189217_0006"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0007">
-    <graphic url="189217_0007"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0008">
-    <graphic url="189217_0008"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0009">
-    <graphic url="189217_0009"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0010">
-    <graphic url="189217_0010"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0011">
-    <graphic url="189217_0011"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0012">
-    <graphic url="189217_0012"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0013">
-    <graphic url="189217_0013"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0014">
-    <graphic url="189217_0014"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0015">
-    <graphic url="189217_0015"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0016">
-    <graphic url="189217_0016"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0017">
-    <graphic url="189217_0017"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0018">
-    <graphic url="189217_0018"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0019">
-    <graphic url="189217_0019"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0020">
-    <graphic url="189217_0020"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0021">
-    <graphic url="189217_0021"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0022">
-    <graphic url="189217_0022"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0023">
-    <graphic url="189217_0023"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0024">
-    <graphic url="189217_0024"/>
-  </facsimile>
-  <facsimile xml:id="nnan189217_0025">
-    <graphic url="189217_0025"/>
-  </facsimile>
+            <author>
+               <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>American Numismatic Society</publisher>
+            <pubPlace>New York (N.Y.)</pubPlace>
+            <idno type="donum">189217</idno>
+         </publicationStmt>
+         <notesStmt>
+            <note type="abstract">
+               <p>Notebook containing notes on coins in United States private collections: Clarence S. Bement, Jeremiah Zimmerman, George A. Gillette, and George J. Bauer.</p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
+                  </author>
+                  <title>Edward T. Newell notebook on coins in American private collections, undated</title>
+                  <imprint>
+                     <date>unknown</date>
+                  </imprint>
+                  <extent>circa 60 pages (circa 25 used) ; 15 x 9 cm.</extent>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:id="nnan189217_0001">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0001.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1875px"
+             width="1141px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0002">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0002.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1882px"
+             width="1103px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0003">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0003.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1861px"
+             width="1103px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0004">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0004.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1826px"
+             width="1096px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0005">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0005.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1840px"
+             width="1096px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0006">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0006.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1847px"
+             width="1096px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0007">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0007.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1833px"
+             width="1083px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0008">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0008.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1847px"
+             width="1090px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0009">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0009.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1847px"
+             width="1090px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0010">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0010.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1854px"
+             width="1083px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0011">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0011.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1847px"
+             width="1076px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0012">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0012.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1847px"
+             width="1062px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0013">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0013.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1861px"
+             width="1069px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0014">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0014.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1819px"
+             width="1055px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0015">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0015.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1861px"
+             width="1076px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0016">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0016.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1847px"
+             width="1127px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0017">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0017.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1840px"
+             width="1076px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0018">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0018.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1833px"
+             width="1093px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0019">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0019.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1847px"
+             width="1069px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0020">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0020.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1847px"
+             width="1086px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0021">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0021.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1819px"
+             width="1069px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0022">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0022.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1840px"
+             width="1062px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0023">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0023.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1847px"
+             width="1100px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0024">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0024.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1847px"
+             width="1041px"/>
+   </facsimile>
+   <facsimile xml:id="nnan189217_0025">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189217_0025.jpg"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="1882px"
+             width="1148px"/>
+   </facsimile>
 </TEI>

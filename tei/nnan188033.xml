@@ -1,432 +1,669 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="nnan188033" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Edward T. Newell notebook of Philip II coin photographs, undated</title>
-        <author>
-          <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
-        </author>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>American Numismatic Society</publisher>
-        <pubPlace>New York (N.Y.)</pubPlace>
-        <idno type="donum">188033</idno>
-      </publicationStmt>
-      <notesStmt>
-        <note type="abstract">
-          <p>Binder containing pasted photographs of the obverse and reverse of ancient Greek gold staters showing Philip II of Macedon taken from sales catalogs.</p>
-        </note>
-      </notesStmt>
-      <sourceDesc>
-        <biblStruct>
-          <monogr>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="nnan188033"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edward T. Newell notebook of Philip II coin photographs, undated</title>
             <author>
-              <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
+               <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
             </author>
-            <title>Edward T. Newell notebook of Phillip II coin photographs, undated</title>
-            <imprint>
-              <date>unknown</date>
-            </imprint>
-            <extent>circa 80 pages (40 used) ; 19 x 11 cm.</extent>
-          </monogr>
-        </biblStruct>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <textClass>
-        <keywords corresp="nnan188033_0001"/>
-        <keywords corresp="nnan188033_0002"/>
-        <keywords corresp="nnan188033_0003">
-          <term target="http://viaf.org/viaf/41937557">Hunter, William, 1718-1783</term>
-        </keywords>
-        <keywords corresp="nnan188033_0004"/>
-        <keywords corresp="nnan188033_0005"/>
-        <keywords corresp="nnan188033_0006">
-          <term target="http://numismatics.org/library/16785">http://numismatics.org/library/16785</term>
-          <term target="http://numismatics.org/library/8812">http://numismatics.org/library/8812</term>
-        </keywords>
-        <keywords corresp="nnan188033_0007">
-          <term target="http://numismatics.org/library/16785">http://numismatics.org/library/16785</term>
-          <term target="http://numismatics.org/library/91231">[11/18/1912].</term>
-        </keywords>
-        <keywords corresp="nnan188033_0008">
-          <term target="http://numismatics.org/library/16785">http://numismatics.org/library/16785</term>
-        </keywords>
-        <keywords corresp="nnan188033_0009">
-          <term target="http://numismatics.org/library/9864">[11/14/1912].</term>
-        </keywords>
-        <keywords corresp="nnan188033_0010">
-          <term target="http://numismatics.org/library/47009">[05/27/1907].</term>
-          <term target="http://numismatics.org/library/9864">[11/14/1912].</term>
-        </keywords>
-        <keywords corresp="nnan188033_0011">
-          <term target="http://numismatics.org/library/9864">[11/14/1912].</term>
-        </keywords>
-        <keywords corresp="nnan188033_0012">
-          <term target="http://numismatics.org/library/124657">http://numismatics.org/library/124657</term>
-        </keywords>
-        <keywords corresp="nnan188033_0013">
-          <term target="http://numismatics.org/library/9864">[11/14/1912].</term>
-        </keywords>
-        <keywords corresp="nnan188033_0014">
-          <term target="http://numismatics.org/library/124657">http://numismatics.org/library/124657</term>
-        </keywords>
-        <keywords corresp="nnan188033_0015">
-          <term target="http://numismatics.org/library/91231">[11/18/1912].</term>
-          <term target="http://numismatics.org/library/9864">[11/14/1912].</term>
-          <term target="http://numismatics.org/library/59972">[05/29/1911].</term>
-        </keywords>
-        <keywords corresp="nnan188033_0016">
-          <term target="http://numismatics.org/library/142115">[11/27/1905].</term>
-        </keywords>
-        <keywords corresp="nnan188033_0017">
-          <term target="http://numismatics.org/library/70716">http://numismatics.org/library/70716</term>
-          <term target="http://numismatics.org/library/91231">[11/18/1912].</term>
-        </keywords>
-        <keywords corresp="nnan188033_0018">
-          <term target="http://numismatics.org/library/95018">[11/17/1913].</term>
-          <term target="http://numismatics.org/library/91231">[11/18/1912].</term>
-        </keywords>
-        <keywords corresp="nnan188033_0019">
-          <term target="http://numismatics.org/library/29175">[05/05/1914].</term>
-          <term target="http://numismatics.org/library/37328">[11/18/1912].</term>
-        </keywords>
-        <keywords corresp="nnan188033_0020">
-          <term target="http://numismatics.org/library/9737">[11/13/1907].</term>
-          <term target="http://numismatics.org/library/70716">http://numismatics.org/library/70716</term>
-          <term target="http://numismatics.org/library/59972">[05/29/1911].</term>
-        </keywords>
-        <keywords corresp="nnan188033_0021">
-          <term target="http://numismatics.org/library/37328">[11/18/1912].</term>
-          <term target="http://numismatics.org/library/2251">[11/02/1909].</term>
-          <term target="http://numismatics.org/library/9737">[11/13/1907].</term>
-          <term target="http://numismatics.org/library/86125">[06/11/1913].</term>
-        </keywords>
-        <keywords corresp="nnan188033_0022">
-          <term target="http://numismatics.org/library/9737">[11/13/1907].</term>
-          <term target="http://numismatics.org/library/37328">[11/18/1912].</term>
-          <term target="http://numismatics.org/library/114354">http://numismatics.org/library/114354</term>
-        </keywords>
-        <keywords corresp="nnan188033_0023">
-          <term target="http://numismatics.org/library/37328">[11/18/1912].</term>
-          <term target="http://numismatics.org/library/33368">[01/15/1912].</term>
-          <term target="http://numismatics.org/library/95018">[11/17/1913].</term>
-        </keywords>
-        <keywords corresp="nnan188033_0024"/>
-        <keywords corresp="nnan188033_0025"/>
-        <keywords corresp="nnan188033_0026"/>
-        <keywords corresp="nnan188033_0027"/>
-        <keywords corresp="nnan188033_0028"/>
-        <keywords corresp="nnan188033_0029">
-          <term target="http://numismatics.org/library/70716">http://numismatics.org/library/70716</term>
-        </keywords>
-        <keywords corresp="nnan188033_0030"/>
-        <keywords corresp="nnan188033_0031"/>
-      </textClass>
-    </profileDesc>
-  </teiHeader>
-  <facsimile xml:id="nnan188033_0001" style="depiction">
-    <graphic url="188033_0001" n="Front cover"/>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0002">
-    <graphic url="188033_0002" n="1"/>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0003">
-    <graphic url="188033_0003" n="2"/>
-    <surface xml:id="ag4yexqi6cz9" ulx="-0.64969026548672" uly="1.2844690265487" lrx="-0.43839233038347" lry="1.1991157477725">
-      <desc>
-        <ref target="http://viaf.org/viaf/41937557">Hunter, William, 1718-1783</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0004">
-    <graphic url="188033_0004" n="3"/>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0005">
-    <graphic url="188033_0005" n="4"/>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0006">
-    <graphic url="188033_0006" n="5"/>
-    <surface xml:id="a5eylkxolsh3" ulx="-0.291822721598" uly="0.72517353308365" lrx="-0.03121348314606398" lry="0.5418972188542499">
-      <desc>
-        <ref target="http://numismatics.org/library/16785">http://numismatics.org/library/16785</ref>
-      </desc>
-    </surface>
-    <surface xml:id="ag4qqtl52hcp" ulx="0.47037042913204" uly="1.0306099532216" lrx="0.74797592226562" lry="0.8473336389921999">
-      <desc>
-        <ref target="http://numismatics.org/library/8812">http://numismatics.org/library/8812</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0007">
-    <graphic url="188033_0007" n="6"/>
-    <surface xml:id="adnjzx05w2d6" ulx="0.4383308494784" uly="0.63488822652758" lrx="0.92713859910583" lry="0.43627492844971005">
-      <desc>
-        <ref target="http://numismatics.org/library/16785">http://numismatics.org/library/16785</ref>
-      </desc>
-    </surface>
-    <surface xml:id="az7a9rbxehg9" ulx="0.31472429210135" uly="0.19102831594635" lrx="0.87657228017885" lry="0.009270457510800023">
-      <desc>
-        <ref target="http://numismatics.org/library/91231">[11/18/1912].</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0008">
-    <graphic url="188033_0008" n="7"/>
-    <surface xml:id="a6910sx6eh0i" ulx="-0.37723671137606" uly="1.0313636363636" lrx="-0.05599230004968697" lry="0.8603150426008002">
-      <desc>
-        <ref target="http://numismatics.org/library/16785">http://numismatics.org/library/16785</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0009">
-    <graphic url="188033_0009" n="8"/>
-    <surface xml:id="ae7w50bdaems" ulx="0.40292068198666" uly="-0.25151964418088" lrx="0.71592290585619" lry="-0.38203042699816003">
-      <desc>
-        <ref target="http://numismatics.org/library/9864">[11/14/1912].</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0010">
-    <graphic url="188033_0010" n="9"/>
-    <surface xml:id="a7np6jwtflse" ulx="0.044014981273382" uly="0.49394257178526" lrx="0.93086641697873" lry="0.16642493453008">
-      <desc>
-        <ref target="http://numismatics.org/library/47009">[05/27/1907].</ref>
-      </desc>
-    </surface>
-    <surface xml:id="aacatmhaydiq" ulx="0.35272908863917" uly="1.1057578027465" lrx="0.82983270911356" lry="0.9578556461405001">
-      <desc>
-        <ref target="http://numismatics.org/library/9864">[11/14/1912].</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0011">
-    <graphic url="188033_0011" n="10"/>
-    <surface xml:id="axvyxy1e1plq" ulx="0.2860409057706" uly="1.0409495982469" lrx="0.71013148283414" lry="0.8572687757337998">
-      <desc>
-        <ref target="http://numismatics.org/library/9864">[11/14/1912].</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0012">
-    <graphic url="188033_0012" n="11"/>
-    <surface xml:id="af1ohnmglu88" ulx="0.35242256637165" uly="1.0576991150442" lrx="0.82618362831854" lry="0.8684700991198997">
-      <desc>
-        <ref target="http://numismatics.org/library/124657">http://numismatics.org/library/124657</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0013">
-    <graphic url="188033_0013" n="12"/>
-    <surface xml:id="ayn5sbm2e3d" ulx="0.15657817109148" uly="0.63389380530975" lrx="0.90168141592926" lry="0.0647794645866">
-      <desc>
-        <ref target="http://numismatics.org/library/9864">[11/14/1912].</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0014">
-    <graphic url="188033_0014" n="13"/>
-    <surface xml:id="afu8o2u2aom5" ulx="0.34841526045484" uly="1.0598654927855" lrx="0.64806309611148" lry="0.8859032432162">
-      <desc>
-        <ref target="http://numismatics.org/library/124657">http://numismatics.org/library/124657</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0015">
-    <graphic url="188033_0015" n="14"/>
-    <surface xml:id="a65abafc1uu8" ulx="0.36865595325051" uly="-0.57279766252738" lrx="0.831300219138" lry="-0.67606647187727">
-      <desc>
-        <ref target="http://numismatics.org/library/91231">[11/18/1912].</ref>
-      </desc>
-    </surface>
-    <surface xml:id="asx4qgehn6xm" ulx="0.3796712929145" uly="-0.15421475529583" lrx="0.63302410518622" lry="-0.31806793279764956">
-      <desc>
-        <ref target="http://numismatics.org/library/9864">[11/14/1912].</ref>
-      </desc>
-    </surface>
-    <surface xml:id="a43ex2t8m6g2" ulx="0.33560993425854" uly="0.67744338933526" lrx="0.86985390796196" lry="0.5631592403213801">
-      <desc>
-        <ref target="http://numismatics.org/library/59972">[05/29/1911].</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0016">
-    <graphic url="188033_0016" n="15"/>
-    <surface xml:id="a5e4bpxyz5bk" ulx="0.39640988016627" uly="1.0830423086329" lrx="0.85821472242598" lry="0.9084910736120999">
-      <desc>
-        <ref target="http://numismatics.org/library/142115">[11/27/1905].</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0017">
-    <graphic url="188033_0017" n="16"/>
-    <surface xml:id="akqvkc7yqik" ulx="0.36231563421833" uly="-0.09452802359882201" lrx="0.81827433628324" lry="-0.243270648967557">
-      <desc>
-        <ref target="http://numismatics.org/library/70716">http://numismatics.org/library/70716</ref>
-      </desc>
-    </surface>
-    <surface xml:id="alvpdbtkmmpc" ulx="-0.29938053097343" uly="0.74510324483778" lrx="-0.03247787610616798" lry="0.60748156342185">
-      <desc>
-        <ref target="http://numismatics.org/library/91231">[11/18/1912].</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0018">
-    <graphic url="188033_0018" n="17"/>
-    <surface xml:id="ah8pmnxjd9gc" ulx="0.38738477138613" uly="-0.7418101107945" lrx="0.67009126106164" lry="-0.86570210627982">
-      <desc>
-        <ref target="http://numismatics.org/library/95018">[11/17/1913].</ref>
-      </desc>
-    </surface>
-    <surface xml:id="apzp8x3g89ns" ulx="0.29869253933107" uly="-1.1353818905388" lrx="0.84747572517176" lry="-1.3147065310585">
-      <desc>
-        <ref target="http://numismatics.org/library/91231">[11/18/1912].</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0019">
-    <graphic url="188033_0019" n="18"/>
-    <surface xml:id="a6n0zcwse79" ulx="0.13322817314749" uly="0.67350452433359" lrx="0.9347542186354" lry="0.57790582796333">
-      <desc>
-        <ref target="http://numismatics.org/library/29175">[05/05/1914].</ref>
-      </desc>
-    </surface>
-    <surface xml:id="aw6nvmb9wrsl" ulx="0.26681584739548" uly="-0.10575690877965" lrx="0.7844680851064201" lry="-0.184657145868913">
-      <desc>
-        <ref target="http://numismatics.org/library/37328">[11/18/1912].</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0020">
-    <graphic url="188033_0020" n="19"/>
-    <surface xml:id="a5cf1vx8rmk" ulx="0.29945215485749" uly="-0.78759678597514" lrx="0.64643535427312" lry="-0.8794371972317101">
-      <desc>
-        <ref target="http://numismatics.org/library/9737">[11/13/1907].</ref>
-      </desc>
-    </surface>
-    <surface xml:id="asov5f9d2ebr" ulx="0.33249817384946" uly="-1.1428414901388" lrx="0.81717311906493" lry="-1.2181588918994">
-      <desc>
-        <ref target="http://numismatics.org/library/70716">http://numismatics.org/library/70716</ref>
-      </desc>
-    </surface>
-    <surface xml:id="abeyv2umu2zl" ulx="0.27191380569752" uly="-1.5201168736303" lrx="0.80340394448495" lry="-1.6367417991307998">
-      <desc>
-        <ref target="http://numismatics.org/library/59972">[05/29/1911].</ref>
-      </desc>
-    </surface>
-    <surface xml:id="abo1r4iidw9w" ulx="0.2966983199415" uly="1.1621183345507" lrx="0.80615777940094" lry="1.0950624375381">
-      <desc>
-        <ref target="http://numismatics.org/library/59972">[05/29/1911].</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0021">
-    <graphic url="188033_0021" n="20"/>
-    <surface xml:id="a704mqisfek9" ulx="0.32262782694192" uly="0.72616764995081" lrx="0.7633173549655" lry="0.6365053296909399">
-      <desc>
-        <ref target="http://numismatics.org/library/37328">[11/18/1912].</ref>
-      </desc>
-    </surface>
-    <surface xml:id="aioy23dmffne" ulx="0.25610865290062" uly="-0.066519174041296" lrx="0.71619960668625" lry="-0.1284651717839537">
-      <desc>
-        <ref target="http://numismatics.org/library/2251">[11/02/1909].</ref>
-      </desc>
-    </surface>
-    <surface xml:id="ajed10mk6drq" ulx="0.44292649950823" uly="-0.82594641101276" lrx="0.58982300884943" lry="-0.94886831829328">
-      <desc>
-        <ref target="http://numismatics.org/library/37328">[11/18/1912].</ref>
-      </desc>
-    </surface>
-    <surface xml:id="azdwp1cyzbup" ulx="0.39026548672554" uly="-1.1502273844641" lrx="0.58427974434599" lry="-1.32581030452733">
-      <desc>
-        <ref target="http://numismatics.org/library/9737">[11/13/1907].</ref>
-      </desc>
-    </surface>
-    <surface xml:id="aby3uzznr6f" ulx="-0.5814589478861" uly="-1.3414700098328" lrx="-0.02436086529024195" lry="-1.4311323300927001">
-      <desc>
-        <ref target="http://numismatics.org/library/86125">[06/11/1913].</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0022">
-    <graphic url="188033_0022" n="21"/>
-    <surface xml:id="apqg9fjmfc8k" ulx="0.36527573978962" uly="1.0570909757887" lrx="0.77312973832226" lry="0.9812079189913998">
-      <desc>
-        <ref target="http://numismatics.org/library/9737">[11/13/1907].</ref>
-      </desc>
-    </surface>
-    <surface xml:id="aqcc6huemxt" ulx="0.28481474688182" uly="0.60484470530691" lrx="0.8452671802395901" lry="0.506765512535">
-      <desc>
-        <ref target="http://numismatics.org/library/9737">[11/13/1907].</ref>
-      </desc>
-    </surface>
-    <surface xml:id="azhsyzs3al4s" ulx="-0.44029469307909" uly="-0.49108950843725" lrx="-0.14064685742245003" lry="-0.5697470822314201">
-      <desc>
-        <ref target="http://numismatics.org/library/37328">[11/18/1912].</ref>
-      </desc>
-    </surface>
-    <surface xml:id="a3uwhblk8rtg" ulx="-0.57347150892648" uly="-0.066588407923689" lrx="-0.06296038151147398" lry="-0.164667600695607">
-      <desc>
-        <ref target="http://numismatics.org/library/9737">[11/13/1907].</ref>
-      </desc>
-    </surface>
-    <surface xml:id="acogelgyzmhb" ulx="-0.48265957446825" uly="-1.1195176082172" lrx="-0.05260943996105" lry="-1.1893660820793002">
-      <desc>
-        <ref target="http://numismatics.org/library/114354">http://numismatics.org/library/114354</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0023">
-    <graphic url="188033_0023" n="22"/>
-    <surface xml:id="achl5b1c3i94" ulx="-0.54454646017695" uly="1.1732595870207" lrx="-0.035763274336230055" lry="1.0749782278686002">
-      <desc>
-        <ref target="http://numismatics.org/library/37328">[11/18/1912].</ref>
-      </desc>
-    </surface>
-    <surface xml:id="aa3q2l77unnu" ulx="0.43643620943973" uly="1.1209216530274" lrx="0.88822455752234" lry="1.0115193499225">
-      <desc>
-        <ref target="http://numismatics.org/library/37328">[11/18/1912].</ref>
-      </desc>
-    </surface>
-    <surface xml:id="aii4xa1m5c4m" ulx="-0.5477673303833" uly="0.42864289196543" lrx="-0.14046275811191" lry="0.29977893694311997">
-      <desc>
-        <ref target="http://numismatics.org/library/33368">[01/15/1912].</ref>
-      </desc>
-    </surface>
-    <surface xml:id="acs6adtdajsu" ulx="-0.70933628318561" uly="0.053797583340889" lrx="-0.06015117994075603" lry="-0.005560471976412004">
-      <desc>
-        <ref target="http://numismatics.org/library/95018">[11/17/1913].</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0024">
-    <graphic url="188033_0024" n="23"/>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0025">
-    <graphic url="188033_0025" n="24"/>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0026">
-    <graphic url="188033_0026" n="25"/>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0027">
-    <graphic url="188033_0027" n="26"/>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0028">
-    <graphic url="188033_0028" n="27"/>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0029">
-    <graphic url="188033_0029" n="28"/>
-    <surface xml:id="aa848gwfzth" ulx="0.31398072646405" uly="1.0200518902891" lrx="0.9441771682728" lry="0.8083561897702001">
-      <desc>
-        <ref target="http://numismatics.org/library/70716">http://numismatics.org/library/70716</ref>
-      </desc>
-    </surface>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0030">
-    <graphic url="188033_0030" n="29"/>
-  </facsimile>
-  <facsimile xml:id="nnan188033_0031">
-    <graphic url="188033_0031" n="Back cover"/>
-  </facsimile>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>American Numismatic Society</publisher>
+            <pubPlace>New York (N.Y.)</pubPlace>
+            <idno type="donum">188033</idno>
+         </publicationStmt>
+         <notesStmt>
+            <note type="abstract">
+               <p>Binder containing pasted photographs of the obverse and reverse of ancient Greek gold staters showing Philip II of Macedon taken from sales catalogs.</p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
+                  </author>
+                  <title>Edward T. Newell notebook of Phillip II coin photographs, undated</title>
+                  <imprint>
+                     <date>unknown</date>
+                  </imprint>
+                  <extent>circa 80 pages (40 used) ; 19 x 11 cm.</extent>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:id="nnan188033_0001">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0001.jpg"
+             n="Front cover"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2345px"
+             width="1598px"/>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0002">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0002.jpg"
+             n="1"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2276px"
+             width="1335px"/>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0003">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0003.jpg"
+             n="2"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1356px"/>
+      <surface xml:id="ag4yexqi6cz9"
+               ulx="238"
+               uly="203"
+               lrx="381"
+               lry="260">
+         <desc>
+            <ref target="http://viaf.org/viaf/41937557">Hunter, William, 1718-1783</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0004">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0004.jpg"
+             n="3"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1349px"/>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0005">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0005.jpg"
+             n="4"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2276px"
+             width="1328px"/>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0006">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0006.jpg"
+             n="5"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2269px"
+             width="1335px"/>
+      <surface xml:id="a5eylkxolsh3"
+               ulx="473"
+               uly="528"
+               lrx="647"
+               lry="650">
+         <desc>
+            <ref target="http://numismatics.org/library/16785">http://numismatics.org/library/16785</ref>
+         </desc>
+      </surface>
+      <surface xml:id="ag4qqtl52hcp"
+               ulx="982"
+               uly="324"
+               lrx="1167"
+               lry="446">
+         <desc>
+            <ref target="http://numismatics.org/library/8812">http://numismatics.org/library/8812</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0007">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0007.jpg"
+             n="6"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1342px"/>
+      <surface xml:id="adnjzx05w2d6"
+               ulx="966"
+               uly="570"
+               lrx="1294"
+               lry="704">
+         <desc>
+            <ref target="http://numismatics.org/library/16785">http://numismatics.org/library/16785</ref>
+         </desc>
+      </surface>
+      <surface xml:id="az7a9rbxehg9"
+               ulx="883"
+               uly="880"
+               lrx="1260"
+               lry="1002">
+         <desc>
+            <ref target="http://numismatics.org/library/91231">[11/18/1912].</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0008">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0008.jpg"
+             n="7"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2269px"
+             width="1342px"/>
+      <surface xml:id="a6910sx6eh0i"
+               ulx="418"
+               uly="327"
+               lrx="634"
+               lry="442">
+         <desc>
+            <ref target="http://numismatics.org/library/16785">http://numismatics.org/library/16785</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0009">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0009.jpg"
+             n="8"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1349px"/>
+      <surface xml:id="ae7w50bdaems"
+               ulx="947"
+               uly="1212"
+               lrx="1158"
+               lry="1300">
+         <desc>
+            <ref target="http://numismatics.org/library/9864">[11/14/1912].</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0010">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0010.jpg"
+             n="9"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2248px"
+             width="1335px"/>
+      <surface xml:id="a7np6jwtflse"
+               ulx="697"
+               uly="576"
+               lrx="1289"
+               lry="794">
+         <desc>
+            <ref target="http://numismatics.org/library/47009">[05/27/1907].</ref>
+         </desc>
+      </surface>
+      <surface xml:id="aacatmhaydiq"
+               ulx="903"
+               uly="286"
+               lrx="1222"
+               lry="385">
+         <desc>
+            <ref target="http://numismatics.org/library/9864">[11/14/1912].</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0011">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0011.jpg"
+             n="10"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1369px"/>
+      <surface xml:id="axvyxy1e1plq"
+               ulx="881"
+               uly="292"
+               lrx="1171"
+               lry="418">
+         <desc>
+            <ref target="http://numismatics.org/library/9864">[11/14/1912].</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0012">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0012.jpg"
+             n="11"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2241px"
+             width="1356px"/>
+      <surface xml:id="af1ohnmglu88"
+               ulx="917"
+               uly="275"
+               lrx="1239"
+               lry="403">
+         <desc>
+            <ref target="http://numismatics.org/library/124657">http://numismatics.org/library/124657</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0013">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0013.jpg"
+             n="12"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1356px"/>
+      <surface xml:id="ayn5sbm2e3d"
+               ulx="785"
+               uly="315"
+               lrx="1290"
+               lry="701">
+         <desc>
+            <ref target="http://numismatics.org/library/9864">[11/14/1912].</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0014">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0014.jpg"
+             n="13"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2269px"
+             width="1363px"/>
+      <surface xml:id="afu8o2u2aom5"
+               ulx="919"
+               uly="294"
+               lrx="1124"
+               lry="412">
+         <desc>
+            <ref target="http://numismatics.org/library/124657">http://numismatics.org/library/124657</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0015">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0015.jpg"
+             n="14"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1369px"/>
+      <surface xml:id="a65abafc1uu8"
+               ulx="937"
+               uly="1453"
+               lrx="1254"
+               lry="1523">
+         <desc>
+            <ref target="http://numismatics.org/library/91231">[11/18/1912].</ref>
+         </desc>
+      </surface>
+      <surface xml:id="asx4qgehn6xm"
+               ulx="945"
+               uly="1124"
+               lrx="1118"
+               lry="1236">
+         <desc>
+            <ref target="http://numismatics.org/library/9864">[11/14/1912].</ref>
+         </desc>
+      </surface>
+      <surface xml:id="a43ex2t8m6g2"
+               ulx="915"
+               uly="589"
+               lrx="1280"
+               lry="667">
+         <desc>
+            <ref target="http://numismatics.org/library/59972">[05/29/1911].</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0016">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0016.jpg"
+             n="15"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2248px"
+             width="1363px"/>
+      <surface xml:id="a5e4bpxyz5bk"
+               ulx="952"
+               uly="266"
+               lrx="1267"
+               lry="385">
+         <desc>
+            <ref target="http://numismatics.org/library/142115">[11/27/1905].</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0017">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0017.jpg"
+             n="16"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1356px"/>
+      <surface xml:id="akqvkc7yqik"
+               ulx="924"
+               uly="1095"
+               lrx="1233"
+               lry="1195">
+         <desc>
+            <ref target="http://numismatics.org/library/70716">http://numismatics.org/library/70716</ref>
+         </desc>
+      </surface>
+      <surface xml:id="alvpdbtkmmpc"
+               ulx="476"
+               uly="531"
+               lrx="656"
+               lry="625">
+         <desc>
+            <ref target="http://numismatics.org/library/91231">[11/18/1912].</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0018">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0018.jpg"
+             n="17"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1356px"/>
+      <surface xml:id="ah8pmnxjd9gc"
+               ulx="941"
+               uly="1546"
+               lrx="1133"
+               lry="1630">
+         <desc>
+            <ref target="http://numismatics.org/library/95018">[11/17/1913].</ref>
+         </desc>
+      </surface>
+      <surface xml:id="apzp8x3g89ns"
+               ulx="881"
+               uly="1776"
+               lrx="1253"
+               lry="1897">
+         <desc>
+            <ref target="http://numismatics.org/library/91231">[11/18/1912].</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0019">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0019.jpg"
+             n="18"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2276px"
+             width="1363px"/>
+      <surface xml:id="a6n0zcwse79"
+               ulx="773"
+               uly="614"
+               lrx="1319"
+               lry="679">
+         <desc>
+            <ref target="http://numismatics.org/library/29175">[05/05/1914].</ref>
+         </desc>
+      </surface>
+      <surface xml:id="aw6nvmb9wrsl"
+               ulx="864"
+               uly="1157"
+               lrx="1217"
+               lry="1210">
+         <desc>
+            <ref target="http://numismatics.org/library/37328">[11/18/1912].</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0020">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0020.jpg"
+             n="19"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1369px"/>
+      <surface xml:id="a5cf1vx8rmk"
+               ulx="890"
+               uly="1608"
+               lrx="1127"
+               lry="1670">
+         <desc>
+            <ref target="http://numismatics.org/library/9737">[11/13/1907].</ref>
+         </desc>
+      </surface>
+      <surface xml:id="asov5f9d2ebr"
+               ulx="913"
+               uly="1862"
+               lrx="1244"
+               lry="1913">
+         <desc>
+            <ref target="http://numismatics.org/library/70716">http://numismatics.org/library/70716</ref>
+         </desc>
+      </surface>
+      <surface xml:id="abeyv2umu2zl"
+               ulx="871"
+               uly="2091"
+               lrx="1235"
+               lry="2171">
+         <desc>
+            <ref target="http://numismatics.org/library/59972">[05/29/1911].</ref>
+         </desc>
+      </surface>
+      <surface xml:id="abo1r4iidw9w"
+               ulx="888"
+               uly="289"
+               lrx="1237"
+               lry="335">
+         <desc>
+            <ref target="http://numismatics.org/library/59972">[05/29/1911].</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0021">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0021.jpg"
+             n="20"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1356px"/>
+      <surface xml:id="a704mqisfek9"
+               ulx="897"
+               uly="575"
+               lrx="1196"
+               lry="635">
+         <desc>
+            <ref target="http://numismatics.org/library/37328">[11/18/1912].</ref>
+         </desc>
+      </surface>
+      <surface xml:id="aioy23dmffne"
+               ulx="852"
+               uly="1130"
+               lrx="1164"
+               lry="1172">
+         <desc>
+            <ref target="http://numismatics.org/library/2251">[11/02/1909].</ref>
+         </desc>
+      </surface>
+      <surface xml:id="ajed10mk6drq"
+               ulx="979"
+               uly="1604"
+               lrx="1078"
+               lry="1687">
+         <desc>
+            <ref target="http://numismatics.org/library/37328">[11/18/1912].</ref>
+         </desc>
+      </surface>
+      <surface xml:id="azdwp1cyzbup"
+               ulx="943"
+               uly="1788"
+               lrx="1075"
+               lry="1907">
+         <desc>
+            <ref target="http://numismatics.org/library/9737">[11/13/1907].</ref>
+         </desc>
+      </surface>
+      <surface xml:id="aby3uzznr6f"
+               ulx="284"
+               uly="1977"
+               lrx="662"
+               lry="2037">
+         <desc>
+            <ref target="http://numismatics.org/library/86125">[06/11/1913].</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0022">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0022.jpg"
+             n="21"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2269px"
+             width="1363px"/>
+      <surface xml:id="apqg9fjmfc8k"
+               ulx="931"
+               uly="363"
+               lrx="1209"
+               lry="414">
+         <desc>
+            <ref target="http://numismatics.org/library/9737">[11/13/1907].</ref>
+         </desc>
+      </surface>
+      <surface xml:id="aqcc6huemxt"
+               ulx="876"
+               uly="655"
+               lrx="1258"
+               lry="722">
+         <desc>
+            <ref target="http://numismatics.org/library/9737">[11/13/1907].</ref>
+         </desc>
+      </surface>
+      <surface xml:id="azhsyzs3al4s"
+               ulx="382"
+               uly="1416"
+               lrx="586"
+               lry="1469">
+         <desc>
+            <ref target="http://numismatics.org/library/37328">[11/18/1912].</ref>
+         </desc>
+      </surface>
+      <surface xml:id="a3uwhblk8rtg"
+               ulx="291"
+               uly="1112"
+               lrx="639"
+               lry="1179">
+         <desc>
+            <ref target="http://numismatics.org/library/9737">[11/13/1907].</ref>
+         </desc>
+      </surface>
+      <surface xml:id="acogelgyzmhb"
+               ulx="353"
+               uly="1849"
+               lrx="646"
+               lry="1897">
+         <desc>
+            <ref target="http://numismatics.org/library/114354">http://numismatics.org/library/114354</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0023">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0023.jpg"
+             n="22"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1356px"/>
+      <surface xml:id="achl5b1c3i94"
+               ulx="309"
+               uly="268"
+               lrx="654"
+               lry="335">
+         <desc>
+            <ref target="http://numismatics.org/library/37328">[11/18/1912].</ref>
+         </desc>
+      </surface>
+      <surface xml:id="aa3q2l77unnu"
+               ulx="974"
+               uly="297"
+               lrx="1281"
+               lry="371">
+         <desc>
+            <ref target="http://numismatics.org/library/37328">[11/18/1912].</ref>
+         </desc>
+      </surface>
+      <surface xml:id="aii4xa1m5c4m"
+               ulx="307"
+               uly="753"
+               lrx="583"
+               lry="840">
+         <desc>
+            <ref target="http://numismatics.org/library/33368">[01/15/1912].</ref>
+         </desc>
+      </surface>
+      <surface xml:id="acs6adtdajsu"
+               ulx="198"
+               uly="1054"
+               lrx="638"
+               lry="1094">
+         <desc>
+            <ref target="http://numismatics.org/library/95018">[11/17/1913].</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0024">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0024.jpg"
+             n="23"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2283px"
+             width="1356px"/>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0025">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0025.jpg"
+             n="24"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0026">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0026.jpg"
+             n="25"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1349px"/>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0027">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0027.jpg"
+             n="26"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0028">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0028.jpg"
+             n="27"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2269px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0029">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0029.jpg"
+             n="28"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1349px"/>
+      <surface xml:id="aa848gwfzth"
+               ulx="887"
+               uly="299"
+               lrx="1312"
+               lry="442">
+         <desc>
+            <ref target="http://numismatics.org/library/70716">http://numismatics.org/library/70716</ref>
+         </desc>
+      </surface>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0030">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0030.jpg"
+             n="29"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2269px"
+             width="1356px"/>
+   </facsimile>
+   <facsimile xml:id="nnan188033_0031">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F188033_0031.jpg"
+             n="Back cover"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2373px"
+             width="1619px"/>
+   </facsimile>
 </TEI>

@@ -1,461 +1,883 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="nnan187963" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Edward T. Newell notebook of Alexander III coin photographs, undated</title>
-        <author>
-          <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
-        </author>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>American Numismatic Society</publisher>
-        <pubPlace>New York (N.Y.)</pubPlace>
-        <idno type="donum">187963</idno>
-      </publicationStmt>
-      <notesStmt>
-        <note type="abstract">
-          <p>Binder containing pasted photographs of the obverse and reverse of ancient Greek gold coins showing Alexander III of Macedon (Alexander the Great) taken from sales catalogs. Includes some brief handwritten annotations.</p>
-        </note>
-      </notesStmt>
-      <sourceDesc>
-        <biblStruct>
-          <monogr>
-            <author>
-              <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
-            </author>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="nnan187963"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Edward T. Newell notebook of Alexander III coin photographs, undated</title>
-            <imprint>
-              <date>unknown</date>
-            </imprint>
-            <extent>circa 190 pages ; 19 x 12 cm.</extent>
-          </monogr>
-        </biblStruct>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <textClass>
-        <keywords corresp="nnan187963_0001"/>
-        <keywords corresp="nnan187963_0002"/>
-        <keywords corresp="nnan187963_0003"/>
-        <keywords corresp="nnan187963_0004"/>
-        <keywords corresp="nnan187963_0005"/>
-        <keywords corresp="nnan187963_0006"/>
-        <keywords corresp="nnan187963_0007"/>
-        <keywords corresp="nnan187963_0008"/>
-        <keywords corresp="nnan187963_0009"/>
-        <keywords corresp="nnan187963_0010"/>
-        <keywords corresp="nnan187963_0011"/>
-        <keywords corresp="nnan187963_0012"/>
-        <keywords corresp="nnan187963_0013"/>
-        <keywords corresp="nnan187963_0014"/>
-        <keywords corresp="nnan187963_0015"/>
-        <keywords corresp="nnan187963_0016"/>
-        <keywords corresp="nnan187963_0017"/>
-        <keywords corresp="nnan187963_0018"/>
-        <keywords corresp="nnan187963_0019"/>
-        <keywords corresp="nnan187963_0020"/>
-        <keywords corresp="nnan187963_0021"/>
-        <keywords corresp="nnan187963_0022"/>
-        <keywords corresp="nnan187963_0023"/>
-        <keywords corresp="nnan187963_0024"/>
-        <keywords corresp="nnan187963_0025"/>
-        <keywords corresp="nnan187963_0026"/>
-        <keywords corresp="nnan187963_0027"/>
-        <keywords corresp="nnan187963_0028"/>
-        <keywords corresp="nnan187963_0029"/>
-        <keywords corresp="nnan187963_0030"/>
-        <keywords corresp="nnan187963_0031"/>
-        <keywords corresp="nnan187963_0032"/>
-        <keywords corresp="nnan187963_0033"/>
-        <keywords corresp="nnan187963_0034"/>
-        <keywords corresp="nnan187963_0035"/>
-        <keywords corresp="nnan187963_0036"/>
-        <keywords corresp="nnan187963_0037"/>
-        <keywords corresp="nnan187963_0038"/>
-        <keywords corresp="nnan187963_0039"/>
-        <keywords corresp="nnan187963_0040"/>
-        <keywords corresp="nnan187963_0041"/>
-        <keywords corresp="nnan187963_0042"/>
-        <keywords corresp="nnan187963_0043"/>
-        <keywords corresp="nnan187963_0044"/>
-        <keywords corresp="nnan187963_0045"/>
-        <keywords corresp="nnan187963_0046"/>
-        <keywords corresp="nnan187963_0047"/>
-        <keywords corresp="nnan187963_0048"/>
-        <keywords corresp="nnan187963_0049"/>
-        <keywords corresp="nnan187963_0050"/>
-        <keywords corresp="nnan187963_0051"/>
-        <keywords corresp="nnan187963_0052"/>
-        <keywords corresp="nnan187963_0053"/>
-        <keywords corresp="nnan187963_0054"/>
-        <keywords corresp="nnan187963_0055"/>
-        <keywords corresp="nnan187963_0056"/>
-        <keywords corresp="nnan187963_0057"/>
-        <keywords corresp="nnan187963_0058"/>
-        <keywords corresp="nnan187963_0059"/>
-        <keywords corresp="nnan187963_0060"/>
-        <keywords corresp="nnan187963_0061"/>
-        <keywords corresp="nnan187963_0062"/>
-        <keywords corresp="nnan187963_0063"/>
-        <keywords corresp="nnan187963_0064"/>
-        <keywords corresp="nnan187963_0065"/>
-        <keywords corresp="nnan187963_0066"/>
-        <keywords corresp="nnan187963_0067"/>
-        <keywords corresp="nnan187963_0068"/>
-        <keywords corresp="nnan187963_0069"/>
-        <keywords corresp="nnan187963_0070"/>
-        <keywords corresp="nnan187963_0071"/>
-        <keywords corresp="nnan187963_0072"/>
-        <keywords corresp="nnan187963_0073"/>
-        <keywords corresp="nnan187963_0074"/>
-        <keywords corresp="nnan187963_0075"/>
-        <keywords corresp="nnan187963_0076"/>
-        <keywords corresp="nnan187963_0077"/>
-        <keywords corresp="nnan187963_0078"/>
-        <keywords corresp="nnan187963_0079"/>
-        <keywords corresp="nnan187963_0080"/>
-        <keywords corresp="nnan187963_0081"/>
-        <keywords corresp="nnan187963_0082"/>
-        <keywords corresp="nnan187963_0083"/>
-        <keywords corresp="nnan187963_0084"/>
-        <keywords corresp="nnan187963_0085"/>
-        <keywords corresp="nnan187963_0086"/>
-        <keywords corresp="nnan187963_0087"/>
-        <keywords corresp="nnan187963_0088"/>
-        <keywords corresp="nnan187963_0089"/>
-        <keywords corresp="nnan187963_0090"/>
-        <keywords corresp="nnan187963_0091"/>
-        <keywords corresp="nnan187963_0092"/>
-        <keywords corresp="nnan187963_0093"/>
-        <keywords corresp="nnan187963_0094"/>
-        <keywords corresp="nnan187963_0095"/>
-        <keywords corresp="nnan187963_0096"/>
-        <keywords corresp="nnan187963_0097"/>
-        <keywords corresp="nnan187963_0098"/>
-        <keywords corresp="nnan187963_0099"/>
-        <keywords corresp="nnan187963_0100"/>
-        <keywords corresp="nnan187963_0101"/>
-        <keywords corresp="nnan187963_0102"/>
-        <keywords corresp="nnan187963_0103"/>
-        <keywords corresp="nnan187963_0104"/>
-        <keywords corresp="nnan187963_0105"/>
-      </textClass>
-    </profileDesc>
-  </teiHeader>
-  <facsimile xml:id="nnan187963_0001" style="depiction">
-    <graphic url="187963_0001" n="Front Cover"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0002">
-    <graphic url="187963_0002" n="1"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0003">
-    <graphic url="187963_0003" n="2"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0004">
-    <graphic url="187963_0004" n="3"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0005">
-    <graphic url="187963_0005" n="4"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0006">
-    <graphic url="187963_0006" n="5"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0007">
-    <graphic url="187963_0007" n="6"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0008">
-    <graphic url="187963_0008" n="7"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0009">
-    <graphic url="187963_0009" n="8"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0010">
-    <graphic url="187963_0010" n="9"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0011">
-    <graphic url="187963_0011" n="10"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0012">
-    <graphic url="187963_0012" n="11"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0013">
-    <graphic url="187963_0013" n="12"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0014">
-    <graphic url="187963_0014" n="13"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0015">
-    <graphic url="187963_0015" n="14"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0016">
-    <graphic url="187963_0016" n="15"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0017">
-    <graphic url="187963_0017" n="16"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0018">
-    <graphic url="187963_0018" n="17"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0019">
-    <graphic url="187963_0019" n="18"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0020">
-    <graphic url="187963_0020" n="19"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0021">
-    <graphic url="187963_0021" n="20"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0022">
-    <graphic url="187963_0022" n="21"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0023">
-    <graphic url="187963_0023" n="22"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0024">
-    <graphic url="187963_0024" n="23"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0025">
-    <graphic url="187963_0025" n="24"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0026">
-    <graphic url="187963_0026" n="25"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0027">
-    <graphic url="187963_0027" n="26"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0028">
-    <graphic url="187963_0028" n="27"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0029">
-    <graphic url="187963_0029" n="28"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0030">
-    <graphic url="187963_0030" n="29"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0031">
-    <graphic url="187963_0031" n="30"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0032">
-    <graphic url="187963_0032" n="31"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0033">
-    <graphic url="187963_0033" n="32"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0034">
-    <graphic url="187963_0034" n="33"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0035">
-    <graphic url="187963_0035" n="34"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0036">
-    <graphic url="187963_0036" n="35"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0037">
-    <graphic url="187963_0037" n="36"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0038">
-    <graphic url="187963_0038" n="37"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0039">
-    <graphic url="187963_0039" n="38"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0040">
-    <graphic url="187963_0040" n="39"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0041">
-    <graphic url="187963_0041" n="40"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0042">
-    <graphic url="187963_0042" n="41"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0043">
-    <graphic url="187963_0043" n="42"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0044">
-    <graphic url="187963_0044" n="43"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0045">
-    <graphic url="187963_0045" n="44"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0046">
-    <graphic url="187963_0046" n="45"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0047">
-    <graphic url="187963_0047" n="46"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0048">
-    <graphic url="187963_0048" n="47"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0049">
-    <graphic url="187963_0049" n="48"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0050">
-    <graphic url="187963_0050" n="49"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0051">
-    <graphic url="187963_0051" n="50"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0052">
-    <graphic url="187963_0052" n="51"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0053">
-    <graphic url="187963_0053" n="52"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0054">
-    <graphic url="187963_0054" n="53"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0055">
-    <graphic url="187963_0055" n="54"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0056">
-    <graphic url="187963_0056" n="55"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0057">
-    <graphic url="187963_0057" n="56"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0058">
-    <graphic url="187963_0058" n="57"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0059">
-    <graphic url="187963_0059" n="58"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0060">
-    <graphic url="187963_0060" n="59"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0061">
-    <graphic url="187963_0061" n="60"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0062">
-    <graphic url="187963_0062" n="61"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0063">
-    <graphic url="187963_0063" n="62"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0064">
-    <graphic url="187963_0064" n="63"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0065">
-    <graphic url="187963_0065" n="64"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0066">
-    <graphic url="187963_0066" n="65"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0067">
-    <graphic url="187963_0067" n="66"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0068">
-    <graphic url="187963_0068" n="67"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0069">
-    <graphic url="187963_0069" n="68"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0070">
-    <graphic url="187963_0070" n="69"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0071">
-    <graphic url="187963_0071" n="70"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0072">
-    <graphic url="187963_0072" n="71"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0073">
-    <graphic url="187963_0073" n="72"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0074">
-    <graphic url="187963_0074" n="73"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0075">
-    <graphic url="187963_0075" n="74"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0076">
-    <graphic url="187963_0076" n="75"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0077">
-    <graphic url="187963_0077" n="76"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0078">
-    <graphic url="187963_0078" n="77"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0079">
-    <graphic url="187963_0079" n="78"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0080">
-    <graphic url="187963_0080" n="79"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0081">
-    <graphic url="187963_0081" n="80"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0082">
-    <graphic url="187963_0082" n="81"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0083">
-    <graphic url="187963_0083" n="82"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0084">
-    <graphic url="187963_0084" n="83"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0085">
-    <graphic url="187963_0085" n="84"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0086">
-    <graphic url="187963_0086" n="85"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0087">
-    <graphic url="187963_0087" n="86"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0088">
-    <graphic url="187963_0088" n="87"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0089">
-    <graphic url="187963_0089" n="88"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0090">
-    <graphic url="187963_0090" n="89"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0091">
-    <graphic url="187963_0091" n="90"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0092">
-    <graphic url="187963_0092" n="91"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0093">
-    <graphic url="187963_0093" n="92"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0094">
-    <graphic url="187963_0094" n="93"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0095">
-    <graphic url="187963_0095" n="94"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0096">
-    <graphic url="187963_0096" n="95"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0097">
-    <graphic url="187963_0097" n="96"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0098">
-    <graphic url="187963_0098" n="97"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0099">
-    <graphic url="187963_0099" n="98"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0100">
-    <graphic url="187963_0100" n="99"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0101">
-    <graphic url="187963_0101" n="100"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0102">
-    <graphic url="187963_0102" n="101"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0103">
-    <graphic url="187963_0103" n="102"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0104">
-    <graphic url="187963_0104" n="103"/>
-  </facsimile>
-  <facsimile xml:id="nnan187963_0105">
-    <graphic url="187963_0105" n="Back Cover"/>
-  </facsimile>
+            <author>
+               <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>American Numismatic Society</publisher>
+            <pubPlace>New York (N.Y.)</pubPlace>
+            <idno type="donum">187963</idno>
+         </publicationStmt>
+         <notesStmt>
+            <note type="abstract">
+               <p>Binder containing pasted photographs of the obverse and reverse of ancient Greek gold coins showing Alexander III of Macedon (Alexander the Great) taken from sales catalogs. Includes some brief handwritten annotations.</p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
+                  </author>
+                  <title>Edward T. Newell notebook of Alexander III coin photographs, undated</title>
+                  <imprint>
+                     <date>unknown</date>
+                  </imprint>
+                  <extent>circa 190 pages ; 19 x 12 cm.</extent>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:id="nnan187963_0001">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0001.jpg"
+             n="Front Cover"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2373px"
+             width="1577px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0002">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0002.jpg"
+             n="1"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2276px"
+             width="1390px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0003">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0003.jpg"
+             n="2"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2269px"
+             width="1356px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0004">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0004.jpg"
+             n="3"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0005">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0005.jpg"
+             n="4"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2283px"
+             width="1369px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0006">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0006.jpg"
+             n="5"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2269px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0007">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0007.jpg"
+             n="6"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2248px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0008">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0008.jpg"
+             n="7"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2248px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0009">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0009.jpg"
+             n="8"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2276px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0010">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0010.jpg"
+             n="9"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0011">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0011.jpg"
+             n="10"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0012">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0012.jpg"
+             n="11"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1397px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0013">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0013.jpg"
+             n="12"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2241px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0014">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0014.jpg"
+             n="13"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2276px"
+             width="1383px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0015">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0015.jpg"
+             n="14"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2241px"
+             width="1342px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0016">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0016.jpg"
+             n="15"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2276px"
+             width="1383px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0017">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0017.jpg"
+             n="16"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2269px"
+             width="1390px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0018">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0018.jpg"
+             n="17"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1383px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0019">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0019.jpg"
+             n="18"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2234px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0020">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0020.jpg"
+             n="19"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0021">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0021.jpg"
+             n="20"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0022">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0022.jpg"
+             n="21"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1369px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0023">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0023.jpg"
+             n="22"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0024">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0024.jpg"
+             n="23"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0025">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0025.jpg"
+             n="24"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0026">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0026.jpg"
+             n="25"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1369px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0027">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0027.jpg"
+             n="26"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1356px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0028">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0028.jpg"
+             n="27"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2248px"
+             width="1390px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0029">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0029.jpg"
+             n="28"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1404px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0030">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0030.jpg"
+             n="29"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2234px"
+             width="1356px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0031">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0031.jpg"
+             n="30"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2248px"
+             width="1383px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0032">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0032.jpg"
+             n="31"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2241px"
+             width="1356px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0033">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0033.jpg"
+             n="32"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2241px"
+             width="1369px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0034">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0034.jpg"
+             n="33"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2248px"
+             width="1369px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0035">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0035.jpg"
+             n="34"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2241px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0036">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0036.jpg"
+             n="35"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2269px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0037">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0037.jpg"
+             n="36"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1383px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0038">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0038.jpg"
+             n="37"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1369px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0039">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0039.jpg"
+             n="38"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0040">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0040.jpg"
+             n="39"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2276px"
+             width="1369px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0041">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0041.jpg"
+             n="40"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2248px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0042">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0042.jpg"
+             n="41"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1390px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0043">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0043.jpg"
+             n="42"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1369px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0044">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0044.jpg"
+             n="43"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1383px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0045">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0045.jpg"
+             n="44"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0046">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0046.jpg"
+             n="45"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0047">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0047.jpg"
+             n="46"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2234px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0048">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0048.jpg"
+             n="47"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2248px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0049">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0049.jpg"
+             n="48"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1369px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0050">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0050.jpg"
+             n="49"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1390px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0051">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0051.jpg"
+             n="50"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2248px"
+             width="1369px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0052">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0052.jpg"
+             n="51"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2248px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0053">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0053.jpg"
+             n="52"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2248px"
+             width="1349px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0054">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0054.jpg"
+             n="53"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2241px"
+             width="1383px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0055">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0055.jpg"
+             n="54"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1383px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0056">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0056.jpg"
+             n="55"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2276px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0057">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0057.jpg"
+             n="56"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2248px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0058">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0058.jpg"
+             n="57"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1369px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0059">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0059.jpg"
+             n="58"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2234px"
+             width="1356px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0060">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0060.jpg"
+             n="59"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2234px"
+             width="1356px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0061">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0061.jpg"
+             n="60"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1404px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0062">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0062.jpg"
+             n="61"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0063">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0063.jpg"
+             n="62"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1356px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0064">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0064.jpg"
+             n="63"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1390px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0065">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0065.jpg"
+             n="64"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2290px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0066">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0066.jpg"
+             n="65"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1342px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0067">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0067.jpg"
+             n="66"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1383px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0068">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0068.jpg"
+             n="67"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2269px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0069">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0069.jpg"
+             n="68"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2248px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0070">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0070.jpg"
+             n="69"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2248px"
+             width="1369px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0071">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0071.jpg"
+             n="70"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1369px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0072">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0072.jpg"
+             n="71"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2269px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0073">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0073.jpg"
+             n="72"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2227px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0074">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0074.jpg"
+             n="73"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1369px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0075">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0075.jpg"
+             n="74"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2241px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0076">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0076.jpg"
+             n="75"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2290px"
+             width="1356px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0077">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0077.jpg"
+             n="76"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1369px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0078">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0078.jpg"
+             n="77"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0079">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0079.jpg"
+             n="78"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0080">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0080.jpg"
+             n="79"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2248px"
+             width="1356px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0081">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0081.jpg"
+             n="80"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2283px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0082">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0082.jpg"
+             n="81"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0083">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0083.jpg"
+             n="82"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2269px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0084">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0084.jpg"
+             n="83"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2283px"
+             width="1390px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0085">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0085.jpg"
+             n="84"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1369px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0086">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0086.jpg"
+             n="85"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2234px"
+             width="1356px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0087">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0087.jpg"
+             n="86"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0088">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0088.jpg"
+             n="87"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1369px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0089">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0089.jpg"
+             n="88"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2269px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0090">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0090.jpg"
+             n="89"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0091">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0091.jpg"
+             n="90"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1369px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0092">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0092.jpg"
+             n="91"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0093">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0093.jpg"
+             n="92"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2234px"
+             width="1349px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0094">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0094.jpg"
+             n="93"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2241px"
+             width="1356px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0095">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0095.jpg"
+             n="94"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2248px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0096">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0096.jpg"
+             n="95"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2248px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0097">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0097.jpg"
+             n="96"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1369px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0098">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0098.jpg"
+             n="97"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1383px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0099">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0099.jpg"
+             n="98"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1356px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0100">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0100.jpg"
+             n="99"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2283px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0101">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0101.jpg"
+             n="100"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1383px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0102">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0102.jpg"
+             n="101"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1356px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0103">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0103.jpg"
+             n="102"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2262px"
+             width="1363px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0104">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0104.jpg"
+             n="103"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2255px"
+             width="1376px"/>
+   </facsimile>
+   <facsimile xml:id="nnan187963_0105">
+      <media url="http://images.numismatics.org/archivesimages%2Farchive%2F187963_0105.jpg"
+             n="Back Cover"
+             mimeType="image/jpeg"
+             type="IIIFService"
+             height="2366px"
+             width="1619px"/>
+   </facsimile>
 </TEI>
