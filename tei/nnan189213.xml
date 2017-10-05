@@ -40,7 +40,7 @@
          <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xml:id="nnan189213_0001">
+   <facsimile xml:id="nnan189213_0001" style="depiction">
       <media url="http://images.numismatics.org/archivesimages%2Farchive%2F189213_0001.jpg"
              mimeType="image/jpeg"
              type="IIIFService"

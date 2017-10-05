@@ -92,6 +92,7 @@
         <c level="item" id="d1e120">
           <did>
             <unittitle>Hotel Des Etrangers, Greece</unittitle>
+            <unitid>06-00243</unitid>
           </did>
           <controlaccess>
             <geogname authfilenumber="540726" source="pleiades">Delphi</geogname>
@@ -101,13 +102,9 @@
             <daodesc>
               <p>Hotel Des Etrangers, Greece. Likely at Delphi. Undated (06-00243). Photograph.</p>
             </daodesc>
-            <daoloc xlink:type="locator" xlink:href="http://farm9.staticflickr.com/8461/8003388084_32119db34f_s.jpg" xlink:label="Square"/>
-            <daoloc xlink:type="locator" xlink:href="http://farm9.staticflickr.com/8461/8003388084_32119db34f_q.jpg" xlink:label="Large Square"/>
-            <daoloc xlink:type="locator" xlink:href="http://farm9.staticflickr.com/8461/8003388084_32119db34f_t.jpg" xlink:label="Thumbnail"/>
-            <daoloc xlink:type="locator" xlink:href="http://farm9.staticflickr.com/8461/8003388084_32119db34f_m.jpg" xlink:label="Small"/>
-            <daoloc xlink:type="locator" xlink:href="http://farm9.staticflickr.com/8461/8003388084_32119db34f_n.jpg" xlink:label="Small 320"/>
-            <daoloc xlink:type="locator" xlink:href="http://farm9.staticflickr.com/8461/8003388084_32119db34f.jpg" xlink:label="Medium"/>
-            <daoloc xlink:type="locator" xlink:href="http://farm9.staticflickr.com/8461/8003388084_9533be8e9f_o.jpg" xlink:label="Original"/>
+            <daoloc xlink:type="locator" xlink:href="http://app1.numismatics.org/archivesimages/thumbnail/06-00243.jpg" xlink:role="thumbnail"/>
+            <daoloc xlink:type="locator" xlink:href="http://app1.numismatics.org/archivesimages/reference/06-00243.jpg" xlink:role="reference"/>
+            <daoloc xlink:type="locator" xlink:href="http://images.numismatics.org/archivesimages%2Farchive%2F06-00243.jpg" xlink:role="IIIFService"/>
           </daogrp>
         </c>
         <c level="item" id="d1e131">
@@ -818,6 +815,7 @@
         <c level="item" id="d1e485">
           <did>
             <unittitle>Near Hymethus, Greece</unittitle>
+            <unitid>A-12</unitid>
           </did>
           <controlaccess>
             <geogname authfilenumber="579955" source="pleiades">Hymettos M.</geogname>
@@ -3742,6 +3740,7 @@
         <c level="item" id="d1e1960">
           <did>
             <unittitle>Unidentified archaeological site, Greece</unittitle>
+            <unitid>06-00024</unitid>
           </did>
           <daogrp>
             <daodesc>
@@ -4114,6 +4113,7 @@
         <c level="item" id="d1e2132">
           <did>
             <unittitle>Unidentified archaeological site, Greece</unittitle>
+            <unitid>06-00006</unitid>
           </did>
           <daogrp>
             <daodesc>
