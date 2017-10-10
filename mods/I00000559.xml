@@ -24,8 +24,8 @@
     </relatedItem>
     <location>
       <url access="raw object" note="IIIFService">http://images.numismatics.org/archivesimages%2Farchive%2F07-00058.jpg</url>
-      <url access="preview">http://app1.numismatics.org/archivesimages/thumbnail/07-00058.jpg</url>
-      <url usage="primary display">http://app1.numismatics.org/archivesimages/reference/07-00058.jpg</url>
+      <url access="preview">http://numismatics.org/archivesimages/thumbnail/07-00058.jpg</url>
+      <url usage="primary display">http://numismatics.org/archivesimages/reference/07-00058.jpg</url>
     </location>
     <accessCondition>In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
     <accessCondition type="rights">
@@ -37,7 +37,7 @@
       <recordCreationDate encoding="iso8601">2012-08-07</recordCreationDate>
       <recordIdentifier>I00000559</recordIdentifier>
     </recordInfo>
-    <subject>
+    <subject>      
       <name valueURI="http://viaf.org/viaf/4947477" type="personal">
         <namePart>Waggoner, Nancy M., 1924-1989</namePart>
       </name>
