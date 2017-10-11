@@ -1,56 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
-  <mods version="3.5">
-    <titleInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <title>King Edward VII etching by Emil Fuchs, circa 1902</title>
-    </titleInfo>
-    <identifier xmlns:xlink="http://www.w3.org/1999/xlink">13-00012</identifier>
-    <originInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <dateCreated>circa 1902</dateCreated>
-    </originInfo>
-    <physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink">
-      <internetMediaType>image/jpeg</internetMediaType>
-      <digitalOrigin>reformatted digital</digitalOrigin>
-      <form>Digital images</form>
-    </physicalDescription>
-    <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink">
-      <originInfo>
-        <dateCreated>circa 1902</dateCreated>
-      </originInfo>
-    </relatedItem>
-    <location xmlns:xlink="http://www.w3.org/1999/xlink">
-      <url access="preview">http://numismatics.org/archives/ui/media/thumbnail/13-00012.jpg</url>
-      <url usage="primary display">http://numismatics.org/archives/ui/media/reference/13-00012.jpg</url>
-    </location>
-    <accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
-    <note xmlns:xlink="http://www.w3.org/1999/xlink">Courtesy of Archives, American Numismatic Society.</note>
-    <recordInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <recordContentSource>American Numismatic Society</recordContentSource>
-      <recordCreationDate encoding="iso8601">2013-07-19</recordCreationDate>
-      <recordIdentifier>13-00012</recordIdentifier>
-    </recordInfo>
-    <subject>
-      <name valueURI="http://viaf.org/viaf/34363706" type="personal">
-        <namePart>Fuchs, Emil, 1866-1929</namePart>
-      </name>
-    </subject>
-    <subject>
-      <name valueURI="http://viaf.org/viaf/265340794" type="personal">
-        <namePart>Edward VII, King of Great Britain, 1841-1910</namePart>
-      </name>
-    </subject>
-    <subject>
-      <genre valueURI="http://vocab.getty.edu/aat/300015637">Portraits</genre>
-    </subject>
-    <subject>
-      <occupation valueURI="http://vocab.getty.edu/aat/300025181">Sculptors</occupation>
-    </subject>
-    <subject>
-      <occupation valueURI="http://vocab.getty.edu/aat/300025337">Medalists</occupation>
-    </subject>
-    <abstract xmlns:xlink="http://www.w3.org/1999/xlink">Etching of King Edward VII by Emil Fuchs used on postage stamps in Great Britain.</abstract>
-    <location xmlns:xlink="http://www.w3.org/1999/xlink">
-      <physicalLocation>Archives - Pamphlet 1</physicalLocation>
-    </location>
-  </mods>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
+   <mods version="3.6">
+      <titleInfo>
+         <title>King Edward VII etching by Emil Fuchs, circa 1902</title>
+      </titleInfo>
+      <identifier>13-00012</identifier>
+      <physicalDescription>
+         <internetMediaType>image/jpeg</internetMediaType>
+         <digitalOrigin>reformatted digital</digitalOrigin>
+         <form>Digital images</form>
+      </physicalDescription>
+      <relatedItem type="original">
+         <originInfo>
+            <dateCreated>circa 1902</dateCreated>
+         </originInfo>
+      </relatedItem>
+      <location>
+         <url access="raw object" note="IIIFService">http://images.numismatics.org/archivesimages%2Farchive%2F13-00012.jpg</url>
+         <url access="preview">http://numismatics.org/archivesimages/thumbnail/13-00012.jpg</url>
+         <url usage="primary display">http://numismatics.org/archivesimages/reference/13-00012.jpg</url>
+      </location>
+      <accessCondition>In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
+      <note>Courtesy of Archives, American Numismatic Society.</note>
+      <recordInfo>
+         <recordContentSource>American Numismatic Society</recordContentSource>
+         <recordCreationDate encoding="iso8601">2013-07-19</recordCreationDate>
+         <recordIdentifier>13-00012</recordIdentifier>
+         <recordChangeDate encoding="iso8601">2017-10-11</recordChangeDate>
+      </recordInfo>
+      <subject>
+         <name valueURI="http://viaf.org/viaf/34363706" type="personal">
+            <namePart>Fuchs, Emil, 1866-1929</namePart>
+         </name>
+      </subject>
+      <subject>
+         <name valueURI="http://viaf.org/viaf/265340794" type="personal">
+            <namePart>Edward VII, King of Great Britain, 1841-1910</namePart>
+         </name>
+      </subject>
+      <subject>
+         <genre valueURI="http://vocab.getty.edu/aat/300015637">Portraits</genre>
+      </subject>
+      <subject>
+         <occupation valueURI="http://vocab.getty.edu/aat/300025181">Sculptors</occupation>
+      </subject>
+      <subject>
+         <occupation valueURI="http://vocab.getty.edu/aat/300025337">Medalists</occupation>
+      </subject>
+      <abstract>Etching of King Edward VII by Emil Fuchs used on postage stamps in Great Britain.</abstract>
+      <location>
+         <physicalLocation>Archives - Pamphlet 1</physicalLocation>
+      </location>
+      <accessCondition type="rights">
+         <url>http://rightsstatements.org/vocab/NoC-US/1.0/</url>
+      </accessCondition>
+   </mods>
 </modsCollection>

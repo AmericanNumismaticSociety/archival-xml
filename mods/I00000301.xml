@@ -1,49 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
-  <mods version="3.5">
-    <titleInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <title>Photograph of the 1984 Graduate Summer Seminar participants</title>
-    </titleInfo>
-    <identifier xmlns:xlink="http://www.w3.org/1999/xlink">04-00095</identifier>
-    <abstract xmlns:xlink="http://www.w3.org/1999/xlink">Participants included: William E. Mierse, Martha K. Risser, Carla J. Oakes, Saleh K. Sari, Michel Amandry (Visiting Scholar), Leonore M. Rouse, Joseph B. Scholten, Irving T. Gumb, and George E. Peseley. </abstract>
-    <originInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <dateCreated>1984</dateCreated>
-    </originInfo>
-    <physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink">
-      <internetMediaType>image/jpeg</internetMediaType>
-      <digitalOrigin>reformatted digital</digitalOrigin>
-      <form>Digital images</form>
-    </physicalDescription>
-    <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink">
-      <originInfo>
-        <dateCreated>1984</dateCreated>
-      </originInfo>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
+   <mods version="3.6">
+      <titleInfo>
+         <title>Photograph of the 1984 Graduate Summer Seminar participants</title>
+      </titleInfo>
+      <identifier>04-00095</identifier>
+      <abstract>Participants included: William E. Mierse, Martha K. Risser, Carla J. Oakes, Saleh K. Sari, Michel Amandry (Visiting Scholar), Leonore M. Rouse, Joseph B. Scholten, Irving T. Gumb, and George E. Peseley. </abstract>
       <physicalDescription>
-        <form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form>
-        <extent>1 photograph : b&amp;w</extent>
+         <internetMediaType>image/jpeg</internetMediaType>
+         <digitalOrigin>reformatted digital</digitalOrigin>
+         <form>Digital images</form>
       </physicalDescription>
+      <relatedItem type="original">
+         <originInfo>
+            <dateCreated>1984</dateCreated>
+         </originInfo>
+         <physicalDescription>
+            <form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form>
+            <extent>1 photograph : b&amp;w</extent>
+         </physicalDescription>
+         <location>
+            <physicalLocation>ANS Photograph Collection</physicalLocation>
+         </location>
+      </relatedItem>
       <location>
-        <physicalLocation>ANS Photograph Collection</physicalLocation>
+         <url access="raw object" note="IIIFService">http://images.numismatics.org/archivesimages%2Farchive%2F04-00095.jpg</url>
+         <url access="preview">http://numismatics.org/archivesimages/thumbnail/04-00095.jpg</url>
+         <url usage="primary display">http://numismatics.org/archivesimages/reference/04-00095.jpg</url>
       </location>
-    </relatedItem>
-    <location xmlns:xlink="http://www.w3.org/1999/xlink">
-      <url access="preview">http://numismatics.org/archives/ui/media/thumbnail/04-00095.jpg</url>
-      <url usage="primary display">http://numismatics.org/archives/ui/media/reference/04-00095.jpg</url>
-    </location>
-    <accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
-    <note xmlns:xlink="http://www.w3.org/1999/xlink">Courtesy of Archives, American Numismatic Society.</note>
-    <recordInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <recordContentSource>American Numismatic Society</recordContentSource>
-      <recordCreationDate encoding="iso8601">2012-07-23</recordCreationDate>
-      <recordIdentifier>I00000301</recordIdentifier>
-    </recordInfo>
-    <subject>
-      <topic>American Numismatic Society--Educational Programming--Graduate Summer Seminar</topic>
-    </subject>
-    <subject>
-      <name type="personal">
-        <namePart>Amandry, Michel</namePart>
-      </name>
-    </subject>
-  </mods>
+      <accessCondition>In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
+      <note>Courtesy of Archives, American Numismatic Society.</note>
+      <recordInfo>
+         <recordContentSource>American Numismatic Society</recordContentSource>
+         <recordCreationDate encoding="iso8601">2012-07-23</recordCreationDate>
+         <recordIdentifier>I00000301</recordIdentifier>
+         <recordChangeDate encoding="iso8601">2017-10-11</recordChangeDate>
+      </recordInfo>
+      <subject>
+         <topic>American Numismatic Society--Educational Programming--Graduate Summer Seminar</topic>
+      </subject>
+      <subject>
+         <name type="personal">
+            <namePart>Amandry, Michel</namePart>
+         </name>
+      </subject>
+      <accessCondition type="rights">
+         <url>http://rightsstatements.org/vocab/InC-NC/1.0/</url>
+      </accessCondition>
+   </mods>
 </modsCollection>

@@ -1,55 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
-  <mods version="3.5">
-    <subject>
-      <name valueURI="http://numismatics.org/authority/newell" type="personal">
-        <namePart>Newell, Edward Theodore, 1886-1941</namePart>
-      </name>
-    </subject>
-    <subject>
-      <topic>American Numismatic Society--Officers</topic>
-    </subject>
-    <subject>
-      <topic>American Numismatic Society--Trustees and Councillors</topic>
-    </subject>
-    <subject>
-      <topic>Portrait photographs</topic>
-    </subject>
-    <titleInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <title>Portrait photograph of Edward T. Newell as a young man</title>
-    </titleInfo>
-    <identifier xmlns:xlink="http://www.w3.org/1999/xlink">04-00063</identifier>
-    <abstract xmlns:xlink="http://www.w3.org/1999/xlink">This image shows Edward T. Newell at about the time he endtered Yale University.</abstract>
-    <originInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <dateCreated>1903</dateCreated>
-    </originInfo>
-    <physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink">
-      <internetMediaType>image/jpeg</internetMediaType>
-      <digitalOrigin>reformatted digital</digitalOrigin>
-      <form>Digital images</form>
-    </physicalDescription>
-    <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink">
-      <originInfo>
-        <dateCreated>1903</dateCreated>
-      </originInfo>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
+   <mods version="3.6">
+      <subject>
+         <name valueURI="http://numismatics.org/authority/newell" type="personal">
+            <namePart>Newell, Edward Theodore, 1886-1941</namePart>
+         </name>
+      </subject>
+      <subject>
+         <topic>American Numismatic Society--Officers</topic>
+      </subject>
+      <subject>
+         <topic>American Numismatic Society--Trustees and Councillors</topic>
+      </subject>
+      <subject>
+         <topic>Portrait photographs</topic>
+      </subject>
+      <titleInfo>
+         <title>Portrait photograph of Edward T. Newell as a young man</title>
+      </titleInfo>
+      <identifier>04-00063</identifier>
+      <abstract>This image shows Edward T. Newell at about the time he endtered Yale University.</abstract>
       <physicalDescription>
-        <form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form>
-        <extent>1 electronic file : b&amp;w </extent>
+         <internetMediaType>image/jpeg</internetMediaType>
+         <digitalOrigin>reformatted digital</digitalOrigin>
+         <form>Digital images</form>
       </physicalDescription>
+      <relatedItem type="original">
+         <originInfo>
+            <dateCreated>1903</dateCreated>
+         </originInfo>
+         <physicalDescription>
+            <form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form>
+            <extent>1 electronic file : b&amp;w </extent>
+         </physicalDescription>
+         <location>
+            <physicalLocation>Kenosha County Historical Society, Wisconsin</physicalLocation>
+         </location>
+      </relatedItem>
       <location>
-        <physicalLocation>Kenosha County Historical Society, Wisconsin</physicalLocation>
+         <url access="raw object" note="IIIFService">http://images.numismatics.org/archivesimages%2Farchive%2F04-00063.jpg</url>
+         <url access="preview">http://numismatics.org/archivesimages/thumbnail/04-00063.jpg</url>
+         <url usage="primary display">http://numismatics.org/archivesimages/reference/04-00063.jpg</url>
       </location>
-    </relatedItem>
-    <location xmlns:xlink="http://www.w3.org/1999/xlink">
-      <url access="preview">http://numismatics.org/archives/ui/media/thumbnail/04-00063.jpg</url>
-      <url usage="primary display">http://numismatics.org/archives/ui/media/reference/04-00063.jpg</url>
-    </location>
-    <accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
-    <note xmlns:xlink="http://www.w3.org/1999/xlink">Courtesy Kenosha County Historical Society.</note>
-    <recordInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <recordContentSource>American Numismatic Society</recordContentSource>
-      <recordCreationDate encoding="iso8601">2012-08-07</recordCreationDate>
-      <recordIdentifier>I00000520</recordIdentifier>
-    </recordInfo>
-  </mods>
+      <accessCondition>In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
+      <note>Courtesy Kenosha County Historical Society.</note>
+      <recordInfo>
+         <recordContentSource>American Numismatic Society</recordContentSource>
+         <recordCreationDate encoding="iso8601">2012-08-07</recordCreationDate>
+         <recordIdentifier>I00000520</recordIdentifier>
+         <recordChangeDate encoding="iso8601">2017-10-11</recordChangeDate>
+      </recordInfo>
+      <accessCondition type="rights">
+         <url>http://rightsstatements.org/vocab/NoC-CR/1.0/</url>
+      </accessCondition>
+   </mods>
 </modsCollection>

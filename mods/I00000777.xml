@@ -1,48 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
-  <mods version="3.5">
-    <titleInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <title>Portrait photograph of Thomas Dunn English</title>
-    </titleInfo>
-    <identifier xmlns:xlink="http://www.w3.org/1999/xlink">08-00016</identifier>
-    <originInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <dateCreated>ca. 1890</dateCreated>
-    </originInfo>
-    <physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink">
-      <internetMediaType>image/jpeg</internetMediaType>
-      <digitalOrigin>reformatted digital</digitalOrigin>
-      <form>Digital images</form>
-    </physicalDescription>
-    <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink">
-      <originInfo>
-        <dateCreated>ca. 1890</dateCreated>
-      </originInfo>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
+   <mods version="3.6">
+      <titleInfo>
+         <title>Portrait photograph of Thomas Dunn English</title>
+      </titleInfo>
+      <identifier>08-00016</identifier>
       <physicalDescription>
-        <form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form>
-        <extent>1 electronic file : b&amp;w</extent>
+         <internetMediaType>image/jpeg</internetMediaType>
+         <digitalOrigin>reformatted digital</digitalOrigin>
+         <form>Digital images</form>
       </physicalDescription>
+      <relatedItem type="original">
+         <originInfo>
+            <dateCreated>ca. 1890</dateCreated>
+         </originInfo>
+         <physicalDescription>
+            <form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form>
+            <extent>1 electronic file : b&amp;w</extent>
+         </physicalDescription>
+         <location>
+            <physicalLocation>New Jersey Office of Legislative Services Library, Trenton, N.J.</physicalLocation>
+         </location>
+      </relatedItem>
       <location>
-        <physicalLocation>New Jersey Office of Legislative Services Library, Trenton, N.J.</physicalLocation>
+         <url access="raw object" note="IIIFService">http://images.numismatics.org/archivesimages%2Farchive%2F08-00016.jpg</url>
+         <url access="preview">http://numismatics.org/archivesimages/thumbnail/08-00016.jpg</url>
+         <url usage="primary display">http://numismatics.org/archivesimages/reference/08-00016.jpg</url>
       </location>
-    </relatedItem>
-    <location xmlns:xlink="http://www.w3.org/1999/xlink">
-      <url access="preview">http://numismatics.org/archives/ui/media/thumbnail/08-00016.jpg</url>
-      <url usage="primary display">http://numismatics.org/archives/ui/media/reference/08-00016.jpg</url>
-    </location>
-    <accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
-    <note xmlns:xlink="http://www.w3.org/1999/xlink">From the Collection of the New Jersey Office of Legislative Services Library, Trenton, NJ.</note>
-    <recordInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <recordContentSource>American Numismatic Society</recordContentSource>
-      <recordCreationDate encoding="iso8601">2012-08-07</recordCreationDate>
-      <recordIdentifier>I00000777</recordIdentifier>
-    </recordInfo>
-    <subject>
-      <name valueURI="http://viaf.org/viaf/50560346" type="personal">
-        <namePart>English, Thomas Dunn, 1819-1902</namePart>
-      </name>
-    </subject>
-    <subject>
-      <topic>Portrait photographs</topic>
-    </subject>
-  </mods>
+      <accessCondition>In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
+      <note>From the Collection of the New Jersey Office of Legislative Services Library, Trenton, NJ.</note>
+      <recordInfo>
+         <recordContentSource>American Numismatic Society</recordContentSource>
+         <recordCreationDate encoding="iso8601">2012-08-07</recordCreationDate>
+         <recordIdentifier>I00000777</recordIdentifier>
+         <recordChangeDate encoding="iso8601">2017-10-11</recordChangeDate>
+      </recordInfo>
+      <subject>
+         <name valueURI="http://viaf.org/viaf/50560346" type="personal">
+            <namePart>English, Thomas Dunn, 1819-1902</namePart>
+         </name>
+      </subject>
+      <subject>
+         <topic>Portrait photographs</topic>
+      </subject>
+      <accessCondition type="rights">
+         <url>http://rightsstatements.org/vocab/NoC-US/1.0/</url>
+      </accessCondition>
+   </mods>
 </modsCollection>

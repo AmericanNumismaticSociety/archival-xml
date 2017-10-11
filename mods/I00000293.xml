@@ -1,44 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
-  <mods version="3.5">
-    <titleInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <title>Photograph of the 2005 Graduate Summer Seminar participants</title>
-    </titleInfo>
-    <identifier xmlns:xlink="http://www.w3.org/1999/xlink">05-00083</identifier>
-    <name xmlns:xlink="http://www.w3.org/1999/xlink">
-      <namePart>Roche, Alan, photographer</namePart>
-    </name>
-    <originInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <dateCreated>2005</dateCreated>
-    </originInfo>
-    <physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink">
-      <internetMediaType>image/jpeg</internetMediaType>
-      <digitalOrigin>reformatted digital</digitalOrigin>
-      <form>Digital images</form>
-    </physicalDescription>
-    <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink">
-      <originInfo>
-        <dateCreated>2005</dateCreated>
-      </originInfo>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
+   <mods version="3.6">
+      <titleInfo>
+         <title>Photograph of the 2005 Graduate Summer Seminar participants</title>
+      </titleInfo>
+      <identifier>05-00083</identifier>
+      <name>
+         <namePart>Roche, Alan, photographer</namePart>
+      </name>
       <physicalDescription>
-        <form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form>
-        <extent>1 electronic file : col.</extent>
+         <internetMediaType>image/jpeg</internetMediaType>
+         <digitalOrigin>reformatted digital</digitalOrigin>
+         <form>Digital images</form>
       </physicalDescription>
-    </relatedItem>
-    <location xmlns:xlink="http://www.w3.org/1999/xlink">
-      <url access="preview">http://numismatics.org/archives/ui/media/thumbnail/05-00083.jpg</url>
-      <url usage="primary display">http://numismatics.org/archives/ui/media/reference/05-00083.jpg</url>
-    </location>
-    <accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
-    <note xmlns:xlink="http://www.w3.org/1999/xlink">Courtesy of Archives, American Numismatic Society.</note>
-    <recordInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <recordContentSource>American Numismatic Society</recordContentSource>
-      <recordCreationDate encoding="iso8601">2012-07-23</recordCreationDate>
-      <recordIdentifier>I00000293</recordIdentifier>
-    </recordInfo>
-    <abstract xmlns:xlink="http://www.w3.org/1999/xlink">ANS staff and participating students include (from left to right): Michael Bates, Francis Campbell, Rick Witschonke, Sebastian Heath, Sarah Bolmarcich, Peter van Alfen, Christina Triantafillou, Robert Haug, Koray Konuk, Matthew Notarian, Evangelia Georgiou, Robert Hoge, Elena Stolyarik, and Lisa Mignone. </abstract>
-    <subject>
-      <topic>American Numismatic Society--Educational Programming--Graduate Summer Seminar</topic>
-    </subject>
-  </mods>
+      <relatedItem type="original">
+         <originInfo>
+            <dateCreated>2005</dateCreated>
+         </originInfo>
+         <physicalDescription>
+            <form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form>
+            <extent>1 electronic file : col.</extent>
+         </physicalDescription>
+      </relatedItem>
+      <location>
+         <url access="raw object" note="IIIFService">http://images.numismatics.org/archivesimages%2Farchive%2F05-00083.jpg</url>
+         <url access="preview">http://numismatics.org/archivesimages/thumbnail/05-00083.jpg</url>
+         <url usage="primary display">http://numismatics.org/archivesimages/reference/05-00083.jpg</url>
+      </location>
+      <accessCondition>In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
+      <note>Courtesy of Archives, American Numismatic Society.</note>
+      <recordInfo>
+         <recordContentSource>American Numismatic Society</recordContentSource>
+         <recordCreationDate encoding="iso8601">2012-07-23</recordCreationDate>
+         <recordIdentifier>I00000293</recordIdentifier>
+         <recordChangeDate encoding="iso8601">2017-10-11</recordChangeDate>
+      </recordInfo>
+      <abstract>ANS staff and participating students include (from left to right): Michael Bates, Francis Campbell, Rick Witschonke, Sebastian Heath, Sarah Bolmarcich, Peter van Alfen, Christina Triantafillou, Robert Haug, Koray Konuk, Matthew Notarian, Evangelia Georgiou, Robert Hoge, Elena Stolyarik, and Lisa Mignone. </abstract>
+      <subject>
+         <topic>American Numismatic Society--Educational Programming--Graduate Summer Seminar</topic>
+      </subject>
+      <accessCondition type="rights">
+         <url>http://rightsstatements.org/vocab/InC-NC/1.0/</url>
+      </accessCondition>
+   </mods>
 </modsCollection>

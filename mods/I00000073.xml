@@ -1,59 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
-  <mods version="3.5">
-    <titleInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <title>Photograph of Margaret Thompson with ANS President Harry Bass</title>
-    </titleInfo>
-    <identifier xmlns:xlink="http://www.w3.org/1999/xlink">I00000073</identifier>
-    <abstract xmlns:xlink="http://www.w3.org/1999/xlink">Margaret Thompson with ANS President Harry Bass at her retirement party at the ANS headquarters building at Audubon Terrace, February 1979.</abstract>
-    <originInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <dateCreated>1979 February</dateCreated>
-    </originInfo>
-    <physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink">
-      <internetMediaType>image/jpeg</internetMediaType>
-      <digitalOrigin>reformatted digital</digitalOrigin>
-      <form>Digital images</form>
-    </physicalDescription>
-    <subject>
-      <name valueURI="http://numismatics.org/authority/thompson" type="personal">
-        <namePart>Thompson, Margaret, 1911-1992</namePart>
-      </name>
-    </subject>
-    <subject>
-      <name type="personal">
-        <namePart>Bass, Harry W., 1927-1998</namePart>
-      </name>
-    </subject>
-    <subject>
-      <topic>American Numismatic Society--Employees</topic>
-    </subject>
-    <subject>
-      <name type="corporate">
-        <namePart>American Numismatic Society. Curatorial Department</namePart>
-      </name>
-    </subject>
-    <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink">
-      <originInfo>
-        <dateCreated>1979 February</dateCreated>
-      </originInfo>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
+   <mods version="3.6">
+      <titleInfo>
+         <title>Photograph of Margaret Thompson with ANS President Harry Bass</title>
+      </titleInfo>
+      <identifier>04-00028</identifier>
+      <abstract>Margaret Thompson with ANS President Harry Bass at her retirement party at the ANS headquarters building at Audubon Terrace, February 1979.</abstract>
       <physicalDescription>
-        <form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form>
-        <extent>1 photograph : b&amp;w</extent>
+         <internetMediaType>image/jpeg</internetMediaType>
+         <digitalOrigin>reformatted digital</digitalOrigin>
+         <form>Digital images</form>
       </physicalDescription>
+      <subject>
+         <name valueURI="http://numismatics.org/authority/thompson" type="personal">
+            <namePart>Thompson, Margaret, 1911-1992</namePart>
+         </name>
+      </subject>
+      <subject>
+         <name type="personal">
+            <namePart>Bass, Harry W., 1927-1998</namePart>
+         </name>
+      </subject>
+      <subject>
+         <topic>American Numismatic Society--Employees</topic>
+      </subject>
+      <subject>
+         <name type="corporate">
+            <namePart>American Numismatic Society. Curatorial Department</namePart>
+         </name>
+      </subject>
+      <relatedItem type="original">
+         <originInfo>
+            <dateCreated>1979 February</dateCreated>
+         </originInfo>
+         <physicalDescription>
+            <form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form>
+            <extent>1 photograph : b&amp;w</extent>
+         </physicalDescription>
+         <location>
+            <physicalLocation>ANS Photograph Collection, Box 19.7.1, ANS Archives </physicalLocation>
+         </location>
+      </relatedItem>
       <location>
-        <physicalLocation>ANS Photograph Collection, Box 19.7.1, ANS Archives </physicalLocation>
+         <url access="raw object" note="IIIFService">http://images.numismatics.org/archivesimages%2Farchive%2F04-00028.jpg</url>
+         <url access="preview">http://numismatics.org/archivesimages/thumbnail/04-00028.jpg</url>
+         <url usage="primary display">http://numismatics.org/archivesimages/reference/04-00028.jpg</url>
       </location>
-    </relatedItem>
-    <location xmlns:xlink="http://www.w3.org/1999/xlink">
-      <url access="preview">http://numismatics.org/archives/ui/media/thumbnail/04-00028.jpg</url>
-      <url usage="primary display">http://numismatics.org/archives/ui/media/reference/04-00028.jpg</url>
-    </location>
-    <accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
-    <note xmlns:xlink="http://www.w3.org/1999/xlink">Courtesy of Archives, American Numismatic Society.</note>
-    <recordInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <recordContentSource>American Numismatic Society</recordContentSource>
-      <recordCreationDate encoding="iso8601">2012-07-23</recordCreationDate>
-      <recordIdentifier>I00000073</recordIdentifier>
-    </recordInfo>
-  </mods>
+      <accessCondition>In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
+      <note>Courtesy of Archives, American Numismatic Society.</note>
+      <recordInfo>
+         <recordContentSource>American Numismatic Society</recordContentSource>
+         <recordCreationDate encoding="iso8601">2012-07-23</recordCreationDate>
+         <recordIdentifier>I00000073</recordIdentifier>
+         <recordChangeDate encoding="iso8601">2017-10-11</recordChangeDate>
+      </recordInfo>
+      <accessCondition type="rights">
+         <url>http://rightsstatements.org/vocab/InC-NC/1.0/</url>
+      </accessCondition>
+   </mods>
 </modsCollection>

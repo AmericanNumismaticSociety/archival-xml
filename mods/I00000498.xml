@@ -1,44 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
-  <mods version="3.5">
-    <titleInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <title>Photograph of the second floor gallery of the ANS Audubon Terrace headquarters building</title>
-    </titleInfo>
-    <identifier xmlns:xlink="http://www.w3.org/1999/xlink">04-00048</identifier>
-    <abstract xmlns:xlink="http://www.w3.org/1999/xlink">Photograph of the second floor gallery of the ANS Audubon Terrace headquarters building. Prior to the building renovations of the late 1940s and early 1950, the second floor of the Society's East Hall featured a gallery which looked down into the first floor. A skylight can also be seen in the image.</abstract>
-    <originInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <dateCreated>1935?</dateCreated>
-    </originInfo>
-    <physicalDescription xmlns:xlink="http://www.w3.org/1999/xlink">
-      <internetMediaType>image/jpeg</internetMediaType>
-      <digitalOrigin>reformatted digital</digitalOrigin>
-      <form>Digital images</form>
-    </physicalDescription>
-    <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink">
-      <originInfo>
-        <dateCreated>1935?</dateCreated>
-      </originInfo>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
+   <mods version="3.6">
+      <titleInfo>
+         <title>Photograph of the second floor gallery of the ANS Audubon Terrace headquarters building</title>
+      </titleInfo>
+      <identifier>04-00048</identifier>
+      <abstract>Photograph of the second floor gallery of the ANS Audubon Terrace headquarters building. Prior to the building renovations of the late 1940s and early 1950, the second floor of the Society's East Hall featured a gallery which looked down into the first floor. A skylight can also be seen in the image.</abstract>
       <physicalDescription>
-        <form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form>
-        <extent>1 photograph : b&amp;w</extent>
+         <internetMediaType>image/jpeg</internetMediaType>
+         <digitalOrigin>reformatted digital</digitalOrigin>
+         <form>Digital images</form>
       </physicalDescription>
+      <relatedItem type="original">
+         <originInfo>
+            <dateCreated>1935?</dateCreated>
+         </originInfo>
+         <physicalDescription>
+            <form valueURI="http://vocab.getty.edu/aat/300046300">Photographs</form>
+            <extent>1 photograph : b&amp;w</extent>
+         </physicalDescription>
+         <location>
+            <physicalLocation>ANS Photograph Collection</physicalLocation>
+         </location>
+      </relatedItem>
       <location>
-        <physicalLocation>ANS Photograph Collection</physicalLocation>
+         <url access="raw object" note="IIIFService">http://images.numismatics.org/archivesimages%2Farchive%2F04-00048.jpg</url>
+         <url access="preview">http://numismatics.org/archivesimages/thumbnail/04-00048.jpg</url>
+         <url usage="primary display">http://numismatics.org/archivesimages/reference/04-00048.jpg</url>
       </location>
-    </relatedItem>
-    <location xmlns:xlink="http://www.w3.org/1999/xlink">
-      <url access="preview">http://numismatics.org/archives/ui/media/thumbnail/04-00048.jpg</url>
-      <url usage="primary display">http://numismatics.org/archives/ui/media/reference/04-00048.jpg</url>
-    </location>
-    <accessCondition xmlns:xlink="http://www.w3.org/1999/xlink">In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
-    <note xmlns:xlink="http://www.w3.org/1999/xlink">Courtesy of Archives, American Numismatic Society.</note>
-    <recordInfo xmlns:xlink="http://www.w3.org/1999/xlink">
-      <recordContentSource>American Numismatic Society</recordContentSource>
-      <recordCreationDate encoding="iso8601">2012-08-07</recordCreationDate>
-      <recordIdentifier>I00000498</recordIdentifier>
-    </recordInfo>
-    <subject>
-      <geographic valueURI="http://www.geonames.org/7177500">Audubon Terrace (New York, N.Y.)</geographic>
-    </subject>
-  </mods>
+      <accessCondition>In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
+      <note>Courtesy of Archives, American Numismatic Society.</note>
+      <recordInfo>
+         <recordContentSource>American Numismatic Society</recordContentSource>
+         <recordCreationDate encoding="iso8601">2012-08-07</recordCreationDate>
+         <recordIdentifier>I00000498</recordIdentifier>
+         <recordChangeDate encoding="iso8601">2017-10-11</recordChangeDate>
+      </recordInfo>
+      <subject>
+         <geographic valueURI="http://www.geonames.org/7177500">Audubon Terrace (New York, N.Y.)</geographic>
+      </subject>
+      <accessCondition type="rights">
+         <url>http://rightsstatements.org/vocab/InC-NC/1.0/</url>
+      </accessCondition>
+   </mods>
 </modsCollection>
