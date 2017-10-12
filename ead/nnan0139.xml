@@ -40,8 +40,8 @@
     </did>
     <controlaccess>
       <subject>Coins, Canadian</subject>
-      <genreform authfilenumber="300027119 " source="aat">Lists (Document genres)</genreform>
-      <genreform authfilenumber="300027045 " source="aat">Inventories</genreform>
+      <genreform authfilenumber="300027119" source="aat">Lists (Document genres)</genreform>
+      <genreform authfilenumber="300027045" source="aat">Inventories</genreform>
       <subject>Tokens--Canada</subject>
       <genreform authfilenumber="300026059" source="aat">Catalogs (Documents)</genreform>
     </controlaccess>
