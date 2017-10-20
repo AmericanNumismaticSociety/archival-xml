@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
    <mods version="3.6">
       <titleInfo>
          <title>Portrait photograph of Agnes Baldwin Brett</title>
@@ -49,8 +48,8 @@
          <url usage="primary display">http://numismatics.org/archivesimages/reference/04-00007.jpg</url>
       </location>
       <accessCondition>Image copyright held by American Numismatic Association.</accessCondition>
-      <accessCondition>In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also
-			apply.</accessCondition>
+      <accessCondition>In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use.
+         Additional copyright restrictions may also apply.</accessCondition>
       <note type="preferred_citation">Courtesy of the American Numismatic Association.</note>
       <recordInfo>
          <recordContentSource>American Numismatic Society</recordContentSource>
@@ -58,8 +57,6 @@
          <recordIdentifier>I00000007</recordIdentifier>
          <recordChangeDate encoding="iso8601">2017-10-11</recordChangeDate>
       </recordInfo>
-      <accessCondition type="rights">
-         <url>http://rightsstatements.org/vocab/NoC-US/1.0/</url>
-      </accessCondition>
+      <accessCondition type="rights"><url>http://rightsstatements.org/vocab/NoC-CR/1.0/</url></accessCondition>
    </mods>
 </modsCollection>
