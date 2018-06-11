@@ -6,9 +6,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Edward T. Newell notebook on hoards of Histiaian tetrobols, undated</title>
+            <title>William P. Wallace notebook on hoards of Histiaian tetrobols, undated</title>
             <author>
-               <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
+               <persName ref="http://numismatics.org/authority/wallace_william_p">Wallace, William P.</persName>
             </author>
          </titleStmt>
          <publicationStmt>
@@ -25,9 +25,9 @@
             <biblStruct>
                <monogr>
                   <author>
-                     <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
+                     <persName ref="http://numismatics.org/authority/wallace_william_p">Wallace, William P.</persName>
                   </author>
-                  <title>Edward T. Newell notebook on hoards of Histiaian tetrobols, undated</title>
+                  <title>William P. Wallace notebook on hoards of Histiaian tetrobols, undated</title>
                   <imprint>
                      <date>unknown</date>
                   </imprint>
@@ -37,7 +37,8 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+	      <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+	      <change when="2018-06-11">Change author and URI to William P. Wallace</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xml:id="nnan188307_0001" style="depiction">
