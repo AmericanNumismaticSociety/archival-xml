@@ -16,11 +16,6 @@
             <pubPlace>New York (N.Y.)</pubPlace>
             <idno type="donum">188011</idno>
          </publicationStmt>
-         <notesStmt>
-            <note type="abstract">
-               <p>Notebook containing handwritten notes on ancient Greek coins at the National Archaeological Museum (Ethnikon Archaiologikon Mouseion) in Athens, Greece.</p>
-            </note>
-         </notesStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
@@ -36,8 +31,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>Notebook containing handwritten notes on ancient Greek coins at the National Archaeological Museum (Ethnikon Archaiologikon Mouseion) in Athens, Greece.</p>
+         </abstract>
+         <textClass>
+            <classCode scheme="http://vocab.getty/edu/aat/">300264354</classCode>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+         <change when="2018-07-02">Moved abstract into profileDesc, added Getty AAT ID for genre.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xml:id="nnan188011_0001" style="depiction">
@@ -55,11 +59,7 @@
              type="IIIFService"
              height="2027px"
              width="1280px"/>
-      <surface xml:id="a6ousu8smd1g"
-               ulx="49"
-               uly="309"
-               lrx="850"
-               lry="1030">
+      <surface xml:id="a6ousu8smd1g" ulx="49" uly="309" lrx="850" lry="1030">
          <desc>
             <ref target="http://dbpedia.org/resource/National_Archaeological_Museum,_Athens">National Archaeological Museum, Athens</ref>
          </desc>

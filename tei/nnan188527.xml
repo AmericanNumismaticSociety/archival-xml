@@ -16,11 +16,6 @@
             <pubPlace>New York (N.Y.)</pubPlace>
             <idno type="donum">188527</idno>
          </publicationStmt>
-         <notesStmt>
-            <note type="abstract">
-               <p>Notebook binder with preliminary notes and drafts for the monograph The Coinage of the Western Seleucid Mints (ANS, Numismatic Studies no. 4, 1941). Focuses on the coinage of the successors of Alexander III of Macedon (Alexander the Great). Headings include Tyre, Cilicia, Seleucus I, Antiochus I, Antiochus II, Seleucus II, Seleucus III, Achaeus, Magnesia ad Maeandrum, Phocaea, Aeolis, and Troas. Has pages of handwritten draft text with corrections and some sections crossed out. An added label on the cover says, "E.T. Newell's preliminary notes for W.S.M."</p>
-            </note>
-         </notesStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
@@ -36,8 +31,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>Notebook binder with preliminary notes and drafts for the monograph The Coinage of the Western Seleucid Mints (ANS, Numismatic Studies no. 4, 1941). Focuses on the coinage of the successors of Alexander III of Macedon (Alexander the Great). Headings include Tyre, Cilicia, Seleucus I, Antiochus I, Antiochus II, Seleucus II, Seleucus III, Achaeus, Magnesia ad Maeandrum, Phocaea, Aeolis, and Troas. Has pages of handwritten draft text with corrections and some sections crossed out. An added label on the cover says, "E.T. Newell's preliminary notes for W.S.M."</p>
+         </abstract>
+         <textClass>
+            <classCode scheme="http://vocab.getty/edu/aat/">300264354</classCode>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+         <change when="2018-07-02">Moved abstract into profileDesc, added Getty AAT ID for genre.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xml:id="nnan188527_0001" style="depiction">
@@ -46,11 +50,7 @@
              type="IIIFService"
              height="3509px"
              width="2550px"/>
-      <surface xml:id="a86nkjnzkes6"
-               ulx="1053"
-               uly="1669"
-               lrx="1463"
-               lry="1812">
+      <surface xml:id="a86nkjnzkes6" ulx="1053" uly="1669" lrx="1463" lry="1812">
          <desc>
             <ref target="http://numismatics.org/library/73921">The coinage of the western Seleucid mints from Seleucus I to Antiochus III / by Edward T. Newell ...</ref>
          </desc>

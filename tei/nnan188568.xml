@@ -16,11 +16,6 @@
             <pubPlace>New York (N.Y.)</pubPlace>
             <idno type="donum">188568</idno>
          </publicationStmt>
-         <notesStmt>
-            <note type="abstract">
-               <p>Notebook binder containing a handwritten draft, mostly text, with the title Part II: The Posthumous Coinages of Lysimachus. There are several pages that have been typed from Newell's longhand notes. Includes one page of notes on Savoy-Plaza Hotel (New York) letterhead.</p>
-            </note>
-         </notesStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
@@ -36,8 +31,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>Notebook binder containing a handwritten draft, mostly text, with the title Part II: The Posthumous Coinages of Lysimachus. There are several pages that have been typed from Newell's longhand notes. Includes one page of notes on Savoy-Plaza Hotel (New York) letterhead.</p>
+         </abstract>
+         <textClass>
+            <classCode scheme="http://vocab.getty/edu/aat/">300264354</classCode>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+         <change when="2018-07-02">Moved abstract into profileDesc, added Getty AAT ID for genre.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xml:id="nnan188568_0001" style="depiction">

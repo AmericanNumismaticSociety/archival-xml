@@ -16,11 +16,6 @@
             <pubPlace>New York (N.Y.)</pubPlace>
             <idno type="donum">188556</idno>
          </publicationStmt>
-         <notesStmt>
-            <note type="abstract">
-               <p>Notebook containing notes on the mints at Antioch, Ake-Ptolemais (Acre), Ascalon, Berytus (Beirut), and Damascus. Includes loose notes, some on letterhead of the R.M.S. Mauretania, the Hotel Russell (London), and the Plaza (New York). There is one letter, to Newell from Charles William Chadwick Oman at Oxford, regarding a tetradrachm (October 23, 1937).</p>
-            </note>
-         </notesStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
@@ -36,8 +31,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>Notebook containing notes on the mints at Antioch, Ake-Ptolemais (Acre), Ascalon, Berytus (Beirut), and Damascus. Includes loose notes, some on letterhead of the R.M.S. Mauretania, the Hotel Russell (London), and the Plaza (New York). There is one letter, to Newell from Charles William Chadwick Oman at Oxford, regarding a tetradrachm (October 23, 1937).</p>
+         </abstract>
+         <textClass>
+            <classCode scheme="http://vocab.getty/edu/aat/">300264354</classCode>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+         <change when="2018-07-02">Moved abstract into profileDesc, added Getty AAT ID for genre.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xml:id="nnan188556_0001" style="depiction">

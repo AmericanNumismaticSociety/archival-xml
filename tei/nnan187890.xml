@@ -16,12 +16,6 @@
             <pubPlace>New York (N.Y.)</pubPlace>
             <idno type="donum">187890</idno>
          </publicationStmt>
-         <notesStmt>
-            <note type="abstract">
-               <p>Notebook containing handwritten notes on ancient Greek coins at the British Museum, London. The names C.W. Oman and James Leigh Strachan-Davidson, master of
-						Balliol, appear in the first pages. Four loose sheets of rubbings are included.</p>
-            </note>
-         </notesStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
@@ -37,8 +31,18 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>Notebook containing handwritten notes on ancient Greek coins at the British Museum, London. The names C.W. Oman and James Leigh Strachan-Davidson, master of
+						Balliol, appear in the first pages. Four loose sheets of rubbings are included.</p>
+         </abstract>
+         <textClass>
+            <classCode scheme="http://vocab.getty/edu/aat/">300264354</classCode>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+         <change when="2018-07-02">Moved abstract into profileDesc, added Getty AAT ID for genre.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xml:id="nnan187890_0001" style="depiction">
@@ -56,11 +60,7 @@
              type="IIIFService"
              height="1923px"
              width="1293px"/>
-      <surface xml:id="azccru3d97yr"
-               ulx="119"
-               uly="880"
-               lrx="948"
-               lry="1807">
+      <surface xml:id="azccru3d97yr" ulx="119" uly="880" lrx="948" lry="1807">
          <desc>
             <ref target="http://numismatics.org/library/73965">Chronologie de l'Empire Romain.</ref>
          </desc>
@@ -73,38 +73,22 @@
              type="IIIFService"
              height="1909px"
              width="1280px"/>
-      <surface xml:id="adlzpzluaskw"
-               ulx="228"
-               uly="578"
-               lrx="1070"
-               lry="722">
+      <surface xml:id="adlzpzluaskw" ulx="228" uly="578" lrx="1070" lry="722">
          <desc>
             <ref target="http://viaf.org/viaf/74780198">Strachan-Davidson, J. L. (James Leigh), 1843-1916</ref>
          </desc>
       </surface>
-      <surface xml:id="atfjicnaxkt8"
-               ulx="839"
-               uly="771"
-               lrx="1133"
-               lry="871">
+      <surface xml:id="atfjicnaxkt8" ulx="839" uly="771" lrx="1133" lry="871">
          <desc>
             <ref target="http://dbpedia.org/resource/Balliol_College,_Oxford">Balliol College, Oxford</ref>
          </desc>
       </surface>
-      <surface xml:id="apc7t8yx9rfp"
-               ulx="148"
-               uly="969"
-               lrx="1235"
-               lry="1584">
+      <surface xml:id="apc7t8yx9rfp" ulx="148" uly="969" lrx="1235" lry="1584">
          <desc>
             <ref target="http://dbpedia.org/resource/British_Museum">British Museum</ref>
          </desc>
       </surface>
-      <surface xml:id="acgaeblf21tf"
-               ulx="301"
-               uly="122"
-               lrx="1025"
-               lry="327">
+      <surface xml:id="acgaeblf21tf" ulx="301" uly="122" lrx="1025" lry="327">
          <desc>
             <ref target="http://viaf.org/viaf/27096611">Oman, Charles, 1860-1946</ref>
          </desc>

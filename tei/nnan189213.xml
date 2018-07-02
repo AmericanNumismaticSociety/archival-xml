@@ -16,11 +16,6 @@
             <pubPlace>New York (N.Y.)</pubPlace>
             <idno type="donum">189213</idno>
          </publicationStmt>
-         <notesStmt>
-            <note type="abstract">
-               <p>Notebook containing handwritten notes on Indo-Bactrian and Scythian coins from various collections. Contains numerous footnotes documenting in which collections the coins could be found. Headings include Bactria, Early Imitations of the Issues of Euthydemus, Sogdiana, Greek Kings in Paropanisadae, Greek Kings in Western Gandhara, Greek Kings in the Eastern Panjab, Partho-Scythian Rulers of Eastern Persia and North-West India, Partho-Scythic Rulers in Arachosia, Partho-Scythian Kings in Gandhara, and Indo-Scythian Kings in Gandhara. There is a six-page, typed and corrected text draft on Cyprus. Three pages of what appears to have been typed text have been ripped out (in Azes section). One loose sheet is headed "King of the Salt Range Sophytes."</p>
-            </note>
-         </notesStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
@@ -36,8 +31,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>Notebook containing handwritten notes on Indo-Bactrian and Scythian coins from various collections. Contains numerous footnotes documenting in which collections the coins could be found. Headings include Bactria, Early Imitations of the Issues of Euthydemus, Sogdiana, Greek Kings in Paropanisadae, Greek Kings in Western Gandhara, Greek Kings in the Eastern Panjab, Partho-Scythian Rulers of Eastern Persia and North-West India, Partho-Scythic Rulers in Arachosia, Partho-Scythian Kings in Gandhara, and Indo-Scythian Kings in Gandhara. There is a six-page, typed and corrected text draft on Cyprus. Three pages of what appears to have been typed text have been ripped out (in Azes section). One loose sheet is headed "King of the Salt Range Sophytes."</p>
+         </abstract>
+         <textClass>
+            <classCode scheme="http://vocab.getty/edu/aat/">300264354</classCode>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+         <change when="2018-07-02">Moved abstract into profileDesc, added Getty AAT ID for genre.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xml:id="nnan189213_0001" style="depiction">

@@ -16,11 +16,6 @@
             <pubPlace>New York (N.Y.)</pubPlace>
             <idno type="donum">188524</idno>
          </publicationStmt>
-         <notesStmt>
-            <note type="abstract">
-               <p>Notebook binder with preliminary notes and drafts for the monograph The Coinage of the Western Seleucid Mints (ANS, Numismatic Studies no. 4, 1941). Focuses on the coinage of the successors of Alexander III of Macedon (Alexander the Great): Antigonus, Seleucus I, Antiochus I, Antiochus II, Seleucus II, Seleucus III, and Antiochus III. Includes draft text with corrections and entire sections checked off and crossed out.</p>
-            </note>
-         </notesStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
@@ -36,8 +31,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>Notebook binder with preliminary notes and drafts for the monograph The Coinage of the Western Seleucid Mints (ANS, Numismatic Studies no. 4, 1941). Focuses on the coinage of the successors of Alexander III of Macedon (Alexander the Great): Antigonus, Seleucus I, Antiochus I, Antiochus II, Seleucus II, Seleucus III, and Antiochus III. Includes draft text with corrections and entire sections checked off and crossed out.</p>
+         </abstract>
+         <textClass>
+            <classCode scheme="http://vocab.getty/edu/aat/">300264354</classCode>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+         <change when="2018-07-02">Moved abstract into profileDesc, added Getty AAT ID for genre.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xml:id="nnan188524_0001" style="depiction">

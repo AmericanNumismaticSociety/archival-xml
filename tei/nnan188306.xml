@@ -16,11 +16,6 @@
             <pubPlace>New York (N.Y.)</pubPlace>
             <idno type="donum">188306</idno>
          </publicationStmt>
-         <notesStmt>
-            <note type="abstract">
-               <p>Notebook binder containing a handwritten textual draft along with notes on coins grouped into categories. The text is an introduction to a general work on the mint attributions for coins bearing the name and types of Alexander the Great. The notebook has the label "Amphipolis" on the cover, which may refer just to the section on specific coins, while the introductory text was intended for the broader work.</p>
-            </note>
-         </notesStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
@@ -36,8 +31,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>Notebook binder containing a handwritten textual draft along with notes on coins grouped into categories. The text is an introduction to a general work on the mint attributions for coins bearing the name and types of Alexander the Great. The notebook has the label "Amphipolis" on the cover, which may refer just to the section on specific coins, while the introductory text was intended for the broader work.</p>
+         </abstract>
+         <textClass>
+            <classCode scheme="http://vocab.getty/edu/aat/">300264354</classCode>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+         <change when="2018-07-02">Moved abstract into profileDesc, added Getty AAT ID for genre.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xml:id="nnan188306_0001" style="depiction">
@@ -60,29 +64,17 @@
              type="IIIFService"
              height="3357px"
              width="2550px"/>
-      <surface xml:id="a4l1vol0d0k"
-               ulx="234"
-               uly="2263"
-               lrx="2539"
-               lry="2394">
+      <surface xml:id="a4l1vol0d0k" ulx="234" uly="2263" lrx="2539" lry="2394">
          <desc>
             <ref target="http://numismatics.org/library/85386">Reattribution of certain Tetradrachms of Alexander the Great.</ref>
          </desc>
       </surface>
-      <surface xml:id="an3rllbv6nm"
-               ulx="240"
-               uly="2398"
-               lrx="2153"
-               lry="2439">
+      <surface xml:id="an3rllbv6nm" ulx="240" uly="2398" lrx="2153" lry="2439">
          <desc>
             <ref target="http://numismatics.org/library/177432">Numismatique d'Alexandre le Grand : Suivie d'un appendice contenant les monnaies de Philippe II et III / Par L. M�ller.</ref>
          </desc>
       </surface>
-      <surface xml:id="av06i803h3i"
-               ulx="424"
-               uly="1486"
-               lrx="1823"
-               lry="1622">
+      <surface xml:id="av06i803h3i" ulx="424" uly="1486" lrx="1823" lry="1622">
          <desc>
             <ref target="http://numismatics.org/library/177432">Numismatique d'Alexandre le Grand : Suivie d'un appendice contenant les monnaies de Philippe II et III / Par L. M�ller.</ref>
          </desc>

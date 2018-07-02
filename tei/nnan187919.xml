@@ -16,12 +16,6 @@
             <pubPlace>New York (N.Y.)</pubPlace>
             <idno type="donum">187919</idno>
          </publicationStmt>
-         <notesStmt>
-            <note type="abstract">
-               <p>Notebook containing handwritten notes on ancient Greek coin collections at Cambridge and Oxford Universities. Includes those of Frank and John McClean, William
-						Martin Leake, and Samuel Savage Lewis. </p>
-            </note>
-         </notesStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
@@ -37,8 +31,18 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>Notebook containing handwritten notes on ancient Greek coin collections at Cambridge and Oxford Universities. Includes those of Frank and John McClean, William
+						Martin Leake, and Samuel Savage Lewis. </p>
+         </abstract>
+         <textClass>
+            <classCode scheme="http://vocab.getty/edu/aat/">300264354</classCode>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+         <change when="2018-07-02">Moved abstract into profileDesc, added Getty AAT ID for genre.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xml:id="nnan187919_0001" style="depiction">
@@ -56,39 +60,23 @@
              type="IIIFService"
              height="2096px"
              width="1245px"/>
-      <surface xml:id="a7srxtj51f7k"
-               ulx="458"
-               uly="596"
-               lrx="738"
-               lry="695">
+      <surface xml:id="a7srxtj51f7k" ulx="458" uly="596" lrx="738" lry="695">
          <desc>
             <ref target="http://dbpedia.org/resource/John_Robinson_McClean">John Robinson McClean</ref>
             <ref target="http://viaf.org/viaf/31499936">McClean, John Robinson</ref>
          </desc>
       </surface>
-      <surface xml:id="akn9koomii49"
-               ulx="514"
-               uly="780"
-               lrx="703"
-               lry="876">
+      <surface xml:id="akn9koomii49" ulx="514" uly="780" lrx="703" lry="876">
          <desc>
             <ref target="http://viaf.org/viaf/27833332">Leake, William Martin, 1777-1860</ref>
          </desc>
       </surface>
-      <surface xml:id="afzygh6bkiio"
-               ulx="514"
-               uly="949"
-               lrx="731"
-               lry="1034">
+      <surface xml:id="afzygh6bkiio" ulx="514" uly="949" lrx="731" lry="1034">
          <desc>
             <ref target="http://viaf.org/viaf/42649416">Lewis, Samuel S. 1836-1891</ref>
          </desc>
       </surface>
-      <surface xml:id="a5koyx5ulb7"
-               ulx="444"
-               uly="1113"
-               lrx="713"
-               lry="1219">
+      <surface xml:id="a5koyx5ulb7" ulx="444" uly="1113" lrx="713" lry="1219">
          <desc>
             <ref target="http://dbpedia.org/resource/Oxford">Oxford</ref>
          </desc>
@@ -101,11 +89,7 @@
              type="IIIFService"
              height="2096px"
              width="1259px"/>
-      <surface xml:id="apv42nvxso5l"
-               ulx="238"
-               uly="61"
-               lrx="773"
-               lry="272">
+      <surface xml:id="apv42nvxso5l" ulx="238" uly="61" lrx="773" lry="272">
          <desc>
             <ref target="http://www.geonames.org/2653941">Cambridge (England)</ref>
          </desc>
@@ -118,38 +102,22 @@
              type="IIIFService"
              height="2096px"
              width="1224px"/>
-      <surface xml:id="a5g7jx8wpygr"
-               ulx="279"
-               uly="48"
-               lrx="712"
-               lry="140">
+      <surface xml:id="a5g7jx8wpygr" ulx="279" uly="48" lrx="712" lry="140">
          <desc>
             <ref target="http://viaf.org/viaf/42629081">Demetrius I, Poliorcetes, King of Macedonia, 336 B.C.-283 B.C.</ref>
          </desc>
       </surface>
-      <surface xml:id="aezjoififtf7"
-               ulx="364"
-               uly="139"
-               lrx="1062"
-               lry="220">
+      <surface xml:id="aezjoififtf7" ulx="364" uly="139" lrx="1062" lry="220">
          <desc>
             <ref target="http://viaf.org/viaf/31499936">McClean, John Robinson</ref>
          </desc>
       </surface>
-      <surface xml:id="ab18ilcivjln"
-               ulx="224"
-               uly="1280"
-               lrx="563"
-               lry="1400">
+      <surface xml:id="ab18ilcivjln" ulx="224" uly="1280" lrx="563" lry="1400">
          <desc>
             <ref target="http://numismatics.org/library/133964">Tyrus rediviva / by Edward T. Newell.</ref>
          </desc>
       </surface>
-      <surface xml:id="a335evjyt9ea"
-               ulx="207"
-               uly="1930"
-               lrx="643"
-               lry="2050">
+      <surface xml:id="a335evjyt9ea" ulx="207" uly="1930" lrx="643" lry="2050">
          <desc>
             <ref target="http://numismatics.org/library/16117">http://numismatics.org/library/16117</ref>
          </desc>
@@ -187,11 +155,7 @@
 				Macedonia-Acarnania.</ref>
          </desc>
       </surface>
-      <surface xml:id="afcz7z9dhz4h"
-               ulx="327"
-               uly="1822"
-               lrx="624"
-               lry="1998">
+      <surface xml:id="afcz7z9dhz4h" ulx="327" uly="1822" lrx="624" lry="1998">
          <desc>
             <ref target="http://viaf.org/viaf/27833332">Leake, William Martin, 1777-1860</ref>
          </desc>
@@ -204,11 +168,7 @@
              type="IIIFService"
              height="2117px"
              width="1266px"/>
-      <surface xml:id="aru9clxvfomc"
-               ulx="450"
-               uly="45"
-               lrx="824"
-               lry="187">
+      <surface xml:id="aru9clxvfomc" ulx="450" uly="45" lrx="824" lry="187">
          <desc>
             <ref target="http://viaf.org/viaf/31499936">McClean, John Robinson</ref>
          </desc>
@@ -221,11 +181,7 @@
              type="IIIFService"
              height="2110px"
              width="1224px"/>
-      <surface xml:id="axck8rpmgz1q"
-               ulx="447"
-               uly="44"
-               lrx="809"
-               lry="186">
+      <surface xml:id="axck8rpmgz1q" ulx="447" uly="44" lrx="809" lry="186">
          <desc>
             <ref target="http://viaf.org/viaf/31499936">McClean, John Robinson</ref>
          </desc>
@@ -238,11 +194,7 @@
              type="IIIFService"
              height="2124px"
              width="1280px"/>
-      <surface xml:id="a3pg54edxgbn"
-               ulx="521"
-               uly="66"
-               lrx="974"
-               lry="205">
+      <surface xml:id="a3pg54edxgbn" ulx="521" uly="66" lrx="974" lry="205">
          <desc>
             <ref target="http://viaf.org/viaf/31499936">McClean, John Robinson</ref>
          </desc>
@@ -268,11 +220,7 @@
              type="IIIFService"
              height="2117px"
              width="1252px"/>
-      <surface xml:id="a2493epey1ap"
-               ulx="567"
-               uly="59"
-               lrx="962"
-               lry="201">
+      <surface xml:id="a2493epey1ap" ulx="567" uly="59" lrx="962" lry="201">
          <desc>
             <ref target="http://viaf.org/viaf/31499936">McClean, John Robinson</ref>
          </desc>
@@ -314,11 +262,7 @@
              type="IIIFService"
              height="2131px"
              width="1252px"/>
-      <surface xml:id="ao9vm89ttpvf"
-               ulx="535"
-               uly="69"
-               lrx="940"
-               lry="241">
+      <surface xml:id="ao9vm89ttpvf" ulx="535" uly="69" lrx="940" lry="241">
          <desc>
             <ref target="http://viaf.org/viaf/31499936">McClean, John Robinson</ref>
          </desc>
@@ -339,11 +283,7 @@
              type="IIIFService"
              height="2131px"
              width="1203px"/>
-      <surface xml:id="a4kcqbmq40bd"
-               ulx="258"
-               uly="77"
-               lrx="666"
-               lry="259">
+      <surface xml:id="a4kcqbmq40bd" ulx="258" uly="77" lrx="666" lry="259">
          <desc>
             <ref target="http://viaf.org/viaf/27833332">Leake, William Martin, 1777-1860</ref>
          </desc>
@@ -364,11 +304,7 @@
              type="IIIFService"
              height="2131px"
              width="1203px"/>
-      <surface xml:id="a6xvc8oo5fht"
-               ulx="290"
-               uly="76"
-               lrx="542"
-               lry="230">
+      <surface xml:id="a6xvc8oo5fht" ulx="290" uly="76" lrx="542" lry="230">
          <desc>
             <ref target="http://viaf.org/viaf/27833332">Leake, William Martin, 1777-1860</ref>
          </desc>
@@ -381,11 +317,7 @@
              type="IIIFService"
              height="2110px"
              width="1203px"/>
-      <surface xml:id="arcvv0p07xhg"
-               ulx="377"
-               uly="62"
-               lrx="655"
-               lry="200">
+      <surface xml:id="arcvv0p07xhg" ulx="377" uly="62" lrx="655" lry="200">
          <desc>
             <ref target="http://viaf.org/viaf/27833332">Leake, William Martin, 1777-1860</ref>
          </desc>
@@ -411,11 +343,7 @@
              type="IIIFService"
              height="2110px"
              width="1231px"/>
-      <surface xml:id="a3zk2l98463k"
-               ulx="394"
-               uly="58"
-               lrx="707"
-               lry="186">
+      <surface xml:id="a3zk2l98463k" ulx="394" uly="58" lrx="707" lry="186">
          <desc>
             <ref target="http://viaf.org/viaf/27833332">Leake, William Martin, 1777-1860</ref>
          </desc>
@@ -465,11 +393,7 @@
              type="IIIFService"
              height="2124px"
              width="1224px"/>
-      <surface xml:id="avqg644ns8km"
-               ulx="195"
-               uly="77"
-               lrx="709"
-               lry="237">
+      <surface xml:id="avqg644ns8km" ulx="195" uly="77" lrx="709" lry="237">
          <desc>
             <ref target="http://viaf.org/viaf/31499936">McClean, John Robinson</ref>
          </desc>
@@ -482,11 +406,7 @@
              type="IIIFService"
              height="2124px"
              width="1273px"/>
-      <surface xml:id="apzxtr2olp5q"
-               ulx="539"
-               uly="51"
-               lrx="981"
-               lry="226">
+      <surface xml:id="apzxtr2olp5q" ulx="539" uly="51" lrx="981" lry="226">
          <desc>
             <ref target="http://viaf.org/viaf/31499936">McClean, John Robinson</ref>
          </desc>
@@ -499,11 +419,7 @@
              type="IIIFService"
              height="2138px"
              width="1197px"/>
-      <surface xml:id="ab6kx7ocltyg"
-               ulx="250"
-               uly="80"
-               lrx="653"
-               lry="217">
+      <surface xml:id="ab6kx7ocltyg" ulx="250" uly="80" lrx="653" lry="217">
          <desc>
             <ref target="http://viaf.org/viaf/31499936">McClean, John Robinson</ref>
          </desc>
@@ -516,11 +432,7 @@
              type="IIIFService"
              height="2138px"
              width="1224px"/>
-      <surface xml:id="aq3v0hseir9n"
-               ulx="437"
-               uly="88"
-               lrx="954"
-               lry="267">
+      <surface xml:id="aq3v0hseir9n" ulx="437" uly="88" lrx="954" lry="267">
          <desc>
             <ref target="http://viaf.org/viaf/51709652">Wace, A. J. B. (Alan John Bayard), 1879-1957</ref>
          </desc>
@@ -541,11 +453,7 @@
              type="IIIFService"
              height="2138px"
              width="1224px"/>
-      <surface xml:id="abl1z0ham0ag"
-               ulx="761"
-               uly="44"
-               lrx="1036"
-               lry="138">
+      <surface xml:id="abl1z0ham0ag" ulx="761" uly="44" lrx="1036" lry="138">
          <desc>
             <ref target="http://viaf.org/viaf/51709652">Wace, A. J. B. (Alan John Bayard), 1879-1957</ref>
          </desc>
@@ -566,11 +474,7 @@
              type="IIIFService"
              height="2117px"
              width="1231px"/>
-      <surface xml:id="a0pjldzoukd4f"
-               ulx="726"
-               uly="48"
-               lrx="1054"
-               lry="162">
+      <surface xml:id="a0pjldzoukd4f" ulx="726" uly="48" lrx="1054" lry="162">
          <desc>
             <ref target="http://viaf.org/viaf/51709652">Wace, A. J. B. (Alan John Bayard), 1879-1957</ref>
          </desc>
@@ -591,11 +495,7 @@
              type="IIIFService"
              height="2124px"
              width="1231px"/>
-      <surface xml:id="a0jpm7dhqxhof"
-               ulx="804"
-               uly="52"
-               lrx="1062"
-               lry="159">
+      <surface xml:id="a0jpm7dhqxhof" ulx="804" uly="52" lrx="1062" lry="159">
          <desc>
             <ref target="http://viaf.org/viaf/51709652">Wace, A. J. B. (Alan John Bayard), 1879-1957</ref>
          </desc>
@@ -616,11 +516,7 @@
              type="IIIFService"
              height="2124px"
              width="1238px"/>
-      <surface xml:id="abfpsbeme247"
-               ulx="747"
-               uly="52"
-               lrx="1052"
-               lry="138">
+      <surface xml:id="abfpsbeme247" ulx="747" uly="52" lrx="1052" lry="138">
          <desc>
             <ref target="http://viaf.org/viaf/51709652">Wace, A. J. B. (Alan John Bayard), 1879-1957</ref>
          </desc>
@@ -641,11 +537,7 @@
              type="IIIFService"
              height="2124px"
              width="1238px"/>
-      <surface xml:id="aozmu723zdda"
-               ulx="818"
-               uly="94"
-               lrx="1130"
-               lry="212">
+      <surface xml:id="aozmu723zdda" ulx="818" uly="94" lrx="1130" lry="212">
          <desc>
             <ref target="http://viaf.org/viaf/51709652">Wace, A. J. B. (Alan John Bayard), 1879-1957</ref>
          </desc>
@@ -674,11 +566,7 @@
              type="IIIFService"
              height="2144px"
              width="1273px"/>
-      <surface xml:id="afuwfkkv0yq9"
-               ulx="822"
-               uly="91"
-               lrx="1094"
-               lry="164">
+      <surface xml:id="afuwfkkv0yq9" ulx="822" uly="91" lrx="1094" lry="164">
          <desc>
             <ref target="http://viaf.org/viaf/51709652">Wace, A. J. B. (Alan John Bayard), 1879-1957</ref>
          </desc>
@@ -699,11 +587,7 @@
              type="IIIFService"
              height="2131px"
              width="1342px"/>
-      <surface xml:id="alstkq35oq9k"
-               ulx="299"
-               uly="70"
-               lrx="970"
-               lry="266">
+      <surface xml:id="alstkq35oq9k" ulx="299" uly="70" lrx="970" lry="266">
          <desc>
             <ref target="http://viaf.org/viaf/42649416">Lewis, Samuel S. 1836-1891</ref>
             <ref target="http://numismatics.org/library/186706">Sylloge nummorum graecorum. [Great Britain]. Vol. 6 :
@@ -726,20 +610,12 @@
              type="IIIFService"
              height="2131px"
              width="1273px"/>
-      <surface xml:id="a4oclfyo39bw"
-               ulx="118"
-               uly="1238"
-               lrx="505"
-               lry="1342">
+      <surface xml:id="a4oclfyo39bw" ulx="118" uly="1238" lrx="505" lry="1342">
          <desc>
             <ref target="http://viaf.org/viaf/195673808">Saulcy, Félicien de, 1807-1880</ref>
          </desc>
       </surface>
-      <surface xml:id="au7vraiu1b6c"
-               ulx="47"
-               uly="1387"
-               lrx="1059"
-               lry="1541">
+      <surface xml:id="au7vraiu1b6c" ulx="47" uly="1387" lrx="1059" lry="1541">
          <desc>
             <ref target="http://numismatics.org/library/85287">Numismatique de la Terre Sainte : description des monnaies autonomes et imp�riales de la Palestine et de l'Arabie P�tr�e / Orn�e de
 					25 planches grav�es par L. Dardel.</ref>
@@ -753,11 +629,7 @@
              type="IIIFService"
              height="2131px"
              width="1273px"/>
-      <surface xml:id="ae09rpp2y17j"
-               ulx="636"
-               uly="65"
-               lrx="1038"
-               lry="195">
+      <surface xml:id="ae09rpp2y17j" ulx="636" uly="65" lrx="1038" lry="195">
          <desc>
             <ref target="http://www.geonames.org/2640729">Oxford (England)</ref>
          </desc>
@@ -770,20 +642,12 @@
              type="IIIFService"
              height="2131px"
              width="1273px"/>
-      <surface xml:id="adom70rsqvs"
-               ulx="537"
-               uly="70"
-               lrx="1006"
-               lry="220">
+      <surface xml:id="adom70rsqvs" ulx="537" uly="70" lrx="1006" lry="220">
          <desc>
             <ref target="http://www.geonames.org/2640729">Oxford (England)</ref>
          </desc>
       </surface>
-      <surface xml:id="aldv6tt1t3h"
-               ulx="655"
-               uly="1057"
-               lrx="1006"
-               lry="1204">
+      <surface xml:id="aldv6tt1t3h" ulx="655" uly="1057" lrx="1006" lry="1204">
          <desc>
             <ref target="http://viaf.org/viaf/88797443">Woolley, Leonard, 1880-1960</ref>
          </desc>
@@ -796,11 +660,7 @@
              type="IIIFService"
              height="2131px"
              width="1273px"/>
-      <surface xml:id="asewu8b56z7m"
-               ulx="743"
-               uly="65"
-               lrx="1169"
-               lry="248">
+      <surface xml:id="asewu8b56z7m" ulx="743" uly="65" lrx="1169" lry="248">
          <desc>
             <ref target="http://www.geonames.org/2640729">Oxford (England)</ref>
          </desc>
@@ -813,11 +673,7 @@
              type="IIIFService"
              height="2131px"
              width="1273px"/>
-      <surface xml:id="a4quzk0h0dp"
-               ulx="633"
-               uly="61"
-               lrx="1059"
-               lry="145">
+      <surface xml:id="a4quzk0h0dp" ulx="633" uly="61" lrx="1059" lry="145">
          <desc>
             <ref target="http://www.geonames.org/2640729">Oxford (England)</ref>
          </desc>
@@ -830,11 +686,7 @@
              type="IIIFService"
              height="2131px"
              width="1273px"/>
-      <surface xml:id="a0qtgz4t79lx"
-               ulx="480"
-               uly="77"
-               lrx="935"
-               lry="252">
+      <surface xml:id="a0qtgz4t79lx" ulx="480" uly="77" lrx="935" lry="252">
          <desc>
             <ref target="http://www.geonames.org/2640729">Oxford (England)</ref>
          </desc>
@@ -855,11 +707,7 @@
              type="IIIFService"
              height="2110px"
              width="1269px"/>
-      <surface xml:id="aulzov4q0pro"
-               ulx="716"
-               uly="41"
-               lrx="1082"
-               lry="179">
+      <surface xml:id="aulzov4q0pro" ulx="716" uly="41" lrx="1082" lry="179">
          <desc>
             <ref target="http://www.geonames.org/2640729">Oxford (England)</ref>
          </desc>

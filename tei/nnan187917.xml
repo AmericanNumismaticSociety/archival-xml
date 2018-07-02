@@ -16,11 +16,6 @@
             <pubPlace>New York (N.Y.)</pubPlace>
             <idno type="donum">187917</idno>
          </publicationStmt>
-         <notesStmt>
-            <note type="abstract">
-               <p>Notebook containing handwritten notes on ancient Greek coins in museums of Turin, Italy, and The Hague, Netherlands. First page refers to the book Regio Museo di Torino (Royal Museum of Turin), Stamperia Reale della Ditta (Royal Printing Company) G.B. Paravia, 1988, by Adriodante Fabretti, Francesco Rossi, and Ridolfo Vittorio Lanzone.</p>
-            </note>
-         </notesStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
@@ -36,8 +31,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>Notebook containing handwritten notes on ancient Greek coins in museums of Turin, Italy, and The Hague, Netherlands. First page refers to the book Regio Museo di Torino (Royal Museum of Turin), Stamperia Reale della Ditta (Royal Printing Company) G.B. Paravia, 1988, by Adriodante Fabretti, Francesco Rossi, and Ridolfo Vittorio Lanzone.</p>
+         </abstract>
+         <textClass>
+            <classCode scheme="http://vocab.getty/edu/aat/">300264354</classCode>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+         <change when="2018-07-02">Moved abstract into profileDesc, added Getty AAT ID for genre.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xml:id="nnan187917_0001" style="depiction">
@@ -55,11 +59,7 @@
              type="IIIFService"
              height="2006px"
              width="1266px"/>
-      <surface xml:id="adz1kmfrkcp7"
-               ulx="123"
-               uly="237"
-               lrx="1182"
-               lry="1354">
+      <surface xml:id="adz1kmfrkcp7" ulx="123" uly="237" lrx="1182" lry="1354">
          <desc>
             <ref target="http://numismatics.org/library/42849">Regio museo di Torino, ordinato e descritto da A. Fabretti, F. Rossi, e R. V. Lanzone ...</ref>
          </desc>

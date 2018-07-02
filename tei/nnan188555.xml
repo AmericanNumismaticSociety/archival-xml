@@ -16,11 +16,6 @@
             <pubPlace>New York (N.Y.)</pubPlace>
             <idno type="donum">188555</idno>
          </publicationStmt>
-         <notesStmt>
-            <note type="abstract">
-               <p>Notebook binder containing notes, pasted coin photographs, and correspondence, all relating to various hoards of ancient Greek coins. The notebook was found among those of Edward Newell, but the contents do not appear to be attributable to him, some of which can be determined to have been created after his death in 1941. A label on the notebook spine indicates the contents to be related to Euboea and Histiaia, but they appear to have a wider focus than that. Headings include Eretria (1937), Euboeo-Boeotian (1950-51), Hoard 15 (Athens, 1954), AA Hoard, Artabi(?) hoard, Amandry (1963), near Larissa (1948), Newell's hoard, Preveza, Agora, Therianos (Noe 1104), Noe 629, and Zenikeni (circa 1903). Some pages have a substantial number of missing coin photographs. The correspondence (1951-1952) consists of about seven letters to Professor William Wallace, Department of Classical Languages, the University of Toronto. The correspondents are the dealers Roy Baldwin at A.H. Baldwin &amp; Sons, and Leonard Forrer at Spink &amp; Sons, and the letters relate to a Euboean-Boeotian find. </p>
-            </note>
-         </notesStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
@@ -36,8 +31,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>Notebook binder containing notes, pasted coin photographs, and correspondence, all relating to various hoards of ancient Greek coins. The notebook was found among those of Edward Newell, but the contents do not appear to be attributable to him, some of which can be determined to have been created after his death in 1941. A label on the notebook spine indicates the contents to be related to Euboea and Histiaia, but they appear to have a wider focus than that. Headings include Eretria (1937), Euboeo-Boeotian (1950-51), Hoard 15 (Athens, 1954), AA Hoard, Artabi(?) hoard, Amandry (1963), near Larissa (1948), Newell's hoard, Preveza, Agora, Therianos (Noe 1104), Noe 629, and Zenikeni (circa 1903). Some pages have a substantial number of missing coin photographs. The correspondence (1951-1952) consists of about seven letters to Professor William Wallace, Department of Classical Languages, the University of Toronto. The correspondents are the dealers Roy Baldwin at A.H. Baldwin &amp; Sons, and Leonard Forrer at Spink &amp; Sons, and the letters relate to a Euboean-Boeotian find. </p>
+         </abstract>
+         <textClass>
+            <classCode scheme="http://vocab.getty/edu/aat/">300264354</classCode>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+         <change when="2018-07-02">Moved abstract into profileDesc, added Getty AAT ID for genre.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xml:id="nnan188555_0001" style="depiction">

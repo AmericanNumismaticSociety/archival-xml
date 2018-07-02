@@ -16,11 +16,6 @@
             <pubPlace>New York (N.Y.)</pubPlace>
             <idno type="donum">188557</idno>
          </publicationStmt>
-         <notesStmt>
-            <note type="abstract">
-               <p>Binder containing pages of notes on late civic coins of Alexander III of Macedon (Alexander the Great). Headings include Odessos, Callatis, Sinope, Aeolis, Myrina, Temnos, Cyme, Mylasa, Rhodes, Samos, Phaselis, Selge, and Aspendos.</p>
-            </note>
-         </notesStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
@@ -36,8 +31,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>Binder containing pages of notes on late civic coins of Alexander III of Macedon (Alexander the Great). Headings include Odessos, Callatis, Sinope, Aeolis, Myrina, Temnos, Cyme, Mylasa, Rhodes, Samos, Phaselis, Selge, and Aspendos.</p>
+         </abstract>
+         <textClass>
+            <classCode scheme="http://vocab.getty/edu/aat/">300264354</classCode>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+         <change when="2018-07-02">Moved abstract into profileDesc, added Getty AAT ID for genre.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xml:id="nnan188557_0001" style="depiction">

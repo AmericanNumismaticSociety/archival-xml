@@ -16,11 +16,6 @@
             <pubPlace>New York (N.Y.)</pubPlace>
             <idno type="donum">189146</idno>
          </publicationStmt>
-         <notesStmt>
-            <note type="abstract">
-               <p>Notebook containing notes on coins in Yale University collections, including Adana Museum, Dura excavations, and the University Collection, as well as coins from Seleucia excavated by the University of Michigan under the direction of Robert H. McDowell and held by the Kelsey Museum of Archaeology.</p>
-            </note>
-         </notesStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
@@ -36,8 +31,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>Notebook containing notes on coins in Yale University collections, including Adana Museum, Dura excavations, and the University Collection, as well as coins from Seleucia excavated by the University of Michigan under the direction of Robert H. McDowell and held by the Kelsey Museum of Archaeology.</p>
+         </abstract>
+         <textClass>
+            <classCode scheme="http://vocab.getty/edu/aat/">300264354</classCode>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+         <change when="2018-07-02">Moved abstract into profileDesc, added Getty AAT ID for genre.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xml:id="nnan189146_0001" style="depiction">

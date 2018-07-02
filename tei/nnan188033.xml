@@ -16,11 +16,6 @@
             <pubPlace>New York (N.Y.)</pubPlace>
             <idno type="donum">188033</idno>
          </publicationStmt>
-         <notesStmt>
-            <note type="abstract">
-               <p>Binder containing pasted photographs of the obverse and reverse of ancient Greek gold staters showing Philip II of Macedon taken from sales catalogs.</p>
-            </note>
-         </notesStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
@@ -36,8 +31,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>Binder containing pasted photographs of the obverse and reverse of ancient Greek gold staters showing Philip II of Macedon taken from sales catalogs.</p>
+         </abstract>
+         <textClass>
+            <classCode scheme="http://vocab.getty/edu/aat/">300264354</classCode>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+         <change when="2018-07-02">Moved abstract into profileDesc, added Getty AAT ID for genre.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xml:id="nnan188033_0001" style="depiction">
@@ -63,11 +67,7 @@
              type="IIIFService"
              height="2262px"
              width="1356px"/>
-      <surface xml:id="ag4yexqi6cz9"
-               ulx="238"
-               uly="203"
-               lrx="381"
-               lry="260">
+      <surface xml:id="ag4yexqi6cz9" ulx="238" uly="203" lrx="381" lry="260">
          <desc>
             <ref target="http://viaf.org/viaf/41937557">Hunter, William, 1718-1783</ref>
          </desc>
@@ -96,20 +96,12 @@
              type="IIIFService"
              height="2269px"
              width="1335px"/>
-      <surface xml:id="a5eylkxolsh3"
-               ulx="473"
-               uly="528"
-               lrx="647"
-               lry="650">
+      <surface xml:id="a5eylkxolsh3" ulx="473" uly="528" lrx="647" lry="650">
          <desc>
             <ref target="http://numismatics.org/library/16785">http://numismatics.org/library/16785</ref>
          </desc>
       </surface>
-      <surface xml:id="ag4qqtl52hcp"
-               ulx="982"
-               uly="324"
-               lrx="1167"
-               lry="446">
+      <surface xml:id="ag4qqtl52hcp" ulx="982" uly="324" lrx="1167" lry="446">
          <desc>
             <ref target="http://numismatics.org/library/8812">http://numismatics.org/library/8812</ref>
          </desc>
@@ -122,20 +114,12 @@
              type="IIIFService"
              height="2262px"
              width="1342px"/>
-      <surface xml:id="adnjzx05w2d6"
-               ulx="966"
-               uly="570"
-               lrx="1294"
-               lry="704">
+      <surface xml:id="adnjzx05w2d6" ulx="966" uly="570" lrx="1294" lry="704">
          <desc>
             <ref target="http://numismatics.org/library/16785">http://numismatics.org/library/16785</ref>
          </desc>
       </surface>
-      <surface xml:id="az7a9rbxehg9"
-               ulx="883"
-               uly="880"
-               lrx="1260"
-               lry="1002">
+      <surface xml:id="az7a9rbxehg9" ulx="883" uly="880" lrx="1260" lry="1002">
          <desc>
             <ref target="http://numismatics.org/library/91231">[11/18/1912].</ref>
          </desc>
@@ -148,11 +132,7 @@
              type="IIIFService"
              height="2269px"
              width="1342px"/>
-      <surface xml:id="a6910sx6eh0i"
-               ulx="418"
-               uly="327"
-               lrx="634"
-               lry="442">
+      <surface xml:id="a6910sx6eh0i" ulx="418" uly="327" lrx="634" lry="442">
          <desc>
             <ref target="http://numismatics.org/library/16785">http://numismatics.org/library/16785</ref>
          </desc>
@@ -165,11 +145,7 @@
              type="IIIFService"
              height="2262px"
              width="1349px"/>
-      <surface xml:id="ae7w50bdaems"
-               ulx="947"
-               uly="1212"
-               lrx="1158"
-               lry="1300">
+      <surface xml:id="ae7w50bdaems" ulx="947" uly="1212" lrx="1158" lry="1300">
          <desc>
             <ref target="http://numismatics.org/library/9864">[11/14/1912].</ref>
          </desc>
@@ -182,20 +158,12 @@
              type="IIIFService"
              height="2248px"
              width="1335px"/>
-      <surface xml:id="a7np6jwtflse"
-               ulx="697"
-               uly="576"
-               lrx="1289"
-               lry="794">
+      <surface xml:id="a7np6jwtflse" ulx="697" uly="576" lrx="1289" lry="794">
          <desc>
             <ref target="http://numismatics.org/library/47009">[05/27/1907].</ref>
          </desc>
       </surface>
-      <surface xml:id="aacatmhaydiq"
-               ulx="903"
-               uly="286"
-               lrx="1222"
-               lry="385">
+      <surface xml:id="aacatmhaydiq" ulx="903" uly="286" lrx="1222" lry="385">
          <desc>
             <ref target="http://numismatics.org/library/9864">[11/14/1912].</ref>
          </desc>
@@ -208,11 +176,7 @@
              type="IIIFService"
              height="2262px"
              width="1369px"/>
-      <surface xml:id="axvyxy1e1plq"
-               ulx="881"
-               uly="292"
-               lrx="1171"
-               lry="418">
+      <surface xml:id="axvyxy1e1plq" ulx="881" uly="292" lrx="1171" lry="418">
          <desc>
             <ref target="http://numismatics.org/library/9864">[11/14/1912].</ref>
          </desc>
@@ -225,11 +189,7 @@
              type="IIIFService"
              height="2241px"
              width="1356px"/>
-      <surface xml:id="af1ohnmglu88"
-               ulx="917"
-               uly="275"
-               lrx="1239"
-               lry="403">
+      <surface xml:id="af1ohnmglu88" ulx="917" uly="275" lrx="1239" lry="403">
          <desc>
             <ref target="http://numismatics.org/library/124657">http://numismatics.org/library/124657</ref>
          </desc>
@@ -242,11 +202,7 @@
              type="IIIFService"
              height="2262px"
              width="1356px"/>
-      <surface xml:id="ayn5sbm2e3d"
-               ulx="785"
-               uly="315"
-               lrx="1290"
-               lry="701">
+      <surface xml:id="ayn5sbm2e3d" ulx="785" uly="315" lrx="1290" lry="701">
          <desc>
             <ref target="http://numismatics.org/library/9864">[11/14/1912].</ref>
          </desc>
@@ -259,11 +215,7 @@
              type="IIIFService"
              height="2269px"
              width="1363px"/>
-      <surface xml:id="afu8o2u2aom5"
-               ulx="919"
-               uly="294"
-               lrx="1124"
-               lry="412">
+      <surface xml:id="afu8o2u2aom5" ulx="919" uly="294" lrx="1124" lry="412">
          <desc>
             <ref target="http://numismatics.org/library/124657">http://numismatics.org/library/124657</ref>
          </desc>
@@ -276,29 +228,17 @@
              type="IIIFService"
              height="2262px"
              width="1369px"/>
-      <surface xml:id="a65abafc1uu8"
-               ulx="937"
-               uly="1453"
-               lrx="1254"
-               lry="1523">
+      <surface xml:id="a65abafc1uu8" ulx="937" uly="1453" lrx="1254" lry="1523">
          <desc>
             <ref target="http://numismatics.org/library/91231">[11/18/1912].</ref>
          </desc>
       </surface>
-      <surface xml:id="asx4qgehn6xm"
-               ulx="945"
-               uly="1124"
-               lrx="1118"
-               lry="1236">
+      <surface xml:id="asx4qgehn6xm" ulx="945" uly="1124" lrx="1118" lry="1236">
          <desc>
             <ref target="http://numismatics.org/library/9864">[11/14/1912].</ref>
          </desc>
       </surface>
-      <surface xml:id="a43ex2t8m6g2"
-               ulx="915"
-               uly="589"
-               lrx="1280"
-               lry="667">
+      <surface xml:id="a43ex2t8m6g2" ulx="915" uly="589" lrx="1280" lry="667">
          <desc>
             <ref target="http://numismatics.org/library/59972">[05/29/1911].</ref>
          </desc>
@@ -311,11 +251,7 @@
              type="IIIFService"
              height="2248px"
              width="1363px"/>
-      <surface xml:id="a5e4bpxyz5bk"
-               ulx="952"
-               uly="266"
-               lrx="1267"
-               lry="385">
+      <surface xml:id="a5e4bpxyz5bk" ulx="952" uly="266" lrx="1267" lry="385">
          <desc>
             <ref target="http://numismatics.org/library/142115">[11/27/1905].</ref>
          </desc>
@@ -328,20 +264,12 @@
              type="IIIFService"
              height="2262px"
              width="1356px"/>
-      <surface xml:id="akqvkc7yqik"
-               ulx="924"
-               uly="1095"
-               lrx="1233"
-               lry="1195">
+      <surface xml:id="akqvkc7yqik" ulx="924" uly="1095" lrx="1233" lry="1195">
          <desc>
             <ref target="http://numismatics.org/library/70716">http://numismatics.org/library/70716</ref>
          </desc>
       </surface>
-      <surface xml:id="alvpdbtkmmpc"
-               ulx="476"
-               uly="531"
-               lrx="656"
-               lry="625">
+      <surface xml:id="alvpdbtkmmpc" ulx="476" uly="531" lrx="656" lry="625">
          <desc>
             <ref target="http://numismatics.org/library/91231">[11/18/1912].</ref>
          </desc>
@@ -354,20 +282,12 @@
              type="IIIFService"
              height="2255px"
              width="1356px"/>
-      <surface xml:id="ah8pmnxjd9gc"
-               ulx="941"
-               uly="1546"
-               lrx="1133"
-               lry="1630">
+      <surface xml:id="ah8pmnxjd9gc" ulx="941" uly="1546" lrx="1133" lry="1630">
          <desc>
             <ref target="http://numismatics.org/library/95018">[11/17/1913].</ref>
          </desc>
       </surface>
-      <surface xml:id="apzp8x3g89ns"
-               ulx="881"
-               uly="1776"
-               lrx="1253"
-               lry="1897">
+      <surface xml:id="apzp8x3g89ns" ulx="881" uly="1776" lrx="1253" lry="1897">
          <desc>
             <ref target="http://numismatics.org/library/91231">[11/18/1912].</ref>
          </desc>
@@ -380,20 +300,12 @@
              type="IIIFService"
              height="2276px"
              width="1363px"/>
-      <surface xml:id="a6n0zcwse79"
-               ulx="773"
-               uly="614"
-               lrx="1319"
-               lry="679">
+      <surface xml:id="a6n0zcwse79" ulx="773" uly="614" lrx="1319" lry="679">
          <desc>
             <ref target="http://numismatics.org/library/29175">[05/05/1914].</ref>
          </desc>
       </surface>
-      <surface xml:id="aw6nvmb9wrsl"
-               ulx="864"
-               uly="1157"
-               lrx="1217"
-               lry="1210">
+      <surface xml:id="aw6nvmb9wrsl" ulx="864" uly="1157" lrx="1217" lry="1210">
          <desc>
             <ref target="http://numismatics.org/library/37328">[11/18/1912].</ref>
          </desc>
@@ -406,38 +318,22 @@
              type="IIIFService"
              height="2262px"
              width="1369px"/>
-      <surface xml:id="a5cf1vx8rmk"
-               ulx="890"
-               uly="1608"
-               lrx="1127"
-               lry="1670">
+      <surface xml:id="a5cf1vx8rmk" ulx="890" uly="1608" lrx="1127" lry="1670">
          <desc>
             <ref target="http://numismatics.org/library/9737">[11/13/1907].</ref>
          </desc>
       </surface>
-      <surface xml:id="asov5f9d2ebr"
-               ulx="913"
-               uly="1862"
-               lrx="1244"
-               lry="1913">
+      <surface xml:id="asov5f9d2ebr" ulx="913" uly="1862" lrx="1244" lry="1913">
          <desc>
             <ref target="http://numismatics.org/library/70716">http://numismatics.org/library/70716</ref>
          </desc>
       </surface>
-      <surface xml:id="abeyv2umu2zl"
-               ulx="871"
-               uly="2091"
-               lrx="1235"
-               lry="2171">
+      <surface xml:id="abeyv2umu2zl" ulx="871" uly="2091" lrx="1235" lry="2171">
          <desc>
             <ref target="http://numismatics.org/library/59972">[05/29/1911].</ref>
          </desc>
       </surface>
-      <surface xml:id="abo1r4iidw9w"
-               ulx="888"
-               uly="289"
-               lrx="1237"
-               lry="335">
+      <surface xml:id="abo1r4iidw9w" ulx="888" uly="289" lrx="1237" lry="335">
          <desc>
             <ref target="http://numismatics.org/library/59972">[05/29/1911].</ref>
          </desc>
@@ -450,47 +346,27 @@
              type="IIIFService"
              height="2255px"
              width="1356px"/>
-      <surface xml:id="a704mqisfek9"
-               ulx="897"
-               uly="575"
-               lrx="1196"
-               lry="635">
+      <surface xml:id="a704mqisfek9" ulx="897" uly="575" lrx="1196" lry="635">
          <desc>
             <ref target="http://numismatics.org/library/37328">[11/18/1912].</ref>
          </desc>
       </surface>
-      <surface xml:id="aioy23dmffne"
-               ulx="852"
-               uly="1130"
-               lrx="1164"
-               lry="1172">
+      <surface xml:id="aioy23dmffne" ulx="852" uly="1130" lrx="1164" lry="1172">
          <desc>
             <ref target="http://numismatics.org/library/2251">[11/02/1909].</ref>
          </desc>
       </surface>
-      <surface xml:id="ajed10mk6drq"
-               ulx="979"
-               uly="1604"
-               lrx="1078"
-               lry="1687">
+      <surface xml:id="ajed10mk6drq" ulx="979" uly="1604" lrx="1078" lry="1687">
          <desc>
             <ref target="http://numismatics.org/library/37328">[11/18/1912].</ref>
          </desc>
       </surface>
-      <surface xml:id="azdwp1cyzbup"
-               ulx="943"
-               uly="1788"
-               lrx="1075"
-               lry="1907">
+      <surface xml:id="azdwp1cyzbup" ulx="943" uly="1788" lrx="1075" lry="1907">
          <desc>
             <ref target="http://numismatics.org/library/9737">[11/13/1907].</ref>
          </desc>
       </surface>
-      <surface xml:id="aby3uzznr6f"
-               ulx="284"
-               uly="1977"
-               lrx="662"
-               lry="2037">
+      <surface xml:id="aby3uzznr6f" ulx="284" uly="1977" lrx="662" lry="2037">
          <desc>
             <ref target="http://numismatics.org/library/86125">[06/11/1913].</ref>
          </desc>
@@ -503,47 +379,27 @@
              type="IIIFService"
              height="2269px"
              width="1363px"/>
-      <surface xml:id="apqg9fjmfc8k"
-               ulx="931"
-               uly="363"
-               lrx="1209"
-               lry="414">
+      <surface xml:id="apqg9fjmfc8k" ulx="931" uly="363" lrx="1209" lry="414">
          <desc>
             <ref target="http://numismatics.org/library/9737">[11/13/1907].</ref>
          </desc>
       </surface>
-      <surface xml:id="aqcc6huemxt"
-               ulx="876"
-               uly="655"
-               lrx="1258"
-               lry="722">
+      <surface xml:id="aqcc6huemxt" ulx="876" uly="655" lrx="1258" lry="722">
          <desc>
             <ref target="http://numismatics.org/library/9737">[11/13/1907].</ref>
          </desc>
       </surface>
-      <surface xml:id="azhsyzs3al4s"
-               ulx="382"
-               uly="1416"
-               lrx="586"
-               lry="1469">
+      <surface xml:id="azhsyzs3al4s" ulx="382" uly="1416" lrx="586" lry="1469">
          <desc>
             <ref target="http://numismatics.org/library/37328">[11/18/1912].</ref>
          </desc>
       </surface>
-      <surface xml:id="a3uwhblk8rtg"
-               ulx="291"
-               uly="1112"
-               lrx="639"
-               lry="1179">
+      <surface xml:id="a3uwhblk8rtg" ulx="291" uly="1112" lrx="639" lry="1179">
          <desc>
             <ref target="http://numismatics.org/library/9737">[11/13/1907].</ref>
          </desc>
       </surface>
-      <surface xml:id="acogelgyzmhb"
-               ulx="353"
-               uly="1849"
-               lrx="646"
-               lry="1897">
+      <surface xml:id="acogelgyzmhb" ulx="353" uly="1849" lrx="646" lry="1897">
          <desc>
             <ref target="http://numismatics.org/library/114354">http://numismatics.org/library/114354</ref>
          </desc>
@@ -556,38 +412,22 @@
              type="IIIFService"
              height="2262px"
              width="1356px"/>
-      <surface xml:id="achl5b1c3i94"
-               ulx="309"
-               uly="268"
-               lrx="654"
-               lry="335">
+      <surface xml:id="achl5b1c3i94" ulx="309" uly="268" lrx="654" lry="335">
          <desc>
             <ref target="http://numismatics.org/library/37328">[11/18/1912].</ref>
          </desc>
       </surface>
-      <surface xml:id="aa3q2l77unnu"
-               ulx="974"
-               uly="297"
-               lrx="1281"
-               lry="371">
+      <surface xml:id="aa3q2l77unnu" ulx="974" uly="297" lrx="1281" lry="371">
          <desc>
             <ref target="http://numismatics.org/library/37328">[11/18/1912].</ref>
          </desc>
       </surface>
-      <surface xml:id="aii4xa1m5c4m"
-               ulx="307"
-               uly="753"
-               lrx="583"
-               lry="840">
+      <surface xml:id="aii4xa1m5c4m" ulx="307" uly="753" lrx="583" lry="840">
          <desc>
             <ref target="http://numismatics.org/library/33368">[01/15/1912].</ref>
          </desc>
       </surface>
-      <surface xml:id="acs6adtdajsu"
-               ulx="198"
-               uly="1054"
-               lrx="638"
-               lry="1094">
+      <surface xml:id="acs6adtdajsu" ulx="198" uly="1054" lrx="638" lry="1094">
          <desc>
             <ref target="http://numismatics.org/library/95018">[11/17/1913].</ref>
          </desc>
@@ -640,11 +480,7 @@
              type="IIIFService"
              height="2262px"
              width="1349px"/>
-      <surface xml:id="aa848gwfzth"
-               ulx="887"
-               uly="299"
-               lrx="1312"
-               lry="442">
+      <surface xml:id="aa848gwfzth" ulx="887" uly="299" lrx="1312" lry="442">
          <desc>
             <ref target="http://numismatics.org/library/70716">http://numismatics.org/library/70716</ref>
          </desc>

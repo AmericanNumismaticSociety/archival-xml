@@ -16,11 +16,6 @@
             <pubPlace>New York (N.Y.)</pubPlace>
             <idno type="donum">188043</idno>
          </publicationStmt>
-         <notesStmt>
-            <note type="abstract">
-               <p>Notebook of handwritten notes on ancient Greek coin hoards, including: find of copper coins of Theodosius, Gratianus, etc.; find of copper coins from Egypt, Constantine, "Hassan Find" I ("sent me by Hassan Abd-El-Salam, Sept. 1909"); hoard purchased from Nahmy E. Homsy ("a well known Syrian dealer in antiquities, residing in Brooklyn, N.Y."); part of find of second bronze from Egypt ("sent me Sept. 1909"); part of a find made near Luxemburg ("time: Constantine Great"); part of find from Ras-Hauran, Syria ("bought of Azeez Khayat who states these were found by Salih Hamauti [?] at Beit Ras Hauran"); part of find of Roman Antoniniani ("sold by Thomas L. Elder, Oct."); find from Italy; two lots of potin tetradrachms from Egypt; and portion of a hoard of Athenian tetradrachms ("sent me from Euboea, via Athens, Jan. 1929"). Includes two loose sheets of rubbings of medieval coins (Leon III, Constantine V, Justinianus, Tiberius, Theodosius, Tiberius V, Artemius, Anastace II, Filepicus, Bardanes and one loose sheet labeled Hoard Purchased from Nahmy Homsy.</p>
-            </note>
-         </notesStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
@@ -36,8 +31,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>Notebook of handwritten notes on ancient Greek coin hoards, including: find of copper coins of Theodosius, Gratianus, etc.; find of copper coins from Egypt, Constantine, "Hassan Find" I ("sent me by Hassan Abd-El-Salam, Sept. 1909"); hoard purchased from Nahmy E. Homsy ("a well known Syrian dealer in antiquities, residing in Brooklyn, N.Y."); part of find of second bronze from Egypt ("sent me Sept. 1909"); part of a find made near Luxemburg ("time: Constantine Great"); part of find from Ras-Hauran, Syria ("bought of Azeez Khayat who states these were found by Salih Hamauti [?] at Beit Ras Hauran"); part of find of Roman Antoniniani ("sold by Thomas L. Elder, Oct."); find from Italy; two lots of potin tetradrachms from Egypt; and portion of a hoard of Athenian tetradrachms ("sent me from Euboea, via Athens, Jan. 1929"). Includes two loose sheets of rubbings of medieval coins (Leon III, Constantine V, Justinianus, Tiberius, Theodosius, Tiberius V, Artemius, Anastace II, Filepicus, Bardanes and one loose sheet labeled Hoard Purchased from Nahmy Homsy.</p>
+         </abstract>
+         <textClass>
+            <classCode scheme="http://vocab.getty/edu/aat/">300264354</classCode>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change when="2017-10-02">Reprocessed TEI for IIIF compliance on service URI and annotation coordinates.</change>
+         <change when="2018-07-02">Moved abstract into profileDesc, added Getty AAT ID for genre.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile xml:id="nnan188043_0001" style="depiction">
