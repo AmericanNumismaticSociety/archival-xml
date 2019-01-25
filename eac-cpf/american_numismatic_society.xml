@@ -1,674 +1,673 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>american_numismatic_society</recordId>
-    <maintenanceStatus>revised</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-      <agencyCode>US-nnan</agencyCode>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>derived</eventType>
-        <eventDateTime standardDateTime="2014-06-12T14:17:01-04:00">Thu, 12 Jun 2014 14:17:01 -0400</eventDateTime>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-18T14:31:21.102Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-18T15:15:19.505Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Deleted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-18T15:16:15.963Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-18T15:18:06.034Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Deleted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-18T15:18:50.048Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-18T15:37:55.628Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-18T15:46:07.785Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-18T15:56:51.474Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-18T16:41:57.031Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-18T16:52:35.87Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-18T19:05:34.924Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-18T19:13:05.27Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-18T19:28:35.061Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-18T19:39:39.842Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-18T19:46:56.211Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-18T20:25:21.152Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-18T20:32:49.71Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-18T20:42:00.914Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T13:54:34.474Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T14:21:15.48Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T14:52:20.641Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T15:10:37.466Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T15:21:25.286Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T15:43:31.989Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T15:51:21.805Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T16:00:06.955Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T16:01:47.223Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T16:21:47.255Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T16:25:04.12Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T16:30:31.979Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T16:39:17.858Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T19:58:17.793Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T20:12:46.518Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T20:18:27.922Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T20:29:27.943Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T12:36:21.468Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T12:41:58.316Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T13:06:12.816Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T13:28:36.116Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T13:31:07.126Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T13:43:20.153Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T14:24:53.018Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T14:45:35.437Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T14:50:56.655Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T14:52:50.542Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T14:55:17.827Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T15:47:36.612Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T15:49:12.393Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T15:55:10.076Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T17:58:48.936Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T18:56:00.212Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T19:06:58.537Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T19:14:20.017Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T19:23:25.969Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T19:41:22.646Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T19:52:42.194Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T20:08:39.964Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-24T12:58:41.73Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-24T13:03:40.215Z"/>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Fixed relations.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:50.195Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-19T14:47:03.866-05:00"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:52.558-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <relations>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="brett" xlink:arcrole="org:hasMember">
-        <relationEntry>Brett, Agnes Baldwin, 1876-1955</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="anthon" xlink:arcrole="org:hasMember">
-        <relationEntry>Anthon, Charles E., 1823-1883</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="betts" xlink:arcrole="org:hasMember">
-        <relationEntry>Betts, Benjamin, 1822-1908</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="dewing" xlink:arcrole="org:hasMember">
-        <relationEntry>Dewing, Arthur S., 1880-1971</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="eidlitz" xlink:arcrole="org:hasMember">
-        <relationEntry>Eidlitz, Robert J. (Robert James), 1864-1935</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="groh" xlink:arcrole="org:hasMember">
-        <relationEntry>Groh, Edward, 1837-1905</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="huntington" xlink:arcrole="org:hasMember">
-        <relationEntry>Huntington, Archer M. (Archer Milton), 1870-1955</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="ives" xlink:arcrole="org:hasMember">
-        <relationEntry>Ives, Herbert E. (Herbert Eugene), 1882-1953</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="levick" xlink:arcrole="org:hasMember">
-        <relationEntry>Levick, Joseph N.T. (Joseph Nepoleon Tricot), 1828-1908</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="milbank" xlink:arcrole="org:hasMember">
-        <relationEntry>Milbank, Samuel R., 1906-1985</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="miles" xlink:arcrole="org:hasMember">
-        <relationEntry>Miles, George C., 1904-1975</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="norweb_jr" xlink:arcrole="org:hasMember">
-        <relationEntry>Norweb, R. Henry, 1918-1995</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="parish" xlink:arcrole="org:hasMember">
-        <relationEntry>Parish, Daniel, 1842-1914</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="pell" xlink:arcrole="org:hasMember">
-        <relationEntry>Pell, Stephen H. P., 1874-1950</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="beldon" xlink:arcrole="org:hasMember">
-        <relationEntry>Belden, Bauman L. (Bauman Lowe), 1862-1931</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="bullowa" xlink:arcrole="org:hasMember">
-        <relationEntry>Bullowa, David M. (David Marks), 1912-1953</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="drowne" xlink:arcrole="org:hasMember">
-        <relationEntry>Drowne, Henry Russell, 1860-1934</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="erlanger" xlink:arcrole="org:hasMember">
-        <relationEntry>Erlanger, Herbert J. (Herbert Justin), 1906-1988</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="falls" xlink:arcrole="org:hasMember">
-        <relationEntry>Falls, DeWitt Clinton, 1864-1937</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="gillingham" xlink:arcrole="org:hasMember">
-        <relationEntry>Gillingham, Harrold Edgar, 1864-1954</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="grunthal" xlink:arcrole="org:hasMember">
-        <relationEntry>Grunthal, Henry, 1905-2001</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="fecht" xlink:arcrole="org:hasMember">
-        <relationEntry>Fecht, Arthur J., d. 1945</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="hamilton" xlink:arcrole="org:hasMember">
-        <relationEntry>Hamilton, George L., d. 1950</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="adams_john_w" xlink:arcrole="org:hasMember">
-        <relationEntry>Adams, John W. (John Weston), 1936- , collector</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="barnsley" xlink:arcrole="org:hasMember">
-        <relationEntry>Barnsley, Edward R. (Edward Roberts), b. 1906</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="douglas" xlink:arcrole="org:hasMember">
-        <relationEntry>Douglas, Damon G., d. 1974</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="hersh" xlink:arcrole="org:hasMember">
-        <relationEntry>Hersh, Charles Austin, 1923-1999</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="kelley" xlink:arcrole="org:hasMember">
-        <relationEntry>Kelley, Robert F., 1894-1976</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="kunz" xlink:arcrole="org:hasMember">
-        <relationEntry>Kunz, George F. (George Frederick), 1856-1932</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="lawrence" xlink:arcrole="org:hasMember">
-        <relationEntry>Lawrence, Richard Hoe, 1858-1936</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="lee" xlink:arcrole="org:hasMember">
-        <relationEntry>Lee, Kenneth W., 1907-1980</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="low" xlink:arcrole="org:hasMember">
-        <relationEntry>Low, Lyman Haynes, 1844-1924</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="mickley" xlink:arcrole="org:hasMember">
-        <relationEntry>Mickley, Joseph J. (Joseph Jacob), 1799-1878</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="nesmith" xlink:arcrole="org:hasMember">
-        <relationEntry>Nesmith, Robert I., 1891-1972</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="picker" xlink:arcrole="org:hasMember">
-        <relationEntry>Picker, Richard, 1915-1983</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="poillon" xlink:arcrole="org:hasMember">
-        <relationEntry>Poillon, William, 1844-1918</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="robertson" xlink:arcrole="org:linkedTo">
-        <relationEntry>Robertson, Robert, 1869-1937</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="robinson" xlink:arcrole="org:hasMember">
-        <relationEntry>Robinson, Edwin P., d. 1937</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="rogers" xlink:arcrole="org:hasMember">
-        <relationEntry>Rogers, H. Elliot, d. 1996</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="snow" xlink:arcrole="org:hasMember">
-        <relationEntry>Snow, Warren B., b. 1919?</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="solomon" xlink:arcrole="org:hasMember">
-        <relationEntry>Solomon, Raphael E., 1992</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="storer" xlink:arcrole="org:hasMember">
-        <relationEntry>Storer, Malcolm, 1862-1935</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="west" xlink:arcrole="org:hasMember">
-        <relationEntry>West, Louis C. (Louis Caulton), 1882-1972</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="williamson" xlink:arcrole="org:hasMember">
-        <relationEntry>Williamson, Raymond H., 1907-1997</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="wood_howland" xlink:arcrole="org:hasMember">
-        <relationEntry>Wood, Howland, 1877-1938</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="zabriskie" xlink:arcrole="org:hasMember">
-        <relationEntry>Zabriskie, Andrew C. (Andrew Christian), 1853-1916</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="zerbe" xlink:arcrole="org:hasMember">
-        <relationEntry>Zerbe, Farran, 1871-1949</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="sage" xlink:arcrole="org:hasMember">
-        <relationEntry>Sage, Augustus B., 1842-1874</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="saltus" xlink:arcrole="org:hasMember">
-        <relationEntry>Saltus, J. Sanford, 1853-1922</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="thompson" xlink:arcrole="org:hasMember">
-        <relationEntry>Thompson, Margaret E., 1911-1992</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="noe" xlink:arcrole="org:hasMember">
-        <relationEntry>Noe, Sydney P. (Sydney Philip), 1885-1969</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:href="reed" xlink:arcrole="org:hasMember" xlink:role="foaf:Person">
-        <relationEntry>Reed, Alfred Zantzinger, 1875-1949</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:href="reilly" xlink:arcrole="org:hasMember" xlink:role="foaf:Person">
-        <relationEntry>Reilly, John, 1876-1931</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:href="lovejoy" xlink:arcrole="org:hasMember" xlink:role="foaf:Person">
-        <relationEntry>Lovejoy, Allen F. (Allen Fraser), 1919-1997</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:href="newell" xlink:role="" xlink:arcrole="org:hasMember">
-        <relationEntry>Newell, Edward Theodore, 1886-1941</relationEntry>
-      </cpfRelation>
-    </relations>
-    <identity>
-      <entityId localType="skos:exactMatch">http://viaf.org/viaf/126085739</entityId>
-      <entityId localType="skos:exactMatch">http://d-nb.info/gnd/35309-7</entityId>
-      <entityId localType="skos:exactMatch">http://www.idref.fr/02646294X/id</entityId>
-      <entityId localType="skos:exactMatch">http://data.bnf.fr/ark:/12148/cb118706839#foaf:Person</entityId>
-      <entityType>corporateBody</entityType>
-      <nameEntry>
-        <part>American Numismatic Society</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <biogHist>
-        <p>Howland Wood (1877-1938) was born in New Bedford, Massachusetts, and graduated from Brown University in 1900. He became a member of the ANS in 1909. By 1913 he had been appointed
+    <control>
+        <recordId>american_numismatic_society</recordId>
+        <maintenanceStatus>revised</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2014-06-12T14:17:01-04:00">Thu, 12 Jun 2014 14:17:01 -0400</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-18T14:31:21.102Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-18T15:15:19.505Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Deleted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-18T15:16:15.963Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-18T15:18:06.034Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Deleted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-18T15:18:50.048Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-18T15:37:55.628Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-18T15:46:07.785Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-18T15:56:51.474Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-18T16:41:57.031Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-18T16:52:35.87Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-18T19:05:34.924Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-18T19:13:05.27Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-18T19:28:35.061Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-18T19:39:39.842Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-18T19:46:56.211Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-18T20:25:21.152Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-18T20:32:49.71Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-18T20:42:00.914Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T13:54:34.474Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T14:21:15.48Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T14:52:20.641Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T15:10:37.466Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T15:21:25.286Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T15:43:31.989Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T15:51:21.805Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T16:00:06.955Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T16:01:47.223Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T16:21:47.255Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T16:25:04.12Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T16:30:31.979Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T16:39:17.858Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T19:58:17.793Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T20:12:46.518Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T20:18:27.922Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T20:29:27.943Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T12:36:21.468Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T12:41:58.316Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T13:06:12.816Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T13:28:36.116Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T13:31:07.126Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T13:43:20.153Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T14:24:53.018Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T14:45:35.437Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T14:50:56.655Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T14:52:50.542Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T14:55:17.827Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T15:47:36.612Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T15:49:12.393Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T15:55:10.076Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T17:58:48.936Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T18:56:00.212Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T19:06:58.537Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T19:14:20.017Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T19:23:25.969Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T19:41:22.646Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T19:52:42.194Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T20:08:39.964Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-24T12:58:41.73Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-24T13:03:40.215Z"/>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Fixed relations.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:50.195Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-19T14:47:03.866-05:00"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:52.558-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        </maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <relations>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="brett" xlink:arcrole="org:hasMember">
+                <relationEntry>Brett, Agnes Baldwin, 1876-1955</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="anthon" xlink:arcrole="org:hasMember">
+                <relationEntry>Anthon, Charles E., 1823-1883</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="betts" xlink:arcrole="org:hasMember">
+                <relationEntry>Betts, Benjamin, 1822-1908</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="dewing" xlink:arcrole="org:hasMember">
+                <relationEntry>Dewing, Arthur S., 1880-1971</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="eidlitz" xlink:arcrole="org:hasMember">
+                <relationEntry>Eidlitz, Robert J. (Robert James), 1864-1935</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="groh" xlink:arcrole="org:hasMember">
+                <relationEntry>Groh, Edward, 1837-1905</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="huntington" xlink:arcrole="org:hasMember">
+                <relationEntry>Huntington, Archer M. (Archer Milton), 1870-1955</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="ives" xlink:arcrole="org:hasMember">
+                <relationEntry>Ives, Herbert E. (Herbert Eugene), 1882-1953</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="levick" xlink:arcrole="org:hasMember">
+                <relationEntry>Levick, Joseph N.T. (Joseph Nepoleon Tricot), 1828-1908</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="milbank" xlink:arcrole="org:hasMember">
+                <relationEntry>Milbank, Samuel R., 1906-1985</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="miles" xlink:arcrole="org:hasMember">
+                <relationEntry>Miles, George C., 1904-1975</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="norweb_jr" xlink:arcrole="org:hasMember">
+                <relationEntry>Norweb, R. Henry, 1918-1995</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="parish" xlink:arcrole="org:hasMember">
+                <relationEntry>Parish, Daniel, 1842-1914</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="pell" xlink:arcrole="org:hasMember">
+                <relationEntry>Pell, Stephen H. P., 1874-1950</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="beldon" xlink:arcrole="org:hasMember">
+                <relationEntry>Belden, Bauman L. (Bauman Lowe), 1862-1931</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="bullowa" xlink:arcrole="org:hasMember">
+                <relationEntry>Bullowa, David M. (David Marks), 1912-1953</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="drowne" xlink:arcrole="org:hasMember">
+                <relationEntry>Drowne, Henry Russell, 1860-1934</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="erlanger" xlink:arcrole="org:hasMember">
+                <relationEntry>Erlanger, Herbert J. (Herbert Justin), 1906-1988</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="falls" xlink:arcrole="org:hasMember">
+                <relationEntry>Falls, DeWitt Clinton, 1864-1937</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="gillingham" xlink:arcrole="org:hasMember">
+                <relationEntry>Gillingham, Harrold Edgar, 1864-1954</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="grunthal" xlink:arcrole="org:hasMember">
+                <relationEntry>Grunthal, Henry, 1905-2001</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="fecht" xlink:arcrole="org:hasMember">
+                <relationEntry>Fecht, Arthur J., d. 1945</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="hamilton" xlink:arcrole="org:hasMember">
+                <relationEntry>Hamilton, George L., d. 1950</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="adams_john_w" xlink:arcrole="org:hasMember">
+                <relationEntry>Adams, John W. (John Weston), 1936- , collector</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="barnsley" xlink:arcrole="org:hasMember">
+                <relationEntry>Barnsley, Edward R. (Edward Roberts), b. 1906</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="douglas" xlink:arcrole="org:hasMember">
+                <relationEntry>Douglas, Damon G., d. 1974</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="hersh" xlink:arcrole="org:hasMember">
+                <relationEntry>Hersh, Charles Austin, 1923-1999</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="kelley" xlink:arcrole="org:hasMember">
+                <relationEntry>Kelley, Robert F., 1894-1976</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="kunz" xlink:arcrole="org:hasMember">
+                <relationEntry>Kunz, George F. (George Frederick), 1856-1932</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="lawrence" xlink:arcrole="org:hasMember">
+                <relationEntry>Lawrence, Richard Hoe, 1858-1936</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="lee" xlink:arcrole="org:hasMember">
+                <relationEntry>Lee, Kenneth W., 1907-1980</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="low" xlink:arcrole="org:hasMember">
+                <relationEntry>Low, Lyman Haynes, 1844-1924</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="mickley" xlink:arcrole="org:hasMember">
+                <relationEntry>Mickley, Joseph J. (Joseph Jacob), 1799-1878</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="nesmith" xlink:arcrole="org:hasMember">
+                <relationEntry>Nesmith, Robert I., 1891-1972</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="picker" xlink:arcrole="org:hasMember">
+                <relationEntry>Picker, Richard, 1915-1983</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="poillon" xlink:arcrole="org:hasMember">
+                <relationEntry>Poillon, William, 1844-1918</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="robertson" xlink:arcrole="org:linkedTo">
+                <relationEntry>Robertson, Robert, 1869-1937</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="robinson" xlink:arcrole="org:hasMember">
+                <relationEntry>Robinson, Edwin P., d. 1937</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="rogers" xlink:arcrole="org:hasMember">
+                <relationEntry>Rogers, H. Elliot, d. 1996</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="snow" xlink:arcrole="org:hasMember">
+                <relationEntry>Snow, Warren B., b. 1919?</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="solomon" xlink:arcrole="org:hasMember">
+                <relationEntry>Solomon, Raphael E., 1992</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="storer" xlink:arcrole="org:hasMember">
+                <relationEntry>Storer, Malcolm, 1862-1935</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="west" xlink:arcrole="org:hasMember">
+                <relationEntry>West, Louis C. (Louis Caulton), 1882-1972</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="williamson" xlink:arcrole="org:hasMember">
+                <relationEntry>Williamson, Raymond H., 1907-1997</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="wood_howland" xlink:arcrole="org:hasMember">
+                <relationEntry>Wood, Howland, 1877-1938</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="zabriskie" xlink:arcrole="org:hasMember">
+                <relationEntry>Zabriskie, Andrew C. (Andrew Christian), 1853-1916</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="zerbe" xlink:arcrole="org:hasMember">
+                <relationEntry>Zerbe, Farran, 1871-1949</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="sage" xlink:arcrole="org:hasMember">
+                <relationEntry>Sage, Augustus B., 1842-1874</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="saltus" xlink:arcrole="org:hasMember">
+                <relationEntry>Saltus, J. Sanford, 1853-1922</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="thompson" xlink:arcrole="org:hasMember">
+                <relationEntry>Thompson, Margaret E., 1911-1992</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="noe" xlink:arcrole="org:hasMember">
+                <relationEntry>Noe, Sydney P. (Sydney Philip), 1885-1969</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:href="reed" xlink:arcrole="org:hasMember" xlink:role="foaf:Person">
+                <relationEntry>Reed, Alfred Zantzinger, 1875-1949</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:href="reilly" xlink:arcrole="org:hasMember" xlink:role="foaf:Person">
+                <relationEntry>Reilly, John, 1876-1931</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:href="lovejoy" xlink:arcrole="org:hasMember" xlink:role="foaf:Person">
+                <relationEntry>Lovejoy, Allen F. (Allen Fraser), 1919-1997</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:href="newell" xlink:role="" xlink:arcrole="org:hasMember">
+                <relationEntry>Newell, Edward Theodore, 1886-1941</relationEntry>
+            </cpfRelation>
+        </relations>
+        <identity>
+            <entityId localType="skos:exactMatch">http://viaf.org/viaf/126085739</entityId>
+            <entityId localType="skos:exactMatch">http://d-nb.info/gnd/35309-7</entityId>
+            <entityId localType="skos:exactMatch">http://www.idref.fr/02646294X</entityId>
+            <entityId localType="skos:exactMatch">http://catalogue.bnf.fr/ark:/12148/cb118706839</entityId>
+            <entityType>corporateBody</entityType>
+            <nameEntry>
+                <part>American Numismatic Society</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        </identity>
+        <description>
+            <biogHist>
+                <p>Howland Wood (1877-1938) was born in New Bedford, Massachusetts, and graduated from Brown University in 1900. He became a member of the ANS in 1909. By 1913 he had been appointed
 					Curator, remaining in this position until his death in 1938. At that time, the Society only maintained a single curator, with two assistants. Despite the limited size of the staff,
 					during Wood's tenure the Society's collections increased significantly, from 50,000 to almost 200,000 specimens. In addition to his curatorial duties, Wood also served as editor of
 					the American Journal of Numismatics from 1910 to 1920. In 1920, Wood became only the third recipient of the Society's Archer M. Huntington Medal Award. Outside of the ANS, Wood
 					also served as secretary to the American Numismatic Association from 1905 to 1909 and then as governor and chairman of the ANA's board from 1909 to 1912. After Wood's death, Edward
 					T. Newell (ANS President, 1916-1941) eulogized Wood as "the ideal Curator," noting that "Howland Wood was one of those rare geniuses who combined an inherited urge
 					to collect, an insatiable curiosity as to the 'why' and the 'wherefore,' and an orderly mind which could not brook obvious gaps or disorderly arrangement."</p>
-        <p>The leading Islamic numismatist of his generation, George C. Miles (1904-1975) first came to the ANS in October 1937 as Research Assistant in Muhammadan Numismatics. Earlier that
+                <p>The leading Islamic numismatist of his generation, George C. Miles (1904-1975) first came to the ANS in October 1937 as Research Assistant in Muhammadan Numismatics. Earlier that
 					year, Miles had earned his doctorate in Oriental languages from Princeton University, where he had also earned his A.B. in 1926 and M.A. in 1930. From 1937 to 1938, Miles studied
 					the Society's Islamic coin collection, verifying earlier work by Howland Wood and publishing his thesis as the magisterial Numismatic History of Rayy , which was issued in 1938 by
 					the ANS as the second monograph in its Numismatic Studies series. After teaching at Princeton University and serving in the U.S. Navy during World War II, Miles returned to the ANS
@@ -680,7 +679,7 @@
 					Philosophical Society, the Board of Scholars of Dumbarton Oaks, the Bureau of the International Numismatic Commission, and the Executive Committee of the Encyclopedia of Islam. In
 					addition, Miles held honorary membership in the Société Française de Numismatique, the Société Belge de Numismatique, the Royal Numismatic Society, the Institut d'Egypte, and the
 					Academies of Cordoba and Madrid. George Miles died on October 15, 1975, at the age of 71.</p>
-        <p>Henry Grunthal (1905-2001) of the Riverdale section of the Bronx in New York City was born in Cologne, Germany, and was the son of numismatist and medal publisher Hugo Grunthal. He
+                <p>Henry Grunthal (1905-2001) of the Riverdale section of the Bronx in New York City was born in Cologne, Germany, and was the son of numismatist and medal publisher Hugo Grunthal. He
 					joined the American Numismatic Society (ANS) staff in 1953 as assistant to the chief curator and moved up to the position of curator of European and modern coins, a position he
 					held until his retirement in 1973. His main activities at the ANS were building, labeling, and organizing the collections and assisting members with the identification and
 					appraisal of coins, paper money, and medals. He was educated at the Friedrich Wilhelm University in Berlin, the University of Jena, and at the Sorbonne in Paris, where he studied
@@ -689,7 +688,7 @@
 					Numismatic Fine Arts. He wrote several articles for publications such as The Numismatist and Coin World and co-authored two books, Carolingian Coinage and The Coinage of Peru. He
 					was awarded the American Numismatic Association Medal of Merit in 1970. Grunthal also received an ANS medal marking fifty years of continuous membership in 1979. He had been a
 					member of the American Numismatic Association since 1929 and was active in both the Bronx Coin Club and the New York Numismatic Club, both of which he served as president.</p>
-        <p>Michael L. Bates was born in Louisville, Kentucky, in 1941. He obtained bachelor (1963) and doctorate (1975) degrees from the University of Chicago, with his education and research
+                <p>Michael L. Bates was born in Louisville, Kentucky, in 1941. He obtained bachelor (1963) and doctorate (1975) degrees from the University of Chicago, with his education and research
 					culminating in his dissertation, Yemen and Its Conquest by the Ayyubids of Egypt (A.D. 1137-1202). He served as assistant curator (1970-1972), associate curator (1972-1977), and
 					curator of Islamic coins (1977-2004), with his thirty-four year term of service as an ANS curator being the longest in the Society’s history. A major undertaking of Bates’s early
 					years at ANS was the sorting and attributing of what were believed to be nearly 2,000 thirteenth-century Ayyubid silver dirhams, a hoard the ANS purchased in 1971, with nearly a
@@ -697,19 +696,19 @@
 					the Arts fellowship to travel to England and France to further study them. In 1978, 1980, and 1982-1983, he served as a coin expert at the American excavations at Fustat, the
 					oldest Islamic section of Cairo. He was first elected a member of the International Numismatic Commission (INC) in 1979, and in addition to publishing on a variety of topics, Bates
 					also organized educational seminars at ANS on topics such as collecting Islamic coins and the Arab-Sasanian coinage of Iran.</p>
-        <p>Jeremiah Brady (b. 1940), originally of Fall River, Massachusetts, obtained a bachelor’s degree from Harvard College (1961), an M.Litt. from Cambridge University (1963), and a Ph.D.
+                <p>Jeremiah Brady (b. 1940), originally of Fall River, Massachusetts, obtained a bachelor’s degree from Harvard College (1961), an M.Litt. from Cambridge University (1963), and a Ph.D.
 					in medieval history from Harvard (1972). He served as assistant (1970) then associate (1972) curator of medieval coins at ANS until 1980, when he left to take a position with
 					Sotheby Parke-Bernet. During his years with the ANS, Brady was responsible for numerous projects in addition to his normal curatorial work, including the mounting the exhibit
 					“Coinage of the Americas” for the 1973 International Numismatic Congress, coordinating the commissioning of the 1977 ANS members medal, and authoring Sylloge of Coins of the
 					British Isles.</p>
-        <p>Nancy M. Waggoner (1924-1989) graduated from Smith College (B.A., 1946) before attending Columbia University (M.A., 1963; Ph.D., 1968), where she studied under Margaret Thompson in
+                <p>Nancy M. Waggoner (1924-1989) graduated from Smith College (B.A., 1946) before attending Columbia University (M.A., 1963; Ph.D., 1968), where she studied under Margaret Thompson in
 					the first seminar in numismatics, which ultimately resulted in her dissertation on the mint of Alexander the Great at Babylon. She served ANS as assistant curator (1968) and
 					curator (1976) of Greek Coins and took over the Columbia seminar when Margaret Thompson retired in 1979. She remained at ANS until her retirement in 1988 and died the following
 					year. After her death, the ANS held a symposium in her honor, which resulted in the publication in 1991 of Mnemata: Papers in Memory of Nancy M. Waggoner. Her two major
 					publications were: Archaic Greek Silver Coinage. The “Asyut” Hoard, which she co-authored with Martin Price, and Early Greek Coins in the Collection of Jonathan P. Rosen, a volume
 					in the Society’s ACNAC (American Coins in North American Collections) series. In addition, Waggoner supervised the publication of three volumes of the Society’s contribution to the
 					Sylloge Nummorum Graecorum.</p>
-        <p>Alan M. Stahl (b. 1947) of Ossining, N.Y., was curator of medieval coins and of medals at the American Numismatic Society from 1980 to 2000. Born in Providence, Rhode Island, Stahl
+                <p>Alan M. Stahl (b. 1947) of Ossining, N.Y., was curator of medieval coins and of medals at the American Numismatic Society from 1980 to 2000. Born in Providence, Rhode Island, Stahl
 					graduated from the University of California at Berkeley (B.A., 1968) and the University of Pennsylvania (M.A., 1973; Ph.D., 1977). His dissertation became the basis of the book The
 					Merovingian Coinage of the Region of Metz (1982), research on which began as a student in the ANS Summer Graduate Seminar (1975). Much of his scholarly work during his time at ANS
 					was concerned with coinage of the mint of medieval Venice, which resulted in the monographs The Venetian Tornesello: A Medieval Colonial Coinage (1985) and Zecca: The Mint of
@@ -719,25 +718,25 @@
 					coordinating the selection of recipients for the Society’s J. Sanford Saltus Medal Award and helped to relaunch the Society’s moribund medallic program in the mid-1980s. After
 					leaving ANS, he has served as a visiting professor at the University of Michigan (2000-2001), Rice University (2001-2002), and the University of Notre Dame (2002), and since 2004
 					he has been curator of numismatics at Princeton University.</p>
-        <p>Carmen Arnold-Biucchi joined the ANS staff as a Greek and Roman curatorial assistant in 1982 before becoming assistant curator of ancient coins (1984-1989) and the first Margaret
+                <p>Carmen Arnold-Biucchi joined the ANS staff as a Greek and Roman curatorial assistant in 1982 before becoming assistant curator of ancient coins (1984-1989) and the first Margaret
 					Thompson Curator of Greek Coins (1989-2000). A graduate of the University of Fribourg (M.A., 1971; Ph.D., 1976), she was employed by the Lexicon Iconographicum Mythologiae
 					Classicae (LIMC) in Basle (1974-1977) and at Rutgers University in New Jersey (1979-1981) before her employment at ANS, which followed her attendance of the ANS Graduate Summer
 					Seminar in 1981. She currently holds the position of Damarete Curator of Ancient Coins, Division of Asian and Mediterranean Art, Harvard Art Museums.</p>
-        <p>Rose Chan Houston of Bronxville, N.Y., obtained her B.A. from Marion College, Indianapolis, in 1959, before attending Fordham University, obtaining an M.A. in Modern European and
+                <p>Rose Chan Houston of Bronxville, N.Y., obtained her B.A. from Marion College, Indianapolis, in 1959, before attending Fordham University, obtaining an M.A. in Modern European and
 					American History in 1961 and a Ph.D. in Modern Diplomatic History in 1971. She joined the ANS in 1971 where she served as assistant (1971-1973) and associate (1973-1988) curator of
 					Far Eastern coins. In the summer of 1988 the Far Eastern curatorship was eliminated because of financial constraints. Prior to her time at ANS, Chan had been a librarian at Fordham
 					University (1961-1966) and an instructor of history at Yeshiva University (1968-1969). In later years she again worked as a librarian at the School of the Holy Child in Rye, New
 					York. Her articles on Chinese coins and other topics appeared in such publications as Museum Notes and International Bank Note Society Journal.</p>
-        <p>William L. Bischoff (1938-2010) was assistant (January 1987-October 1988) and associate (October 1988-May 1989) curator of modern coins at the American Numismatic Society. He was
+                <p>William L. Bischoff (1938-2010) was assistant (January 1987-October 1988) and associate (October 1988-May 1989) curator of modern coins at the American Numismatic Society. He was
 					born in Dallas, Texas, and grew up in Fresno, California. He attended Stanford (B.A., 1960) and Harvard (Ph.D., 1970) Universities and then went on to hold an assistant
 					professorship at the Universidad de las Americas in Puebla, Mexico (1970-1972), work as director of a prison education program for the Law Enforcement Assistance Administration and
 					the University of Massachusetts in Boston (1973-1974), and teach as an associate professor of Bard College at Simon’s Rock in Great Barrington, Massachusetts. After leaving the
 					ANS, he became curator of numismatics at the Newark Museum (1991-1997).</p>
-        <p>William E. Metcalf (b. 1947) served the American Numismatic Society as assistant (1973-1975), associate (1975-1978), and curator (1978-2000) of Roman and Byzantine coins. In
+                <p>William E. Metcalf (b. 1947) served the American Numismatic Society as assistant (1973-1975), associate (1975-1978), and curator (1978-2000) of Roman and Byzantine coins. In
 					addition, he held the positions of deputy chief curator (1978 -1979) and chief curator (1979-2000). Majoring in classical studies, he received his bachelor’s (1969), master’s
 					(1970), and doctorate degrees (1973) at the University of Michigan. After leaving the ANS, Metcalf became an associate professor at New York University (2000-2002) and then
 					professor of classics and curator of coins and medals at Yale University Art Gallery (2002-).</p>
-      </biogHist>
-    </description>
-  </cpfDescription>
+            </biogHist>
+        </description>
+    </cpfDescription>
 </eac-cpf>

@@ -1,169 +1,173 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>zerbe</recordId>
-    <maintenanceStatus>revised</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-      <agencyCode>US-nnan</agencyCode>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>derived</eventType>
-        <eventDateTime standardDateTime="2014-06-12T14:17:15-04:00">Thu, 12 Jun 2014 14:17:15 -0400</eventDateTime>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-12T18:33:03.284Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T19:27:24.211Z"/>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Added context.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:49.937Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:52.291-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <identity>
-      <entityType>person</entityType>
-      <nameEntry>
-        <part>Zerbe, Farran, 1871-1949</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <existDates localType="xeac:life">
-        <dateRange>
-          <fromDate standardDate="1871">1871</fromDate>
-          <toDate standardDate="1949">1949</toDate>
-        </dateRange>
-      </existDates>
-      <biogHist>
-        <chronList>
-          <chronItem>
-            <event>Born</event>
-            <date standardDate="1871">1871</date>
-            <placeEntry vocabularySource="http://www.geonames.org/5216514/">Tyrone (Pa.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Head numismatist at U.S. Expositions</event>
-            <date standardDate="1904">1904</date>
-            <placeEntry vocabularySource="http://www.geonames.org/4407066/">St Louis (Mo.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Head numismatist at U.S. Expositions</event>
-            <date standardDate="1905">1905</date>
-            <placeEntry vocabularySource="http://www.geonames.org/5746545/">Portland (Oreg.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Owner of The Numismatist</event>
-            <dateRange>
-              <fromDate standardDate="1908">1908</fromDate>
-              <toDate standardDate="1910">1910</toDate>
-            </dateRange>
-          </chronItem>
-          <chronItem>
-            <event>Head numismatist at U.S. Expositions</event>
-            <dateRange>
-              <fromDate standardDate="1915">1915</fromDate>
-              <toDate standardDate="1916">1916</toDate>
-            </dateRange>
-            <placeEntry vocabularySource="http://www.geonames.org/5391959/">San Francisco (Calif.)</placeEntry>
-          </chronItem>
-        </chronList>
-        <abstract>Farran Zerbe (1871-1949) was an internationally renowned numismatic lecturer, writer, and collector whose holdings, which included over 50,000 coins and an extensive library, were sold to Chase National Bank in 1928 where it formed the basis of a money museum, of which Zerbe served as curator until 1939.</abstract>
-        <p>Farran Zerbe (1871-1949) was an internationally renowned numismatic lecturer, writer, and collector whose holdings, which included over 50,000 coins and an extensive library, were sold to Chase National Bank in 1928 where it formed the basis of a money museum, of which Zerbe served as curator until 1939. Born in Tyrone, Pennsylvania, his business and personal life after 1900 was devoted to numismatics. He was a head numismatist at major U.S. Expositions held in St. Louis (1904), Portland (1905), and San Francisco (1915-16) and was a member of the United States Assay Commission from 1909 to 1923. He was the owner of the journal The Numismatist from 1908 until 1910 when he sold it to the American Numismatic Association (ANA). He also served as ANA president from 1908 to 1910. Zerbe was an associate member (1923), fellow (1928), and patron (1947) of the American Numismatic Society.</p>
-      </biogHist>
-      <occupation>
-        <descriptiveNote>
-          <p>Curator of the collection that would become the Money Museum at Chase National Bank.</p>
-        </descriptiveNote>
-        <placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry>
-        <dateRange>
-          <fromDate standardDate="1928">1928</fromDate>
-          <toDate standardDate="1939">1939</toDate>
-        </dateRange>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025633">curators</term>
-      </occupation>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
-      </occupation>
-    </description>
-    <relations>
-      <cpfRelation xlink:type="simple" xlink:href="newell" xlink:arcrole="xeac:correspondedWith" xlink:role="foaf:Person">
-        <relationEntry>Newell, Edward Theodore, 1886-1941</relationEntry>
-      </cpfRelation>
-      <resourceRelation xlink:type="simple" xlink:href="http://farm7.static.flickr.com/6026/5934178664_c79412eac5_m.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
-        <relationEntry>portrait</relationEntry>
-      </resourceRelation>
-      <cpfRelation xlink:type="simple" xlink:href="chase_manhattan_bank_money_museum" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
-        <relationEntry>Chase Manhattan Bank Money Museum</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
-        <dateRange>
-          <fromDate standardDate="1923">1923</fromDate>
-          <toDate standardDate="1949">1949</toDate>
-        </dateRange>
-        <relationEntry>American Numismatic Society</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:arcrole="org:memberOf" xlink:role="org:Organization" xlink:href="http://viaf.org/viaf/134298119">
-        <dateRange>
-          <fromDate standardDate="1909">1909</fromDate>
-          <toDate standardDate="1923">1923</toDate>
-        </dateRange>
-        <relationEntry>United States Assay Commission</relationEntry>
-      </cpfRelation>
-    </relations>
-  </cpfDescription>
+    <control>
+        <recordId>zerbe</recordId>
+        <maintenanceStatus>revised</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2014-06-12T14:17:15-04:00">Thu, 12 Jun 2014 14:17:15 -0400</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-12T18:33:03.284Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T19:27:24.211Z"/>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Added context.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:49.937Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:52.291-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        <maintenanceEvent>
+					<eventType>revised</eventType>
+					<eventDateTime standardDateTime="2018-06-11T14:24:41.95-05:00"/>
+					<agentType>human</agentType>
+					<agent>Inserted URIs</agent>
+				</maintenanceEvent></maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Zerbe, Farran, 1871-1949</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        <entityId localType="skos:exactMatch">http://n2t.net/ark:/99166/w6zc8d60</entityId><entityId localType="skos:exactMatch">http://www.wikidata.org/entity/Q5436227</entityId><entityId localType="skos:exactMatch">http://dbpedia.org/resource/Farran_Zerbe</entityId></identity>
+        <description>
+            <existDates localType="xeac:life">
+                <dateRange>
+                    <fromDate standardDate="1871">1871</fromDate>
+                    <toDate standardDate="1949">1949</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <chronList>
+                    <chronItem>
+                        <event>Born</event>
+                        <date standardDate="1871">1871</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/5216514/">Tyrone (Pa.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Head numismatist at U.S. Expositions</event>
+                        <date standardDate="1904">1904</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/4407066/">St Louis (Mo.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Head numismatist at U.S. Expositions</event>
+                        <date standardDate="1905">1905</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/5746545/">Portland (Oreg.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Owner of The Numismatist</event>
+                        <dateRange>
+                            <fromDate standardDate="1908">1908</fromDate>
+                            <toDate standardDate="1910">1910</toDate>
+                        </dateRange>
+                    </chronItem>
+                    <chronItem>
+                        <event>Head numismatist at U.S. Expositions</event>
+                        <dateRange>
+                            <fromDate standardDate="1915">1915</fromDate>
+                            <toDate standardDate="1916">1916</toDate>
+                        </dateRange>
+                        <placeEntry vocabularySource="http://www.geonames.org/5391959/">San Francisco (Calif.)</placeEntry>
+                    </chronItem>
+                </chronList>
+                <abstract>Farran Zerbe (1871-1949) was an internationally renowned numismatic lecturer, writer, and collector whose holdings, which included over 50,000 coins and an extensive library, were sold to Chase National Bank in 1928 where it formed the basis of a money museum, of which Zerbe served as curator until 1939.</abstract>
+                <p>Farran Zerbe (1871-1949) was an internationally renowned numismatic lecturer, writer, and collector whose holdings, which included over 50,000 coins and an extensive library, were sold to Chase National Bank in 1928 where it formed the basis of a money museum, of which Zerbe served as curator until 1939. Born in Tyrone, Pennsylvania, his business and personal life after 1900 was devoted to numismatics. He was a head numismatist at major U.S. Expositions held in St. Louis (1904), Portland (1905), and San Francisco (1915-16) and was a member of the United States Assay Commission from 1909 to 1923. He was the owner of the journal The Numismatist from 1908 until 1910 when he sold it to the American Numismatic Association (ANA). He also served as ANA president from 1908 to 1910. Zerbe was an associate member (1923), fellow (1928), and patron (1947) of the American Numismatic Society.</p>
+            </biogHist>
+            <occupation>
+                <descriptiveNote>
+                    <p>Curator of the collection that would become the Money Museum at Chase National Bank.</p>
+                </descriptiveNote>
+                <placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry>
+                <dateRange>
+                    <fromDate standardDate="1928">1928</fromDate>
+                    <toDate standardDate="1939">1939</toDate>
+                </dateRange>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025633">curators</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
+            </occupation>
+        </description>
+        <relations>
+            <cpfRelation xlink:type="simple" xlink:href="newell" xlink:arcrole="xeac:correspondedWith" xlink:role="foaf:Person">
+                <relationEntry>Newell, Edward Theodore, 1886-1941</relationEntry>
+            </cpfRelation>
+            <resourceRelation xlink:type="simple" xlink:href="http://farm7.static.flickr.com/6026/5934178664_c79412eac5_m.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
+                <relationEntry>portrait</relationEntry>
+            </resourceRelation>
+            <cpfRelation xlink:type="simple" xlink:href="chase_manhattan_bank_money_museum" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+                <relationEntry>Chase Manhattan Bank Money Museum</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+                <dateRange>
+                    <fromDate standardDate="1923">1923</fromDate>
+                    <toDate standardDate="1949">1949</toDate>
+                </dateRange>
+                <relationEntry>American Numismatic Society</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:arcrole="org:memberOf" xlink:role="org:Organization" xlink:href="http://viaf.org/viaf/134298119">
+                <dateRange>
+                    <fromDate standardDate="1909">1909</fromDate>
+                    <toDate standardDate="1923">1923</toDate>
+                </dateRange>
+                <relationEntry>United States Assay Commission</relationEntry>
+            </cpfRelation>
+        </relations>
+    </cpfDescription>
 </eac-cpf>

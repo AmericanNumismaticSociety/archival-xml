@@ -1,165 +1,169 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>pollock</recordId>
-    <maintenanceStatus>revised</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-      <agencyCode>US-nnan</agencyCode>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>derived</eventType>
-        <eventDateTime standardDateTime="2014-06-20T13:46:39.397Z">Thu, 12 Jun 2014 14:17:11 -0400</eventDateTime>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T13:56:08.402Z"/>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:49.53Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:51.885-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <identity>
-      <entityId localType="skos:exactMatch">http://viaf.org/viaf/2326932</entityId>
-      <entityId localType="skos:exactMatch">http://dbpedia.org/resource/James_Pollock</entityId>
-      <entityType>person</entityType>
-      <nameEntry>
-        <part>Pollock, James, 1810-1890</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <existDates localType="xeac:life">
-        <dateRange>
-          <fromDate standardDate="1810-09-11">September 11, 1810</fromDate>
-          <toDate standardDate="1890-04-19">April 19, 1890</toDate>
-        </dateRange>
-      </existDates>
-      <biogHist>
-        <chronList>
-          <chronItem>
-            <event>Born</event>
-            <date standardDate="1810-09-11">September 11, 1810</date>
-            <placeEntry vocabularySource="http://www.geonames.org/5201470/">Milton (Pa.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Graduated from Princeton College</event>
-            <date standardDate="1831">1831</date>
-            <placeEntry vocabularySource="http://www.geonames.org/5102922/">Princeton (N.J.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Director of the U.S. Mint</event>
-            <dateRange>
-              <fromDate standardDate="1861">1861</fromDate>
-              <toDate standardDate="1866">1866</toDate>
-            </dateRange>
-            <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Director of the U.S. Mint</event>
-            <dateRange>
-              <fromDate standardDate="1869">1869</fromDate>
-              <toDate standardDate="1873">1873</toDate>
-            </dateRange>
-            <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
-          </chronItem>
-        </chronList>
-        <abstract>James Pollock (1810-1890) was a U.S. Congressman, Governor of Pennsylvania, and Director of the U.S. Mint in Philadelphia.</abstract>
-        <p>James Pollock (1810-1890) graduated from Princeton College in 1831 and after studying law began his practice in Milton, Pennsylvania, in 1833. Following several judicial posts he was elected to the U.S. House of Representatives in 1844, where he served three successive terms. As a freshman congressman, Pollock boarded in the same rooming house as another new congressman, Abraham Lincoln, and they soon developed a mutual respect and longstanding friendship. Pollock was elected Governor of Pennsylvania, and served in that position from 1855 to 1858. He was Director of the U.S. Mint in Philadelphia from 1861 to 1866 and again from 1869 to 1873. Pollock was instructed by the Secretary of the Treasury Salmon Chase in a letter to come up with suggestions for including "the trust of our people in God" in a motto for America's coins. Pollock proposed a number of mottos, including "Our Trust Is In God" and "God Our Trust," which Chase ultimately revised to "In God We Trust," which appears on all U.S. coins and paper money to this day.</p>
-      </biogHist>
-      <occupation>
-        <dateRange>
-          <fromDate standardDate="1844">1844</fromDate>
-          <toDate standardDate="1850">1850</toDate>
-        </dateRange>
-        <term vocabularySource="http://vocab.getty.edu/aat/300136445">members of Congress</term>
-      </occupation>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025625">judges</term>
-      </occupation>
-      <occupation>
-        <descriptiveNote>
-          <p>Elected governor of Pennsyvlania.</p>
-        </descriptiveNote>
-        <dateRange>
-          <fromDate standardDate="1855">1855</fromDate>
-          <toDate standardDate="1858">1858</toDate>
-        </dateRange>
-        <placeEntry vocabularySource="http://www.geonames.org/5192726/">Harrisburg (Pa.)</placeEntry>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025465">governors</term>
-      </occupation>
-      <occupation>
-        <date standardDate="1833">1833</date>
-        <placeEntry vocabularySource="http://www.geonames.org/5201470/">Milton (Pa.)</placeEntry>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025627">lawyers</term>
-      </occupation>
-    </description>
-    <relations>
-      <cpfRelation xlink:type="simple" xlink:arcrole="rel:friendOf" xlink:href="http://viaf.org/viaf/76349832" xlink:role="foaf:Person">
-        <relationEntry>Lincoln, Abraham, 1809-1865</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/130279624" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
-        <dateSet>
-          <dateRange>
-            <fromDate standardDate="1861">1861</fromDate>
-            <toDate standardDate="1866">1866</toDate>
-          </dateRange>
-          <dateRange>
-            <fromDate standardDate="1869">1869</fromDate>
-            <toDate standardDate="1873">1873</toDate>
-          </dateRange>
-        </dateSet>
-        <relationEntry>United States Mint</relationEntry>
-        <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
-      </cpfRelation>
-    </relations>
-  </cpfDescription>
+    <control>
+        <recordId>pollock</recordId>
+        <maintenanceStatus>revised</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2014-06-20T13:46:39.397Z">Thu, 12 Jun 2014 14:17:11 -0400</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T13:56:08.402Z"/>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:49.53Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:51.885-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        <maintenanceEvent>
+					<eventType>revised</eventType>
+					<eventDateTime standardDateTime="2018-06-11T13:45:44.618-05:00"/>
+					<agentType>human</agentType>
+					<agent>Inserted URIs</agent>
+				</maintenanceEvent></maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityId localType="skos:exactMatch">http://viaf.org/viaf/2326932</entityId>
+            <entityId localType="skos:exactMatch">http://dbpedia.org/resource/James_Pollock</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Pollock, James, 1810-1890</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        <entityId localType="skos:exactMatch">http://www.wikidata.org/entity/Q373144</entityId><entityId localType="skos:exactMatch">http://id.loc.gov/authorities/names/nr91038686</entityId><entityId localType="skos:exactMatch">http://n2t.net/ark:/99166/w6v70mk2</entityId><entityId localType="skos:exactMatch">https://catalog.archives.gov/id/10575765</entityId></identity>
+        <description>
+            <existDates localType="xeac:life">
+                <dateRange>
+                    <fromDate standardDate="1810-09-11">September 11, 1810</fromDate>
+                    <toDate standardDate="1890-04-19">April 19, 1890</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <chronList>
+                    <chronItem>
+                        <event>Born</event>
+                        <date standardDate="1810-09-11">September 11, 1810</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/5201470/">Milton (Pa.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Graduated from Princeton College</event>
+                        <date standardDate="1831">1831</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/5102922/">Princeton (N.J.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Director of the U.S. Mint</event>
+                        <dateRange>
+                            <fromDate standardDate="1861">1861</fromDate>
+                            <toDate standardDate="1866">1866</toDate>
+                        </dateRange>
+                        <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Director of the U.S. Mint</event>
+                        <dateRange>
+                            <fromDate standardDate="1869">1869</fromDate>
+                            <toDate standardDate="1873">1873</toDate>
+                        </dateRange>
+                        <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
+                    </chronItem>
+                </chronList>
+                <abstract>James Pollock (1810-1890) was a U.S. Congressman, Governor of Pennsylvania, and Director of the U.S. Mint in Philadelphia.</abstract>
+                <p>James Pollock (1810-1890) graduated from Princeton College in 1831 and after studying law began his practice in Milton, Pennsylvania, in 1833. Following several judicial posts he was elected to the U.S. House of Representatives in 1844, where he served three successive terms. As a freshman congressman, Pollock boarded in the same rooming house as another new congressman, Abraham Lincoln, and they soon developed a mutual respect and longstanding friendship. Pollock was elected Governor of Pennsylvania, and served in that position from 1855 to 1858. He was Director of the U.S. Mint in Philadelphia from 1861 to 1866 and again from 1869 to 1873. Pollock was instructed by the Secretary of the Treasury Salmon Chase in a letter to come up with suggestions for including "the trust of our people in God" in a motto for America's coins. Pollock proposed a number of mottos, including "Our Trust Is In God" and "God Our Trust," which Chase ultimately revised to "In God We Trust," which appears on all U.S. coins and paper money to this day.</p>
+            </biogHist>
+            <occupation>
+                <dateRange>
+                    <fromDate standardDate="1844">1844</fromDate>
+                    <toDate standardDate="1850">1850</toDate>
+                </dateRange>
+                <term vocabularySource="http://vocab.getty.edu/aat/300136445">members of Congress</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025625">judges</term>
+            </occupation>
+            <occupation>
+                <descriptiveNote>
+                    <p>Elected governor of Pennsyvlania.</p>
+                </descriptiveNote>
+                <dateRange>
+                    <fromDate standardDate="1855">1855</fromDate>
+                    <toDate standardDate="1858">1858</toDate>
+                </dateRange>
+                <placeEntry vocabularySource="http://www.geonames.org/5192726/">Harrisburg (Pa.)</placeEntry>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025465">governors</term>
+            </occupation>
+            <occupation>
+                <date standardDate="1833">1833</date>
+                <placeEntry vocabularySource="http://www.geonames.org/5201470/">Milton (Pa.)</placeEntry>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025627">lawyers</term>
+            </occupation>
+        </description>
+        <relations>
+            <cpfRelation xlink:type="simple" xlink:arcrole="rel:friendOf" xlink:href="http://viaf.org/viaf/76349832" xlink:role="foaf:Person">
+                <relationEntry>Lincoln, Abraham, 1809-1865</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/130279624" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+                <dateSet>
+                    <dateRange>
+                        <fromDate standardDate="1861">1861</fromDate>
+                        <toDate standardDate="1866">1866</toDate>
+                    </dateRange>
+                    <dateRange>
+                        <fromDate standardDate="1869">1869</fromDate>
+                        <toDate standardDate="1873">1873</toDate>
+                    </dateRange>
+                </dateSet>
+                <relationEntry>United States Mint</relationEntry>
+                <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
+            </cpfRelation>
+        </relations>
+    </cpfDescription>
 </eac-cpf>

@@ -1,90 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>eden</recordId>
-    <maintenanceStatus>revised</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-      <agencyCode>US-nnan</agencyCode>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>derived</eventType>
-        <eventDateTime standardDateTime="2014-06-12T14:17:05-04:00">Thu, 12 Jun 2014 14:17:05 -0400</eventDateTime>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T16:04:17.938Z"/>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:50.176Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:52.528-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <identity>
-      <entityType>person</entityType>
-      <nameEntry>
-        <part>Eden, Paul R. (Paul Randell), b. 1923</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <existDates localType="xeac:life">
-        <dateRange>
-          <fromDate standardDate="1923">1923</fromDate>
-          <toDate>-</toDate>
-        </dateRange>
-      </existDates>
-      <biogHist>
-        <abstract>Paul R. Eden (b. 1923) of Madison Heights, Virginia, specialized in coins of the world.</abstract>
-        <p>Paul R. Eden (b. 1923) of Madison Heights, Virginia, specialized in coins of the world. Although born in Virginia, Eden enlisted in the Canadian Army in 1940. He was stationed in Europe and Africa during World War II and was wounded in the invasion of Sicily in 1943. He married Doris Elizabeth Harper of the British Army’s Women’s Auxiliary Territorial Service in 1945. Having been trained in telegraphy during his overseas service, he was employed by the Chesapeake &amp; Ohio Railroad in Virginia after leaving the Canadian Army in 1947. He retired from the railroad in 1962, having been afflicted with amyotrophic lateral sclerosis (ALS or Lou Gehrig's disease). Eden bought his first coins in England in 1945, but didn’t begin collecting in earnest until 1953, when he started concentrating on dime- and sixpence-sized coins, about which little documentation existed. His research into the coins would result in a series of articles on the mintage figures for various countries. The first of what would be called “mintage manuals” was published in the New Zealand Numismatic Journal (July, 1961), with subsequent articles appearing in Numismatic Scrapbook Magazine, World Coin Bulletin, and World Coins.</p>
-      </biogHist>
-    </description>
-  </cpfDescription>
+    <control>
+        <recordId>eden</recordId>
+        <maintenanceStatus>revised</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2014-06-12T14:17:05-04:00">Thu, 12 Jun 2014 14:17:05 -0400</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T16:04:17.938Z"/>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:50.176Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:52.528-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        </maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Eden, Paul R. (Paul Randell), b. 1923</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        </identity>
+        <description>
+            <existDates localType="xeac:life">
+                <dateRange>
+                    <fromDate standardDate="1923">1923</fromDate>
+                    <toDate>-</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <abstract>Paul R. Eden (b. 1923) of Madison Heights, Virginia, specialized in coins of the world.</abstract>
+                <p>Paul R. Eden (b. 1923) of Madison Heights, Virginia, specialized in coins of the world. Although born in Virginia, Eden enlisted in the Canadian Army in 1940. He was stationed in Europe and Africa during World War II and was wounded in the invasion of Sicily in 1943. He married Doris Elizabeth Harper of the British Army’s Women’s Auxiliary Territorial Service in 1945. Having been trained in telegraphy during his overseas service, he was employed by the Chesapeake &amp; Ohio Railroad in Virginia after leaving the Canadian Army in 1947. He retired from the railroad in 1962, having been afflicted with amyotrophic lateral sclerosis (ALS or Lou Gehrig's disease). Eden bought his first coins in England in 1945, but didn’t begin collecting in earnest until 1953, when he started concentrating on dime- and sixpence-sized coins, about which little documentation existed. His research into the coins would result in a series of articles on the mintage figures for various countries. The first of what would be called “mintage manuals” was published in the New Zealand Numismatic Journal (July, 1961), with subsequent articles appearing in Numismatic Scrapbook Magazine, World Coin Bulletin, and World Coins.</p>
+            </biogHist>
+        </description>
+    </cpfDescription>
 </eac-cpf>

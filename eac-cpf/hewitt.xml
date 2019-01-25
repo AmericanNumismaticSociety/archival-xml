@@ -1,105 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>hewitt</recordId>
-    <maintenanceStatus>revised</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-      <agencyCode>US-nnan</agencyCode>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>derived</eventType>
-        <eventDateTime standardDateTime="2014-06-12T14:17:06-04:00">Thu, 12 Jun 2014 14:17:06 -0400</eventDateTime>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T16:43:08.313Z"/>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:49.893Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:52.25-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <identity>
-      <entityType>person</entityType>
-      <nameEntry>
-        <part>Hewitt, Clifford, 1869-1942</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <existDates localType="xeac:life">
-        <dateRange>
-          <fromDate standardDate="1869">1869</fromDate>
-          <toDate standardDate="1942">1942</toDate>
-        </dateRange>
-      </existDates>
-      <biogHist>
-        <chronList>
-          <chronItem>
-            <event>Born</event>
-            <date standardDate="1869">1869</date>
-            <placeEntry vocabularySource="http://www.geonames.org/5193011/">Hazleton (Pa.)</placeEntry>
-          </chronItem>
-        </chronList>
-        <abstract>Clifford Hewitt (1869-1942) of Philadelphia, was born in Hazleton, Pennsylvania. He was chief mechanical engineer for the U.S. Mint and was instrumental in projects involving the building and equipping of the mints of Philadelphia, Denver, Manila, and Shanghai.</abstract>
-        <p>Clifford Hewitt (1869-1942) of Philadelphia, was born in Hazleton, Pennsylvania. He was chief mechanical engineer for the U.S. Mint and was instrumental in projects involving the building and equipping of the mints of Philadelphia, Denver, Manila, and Shanghai. He also built and installed a mint exhibit at the St. Louis Exposition of 1904 and designed coins, such as the Wilson Dollar commemorating the opening of the Manila Mint in 1920 and a Sun Yet Sen coin for the opening of the Chinese Mint in 1933. Hewitt was the son of Isaac Hewitt and grandson of Thomas Hewitt, both early railroad engineers. Clifford began his training with the Janesville Ironworks in Pennsylvania and went on to graduate from the Franklin Institute of Mechanical Engineering in Philadelphia in 1893. He oversaw the design and building of the Manila Mint, the only U.S. mint established outside of the continental United States, and was then contracted by the Chinese government to serve as technical mint expert for the Shanghai mint project, a position he held from 1920 to 1933, the year the mint opened. He later retired to San Diego.</p>
-      </biogHist>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025085">mechanical engineers</term>
-      </occupation>
-    </description>
-    <relations>
-      <resourceRelation xlink:type="simple" xlink:href="http://farm7.static.flickr.com/6170/6244501976_07ddde30dd_m.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
-        <relationEntry>portrait</relationEntry>
-      </resourceRelation>
-    </relations>
-  </cpfDescription>
+    <control>
+        <recordId>hewitt</recordId>
+        <maintenanceStatus>revised</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2014-06-12T14:17:06-04:00">Thu, 12 Jun 2014 14:17:06 -0400</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T16:43:08.313Z"/>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:49.893Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:52.25-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        </maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Hewitt, Clifford, 1869-1942</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        </identity>
+        <description>
+            <existDates localType="xeac:life">
+                <dateRange>
+                    <fromDate standardDate="1869">1869</fromDate>
+                    <toDate standardDate="1942">1942</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <chronList>
+                    <chronItem>
+                        <event>Born</event>
+                        <date standardDate="1869">1869</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/5193011/">Hazleton (Pa.)</placeEntry>
+                    </chronItem>
+                </chronList>
+                <abstract>Clifford Hewitt (1869-1942) of Philadelphia, was born in Hazleton, Pennsylvania. He was chief mechanical engineer for the U.S. Mint and was instrumental in projects involving the building and equipping of the mints of Philadelphia, Denver, Manila, and Shanghai.</abstract>
+                <p>Clifford Hewitt (1869-1942) of Philadelphia, was born in Hazleton, Pennsylvania. He was chief mechanical engineer for the U.S. Mint and was instrumental in projects involving the building and equipping of the mints of Philadelphia, Denver, Manila, and Shanghai. He also built and installed a mint exhibit at the St. Louis Exposition of 1904 and designed coins, such as the Wilson Dollar commemorating the opening of the Manila Mint in 1920 and a Sun Yet Sen coin for the opening of the Chinese Mint in 1933. Hewitt was the son of Isaac Hewitt and grandson of Thomas Hewitt, both early railroad engineers. Clifford began his training with the Janesville Ironworks in Pennsylvania and went on to graduate from the Franklin Institute of Mechanical Engineering in Philadelphia in 1893. He oversaw the design and building of the Manila Mint, the only U.S. mint established outside of the continental United States, and was then contracted by the Chinese government to serve as technical mint expert for the Shanghai mint project, a position he held from 1920 to 1933, the year the mint opened. He later retired to San Diego.</p>
+            </biogHist>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025085">mechanical engineers</term>
+            </occupation>
+        </description>
+        <relations>
+            <resourceRelation xlink:type="simple" xlink:href="http://farm7.static.flickr.com/6170/6244501976_07ddde30dd_m.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
+                <relationEntry>portrait</relationEntry>
+            </resourceRelation>
+        </relations>
+    </cpfDescription>
 </eac-cpf>

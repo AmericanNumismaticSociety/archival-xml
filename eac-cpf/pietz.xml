@@ -1,135 +1,139 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>pietz</recordId>
-    <maintenanceStatus>revised</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-      <agencyCode>US-nnan</agencyCode>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>derived</eventType>
-        <eventDateTime standardDateTime="2014-06-12T14:17:11-04:00">Thu, 12 Jun 2014 14:17:11 -0400</eventDateTime>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T13:38:39.315Z"/>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:49.776Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:52.149-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <identity>
-      <entityType>person</entityType>
-      <nameEntry>
-        <part>Pietz, Adam, 1873-1961</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <existDates localType="xeac:life">
-        <dateRange>
-          <fromDate standardDate="1873">1873</fromDate>
-          <toDate standardDate="1961">1961</toDate>
-        </dateRange>
-      </existDates>
-      <biogHist>
-        <chronList>
-          <chronItem>
-            <event>Born</event>
-            <date standardDate="1873">1873</date>
-            <placeEntry vocabularySource="http://www.geonames.org/2857807/">Offenbach (Germany)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Moved to United States</event>
-            <date standardDate="1889">1889</date>
-          </chronItem>
-          <chronItem>
-            <event>Studied at Chicago Art Institute</event>
-            <dateRange>
-              <fromDate standardDate="1892">1892</fromDate>
-              <toDate standardDate="1893">1893</toDate>
-            </dateRange>
-            <placeEntry vocabularySource="http://www.geonames.org/4887398/">Chicago (Ill.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Began private engraving business</event>
-            <date standardDate="1897">1897</date>
-            <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Chief engraver of the Philadelphia Mint</event>
-            <dateRange>
-              <fromDate standardDate="1927">1927</fromDate>
-              <toDate standardDate="1946">1946</toDate>
-            </dateRange>
-            <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
-          </chronItem>
-        </chronList>
-        <abstract>Adam Pietz (1873-1961) was a sculptor, medalist engraver, and etcher.</abstract>
-        <p>Adam Pietz (1873-1961) was a sculptor, medalist engraver, and etcher. He was born in Offenbach, Germany, and moved to the U.S. in 1889 where he studied at the Chicago Art Institute (1892-1893), Drexel Institute (1894-1898), and the Pennsylvania Academy of the Fine Arts (1899-1903). By 1897 he was an established engraver and die sinker operating out of a private studio on Chestnut Street in Philadelphia. He also served as assistant chief engraver at the Philadelphia Mint from 1927 to 1946. In 1917 he designed a World War I good luck medal for the United States. This So-Called Dollar is remembered for having a swastika, an ancient good-luck symbol, on its obverse. He designed the American Numismatic Association’s Medal of Merit. His only coin design to be minted was the Iowa Statehood Centennial Commemorative Half Dollar (1946). After retiring, he continued his work on medals for the Treasury Department, producing designs that included the Meritorious Service Award Medal (1949), Alexander Hamilton Medal (reverse, 1955), and the Distinguished Service Award (bestowed after his death, 1963).</p>
-      </biogHist>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025181">sculptors</term>
-      </occupation>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025337">medalists</term>
-      </occupation>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300386299">coin engravers</term>
-      </occupation>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025174">etchers</term>
-      </occupation>
-    </description>
-    <relations/>
-  </cpfDescription>
+    <control>
+        <recordId>pietz</recordId>
+        <maintenanceStatus>revised</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2014-06-12T14:17:11-04:00">Thu, 12 Jun 2014 14:17:11 -0400</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T13:38:39.315Z"/>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:49.776Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:52.149-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        <maintenanceEvent>
+					<eventType>revised</eventType>
+					<eventDateTime standardDateTime="2018-06-11T13:42:49.337-05:00"/>
+					<agentType>human</agentType>
+					<agent>Added URI</agent>
+				</maintenanceEvent></maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Pietz, Adam, 1873-1961</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        <entityId localType="skos:exactMatch">http://n2t.net/ark:/99166/w6sj2r3p</entityId></identity>
+        <description>
+            <existDates localType="xeac:life">
+                <dateRange>
+                    <fromDate standardDate="1873">1873</fromDate>
+                    <toDate standardDate="1961">1961</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <chronList>
+                    <chronItem>
+                        <event>Born</event>
+                        <date standardDate="1873">1873</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/2857807/">Offenbach (Germany)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Moved to United States</event>
+                        <date standardDate="1889">1889</date>
+                    </chronItem>
+                    <chronItem>
+                        <event>Studied at Chicago Art Institute</event>
+                        <dateRange>
+                            <fromDate standardDate="1892">1892</fromDate>
+                            <toDate standardDate="1893">1893</toDate>
+                        </dateRange>
+                        <placeEntry vocabularySource="http://www.geonames.org/4887398/">Chicago (Ill.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Began private engraving business</event>
+                        <date standardDate="1897">1897</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Chief engraver of the Philadelphia Mint</event>
+                        <dateRange>
+                            <fromDate standardDate="1927">1927</fromDate>
+                            <toDate standardDate="1946">1946</toDate>
+                        </dateRange>
+                        <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
+                    </chronItem>
+                </chronList>
+                <abstract>Adam Pietz (1873-1961) was a sculptor, medalist engraver, and etcher.</abstract>
+                <p>Adam Pietz (1873-1961) was a sculptor, medalist engraver, and etcher. He was born in Offenbach, Germany, and moved to the U.S. in 1889 where he studied at the Chicago Art Institute (1892-1893), Drexel Institute (1894-1898), and the Pennsylvania Academy of the Fine Arts (1899-1903). By 1897 he was an established engraver and die sinker operating out of a private studio on Chestnut Street in Philadelphia. He also served as assistant chief engraver at the Philadelphia Mint from 1927 to 1946. In 1917 he designed a World War I good luck medal for the United States. This So-Called Dollar is remembered for having a swastika, an ancient good-luck symbol, on its obverse. He designed the American Numismatic Association’s Medal of Merit. His only coin design to be minted was the Iowa Statehood Centennial Commemorative Half Dollar (1946). After retiring, he continued his work on medals for the Treasury Department, producing designs that included the Meritorious Service Award Medal (1949), Alexander Hamilton Medal (reverse, 1955), and the Distinguished Service Award (bestowed after his death, 1963).</p>
+            </biogHist>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025181">sculptors</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025337">medalists</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300386299">coin engravers</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025174">etchers</term>
+            </occupation>
+        </description>
+        <relations/>
+    </cpfDescription>
 </eac-cpf>

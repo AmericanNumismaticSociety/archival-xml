@@ -1,137 +1,144 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>roty</recordId>
-    <maintenanceStatus>revised</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-      <agencyCode>US-nnan</agencyCode>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>derived</eventType>
-        <eventDateTime standardDateTime="2014-06-12T14:17:11-04:00">Thu, 12 Jun 2014 14:17:11 -0400</eventDateTime>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T15:02:51.891Z"/>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Added context.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:49.346Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:51.656-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <identity>
-      <entityId localType="skos:exactMatch">http://viaf.org/viaf/71221857</entityId>
-      <entityId localType="skos:exactMatch">http://d-nb.info/gnd/101612841X</entityId>
-      <entityId localType="skos:exactMatch">http://data.bnf.fr/ark:/12148/cb106083317#foaf:Person</entityId>
-      <entityId localType="skos:exactMatch">http://www.idref.fr/158898346/id</entityId>
-      <entityId localType="skos:exactMatch">http://dbpedia.org/resource/Oscar_Roty</entityId>
-      <entityType>person</entityType>
-      <nameEntry>
-        <part>Roty, Oscar, 1846-1911</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <existDates localType="xeac:life">
-        <dateRange>
-          <fromDate standardDate="1846-06-11">June 11, 1846</fromDate>
-          <toDate standardDate="1911-03-23">March 23, 1911</toDate>
-        </dateRange>
-      </existDates>
-      <biogHist>
-        <chronList>
-          <chronItem>
-            <event>Born</event>
-            <date standardDate="1846-06-11">June 11, 1846</date>
-            <placeEntry vocabularySource="http://www.geonames.org/2988507/">Paris (France)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Entered École des Beaux-Arts</event>
-            <date standardDate="1864">1864</date>
-            <placeEntry vocabularySource="http://www.geonames.org/2988507/">Paris (France)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Awarded second Grand Prix de Rome</event>
-            <date standardDate="1872">1872</date>
-          </chronItem>
-          <chronItem>
-            <event>Awarded second Grand Prix de Rome</event>
-            <date standardDate="1875">1875</date>
-          </chronItem>
-          <chronItem>
-            <event>Married Marie Boulanger</event>
-            <date standardDate="1879">1879</date>
-          </chronItem>
-          <chronItem>
-            <event>Debut of The Sower on French coins and stamps</event>
-            <date standardDate="1897">1897</date>
-          </chronItem>
-          <chronItem>
-            <event>Died</event>
-            <date standardDate="1911-03-23">March 23, 1911</date>
-            <placeEntry vocabularySource="http://www.geonames.org/2988507/">Paris (France)</placeEntry>
-          </chronItem>
-        </chronList>
-        <abstract>Louis Oscar Roty (1846-1911), a French artist known for his highly influential work as an art medalist, was born and died in Paris.</abstract>
-        <p>Louis Oscar Roty (1846-1911), a French artist known for his highly influential work as an art medalist, was born and died in Paris. He entered the École des Beaux-Arts in 1864, starting out as a painter, then turning to sculpture, having early demonstrated a great aptitude for engraving. His talents were acknowledged when he was awarded the second Grand Prix de Rome in 1872 and the first Grand Prix de Rome in 1875. His plaquettes sparked a renewed interest in a form that had languished for centuries. In 1879 he married Marie Boulanger. His most recognizable creation is perhaps The Sower (La Semeuse), which has been used on various denominations of French coins and stamps since its debut in 1897.</p>
-      </biogHist>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025337">medalists</term>
-      </occupation>
-    </description>
-    <relations>
-      <resourceRelation xlink:type="simple" xlink:href="http://upload.wikimedia.org/wikipedia/commons/7/71/Oscar_Roty.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
-        <relationEntry>portrait</relationEntry>
-      </resourceRelation>
-    </relations>
-  </cpfDescription>
+    <control>
+        <recordId>roty</recordId>
+        <maintenanceStatus>revised</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2014-06-12T14:17:11-04:00">Thu, 12 Jun 2014 14:17:11 -0400</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T15:02:51.891Z"/>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Added context.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:49.346Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:51.656-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        <maintenanceEvent>
+					<eventType>revised</eventType>
+					<eventDateTime standardDateTime="2019-01-25T08:23:07.94-06:00"/>
+					<agentType>human</agentType>
+					<agent>Added URIs</agent>
+				</maintenanceEvent>
+        </maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityId localType="skos:exactMatch">http://viaf.org/viaf/71221857</entityId>
+            <entityId localType="skos:exactMatch">http://d-nb.info/gnd/101612841X</entityId>
+            <entityId localType="skos:exactMatch">http://catalogue.bnf.fr/ark:/12148/cb106083317</entityId>
+            <entityId localType="skos:exactMatch">http://www.idref.fr/158898346</entityId>
+            <entityId localType="skos:exactMatch">http://dbpedia.org/resource/Oscar_Roty</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Roty, Oscar, 1846-1911</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        <entityId localType="skos:exactMatch">http://n2t.net/ark:/99166/w6q85mdt</entityId>
+            <entityId>http://vocab.getty.edu/ulan/500123469</entityId>
+        </identity>
+        <description>
+            <existDates localType="xeac:life">
+                <dateRange>
+                    <fromDate standardDate="1846-06-11">June 11, 1846</fromDate>
+                    <toDate standardDate="1911-03-23">March 23, 1911</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <chronList>
+                    <chronItem>
+                        <event>Born</event>
+                        <date standardDate="1846-06-11">June 11, 1846</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/2988507/">Paris (France)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Entered École des Beaux-Arts</event>
+                        <date standardDate="1864">1864</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/2988507/">Paris (France)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Awarded second Grand Prix de Rome</event>
+                        <date standardDate="1872">1872</date>
+                    </chronItem>
+                    <chronItem>
+                        <event>Awarded second Grand Prix de Rome</event>
+                        <date standardDate="1875">1875</date>
+                    </chronItem>
+                    <chronItem>
+                        <event>Married Marie Boulanger</event>
+                        <date standardDate="1879">1879</date>
+                    </chronItem>
+                    <chronItem>
+                        <event>Debut of The Sower on French coins and stamps</event>
+                        <date standardDate="1897">1897</date>
+                    </chronItem>
+                    <chronItem>
+                        <event>Died</event>
+                        <date standardDate="1911-03-23">March 23, 1911</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/2988507/">Paris (France)</placeEntry>
+                    </chronItem>
+                </chronList>
+                <abstract>Louis Oscar Roty (1846-1911), a French artist known for his highly influential work as an art medalist, was born and died in Paris.</abstract>
+                <p>Louis Oscar Roty (1846-1911), a French artist known for his highly influential work as an art medalist, was born and died in Paris. He entered the École des Beaux-Arts in 1864, starting out as a painter, then turning to sculpture, having early demonstrated a great aptitude for engraving. His talents were acknowledged when he was awarded the second Grand Prix de Rome in 1872 and the first Grand Prix de Rome in 1875. His plaquettes sparked a renewed interest in a form that had languished for centuries. In 1879 he married Marie Boulanger. His most recognizable creation is perhaps The Sower (La Semeuse), which has been used on various denominations of French coins and stamps since its debut in 1897.</p>
+            </biogHist>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025337">medalists</term>
+            </occupation>
+        </description>
+        <relations>
+            <resourceRelation xlink:type="simple" xlink:href="http://upload.wikimedia.org/wikipedia/commons/7/71/Oscar_Roty.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
+                <relationEntry>portrait</relationEntry>
+            </resourceRelation>
+        </relations>
+    </cpfDescription>
 </eac-cpf>

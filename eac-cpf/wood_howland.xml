@@ -1,151 +1,157 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>wood_howland</recordId>
-    <maintenanceStatus>revised</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-      <agencyCode>US-nnan</agencyCode>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>derived</eventType>
-        <eventDateTime standardDateTime="2014-06-12T14:17:15-04:00">Thu, 12 Jun 2014 14:17:15 -0400</eventDateTime>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-12T18:33:03.18Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T19:06:56.69Z"/>
-        <agentType>human</agentType>
-        <agent>Added context.</agent>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:50.012Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:52.357-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <identity>
-      <entityId localType="skos:exactMatch">http://viaf.org/viaf/88797283</entityId>
-      <entityId localType="skos:exactMatch">http://d-nb.info/gnd/157250598</entityId>
-      <entityId localType="skos:exactMatch">http://www.idref.fr/087959291/id</entityId>
-      <entityType>person</entityType>
-      <nameEntry>
-        <part>Wood, Howland, 1877-1938</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <existDates localType="xeac:life">
-        <dateRange>
-          <fromDate standardDate="1877">1877</fromDate>
-          <toDate standardDate="1938">1938</toDate>
-        </dateRange>
-      </existDates>
-      <biogHist>
-        <chronList>
-          <chronItem>
-            <event>Born</event>
-            <date standardDate="1877">1877</date>
-            <placeEntry vocabularySource="http://www.geonames.org/4945121/">New Bedford (Mass.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Graduated from Brown University</event>
-            <date standardDate="1900">1900</date>
-            <placeEntry vocabularySource="http://www.geonames.org/5221119/">Brown University (R.I.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Became member of the American Numismatic Society</event>
-            <date standardDate="1909">1909</date>
-          </chronItem>
-          <chronItem>
-            <event>Edititor of the American Journal of Numismatics</event>
-            <dateRange>
-              <fromDate standardDate="1910">1910</fromDate>
-              <toDate standardDate="1920">1920</toDate>
-            </dateRange>
-            <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Received Archer M. Huntington Medal Award</event>
-            <date standardDate="1920">1920</date>
-          </chronItem>
-        </chronList>
-        <abstract>Howland Wood became a member of the American Numismatic Society in 1909. By 1913 he had been appointed Curator, remaining in this position until his death in 1938.</abstract>
-        <p>Howland Wood was born in New Bedford Massachusetts in 1877 and graduated from Brown University in 1900. Wood became a member of the American Numismatic Society in 1909. By 1913 he had been appointed Curator, remaining in this position until his death in 1938. At that time, the Society only maintained a single curator, with two assistants. Despite the limited size of the staff, during Wood's tenure the Society's collections increased significantly, from 50,000 to almost 200,000 specimens. In addition to his curatorial duties, Wood also served as editor of the American Journal of Numismatics from 1910 to 1920. In 1920, Wood became only the third recipient of the Society's Archer M. Huntington Medal Award. Outside of the ANS, Wood also served as secretary to the American Numismatic Association from 1905 to 1909 and then as governor and chairman of the ANA's board from 1909 to 1912. After Wood's death, Edward T. Newell (ANS President, 1916-1941) eulogized Wood as "the ideal Curator," noting that "Howland Wood was one of those rare geniuses who combined an inherited urge to collect, an insatiable curiosity as to the 'why' and the 'wherefore,' and an orderly mind which could not brook obvious gaps or disorderly arrangement."</p>
-      </biogHist>
-      <occupation>
-        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
-        <dateRange>
-          <fromDate standardDate="1913">1913</fromDate>
-          <toDate standardDate="1938">1938</toDate>
-        </dateRange>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025633">curators</term>
-      </occupation>
-    </description>
-    <relations>
-      <cpfRelation xlink:type="simple" xlink:href="newell" xlink:arcrole="xeac:correspondedWith" xlink:role="foaf:Person">
-        <relationEntry>Newell, Edward Theodore, 1886-1941</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
-        <dateRange>
-          <fromDate standardDate="1909">1909</fromDate>
-          <toDate standardDate="1938">1938</toDate>
-        </dateRange>
-        <relationEntry>American Numismatic Society</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/157729460" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
-        <relationEntry>American Numismatic Association</relationEntry>
-      </cpfRelation>
-    </relations>
-  </cpfDescription>
+    <control>
+        <recordId>wood_howland</recordId>
+        <maintenanceStatus>revised</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2014-06-12T14:17:15-04:00">Thu, 12 Jun 2014 14:17:15 -0400</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-12T18:33:03.18Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T19:06:56.69Z"/>
+                <agentType>human</agentType>
+                <agent>Added context.</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:50.012Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:52.357-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        <maintenanceEvent>
+					<eventType>revised</eventType>
+					<eventDateTime standardDateTime="2019-01-25T09:17:26.494-06:00"/>
+					<agentType>human</agentType>
+					<agent>Inserted URI</agent>
+				</maintenanceEvent>
+        </maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityId localType="skos:exactMatch">http://viaf.org/viaf/88797283</entityId>
+            <entityId localType="skos:exactMatch">http://d-nb.info/gnd/157250598</entityId>
+            <entityId localType="skos:exactMatch">http://www.idref.fr/087959291</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Wood, Howland, 1877-1938</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        <entityId localType="skos:exactMatch">http://n2t.net/ark:/99166/w6zt06h0</entityId>
+        </identity>
+        <description>
+            <existDates localType="xeac:life">
+                <dateRange>
+                    <fromDate standardDate="1877">1877</fromDate>
+                    <toDate standardDate="1938">1938</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <chronList>
+                    <chronItem>
+                        <event>Born</event>
+                        <date standardDate="1877">1877</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/4945121/">New Bedford (Mass.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Graduated from Brown University</event>
+                        <date standardDate="1900">1900</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/5221119/">Brown University (R.I.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Became member of the American Numismatic Society</event>
+                        <date standardDate="1909">1909</date>
+                    </chronItem>
+                    <chronItem>
+                        <event>Edititor of the American Journal of Numismatics</event>
+                        <dateRange>
+                            <fromDate standardDate="1910">1910</fromDate>
+                            <toDate standardDate="1920">1920</toDate>
+                        </dateRange>
+                        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Received Archer M. Huntington Medal Award</event>
+                        <date standardDate="1920">1920</date>
+                    </chronItem>
+                </chronList>
+                <abstract>Howland Wood became a member of the American Numismatic Society in 1909. By 1913 he had been appointed Curator, remaining in this position until his death in 1938.</abstract>
+                <p>Howland Wood was born in New Bedford Massachusetts in 1877 and graduated from Brown University in 1900. Wood became a member of the American Numismatic Society in 1909. By 1913 he had been appointed Curator, remaining in this position until his death in 1938. At that time, the Society only maintained a single curator, with two assistants. Despite the limited size of the staff, during Wood's tenure the Society's collections increased significantly, from 50,000 to almost 200,000 specimens. In addition to his curatorial duties, Wood also served as editor of the American Journal of Numismatics from 1910 to 1920. In 1920, Wood became only the third recipient of the Society's Archer M. Huntington Medal Award. Outside of the ANS, Wood also served as secretary to the American Numismatic Association from 1905 to 1909 and then as governor and chairman of the ANA's board from 1909 to 1912. After Wood's death, Edward T. Newell (ANS President, 1916-1941) eulogized Wood as "the ideal Curator," noting that "Howland Wood was one of those rare geniuses who combined an inherited urge to collect, an insatiable curiosity as to the 'why' and the 'wherefore,' and an orderly mind which could not brook obvious gaps or disorderly arrangement."</p>
+            </biogHist>
+            <occupation>
+                <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+                <dateRange>
+                    <fromDate standardDate="1913">1913</fromDate>
+                    <toDate standardDate="1938">1938</toDate>
+                </dateRange>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025633">curators</term>
+            </occupation>
+        </description>
+        <relations>
+            <cpfRelation xlink:type="simple" xlink:href="newell" xlink:arcrole="xeac:correspondedWith" xlink:role="foaf:Person">
+                <relationEntry>Newell, Edward Theodore, 1886-1941</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+                <dateRange>
+                    <fromDate standardDate="1909">1909</fromDate>
+                    <toDate standardDate="1938">1938</toDate>
+                </dateRange>
+                <relationEntry>American Numismatic Society</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/157729460" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+                <relationEntry>American Numismatic Association</relationEntry>
+            </cpfRelation>
+        </relations>
+    </cpfDescription>
 </eac-cpf>

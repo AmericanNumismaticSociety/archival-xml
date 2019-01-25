@@ -1,126 +1,125 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>robertson</recordId>
-    <maintenanceStatus>revised</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-      <agencyCode>US-nnan</agencyCode>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>derived</eventType>
-        <eventDateTime standardDateTime="2014-06-12T14:17:11-04:00">Thu, 12 Jun 2014 14:17:11 -0400</eventDateTime>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T14:50:56.197Z"/>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T19:30:54.921Z"/>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Added further context from the bio page.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:50.044Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:52.387-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <identity>
-      <entityType>person</entityType>
-      <nameEntry>
-        <part>Robertson, Robert, 1869-1937</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <existDates localType="xeac:life">
-        <dateRange>
-          <fromDate standardDate="1869-09-12">September 12, 1869</fromDate>
-          <toDate standardDate="1937-01-22">January 22, 1937</toDate>
-        </dateRange>
-      </existDates>
-      <biogHist>
-        <abstract>A prominent collector of Swedish numismatics, Robertson served as Assistant Curator and photographer for the ANS for much of the 1930s.</abstract>
-        <p>For much of the 1920s, Howland Wood had sole responsibility for the Society's growing numismatic collection. That changed in August of 1927, when he hired Robert Robertson as his assistant.</p>
-        <p>Robertson was born in Stockholm, Sweden on September 12, 1869. He was the son of Carl Robert Grönvall, an artist, and studied art himself: at the age of fourteen Robertson was admitted to Sweden's National Museum "for the purpose of copying" — the youngest person ever so admitted. </p>
-        <p>Robertson emigrated to the United States in 1892, changing his name from Grönvall to Robertson at the time. He held numerous jobs in the U.S. and briefly worked for the Guttag Brothers' coin firm before starting his own dealership after the First World War. Robertson joined the ANS as an Associate Member in 1920. </p>
-        <p>Robertson's early work as Wood's assistant included a variety of activities. As Wood later reported to the Council, Robertson's "long experience with coins, his adaptability, mechanical and technical knowledge are most useful assets to us. Besides attending to much of the routine work, such as seeing visitors, answering the telephone, etc., he has been rearranging our European coins." Robertson was also an experienced photographer, so he assumed responsibility for photographing coins, something which the ANS had not previously done in-house. And in the late 1920s, when the ANS expanded its facilities on Audubon Terrace, Robertson chose the equipment that was installed in the Society's new photo lab. </p>
-        <p>By January of 1928, Robertson was given the formal title of "Assistant to the Curator" which was later shorted to simply "Assistant Curator." He continued to work at the ANS until his death on January 22, 1937 after an extended illness. </p>
-        <p>Not surprisingly, Robertson's personal coin collection consisted of specimens from his native country. In fact, at the time of his death it was reported that Robertson's collection of Swedish coins had been one of the finest in the world and included several pieces that were not in Sweden's national collection. Robertson's collection was first exhibited at the ANS in November 1928 and subsequently purchased by the Society the following year. In 1935, the Swedish government conferred on Robertson the decoration of Knight of the Order of Vasa, First Class for his many donations to that country's national coin collection. </p>
-      </biogHist>
-      <occupation>
-        <dateRange>
-          <fromDate standardDate="1930">1930</fromDate>
-          <toDate standardDate="1937">1937</toDate>
-        </dateRange>
-        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025633">curators</term>
-      </occupation>
-      <occupation>
-        <dateRange>
-          <fromDate standardDate="1930">1930</fromDate>
-          <toDate standardDate="1937">1937</toDate>
-        </dateRange>
-        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025687">photographers</term>
-      </occupation>
-    </description>
-    <relations>
-      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:linkedTo" xlink:role="org:Organization">
-        <relationEntry>American Numismatic Society</relationEntry>
-      </cpfRelation>
-      <resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/Robertson1.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
-        <relationEntry>portrait</relationEntry>
-      </resourceRelation>
-    </relations>
-  </cpfDescription>
+    <control>
+        <recordId>robertson</recordId>
+        <maintenanceStatus>revised</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2014-06-12T14:17:11-04:00">Thu, 12 Jun 2014 14:17:11 -0400</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T14:50:56.197Z"/>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T19:30:54.921Z"/>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Added further context from the bio page.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:50.044Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:52.387-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        </maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Robertson, Robert, 1869-1937</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        </identity>
+        <description>
+            <existDates localType="xeac:life">
+                <dateRange>
+                    <fromDate standardDate="1869-09-12">September 12, 1869</fromDate>
+                    <toDate standardDate="1937-01-22">January 22, 1937</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <abstract>A prominent collector of Swedish numismatics, Robertson served as Assistant Curator and photographer for the ANS for much of the 1930s.</abstract>
+                <p>For much of the 1920s, Howland Wood had sole responsibility for the Society's growing numismatic collection. That changed in August of 1927, when he hired Robert Robertson as his assistant.</p>
+                <p>Robertson was born in Stockholm, Sweden on September 12, 1869. He was the son of Carl Robert Grönvall, an artist, and studied art himself: at the age of fourteen Robertson was admitted to Sweden's National Museum "for the purpose of copying" — the youngest person ever so admitted. </p>
+                <p>Robertson emigrated to the United States in 1892, changing his name from Grönvall to Robertson at the time. He held numerous jobs in the U.S. and briefly worked for the Guttag Brothers' coin firm before starting his own dealership after the First World War. Robertson joined the ANS as an Associate Member in 1920. </p>
+                <p>Robertson's early work as Wood's assistant included a variety of activities. As Wood later reported to the Council, Robertson's "long experience with coins, his adaptability, mechanical and technical knowledge are most useful assets to us. Besides attending to much of the routine work, such as seeing visitors, answering the telephone, etc., he has been rearranging our European coins." Robertson was also an experienced photographer, so he assumed responsibility for photographing coins, something which the ANS had not previously done in-house. And in the late 1920s, when the ANS expanded its facilities on Audubon Terrace, Robertson chose the equipment that was installed in the Society's new photo lab. </p>
+                <p>By January of 1928, Robertson was given the formal title of "Assistant to the Curator" which was later shorted to simply "Assistant Curator." He continued to work at the ANS until his death on January 22, 1937 after an extended illness. </p>
+                <p>Not surprisingly, Robertson's personal coin collection consisted of specimens from his native country. In fact, at the time of his death it was reported that Robertson's collection of Swedish coins had been one of the finest in the world and included several pieces that were not in Sweden's national collection. Robertson's collection was first exhibited at the ANS in November 1928 and subsequently purchased by the Society the following year. In 1935, the Swedish government conferred on Robertson the decoration of Knight of the Order of Vasa, First Class for his many donations to that country's national coin collection. </p>
+            </biogHist>
+            <occupation>
+                <dateRange>
+                    <fromDate standardDate="1930">1930</fromDate>
+                    <toDate standardDate="1937">1937</toDate>
+                </dateRange>
+                <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025633">curators</term>
+            </occupation>
+            <occupation>
+                <dateRange>
+                    <fromDate standardDate="1930">1930</fromDate>
+                    <toDate standardDate="1937">1937</toDate>
+                </dateRange>
+                <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025687">photographers</term>
+            </occupation>
+        </description>
+        <relations>
+            <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:linkedTo" xlink:role="org:Organization">
+                <relationEntry>American Numismatic Society</relationEntry>
+            </cpfRelation>
+            <resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/Robertson1.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
+                <relationEntry>portrait</relationEntry>
+            </resourceRelation>
+        </relations>
+    </cpfDescription>
 </eac-cpf>

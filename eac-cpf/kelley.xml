@@ -1,149 +1,153 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>kelley</recordId>
-    <maintenanceStatus>revised</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-      <agencyCode>US-nnan</agencyCode>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>derived</eventType>
-        <eventDateTime standardDateTime="2014-06-12T14:17:06-04:00">Thu, 12 Jun 2014 14:17:06 -0400</eventDateTime>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T19:58:16.702Z"/>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:49.862Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:52.223-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <identity>
-      <entityId localType="skos:exactMatch">http://viaf.org/viaf/159898657</entityId>
-      <entityId localType="skos:exactMatch">http://dbpedia.org/resource/Robert_F._Kelley</entityId>
-      <entityType>person</entityType>
-      <nameEntry>
-        <part>Kelley, Robert F., 1894-1976</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <existDates localType="xeac:life">
-        <dateRange>
-          <fromDate standardDate="1894">1894</fromDate>
-          <toDate standardDate="1976">1976</toDate>
-        </dateRange>
-      </existDates>
-      <biogHist>
-        <chronList>
-          <chronItem>
-            <event>Born</event>
-            <date standardDate="1894-02-13">February 13, 1894</date>
-            <placeEntry vocabularySource="http://www.geonames.org/4951257/">Somerville (Mass.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Received B.A. from Harvard</event>
-            <date standardDate="1915">1915</date>
-            <placeEntry vocabularySource="http://www.geonames.org/4938981/">Harvard University (Mass.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Received M.A. from Harvard</event>
-            <date standardDate="1917">1917</date>
-            <placeEntry vocabularySource="http://www.geonames.org/4938981/">Harvard University (Mass.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Attended the Sorbonne</event>
-            <date standardDate="1918">1918</date>
-            <placeEntry vocabularySource="http://www.geonames.org/2968815/">Paris (France)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Joined the U.S. State Department</event>
-            <date standardDate="1922">1922</date>
-          </chronItem>
-          <chronItem>
-            <event>Became head of the Division of Eastern European Affairs</event>
-            <dateRange>
-              <fromDate standardDate="1926">1926</fromDate>
-              <toDate standardDate="1937">1937</toDate>
-            </dateRange>
-          </chronItem>
-          <chronItem>
-            <event>Counselor of the U.S. embassy in Ankara</event>
-            <dateRange>
-              <fromDate standardDate="1937">1937</fromDate>
-              <toDate standardDate="1945">1945</toDate>
-            </dateRange>
-            <placeEntry vocabularySource="http://www.geonames.org/323786/">Ankara (Turkey)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Died</event>
-            <date standardDate="1976">1976</date>
-          </chronItem>
-        </chronList>
-        <abstract>Coin collector and State Department official Robert F. Kelley (1894-1976) was born in Somerville, Massachusetts.</abstract>
-        <p>Coin collector and State Department official Robert F. Kelley (1894-1976) was born in Somerville, Massachusetts. He received a B.A. (1915) and an M.A. (1917) from Harvard and then attended the Sorbonne in Paris. After serving in World War I, he joined the State Department in 1922 and became head of the new Division of Eastern European Affairs in 1926, a position he held until 1937. He later served as counselor of the U.S. embassy at Ankara, Turkey. He left the State Department in 1945 and was then associated with the anti-Soviet broadcasting service Radio Liberty. As a collector, Kelley was somewhat secretive. He had become an associate member of the American Numismatic Society in 1948, but by 1977, when his valuable collection of Roman and Byzantine coins were bequeathed to the Society, he and his collection were virtually unknown among the membership.</p>
-      </biogHist>
-    </description>
-    <relations>
-      <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/267625811" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
-        <relationEntry>Radio Liberty</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="foaf:Person">
-        <dateRange>
-          <fromDate standardDate="1948">1948</fromDate>
-          <toDate standardDate="1976">1976</toDate>
-        </dateRange>
-        <relationEntry>American Numismatic Society</relationEntry>
-      </cpfRelation>
-    </relations>
-  </cpfDescription>
+    <control>
+        <recordId>kelley</recordId>
+        <maintenanceStatus>revised</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2014-06-12T14:17:06-04:00">Thu, 12 Jun 2014 14:17:06 -0400</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T19:58:16.702Z"/>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:49.862Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:52.223-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        <maintenanceEvent>
+					<eventType>revised</eventType>
+					<eventDateTime standardDateTime="2018-06-11T10:29:10.324-05:00"/>
+					<agentType>human</agentType>
+					<agent>Added URIs.</agent>
+				</maintenanceEvent></maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityId localType="skos:exactMatch">http://viaf.org/viaf/159898657</entityId>
+            <entityId localType="skos:exactMatch">http://dbpedia.org/resource/Robert_F._Kelley</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Kelley, Robert F., 1894-1976</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        <entityId localType="skos:exactMatch">http://www.wikidata.org/entity/Q7344185</entityId><entityId localType="skos:exactMatch">http://n2t.net/ark:/99166/w6cv7674</entityId></identity>
+        <description>
+            <existDates localType="xeac:life">
+                <dateRange>
+                    <fromDate standardDate="1894">1894</fromDate>
+                    <toDate standardDate="1976">1976</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <chronList>
+                    <chronItem>
+                        <event>Born</event>
+                        <date standardDate="1894-02-13">February 13, 1894</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/4951257/">Somerville (Mass.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Received B.A. from Harvard</event>
+                        <date standardDate="1915">1915</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/4938981/">Harvard University (Mass.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Received M.A. from Harvard</event>
+                        <date standardDate="1917">1917</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/4938981/">Harvard University (Mass.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Attended the Sorbonne</event>
+                        <date standardDate="1918">1918</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/2968815/">Paris (France)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Joined the U.S. State Department</event>
+                        <date standardDate="1922">1922</date>
+                    </chronItem>
+                    <chronItem>
+                        <event>Became head of the Division of Eastern European Affairs</event>
+                        <dateRange>
+                            <fromDate standardDate="1926">1926</fromDate>
+                            <toDate standardDate="1937">1937</toDate>
+                        </dateRange>
+                    </chronItem>
+                    <chronItem>
+                        <event>Counselor of the U.S. embassy in Ankara</event>
+                        <dateRange>
+                            <fromDate standardDate="1937">1937</fromDate>
+                            <toDate standardDate="1945">1945</toDate>
+                        </dateRange>
+                        <placeEntry vocabularySource="http://www.geonames.org/323786/">Ankara (Turkey)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Died</event>
+                        <date standardDate="1976">1976</date>
+                    </chronItem>
+                </chronList>
+                <abstract>Coin collector and State Department official Robert F. Kelley (1894-1976) was born in Somerville, Massachusetts.</abstract>
+                <p>Coin collector and State Department official Robert F. Kelley (1894-1976) was born in Somerville, Massachusetts. He received a B.A. (1915) and an M.A. (1917) from Harvard and then attended the Sorbonne in Paris. After serving in World War I, he joined the State Department in 1922 and became head of the new Division of Eastern European Affairs in 1926, a position he held until 1937. He later served as counselor of the U.S. embassy at Ankara, Turkey. He left the State Department in 1945 and was then associated with the anti-Soviet broadcasting service Radio Liberty. As a collector, Kelley was somewhat secretive. He had become an associate member of the American Numismatic Society in 1948, but by 1977, when his valuable collection of Roman and Byzantine coins were bequeathed to the Society, he and his collection were virtually unknown among the membership.</p>
+            </biogHist>
+        </description>
+        <relations>
+            <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/267625811" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+                <relationEntry>Radio Liberty</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="foaf:Person">
+                <dateRange>
+                    <fromDate standardDate="1948">1948</fromDate>
+                    <toDate standardDate="1976">1976</toDate>
+                </dateRange>
+                <relationEntry>American Numismatic Society</relationEntry>
+            </cpfRelation>
+        </relations>
+    </cpfDescription>
 </eac-cpf>

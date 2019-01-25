@@ -1,178 +1,192 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>thompson</recordId>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>created</eventType>
-        <eventDateTime standardDateTime="2014-06-20T20:08:36.364Z"/>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:50.037Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:52.381-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <maintenanceStatus>new</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <sources>
-      <source xlink:type="simple" xlink:href="http://viaf.org/viaf/109772791"/>
-    </sources>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <identity>
-      <entityType>person</entityType>
-      <nameEntry>
-        <part>Thompson, Margaret E., 1911-1992</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <biogHist>
-        <chronList>
-          <chronItem>
-            <event>Born</event>
-            <date standardDate="1911">1911</date>
-            <placeEntry vocabularySource="http://www.geonames.org/5105496/">Trenton (N.J.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Received B.A. from Radcliffe College</event>
-            <date standardDate="1931">1931</date>
-            <placeEntry vocabularySource="http://www.geonames.org/4948338/">Radcliffe College (Mass.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Excavated in the Athenian Agora</event>
-            <dateRange>
-              <fromDate standardDate="1937">1937</fromDate>
-              <toDate standardDate="1940">1940</toDate>
-            </dateRange>
-            <placeEntry vocabularySource="http://www.geonames.org/264371/">Athens (Greece)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Excavated in the Athenian Agora</event>
-            <dateRange>
-              <fromDate standardDate="1947">1947</fromDate>
-              <toDate standardDate="1949">1949</toDate>
-            </dateRange>
-            <placeEntry vocabularySource="http://www.geonames.org/264371/">Athens (Greece)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Adjunct professor of art history and archaeology</event>
-            <dateRange>
-              <fromDate standardDate="1965">1965</fromDate>
-              <toDate standardDate="1978">1978</toDate>
-            </dateRange>
-            <placeEntry vocabularySource="http://www.geonames.org/5113375/">Columbia University (N.Y.)</placeEntry>
-          </chronItem>
-        </chronList>
-        <abstract>Assistant Curator and then Curator of Greek Coins from 1949 to 1979, Thompson also served as Chief Curator from 1969 to 1979. </abstract>
-        <p>Margaret Thompson was born in 1911 in Trenton, New Jersey and received her bachelor of arts from Radcliffe College in 1931. After completing her degree, Thompson initially taught junior high school English for five years. In the late 1930's, she was hired as a secretary for T. Leslie Shear, the director of excavations at the Athenian Agora. Shear quickly realized her potential as a scholar and soon after she arrived in Athens she was assigned to clean, sort, and attribute the numismatic finds from the site. </p>
-        <p>Thompson worked for two terms on the excavations in Athens, from 1937 to 1940 and again from 1947 to 1949. During this same period, Thompson published a number of short articles related to the finds from the excavation. These articles came to the attention of Sydney P. Noe, ANS Chief Curator (1947-54), and, in 1949, Noe offered Thompson the position of Assistant Curator of Greek Coins at the Society. </p>
-        <p>Thompson's first major publication as the ANS, completed in 1954, was a catalog of about 37,000 coins from the agora, ranging from the time of Rome to the rise of Venice. In 1961, she published The New Style Silver Coinage of Athens, in which she suggested a chronology of the city's Hellenistic coinage. While Thompson's work was controversial, its significance was also recognized. As a result, later that year she was awarded the Archer M. Huntington Medal by the ANS. In 1967, Thompson also received the gold medal of the Royal Numismatic Society in London, of which she was an honorary member. In that same year, she was also elected to the International Numismatic Congress, where she served as vice president from 1973 to 1979. </p>
-        <p>Thompson served the ANS's Curator of Greek Coins until 1976 and also served as the Society's Chief Curator from 1969 to 1979. Upon her retirement in 1979 she was named Chief Curator Emeritus and, in 1989, the Society endowed the Margaret Thompson Curatorship of Greek Coins in her honor. She died in 1992. </p>
-        <p>Thompson's published worked include her 1973 Inventory of Greek Coin Hoards — still a standard reference today — and Alexander's Drachm Mints II: Lampsacus and Abydus, which was published in 1991. The latter book was the second volume in a projected trilogy about silver drachm coinage from Asia Minor of Alexander III of Macedon. </p>
-        <p>In addition to her work at the ANS, Thompson was an adjunct professor of art history and archaeology at Columbia University from 1965 to 1978, where she received an honorary doctorate of letters in 1986. She also served as trustee and president of the Archaeological Institute of America from 1965 to 1968 and received the Institute's gold medal for distinguished achievement in 1984. </p>
-      </biogHist>
-      <existDates localType="xeac:life">
-        <dateRange>
-          <fromDate standardDate="1911">1911</fromDate>
-          <toDate standardDate="1992">1992</toDate>
-        </dateRange>
-      </existDates>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
-      </occupation>
-      <occupation>
-        <descriptiveNote>
-          <p>Taught English.</p>
-        </descriptiveNote>
-        <dateRange>
-          <fromDate standardDate="1931">1931</fromDate>
-          <toDate standardDate="1936">1936</toDate>
-        </dateRange>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025529">teachers</term>
-      </occupation>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300137147">secretaries (clerical workers)</term>
-      </occupation>
-      <occupation>
-        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
-        <dateRange>
-          <fromDate standardDate="1949">1949</fromDate>
-          <toDate standardDate="1976">1976</toDate>
-        </dateRange>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025633">curators</term>
-      </occupation>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300266109">academics (people)</term>
-      </occupation>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025486">archaeologists</term>
-      </occupation>
-    </description>
-    <relations>
-      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
-        <relationEntry>American Numismatic Society</relationEntry>
-      </cpfRelation>
-      <resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/04-00027.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
-        <relationEntry>portrait</relationEntry>
-      </resourceRelation>
-      <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/146511597" xlink:arcrole="org:subOrganizationOf" xlink:role="org:Organization">
-        <dateRange>
-          <fromDate standardDate="1973">1973</fromDate>
-          <toDate standardDate="1979">1979</toDate>
-        </dateRange>
-        <relationEntry>International Congress of Numismatics</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:arcrole="org:memberOf" xlink:role="org:Organization" xlink:href="http://viaf.org/viaf/155500222">
-        <dateRange>
-          <fromDate standardDate="1965">1965</fromDate>
-          <toDate standardDate="1968">1968</toDate>
-        </dateRange>
-        <relationEntry>Archaeological institute of America</relationEntry>
-      </cpfRelation>
-    </relations>
-  </cpfDescription>
+    <control>
+        <recordId>thompson</recordId>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2014-06-20T20:08:36.364Z"/>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:50.037Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:52.381-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        <maintenanceEvent>
+					<eventType>revised</eventType>
+					<eventDateTime standardDateTime="2018-07-31T12:52:27.282-05:00"/>
+					<agentType>human</agentType>
+					<agent>Inserted URI</agent>
+				</maintenanceEvent>
+        </maintenanceHistory>
+        <maintenanceStatus>revised</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <sources>
+            <source xlink:type="simple" xlink:href="http://viaf.org/viaf/109772791"/>
+        <source xlink:type="simple" xlink:href="">
+								<sourceEntry>VIAF</sourceEntry>
+								<descriptiveNote>
+									<p>Programmatically linked this record to VIAF with xEAC and extracted additional metadata from VIAF.</p>
+								</descriptiveNote>
+							</source>
+        </sources>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    <sources/>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Thompson, Margaret E., 1911-1992</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        <entityId localType="skos:exactMatch">http://viaf.org/viaf/109772791</entityId>
+        
+        </identity>
+        <description>
+            <biogHist>
+                <chronList>
+                    <chronItem>
+                        <event>Born</event>
+                        <date standardDate="1911">1911</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/5105496/">Trenton (N.J.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Received B.A. from Radcliffe College</event>
+                        <date standardDate="1931">1931</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/4948338/">Radcliffe College (Mass.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Excavated in the Athenian Agora</event>
+                        <dateRange>
+                            <fromDate standardDate="1937">1937</fromDate>
+                            <toDate standardDate="1940">1940</toDate>
+                        </dateRange>
+                        <placeEntry vocabularySource="http://www.geonames.org/264371/">Athens (Greece)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Excavated in the Athenian Agora</event>
+                        <dateRange>
+                            <fromDate standardDate="1947">1947</fromDate>
+                            <toDate standardDate="1949">1949</toDate>
+                        </dateRange>
+                        <placeEntry vocabularySource="http://www.geonames.org/264371/">Athens (Greece)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Adjunct professor of art history and archaeology</event>
+                        <dateRange>
+                            <fromDate standardDate="1965">1965</fromDate>
+                            <toDate standardDate="1978">1978</toDate>
+                        </dateRange>
+                        <placeEntry vocabularySource="http://www.geonames.org/5113375/">Columbia University (N.Y.)</placeEntry>
+                    </chronItem>
+                </chronList>
+                <abstract>Assistant Curator and then Curator of Greek Coins from 1949 to 1979, Thompson also served as Chief Curator from 1969 to 1979. </abstract>
+                <p>Margaret Thompson was born in 1911 in Trenton, New Jersey and received her bachelor of arts from Radcliffe College in 1931. After completing her degree, Thompson initially taught junior high school English for five years. In the late 1930's, she was hired as a secretary for T. Leslie Shear, the director of excavations at the Athenian Agora. Shear quickly realized her potential as a scholar and soon after she arrived in Athens she was assigned to clean, sort, and attribute the numismatic finds from the site. </p>
+                <p>Thompson worked for two terms on the excavations in Athens, from 1937 to 1940 and again from 1947 to 1949. During this same period, Thompson published a number of short articles related to the finds from the excavation. These articles came to the attention of Sydney P. Noe, ANS Chief Curator (1947-54), and, in 1949, Noe offered Thompson the position of Assistant Curator of Greek Coins at the Society. </p>
+                <p>Thompson's first major publication as the ANS, completed in 1954, was a catalog of about 37,000 coins from the agora, ranging from the time of Rome to the rise of Venice. In 1961, she published The New Style Silver Coinage of Athens, in which she suggested a chronology of the city's Hellenistic coinage. While Thompson's work was controversial, its significance was also recognized. As a result, later that year she was awarded the Archer M. Huntington Medal by the ANS. In 1967, Thompson also received the gold medal of the Royal Numismatic Society in London, of which she was an honorary member. In that same year, she was also elected to the International Numismatic Congress, where she served as vice president from 1973 to 1979. </p>
+                <p>Thompson served the ANS's Curator of Greek Coins until 1976 and also served as the Society's Chief Curator from 1969 to 1979. Upon her retirement in 1979 she was named Chief Curator Emeritus and, in 1989, the Society endowed the Margaret Thompson Curatorship of Greek Coins in her honor. She died in 1992. </p>
+                <p>Thompson's published worked include her 1973 Inventory of Greek Coin Hoards — still a standard reference today — and Alexander's Drachm Mints II: Lampsacus and Abydus, which was published in 1991. The latter book was the second volume in a projected trilogy about silver drachm coinage from Asia Minor of Alexander III of Macedon. </p>
+                <p>In addition to her work at the ANS, Thompson was an adjunct professor of art history and archaeology at Columbia University from 1965 to 1978, where she received an honorary doctorate of letters in 1986. She also served as trustee and president of the Archaeological Institute of America from 1965 to 1968 and received the Institute's gold medal for distinguished achievement in 1984. </p>
+            </biogHist>
+            <existDates localType="xeac:life">
+                <dateRange>
+                    <fromDate standardDate="1911">1911</fromDate>
+                    <toDate standardDate="1992">1992</toDate>
+                </dateRange>
+            </existDates>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
+            </occupation>
+            <occupation>
+                <descriptiveNote>
+                    <p>Taught English.</p>
+                </descriptiveNote>
+                <dateRange>
+                    <fromDate standardDate="1931">1931</fromDate>
+                    <toDate standardDate="1936">1936</toDate>
+                </dateRange>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025529">teachers</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300137147">secretaries (clerical workers)</term>
+            </occupation>
+            <occupation>
+                <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+                <dateRange>
+                    <fromDate standardDate="1949">1949</fromDate>
+                    <toDate standardDate="1976">1976</toDate>
+                </dateRange>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025633">curators</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300266109">academics (people)</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025486">archaeologists</term>
+            </occupation>
+        </description>
+        <relations>
+            <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+                <relationEntry>American Numismatic Society</relationEntry>
+            </cpfRelation>
+            <resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/04-00027.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
+                <relationEntry>portrait</relationEntry>
+            </resourceRelation>
+            <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/146511597" xlink:arcrole="org:subOrganizationOf" xlink:role="org:Organization">
+                <dateRange>
+                    <fromDate standardDate="1973">1973</fromDate>
+                    <toDate standardDate="1979">1979</toDate>
+                </dateRange>
+                <relationEntry>International Congress of Numismatics</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:arcrole="org:memberOf" xlink:role="org:Organization" xlink:href="http://viaf.org/viaf/155500222">
+                <dateRange>
+                    <fromDate standardDate="1965">1965</fromDate>
+                    <toDate standardDate="1968">1968</toDate>
+                </dateRange>
+                <relationEntry>Archaeological institute of America</relationEntry>
+            </cpfRelation>
+        </relations>
+    </cpfDescription>
 </eac-cpf>

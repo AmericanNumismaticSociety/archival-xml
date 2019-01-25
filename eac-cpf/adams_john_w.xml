@@ -1,150 +1,159 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>adams_john_w</recordId>
-    <maintenanceStatus>revised</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-      <agencyCode>US-nnan</agencyCode>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>derived</eventType>
-        <eventDateTime standardDateTime="2014-06-12T14:17:00-04:00">Thu, 12 Jun 2014 14:17:00 -0400</eventDateTime>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-19T16:21:45.17Z"/>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:50.17Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:52.523-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <identity>
-      <entityType>person</entityType>
-      <nameEntry>
-        <part>Adams, John W. (John Weston), 1936- , collector</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <existDates localType="xeac:life">
-        <dateRange>
-          <fromDate standardDate="1936-04-02">April 02, 1936</fromDate>
-          <toDate>-</toDate>
-        </dateRange>
-      </existDates>
-      <biogHist>
-        <chronList>
-          <chronItem>
-            <event>Born</event>
-            <date standardDate="1936-04-02">April 02, 1936</date>
-            <placeEntry vocabularySource="http://www.geonames.org/4930956/">Boston (Mass.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Received AB from Princeton</event>
-            <date standardDate="1957">1957</date>
-            <placeEntry vocabularySource="http://www.geonames.org/5102955/">Princeton University (N.J.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Received MBA from Harvard</event>
-            <date standardDate="1959">1959</date>
-            <placeEntry vocabularySource="http://www.geonames.org/4938981/">Harvard University (Mass.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Worked for Kuhn Loeb &amp; Co.</event>
-            <dateRange>
-              <fromDate standardDate="1960">1960</fromDate>
-              <toDate standardDate="1961">1961</toDate>
-            </dateRange>
-            <placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Assistant treasurer at Corning Glass Works</event>
-            <dateRange>
-              <fromDate standardDate="1961">1961</fromDate>
-              <toDate standardDate="1966">1966</toDate>
-            </dateRange>
-            <placeEntry vocabularySource="http://www.geonames.org/5113760/">Corning (N.Y.)</placeEntry>
-          </chronItem>
-        </chronList>
-        <abstract>John W. Adams, researcher, investment banker and collector, was born on 2 April 1936 in Boston, MA.</abstract>
-        <p>John W. Adams, researcher, investment banker and collector, was born on 2 April 1936 in Boston, MA. He received an AB from Princeton (1957) and a MBA from Harvard (1959). Adams worked initially in the research department at Kuhn Loeb &amp; Co. in New York (1960-61), was assistant treasurer at Corning Glass Works (1961-66). For most of his working life, he worked at Adams, Harkness &amp; Hill, an investment bank in Boston, of which he was Chairman. He has served as a Trustee of the Massachusetts Historical Society, a Fellow of the American Antiquarian Society, President of the Numismatic Bibliomania Society and the Medal Collectors of America. He is a Fellow of the American Numismatic Society and has served on its board of Trustees.</p>
-        <p>His research in the field of numismatics focuses on American and European medals, numismatic literature, and large cents. In his early research, his approach is largely bibliographical. His publication Monographs on Varieties of United States Large Cents, 1793-1794, published in 1976, provided a concise introduction to the various key publications in this field. His two volumes on United States auction catalogs of the nineteenth and twentieth centuries (1982, 1990) are among the most useful bibliographical aids available; in particular Adams’ erudite introduction to the various collectors are of great value. Nowadays, such research is greatly aided by the Internet and search engines, but Adams wrote both books when it took considerable research time in archives and libraries to produce such works. In particular these two volumes continue to be standard works of US literature.</p>
-        <p>In the last 15 years, Adams has focused primarily in medals, both European and American. His book The Indian Peace Medals of George III, or, His Majesty’s Sometime Allies, published in 1999, demonstrates his breath of knowledge; through careful numismatic analysis Adams was able to expand our knowledge in this series. His approach to medals is largely historical, and his subsequent work on the peculiar series of John Law and the Mississippi System has become a standard work of this famous financial crisis of the early 18th century; in this book Adams illustrates his command of historical, financial and numismatic matters. Together with Anne Bentley, Adams wrote Comitia Americana and Related Medals: Underappreciated Monuments to our Heritage (2007). In this die-study, Adams and Bentley refined existing die analysis for this important early American series of medal. It is now the definitive historical and numismatic study on this subject, just like his last book, Medallic Portraits of Admiral Vernon (2010), written again with Anne Bentley and Fernando Chao. This book provides a study of the many varieties of the Vernon series, which often differ only in tiny differences. Here Adams worked with two experts, both of whom had access to large collections of these medals, and without this collaborative approach, this series would probably remain uncatalogued to this day. Joel Oroz, in his review of this work, compares it to classic American works such as Crosby’s Early Coins of America.</p>
-        <p>While there is an impressive corpus of books by Adams, he also is a frequent contributor to conference proceedings, journals and other publications. He has published articles about coin sales, individual medals, numismatic personalities, hoards, to name just a few. His involvement in MCA Advisory has turned this publication into a popular, but well informed publication.</p>
-        <p>What distinguishes John Adams from other writers is his passion for history, a beautiful, academically correct writing style, a sense for proper use of historical and numismatic sources and a sense for just the right kind of numismatic research.</p>
-      </biogHist>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025209">bankers (people)</term>
-      </occupation>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
-      </occupation>
-    </description>
-    <relations>
-      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
-        <relationEntry>American Numismatic Society</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:arcrole="org:memberOf" xlink:role="org:Organization" xlink:href="http://viaf.org/viaf/125214072">
-        <relationEntry>Massachusetts Historical Society</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/152412576" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
-        <relationEntry>American Antiquarian Society</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/144637660" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
-        <relationEntry>Numismatic Bibliomania Society</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/170779617" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
-        <relationEntry>Medal Collectors of America</relationEntry>
-      </cpfRelation>
-    </relations>
-  </cpfDescription>
+    <control>
+        <recordId>adams_john_w</recordId>
+        <maintenanceStatus>revised</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2014-06-12T14:17:00-04:00">Thu, 12 Jun 2014 14:17:00 -0400</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-19T16:21:45.17Z"/>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:50.17Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:52.523-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        <maintenanceEvent>
+					<eventType>revised</eventType>
+					<eventDateTime standardDateTime="2018-06-11T14:50:53.513-05:00"/>
+					<agentType>human</agentType>
+					<agent>Inserted URI</agent>
+				</maintenanceEvent></maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    <sources><source xlink:type="simple" xlink:href="">
+								<sourceEntry>VIAF</sourceEntry>
+								<descriptiveNote>
+									<p>Programmatically linked this record to VIAF with xEAC and extracted additional metadata from VIAF.</p>
+								</descriptiveNote>
+							</source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Adams, John W. (John Weston), 1936- , collector</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        <entityId localType="skos:exactMatch">http://n2t.net/ark:/99166/w6bk42hv</entityId></identity>
+        <description>
+            <existDates localType="xeac:life">
+                <dateRange>
+                    <fromDate standardDate="1936-04-02">April 02, 1936</fromDate>
+                    <toDate>-</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <chronList>
+                    <chronItem>
+                        <event>Born</event>
+                        <date standardDate="1936-04-02">April 02, 1936</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/4930956/">Boston (Mass.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Received AB from Princeton</event>
+                        <date standardDate="1957">1957</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/5102955/">Princeton University (N.J.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Received MBA from Harvard</event>
+                        <date standardDate="1959">1959</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/4938981/">Harvard University (Mass.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Worked for Kuhn Loeb &amp; Co.</event>
+                        <dateRange>
+                            <fromDate standardDate="1960">1960</fromDate>
+                            <toDate standardDate="1961">1961</toDate>
+                        </dateRange>
+                        <placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Assistant treasurer at Corning Glass Works</event>
+                        <dateRange>
+                            <fromDate standardDate="1961">1961</fromDate>
+                            <toDate standardDate="1966">1966</toDate>
+                        </dateRange>
+                        <placeEntry vocabularySource="http://www.geonames.org/5113760/">Corning (N.Y.)</placeEntry>
+                    </chronItem>
+                </chronList>
+                <abstract>John W. Adams, researcher, investment banker and collector, was born on 2 April 1936 in Boston, MA.</abstract>
+                <p>John W. Adams, researcher, investment banker and collector, was born on 2 April 1936 in Boston, MA. He received an AB from Princeton (1957) and a MBA from Harvard (1959). Adams worked initially in the research department at Kuhn Loeb &amp; Co. in New York (1960-61), was assistant treasurer at Corning Glass Works (1961-66). For most of his working life, he worked at Adams, Harkness &amp; Hill, an investment bank in Boston, of which he was Chairman. He has served as a Trustee of the Massachusetts Historical Society, a Fellow of the American Antiquarian Society, President of the Numismatic Bibliomania Society and the Medal Collectors of America. He is a Fellow of the American Numismatic Society and has served on its board of Trustees.</p>
+                <p>His research in the field of numismatics focuses on American and European medals, numismatic literature, and large cents. In his early research, his approach is largely bibliographical. His publication Monographs on Varieties of United States Large Cents, 1793-1794, published in 1976, provided a concise introduction to the various key publications in this field. His two volumes on United States auction catalogs of the nineteenth and twentieth centuries (1982, 1990) are among the most useful bibliographical aids available; in particular Adams’ erudite introduction to the various collectors are of great value. Nowadays, such research is greatly aided by the Internet and search engines, but Adams wrote both books when it took considerable research time in archives and libraries to produce such works. In particular these two volumes continue to be standard works of US literature.</p>
+                <p>In the last 15 years, Adams has focused primarily in medals, both European and American. His book The Indian Peace Medals of George III, or, His Majesty’s Sometime Allies, published in 1999, demonstrates his breath of knowledge; through careful numismatic analysis Adams was able to expand our knowledge in this series. His approach to medals is largely historical, and his subsequent work on the peculiar series of John Law and the Mississippi System has become a standard work of this famous financial crisis of the early 18th century; in this book Adams illustrates his command of historical, financial and numismatic matters. Together with Anne Bentley, Adams wrote Comitia Americana and Related Medals: Underappreciated Monuments to our Heritage (2007). In this die-study, Adams and Bentley refined existing die analysis for this important early American series of medal. It is now the definitive historical and numismatic study on this subject, just like his last book, Medallic Portraits of Admiral Vernon (2010), written again with Anne Bentley and Fernando Chao. This book provides a study of the many varieties of the Vernon series, which often differ only in tiny differences. Here Adams worked with two experts, both of whom had access to large collections of these medals, and without this collaborative approach, this series would probably remain uncatalogued to this day. Joel Oroz, in his review of this work, compares it to classic American works such as Crosby’s Early Coins of America.</p>
+                <p>While there is an impressive corpus of books by Adams, he also is a frequent contributor to conference proceedings, journals and other publications. He has published articles about coin sales, individual medals, numismatic personalities, hoards, to name just a few. His involvement in MCA Advisory has turned this publication into a popular, but well informed publication.</p>
+                <p>What distinguishes John Adams from other writers is his passion for history, a beautiful, academically correct writing style, a sense for proper use of historical and numismatic sources and a sense for just the right kind of numismatic research.</p>
+            </biogHist>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025209">bankers (people)</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
+            </occupation>
+        </description>
+        <relations>
+            <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+                <relationEntry>American Numismatic Society</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:arcrole="org:memberOf" xlink:role="org:Organization" xlink:href="http://viaf.org/viaf/125214072">
+                <relationEntry>Massachusetts Historical Society</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/152412576" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+                <relationEntry>American Antiquarian Society</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/144637660" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+                <relationEntry>Numismatic Bibliomania Society</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/170779617" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+                <relationEntry>Medal Collectors of America</relationEntry>
+            </cpfRelation>
+        </relations>
+    </cpfDescription>
 </eac-cpf>

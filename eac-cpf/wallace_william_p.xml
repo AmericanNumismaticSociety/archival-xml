@@ -1,0 +1,73 @@
+<eac-cpf xmlns="urn:isbn:1-931666-33-4">
+					<control>
+						<recordId>wallace_william_p</recordId>
+						<maintenanceAgency>
+							<agencyName>American Numismatic Society</agencyName>
+						</maintenanceAgency>
+						<maintenanceHistory>
+							<maintenanceEvent>
+								<eventType>created</eventType>
+								<eventDateTime standardDateTime="2018-06-11T15:30:07.563-05:00"/>
+								<agentType>human</agentType>
+								<agent>Created</agent>
+							</maintenanceEvent>
+						</maintenanceHistory>
+						<maintenanceStatus>revised</maintenanceStatus>
+						<publicationStatus>approved</publicationStatus>
+					<localTypeDeclaration>
+					<abbreviation>dcterms</abbreviation>
+					<citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:role="semantic" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+				</localTypeDeclaration>
+        <localTypeDeclaration>
+					<abbreviation>foaf</abbreviation>
+					<citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:role="semantic" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+				</localTypeDeclaration>
+        <localTypeDeclaration>
+					<abbreviation>org</abbreviation>
+					<citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:role="semantic" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+				</localTypeDeclaration>
+        <localTypeDeclaration>
+					<abbreviation>rel</abbreviation>
+					<citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:role="semantic" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+				</localTypeDeclaration>
+        <localTypeDeclaration>
+					<abbreviation>skos</abbreviation>
+					<citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:role="semantic" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+				</localTypeDeclaration>
+        <localTypeDeclaration>
+					<abbreviation>xeac</abbreviation>
+					<citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+				</localTypeDeclaration>
+        <sources>
+            <source xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="http://viaf.org/viaf/55544265">
+								<sourceEntry>VIAF</sourceEntry>
+								<descriptiveNote>
+									<p>Programmatically linked this record to VIAF with xEAC and extracted additional metadata from VIAF.</p>
+								</descriptiveNote>
+							</source>
+        </sources>
+    </control>
+					<cpfDescription>
+						<identity>
+							<entityType>person</entityType>
+							<nameEntry>
+								<part>Wallace, William P., 1907-1965</part>
+							</nameEntry>
+						<entityId localType="skos:exactMatch">http://viaf.org/viaf/55544265</entityId>
+        </identity>
+						<description>
+            <biogHist>
+                <abstract>William P. Wallace, a professor of classics at the University of Toronto, joined the American Numismatic Society in 1938, becoming a fellow in 1950. He was the author of The Euboian League and its Coinage, published by the ANS in 1956 (Numismatic Notes and Monographs 134). The Society acquired almost 200 of his coins, mostly from Euboean mints, in 1978. Nancy Waggoner discussed some of these coins in an article published in the ANS’s Museum Notes (no. 25, 1980), also mentioning his “great deal of unpublished material now housed in the American Numismatic Society.”</abstract>
+                <p>William P. Wallace, a professor of classics at the University of Toronto, joined the American Numismatic Society in 1938, becoming a fellow in 1950. He was the author of The Euboian League and its Coinage, published by the ANS in 1956 (Numismatic Notes and Monographs 134). The Society acquired almost 200 of his coins, mostly from Euboean mints, in 1978. Nancy Waggoner discussed some of these coins in an article published in the ANS’s Museum Notes (no. 25, 1980), also mentioning his “great deal of unpublished material now housed in the American Numismatic Society.”</p>
+            </biogHist>
+            <existDates localType="xeac:life">
+                <dateRange>
+								<fromDate standardDate="1907-05-29">May 29, 1907</fromDate>
+								<toDate standardDate="1965-12-14">December 14, 1965</toDate>
+							</dateRange>
+            </existDates>
+        </description>
+						<relations/>
+					<description/>
+    </cpfDescription>
+				</eac-cpf>

@@ -1,211 +1,217 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>west</recordId>
-    <maintenanceStatus>revised</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-      <agencyCode>US-nnan</agencyCode>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>derived</eventType>
-        <eventDateTime standardDateTime="2014-06-12T14:17:14-04:00">Thu, 12 Jun 2014 14:17:14 -0400</eventDateTime>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T18:00:01.332Z"/>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:50.093Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:52.441-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <identity>
-      <entityId localType="skos:exactMatch">http://viaf.org/viaf/41488481</entityId>
-      <entityId localType="skos:exactMatch">http://d-nb.info/gnd/16051908X</entityId>
-      <entityId localType="skos:exactMatch">http://www.idref.fr/084520078/id</entityId>
-      <entityType>person</entityType>
-      <nameEntry>
-        <part>West, Louis C. (Louis Caulton), 1882-1972</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <existDates localType="xeac:life">
-        <dateRange>
-          <fromDate standardDate="1882-10-15">October 15, 1882</fromDate>
-          <toDate standardDate="1972-01">January 1972</toDate>
-        </dateRange>
-      </existDates>
-      <biogHist>
-        <chronList>
-          <chronItem>
-            <event>Born</event>
-            <date standardDate="1882-10-15">October 15, 1882</date>
-            <placeEntry vocabularySource="http://www.geonames.org/5263045/">Milwaukee (Wis.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Received A.B. from Northwestern University</event>
-            <date standardDate="1905">1905</date>
-            <placeEntry vocabularySource="http://www.geonames.org/4904176/">Northwestern University (Ill.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Received M.A. from Northwestern University</event>
-            <date standardDate="1911">1911</date>
-            <placeEntry vocabularySource="http://www.geonames.org/4904176/">Northwestern University (Ill.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Studied ancient history and archaeology</event>
-            <dateRange>
-              <fromDate standardDate="1911">1911</fromDate>
-              <toDate standardDate="1912">1912</toDate>
-            </dateRange>
-            <placeEntry vocabularySource="http://www.geonames.org/4938981/">Harvard University (Mass.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Harvard/Museum of Fine Arts Giza expedition</event>
-            <dateRange>
-              <fromDate standardDate="1912">1912</fromDate>
-              <toDate standardDate="1914">1914</toDate>
-            </dateRange>
-            <placeEntry vocabularySource="http://www.geonames.org/360995/">Giza (Egypt)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Worked at Hayden Miller &amp; Co.</event>
-            <dateRange>
-              <fromDate standardDate="1914">1914</fromDate>
-              <toDate standardDate="1933">1933</toDate>
-            </dateRange>
-            <placeEntry vocabularySource="http://www.geonames.org/5150529/">Cleveland (Ohio)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Director of Finance of Cleveland</event>
-            <dateRange>
-              <fromDate standardDate="1933">1933</fromDate>
-              <toDate standardDate="1935">1935</toDate>
-            </dateRange>
-            <placeEntry vocabularySource="http://www.geonames.org/5150529/">Cleveland (Ohio)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Director of Indian Arts &amp; Crafts</event>
-            <dateRange>
-              <fromDate standardDate="1936">1936</fromDate>
-              <toDate standardDate="1937">1937</toDate>
-            </dateRange>
-          </chronItem>
-          <chronItem>
-            <event>Became lecturer and curator of coins and medals at Princeton</event>
-            <date standardDate="1940">1940</date>
-            <placeEntry vocabularySource="http://www.geonames.org/5102955/">Princeton University (N.J.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Joined ANS</event>
-            <date standardDate="1940">1940</date>
-          </chronItem>
-          <chronItem>
-            <event>Elected to the ANS Council</event>
-            <date standardDate="1942">1942</date>
-          </chronItem>
-          <chronItem>
-            <event>Participated in Committee on Reorganization</event>
-            <date standardDate="1947">1947</date>
-            <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
-          </chronItem>
-        </chronList>
-        <abstract>The 15th president of the ANS, was born in Milwaukee, Wisconsin, on October 15, 1882.</abstract>
-        <p>The 15th president of the ANS, was born in Milwaukee, Wisconsin, on October 15, 1882. Little is known about West's early life. We do know, however, that he obtained his A.B. and M.A. from Northwestern University in 1905 and 1911, respectively. He continued his studies in ancient history and archaeology at Harvard in 1911-12. In 1912 West left Harvard and spent two years in Egypt as an archaeologist with the Harvard/Museum of Fine Arts Giza expedition.</p>
-        <p>After his Egyptian sojourn West appears to have abandoned his scholarly pursuits at least temporarily in favor of a career in finance, working in the investment firm of Hayden Miller &amp; Co. in Cleveland, Ohio. After retiring from Hayden Miller in 1933, West served as Director of Finance for Cleveland from 1933 to 1935 and, in 1936-37, as Director of Indian Arts &amp; Crafts for the U.S. Department of Interior.</p>
-        <p>During the early 1940s, West moved East to work at Princeton University, where he served in the Classics Department as a lecturer and in the Firestone Library as the University's first Curator of the Coins and Medals. He retained both positions until the 1960s. At the same time West began working at Princeton, he was also starting a productive association with the ANS. In 1940, shortly after moving to Princeton, West joined the ANS as an Associate Member; he was elected a Fellow the following year. West was first elected to the ANS Council in 1942. West's contributions to the ANS in the 1940s came through his chairmanship of the Council's Finance Committee, as well as his participation in the Committee on Reorganization. ANS President Arthur S. Dewing formed the latter committee in 1947 to conduct a comprehensive review of the Society's management structure and staff responsibilities.</p>
-        <p>Many of the committee's recommendations were ultimately adopted by the Society and largely remained in place until the 1990s. Louis West succeeded Dewing as ANS President in 1949. West was an "in-house" president and commuted between Princeton and the Society's Audubon Terrace headquarters on a weekly basis. During his presidency, West established a strong friendship with Archer Huntington and was responsible for obtaining the funding from Huntington to pay for extensive renovations to the Audubon Terrace facility. He also spearheaded the creation of the Society's Graduate Summer Seminar in Numismatics. Ill health ultimately forced West to resign from the presidency in 1959, but he remained on the Council until his death in January 1972. Shortly before his death West was named an Honorary Councillor. West's primary area of interest was Roman economics, a subject on which he wrote 6 books. He also published more than 30 articles on various topics.</p>
-      </biogHist>
-      <occupation>
-        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
-        <dateRange>
-          <fromDate standardDate="1949">1949</fromDate>
-          <toDate standardDate="1959">1959</toDate>
-        </dateRange>
-        <term>President, ANS</term>
-      </occupation>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300266109">academics (people)</term>
-      </occupation>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
-      </occupation>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025633">curators</term>
-      </occupation>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025486">archaeologists</term>
-      </occupation>
-    </description>
-    <relations>
-      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
-        <dateRange>
-          <fromDate standardDate="1940">1940</fromDate>
-          <toDate standardDate="1972">1972</toDate>
-        </dateRange>
-        <relationEntry>American Numismatic Society</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/145957339" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
-        <relationEntry>United States. Deptartment of the Interior</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:href="huntington" xlink:arcrole="rel:friendOf" xlink:role="foaf:Person">
-        <relationEntry>Huntington, Archer M. (Archer Milton), 1870-1955</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:href="dewing" xlink:arcrole="rel:colleagueOf" xlink:role="org:Organization">
-        <relationEntry>Dewing, Arthur S., 1880-1971</relationEntry>
-      </cpfRelation>
-      <resourceRelation xlink:type="simple" xlink:href="http://farm8.staticflickr.com/7355/10748466073_f9ee45bc02_m.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
-        <relationEntry>portrait</relationEntry>
-      </resourceRelation>
-    </relations>
-  </cpfDescription>
+    <control>
+        <recordId>west</recordId>
+        <maintenanceStatus>revised</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2014-06-12T14:17:14-04:00">Thu, 12 Jun 2014 14:17:14 -0400</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T18:00:01.332Z"/>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:50.093Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:52.441-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        <maintenanceEvent>
+					<eventType>revised</eventType>
+					<eventDateTime standardDateTime="2019-01-25T09:16:35.589-06:00"/>
+					<agentType>human</agentType>
+					<agent>Inserted URIs</agent>
+				</maintenanceEvent>
+        </maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityId localType="skos:exactMatch">http://viaf.org/viaf/41488481</entityId>
+            <entityId localType="skos:exactMatch">http://d-nb.info/gnd/16051908X</entityId>
+            <entityId localType="skos:exactMatch">http://www.idref.fr/084520078</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>West, Louis C. (Louis Caulton), 1882-1972</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        <entityId localType="skos:exactMatch">http://n2t.net/ark:/99166/w6906ktp</entityId>
+        </identity>
+        <description>
+            <existDates localType="xeac:life">
+                <dateRange>
+                    <fromDate standardDate="1882-10-15">October 15, 1882</fromDate>
+                    <toDate standardDate="1972-01">January 1972</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <chronList>
+                    <chronItem>
+                        <event>Born</event>
+                        <date standardDate="1882-10-15">October 15, 1882</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/5263045/">Milwaukee (Wis.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Received A.B. from Northwestern University</event>
+                        <date standardDate="1905">1905</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/4904176/">Northwestern University (Ill.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Received M.A. from Northwestern University</event>
+                        <date standardDate="1911">1911</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/4904176/">Northwestern University (Ill.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Studied ancient history and archaeology</event>
+                        <dateRange>
+                            <fromDate standardDate="1911">1911</fromDate>
+                            <toDate standardDate="1912">1912</toDate>
+                        </dateRange>
+                        <placeEntry vocabularySource="http://www.geonames.org/4938981/">Harvard University (Mass.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Harvard/Museum of Fine Arts Giza expedition</event>
+                        <dateRange>
+                            <fromDate standardDate="1912">1912</fromDate>
+                            <toDate standardDate="1914">1914</toDate>
+                        </dateRange>
+                        <placeEntry vocabularySource="http://www.geonames.org/360995/">Giza (Egypt)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Worked at Hayden Miller &amp; Co.</event>
+                        <dateRange>
+                            <fromDate standardDate="1914">1914</fromDate>
+                            <toDate standardDate="1933">1933</toDate>
+                        </dateRange>
+                        <placeEntry vocabularySource="http://www.geonames.org/5150529/">Cleveland (Ohio)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Director of Finance of Cleveland</event>
+                        <dateRange>
+                            <fromDate standardDate="1933">1933</fromDate>
+                            <toDate standardDate="1935">1935</toDate>
+                        </dateRange>
+                        <placeEntry vocabularySource="http://www.geonames.org/5150529/">Cleveland (Ohio)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Director of Indian Arts &amp; Crafts</event>
+                        <dateRange>
+                            <fromDate standardDate="1936">1936</fromDate>
+                            <toDate standardDate="1937">1937</toDate>
+                        </dateRange>
+                    </chronItem>
+                    <chronItem>
+                        <event>Became lecturer and curator of coins and medals at Princeton</event>
+                        <date standardDate="1940">1940</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/5102955/">Princeton University (N.J.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Joined ANS</event>
+                        <date standardDate="1940">1940</date>
+                    </chronItem>
+                    <chronItem>
+                        <event>Elected to the ANS Council</event>
+                        <date standardDate="1942">1942</date>
+                    </chronItem>
+                    <chronItem>
+                        <event>Participated in Committee on Reorganization</event>
+                        <date standardDate="1947">1947</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+                    </chronItem>
+                </chronList>
+                <abstract>The 15th president of the ANS, was born in Milwaukee, Wisconsin, on October 15, 1882.</abstract>
+                <p>The 15th president of the ANS, was born in Milwaukee, Wisconsin, on October 15, 1882. Little is known about West's early life. We do know, however, that he obtained his A.B. and M.A. from Northwestern University in 1905 and 1911, respectively. He continued his studies in ancient history and archaeology at Harvard in 1911-12. In 1912 West left Harvard and spent two years in Egypt as an archaeologist with the Harvard/Museum of Fine Arts Giza expedition.</p>
+                <p>After his Egyptian sojourn West appears to have abandoned his scholarly pursuits at least temporarily in favor of a career in finance, working in the investment firm of Hayden Miller &amp; Co. in Cleveland, Ohio. After retiring from Hayden Miller in 1933, West served as Director of Finance for Cleveland from 1933 to 1935 and, in 1936-37, as Director of Indian Arts &amp; Crafts for the U.S. Department of Interior.</p>
+                <p>During the early 1940s, West moved East to work at Princeton University, where he served in the Classics Department as a lecturer and in the Firestone Library as the University's first Curator of the Coins and Medals. He retained both positions until the 1960s. At the same time West began working at Princeton, he was also starting a productive association with the ANS. In 1940, shortly after moving to Princeton, West joined the ANS as an Associate Member; he was elected a Fellow the following year. West was first elected to the ANS Council in 1942. West's contributions to the ANS in the 1940s came through his chairmanship of the Council's Finance Committee, as well as his participation in the Committee on Reorganization. ANS President Arthur S. Dewing formed the latter committee in 1947 to conduct a comprehensive review of the Society's management structure and staff responsibilities.</p>
+                <p>Many of the committee's recommendations were ultimately adopted by the Society and largely remained in place until the 1990s. Louis West succeeded Dewing as ANS President in 1949. West was an "in-house" president and commuted between Princeton and the Society's Audubon Terrace headquarters on a weekly basis. During his presidency, West established a strong friendship with Archer Huntington and was responsible for obtaining the funding from Huntington to pay for extensive renovations to the Audubon Terrace facility. He also spearheaded the creation of the Society's Graduate Summer Seminar in Numismatics. Ill health ultimately forced West to resign from the presidency in 1959, but he remained on the Council until his death in January 1972. Shortly before his death West was named an Honorary Councillor. West's primary area of interest was Roman economics, a subject on which he wrote 6 books. He also published more than 30 articles on various topics.</p>
+            </biogHist>
+            <occupation>
+                <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+                <dateRange>
+                    <fromDate standardDate="1949">1949</fromDate>
+                    <toDate standardDate="1959">1959</toDate>
+                </dateRange>
+                <term>President, ANS</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300266109">academics (people)</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025633">curators</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025486">archaeologists</term>
+            </occupation>
+        </description>
+        <relations>
+            <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+                <dateRange>
+                    <fromDate standardDate="1940">1940</fromDate>
+                    <toDate standardDate="1972">1972</toDate>
+                </dateRange>
+                <relationEntry>American Numismatic Society</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/145957339" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+                <relationEntry>United States. Deptartment of the Interior</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:href="huntington" xlink:arcrole="rel:friendOf" xlink:role="foaf:Person">
+                <relationEntry>Huntington, Archer M. (Archer Milton), 1870-1955</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:href="dewing" xlink:arcrole="rel:colleagueOf" xlink:role="org:Organization">
+                <relationEntry>Dewing, Arthur S., 1880-1971</relationEntry>
+            </cpfRelation>
+            <resourceRelation xlink:type="simple" xlink:href="http://farm8.staticflickr.com/7355/10748466073_f9ee45bc02_m.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
+                <relationEntry>portrait</relationEntry>
+            </resourceRelation>
+        </relations>
+    </cpfDescription>
 </eac-cpf>

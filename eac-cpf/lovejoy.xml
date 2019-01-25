@@ -1,134 +1,133 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>lovejoy</recordId>
-    <maintenanceStatus>revised</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-      <agencyCode>US-nnan</agencyCode>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>derived</eventType>
-        <eventDateTime standardDateTime="2014-06-12T14:17:07-04:00">Thu, 12 Jun 2014 14:17:07 -0400</eventDateTime>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T12:36:20.147Z"/>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-24T13:01:54.99Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Deleted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-24T13:03:41.379Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:49.52Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:51.874-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <identity>
-      <entityType>person</entityType>
-      <nameEntry>
-        <part>Lovejoy, Allen F. (Allen Fraser), 1919-1997</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <existDates localType="xeac:life">
-        <dateRange>
-          <fromDate standardDate="1919">1919</fromDate>
-          <toDate standardDate="1997">1997</toDate>
-        </dateRange>
-      </existDates>
-      <biogHist>
-        <chronList>
-          <chronItem>
-            <event>Born</event>
-            <date standardDate="1919">1919</date>
-            <placeEntry vocabularySource="http://www.geonames.org/5257754/">Janesville (Wis.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Graduated from Hotchkiss School</event>
-            <date standardDate="1937">1937</date>
-            <placeEntry vocabularySource="http://www.geonames.org/4837516/">Lakeville (Conn.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Graduated Yale</event>
-            <date standardDate="1941">1941</date>
-            <placeEntry vocabularySource="http://www.geonames.org/4846179/">Yale University (Conn.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Partner of New York law firm Breed Abbott</event>
-            <dateRange>
-              <fromDate standardDate="1958">1958</fromDate>
-              <toDate standardDate="1987">1987</toDate>
-            </dateRange>
-            <placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry>
-          </chronItem>
-        </chronList>
-        <abstract>Allen F. Lovejoy (1919-1997) of Riverside, Connecticut, was an expert on early American dimes, assembling a collection spanning from 1796 to the late 20th century and coauthoring the definitive reference book on the subject, Early United States Dimes, 1796-1837 (1984).</abstract>
-        <p>Allen F. Lovejoy (1919-1997) of Riverside, Connecticut, was an expert on early American dimes, assembling a collection spanning from 1796 to the late 20th century and coauthoring the definitive reference book on the subject, Early United States Dimes, 1796-1837 (1984). He was elected a member of the American Numismatic Society in 1975, became a fellow in 1978, and in 1988 was elected to the Society’s governing council. Lovejoy was born in Janesville, Wisconsin, and was a graduate of the Hotchkiss School (1937) and Yale University (1941). He served in Normandy and Northern France during World War II and then went on to earn an LL.B. from Yale before joining the New York Law firm of Breed Abbott, where he became a partner in 1958. He retired in 1987.</p>
-      </biogHist>
-    </description>
-    <relations>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf">
-        <relationEntry>American Numismatic Society</relationEntry>
-      </cpfRelation>
-    </relations>
-  </cpfDescription>
+    <control>
+        <recordId>lovejoy</recordId>
+        <maintenanceStatus>revised</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2014-06-12T14:17:07-04:00">Thu, 12 Jun 2014 14:17:07 -0400</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T12:36:20.147Z"/>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-24T13:01:54.99Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Deleted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-24T13:03:41.379Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:49.52Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:51.874-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        </maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Lovejoy, Allen F. (Allen Fraser), 1919-1997</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        </identity>
+        <description>
+            <existDates localType="xeac:life">
+                <dateRange>
+                    <fromDate standardDate="1919">1919</fromDate>
+                    <toDate standardDate="1997">1997</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <chronList>
+                    <chronItem>
+                        <event>Born</event>
+                        <date standardDate="1919">1919</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/5257754/">Janesville (Wis.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Graduated from Hotchkiss School</event>
+                        <date standardDate="1937">1937</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/4837516/">Lakeville (Conn.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Graduated Yale</event>
+                        <date standardDate="1941">1941</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/4846179/">Yale University (Conn.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Partner of New York law firm Breed Abbott</event>
+                        <dateRange>
+                            <fromDate standardDate="1958">1958</fromDate>
+                            <toDate standardDate="1987">1987</toDate>
+                        </dateRange>
+                        <placeEntry vocabularySource="http://www.geonames.org/5128581/">New York (N.Y.)</placeEntry>
+                    </chronItem>
+                </chronList>
+                <abstract>Allen F. Lovejoy (1919-1997) of Riverside, Connecticut, was an expert on early American dimes, assembling a collection spanning from 1796 to the late 20th century and coauthoring the definitive reference book on the subject, Early United States Dimes, 1796-1837 (1984).</abstract>
+                <p>Allen F. Lovejoy (1919-1997) of Riverside, Connecticut, was an expert on early American dimes, assembling a collection spanning from 1796 to the late 20th century and coauthoring the definitive reference book on the subject, Early United States Dimes, 1796-1837 (1984). He was elected a member of the American Numismatic Society in 1975, became a fellow in 1978, and in 1988 was elected to the Society’s governing council. Lovejoy was born in Janesville, Wisconsin, and was a graduate of the Hotchkiss School (1937) and Yale University (1941). He served in Normandy and Northern France during World War II and then went on to earn an LL.B. from Yale before joining the New York Law firm of Breed Abbott, where he became a partner in 1958. He retired in 1987.</p>
+            </biogHist>
+        </description>
+        <relations>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf">
+                <relationEntry>American Numismatic Society</relationEntry>
+            </cpfRelation>
+        </relations>
+    </cpfDescription>
 </eac-cpf>

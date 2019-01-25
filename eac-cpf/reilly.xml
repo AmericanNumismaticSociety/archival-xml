@@ -1,176 +1,175 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>reilly</recordId>
-    <maintenanceStatus>revised</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-      <agencyCode>US-nnan</agencyCode>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>derived</eventType>
-        <eventDateTime standardDateTime="2014-06-12T14:17:11-04:00">Thu, 12 Jun 2014 14:17:11 -0400</eventDateTime>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T14:47:06.698Z"/>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-24T13:01:55.989Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Deleted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-24T13:03:40.997Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:49.726Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:52.095-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <identity>
-      <entityType>person</entityType>
-      <nameEntry>
-        <part>Reilly, John, 1876-1931</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <existDates localType="xeac:life">
-        <dateRange>
-          <fromDate standardDate="1867">1867</fromDate>
-          <toDate standardDate="1931">1931</toDate>
-        </dateRange>
-      </existDates>
-      <biogHist>
-        <chronList>
-          <chronItem>
-            <event>Born</event>
-            <date standardDate="1876">1876</date>
-            <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Graduated from Princeton</event>
-            <date standardDate="1898">1898</date>
-            <placeEntry vocabularySource="http://www.geonames.org/5102955/">Princeton University (N.J.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Recieved M.S.</event>
-            <date standardDate="1899">1899</date>
-            <placeEntry vocabularySource="http://www.geonames.org/5102955/">Princeton University (N.J.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Received electrical engineering degree</event>
-            <date standardDate="1901">1901</date>
-            <placeEntry vocabularySource="http://www.geonames.org/5102955/">Princeton University (N.J.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Met Henry A. Ramsden</event>
-            <date standardDate="1909">1909</date>
-            <placeEntry vocabularySource="http://www.geonames.org/1861060/">Japan</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Joined ANS</event>
-            <date standardDate="1910">1910</date>
-          </chronItem>
-          <chronItem>
-            <event>Purchased Ramsden's collection</event>
-            <date standardDate="1915">1915</date>
-          </chronItem>
-          <chronItem>
-            <event>Resigned as ANS Treasuer, left for China</event>
-            <date standardDate="1925">1925</date>
-            <placeEntry vocabularySource="http://www.geonames.org/1814991/">China</placeEntry>
-          </chronItem>
-        </chronList>
-        <abstract>John Reilly, Jr. (1876-1931) began his career as an engineer, but his love of coin collecting became his primary interest, and he would eventually amass the largest collection of Far Eastern coins in the world.</abstract>
-        <p>John Reilly, Jr. (1876-1931) began his career as an engineer, but his love of coin collecting became his primary interest, and he would eventually amass the largest collection of Far Eastern coins in the world. After becoming a member in 1910, he played an active role in the American Numismatic Society, serving as council member (1914-1931), treasurer (1915-1924), and governor (1916-1924). The son of a U.S. representative from Pennsylvania, Reilly was born in Philadelphia and was a graduate of Princeton (1898), where he went on to receive master of science (1899) and electrical engineering (1901) degrees. His interest in Far Eastern coin collecting was greatly influenced by the numismatist collector and scholar Henry A. Ramsden, whom he first met on a trip to Japan in 1909, the same year he acquired a collection of Japanese coins from Neil Gordon Munro. Ramsden was a business partner with Japanese coin dealer Jun Kobayagawa of Yokohama. He was also Kobayagawa’s brother in law. After Ramsden’s death in 1915, Reilly purchased his collection. Reilly resigned as treasurer and left for China in 1925, eventually returning to New York City, where he died. His collections had been housed in the Society’s headquarters for about fifteen years before his death. In 1938, his daughter Frances formally presented the collection to the Society as a gift. The Society maintained a Reilly Room for decades where his collections were shown.</p>
-      </biogHist>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
-      </occupation>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025079">electrical engineers</term>
-      </occupation>
-      <occupation>
-        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
-        <dateRange>
-          <fromDate standardDate="1915">1915</fromDate>
-          <toDate standardDate="1924">1924</toDate>
-        </dateRange>
-        <term>Treasurer, ANS</term>
-      </occupation>
-    </description>
-    <relations>
-      <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/89347240" xlink:arcrole="rel:colleagueOf" xlink:role="foaf:Person">
-        <relationEntry>Ramsden, H.A. (Henry A.)</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/54289815" xlink:arcrole="rel:colleagueOf" xlink:role="foaf:Person">
-        <relationEntry>Munro, Neil Gordon, 1863-1942</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:arcrole="rel:worksWith" xlink:role="foaf:Person">
-        <relationEntry>Kobayagawa, Jun</relationEntry>
-        <placeEntry vocabularySource="http://www.geonames.org/1848354/">Yokohama (Japan)</placeEntry>
-      </cpfRelation>
-      <resourceRelation xlink:type="simple" xlink:href="http://farm7.static.flickr.com/6048/6220190351_ec9bd3de60_m.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
-        <relationEntry>portrait</relationEntry>
-      </resourceRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf">
-        <relationEntry>American Numismatic Society</relationEntry>
-      </cpfRelation>
-    </relations>
-  </cpfDescription>
+    <control>
+        <recordId>reilly</recordId>
+        <maintenanceStatus>revised</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2014-06-12T14:17:11-04:00">Thu, 12 Jun 2014 14:17:11 -0400</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T14:47:06.698Z"/>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-24T13:01:55.989Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Deleted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-24T13:03:40.997Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:49.726Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:52.095-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        </maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Reilly, John, 1876-1931</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        </identity>
+        <description>
+            <existDates localType="xeac:life">
+                <dateRange>
+                    <fromDate standardDate="1867">1867</fromDate>
+                    <toDate standardDate="1931">1931</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <chronList>
+                    <chronItem>
+                        <event>Born</event>
+                        <date standardDate="1876">1876</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Graduated from Princeton</event>
+                        <date standardDate="1898">1898</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/5102955/">Princeton University (N.J.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Recieved M.S.</event>
+                        <date standardDate="1899">1899</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/5102955/">Princeton University (N.J.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Received electrical engineering degree</event>
+                        <date standardDate="1901">1901</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/5102955/">Princeton University (N.J.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Met Henry A. Ramsden</event>
+                        <date standardDate="1909">1909</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/1861060/">Japan</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Joined ANS</event>
+                        <date standardDate="1910">1910</date>
+                    </chronItem>
+                    <chronItem>
+                        <event>Purchased Ramsden's collection</event>
+                        <date standardDate="1915">1915</date>
+                    </chronItem>
+                    <chronItem>
+                        <event>Resigned as ANS Treasuer, left for China</event>
+                        <date standardDate="1925">1925</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/1814991/">China</placeEntry>
+                    </chronItem>
+                </chronList>
+                <abstract>John Reilly, Jr. (1876-1931) began his career as an engineer, but his love of coin collecting became his primary interest, and he would eventually amass the largest collection of Far Eastern coins in the world.</abstract>
+                <p>John Reilly, Jr. (1876-1931) began his career as an engineer, but his love of coin collecting became his primary interest, and he would eventually amass the largest collection of Far Eastern coins in the world. After becoming a member in 1910, he played an active role in the American Numismatic Society, serving as council member (1914-1931), treasurer (1915-1924), and governor (1916-1924). The son of a U.S. representative from Pennsylvania, Reilly was born in Philadelphia and was a graduate of Princeton (1898), where he went on to receive master of science (1899) and electrical engineering (1901) degrees. His interest in Far Eastern coin collecting was greatly influenced by the numismatist collector and scholar Henry A. Ramsden, whom he first met on a trip to Japan in 1909, the same year he acquired a collection of Japanese coins from Neil Gordon Munro. Ramsden was a business partner with Japanese coin dealer Jun Kobayagawa of Yokohama. He was also Kobayagawa’s brother in law. After Ramsden’s death in 1915, Reilly purchased his collection. Reilly resigned as treasurer and left for China in 1925, eventually returning to New York City, where he died. His collections had been housed in the Society’s headquarters for about fifteen years before his death. In 1938, his daughter Frances formally presented the collection to the Society as a gift. The Society maintained a Reilly Room for decades where his collections were shown.</p>
+            </biogHist>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025079">electrical engineers</term>
+            </occupation>
+            <occupation>
+                <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+                <dateRange>
+                    <fromDate standardDate="1915">1915</fromDate>
+                    <toDate standardDate="1924">1924</toDate>
+                </dateRange>
+                <term>Treasurer, ANS</term>
+            </occupation>
+        </description>
+        <relations>
+            <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/89347240" xlink:arcrole="rel:colleagueOf" xlink:role="foaf:Person">
+                <relationEntry>Ramsden, H.A. (Henry A.)</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/54289815" xlink:arcrole="rel:colleagueOf" xlink:role="foaf:Person">
+                <relationEntry>Munro, Neil Gordon, 1863-1942</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:arcrole="rel:worksWith" xlink:role="foaf:Person">
+                <relationEntry>Kobayagawa, Jun</relationEntry>
+                <placeEntry vocabularySource="http://www.geonames.org/1848354/">Yokohama (Japan)</placeEntry>
+            </cpfRelation>
+            <resourceRelation xlink:type="simple" xlink:href="http://farm7.static.flickr.com/6048/6220190351_ec9bd3de60_m.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
+                <relationEntry>portrait</relationEntry>
+            </resourceRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf">
+                <relationEntry>American Numismatic Society</relationEntry>
+            </cpfRelation>
+        </relations>
+    </cpfDescription>
 </eac-cpf>

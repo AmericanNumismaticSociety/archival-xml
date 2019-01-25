@@ -1,100 +1,109 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>sage</recordId>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>created</eventType>
-        <eventDateTime standardDateTime="2014-06-20T19:41:22.534Z"/>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:49.256Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:51.56-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <maintenanceStatus>new</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <identity>
-      <entityType>person</entityType>
-      <nameEntry>
-        <part>Sage, Augustus B., 1842-1874</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <existDates localType="xeac:life">
-        <dateRange>
-          <fromDate standardDate="1842">1842</fromDate>
-          <toDate standardDate="1874-02-19">February 19, 1874</toDate>
-        </dateRange>
-      </existDates>
-      <biogHist>
-        <abstract>One of the founding members of the ANS, the first meeting of the ANS was held in Sage's home in 1858. </abstract>
-        <p>Best remembered today for his medallic series, Sage's Numismatic Gallery, Augustus B. Sage was born in Connecticut in 1842. Little in known of Sage's early life, but in 1858 he was one of a small group of men who decided to form an "Antiquarian Society" in New York City for the study of coins and medals. (This Society, of course, would subsequently be renamed the "American Numismatic Society.") </p>
-        <p>The first meeting of this new society took place on March 15, 1858 at Sage's home on 121 Essex Street in New York City. Additional meetings, including the first formal meeting of the ANS on April 6, 1858, were also held at his home. At this latter meeting, Sage was elected Corresponding Secretary. Later that same year, on November 3, 1858, he was also elected Curator, although pressure from other matters caused him to resign from that position in January 1859. </p>
-        <p>In August 1862, with the Civil War raging, Sage joined the Union Army as a Captain in the New York Infantry Volunteers' 170th Regiment. Sage's first stint in the military service was cut short, however, when he was forced to resign due to ill health in December 1862. By July of 1863 he had recovered sufficiently to return to service, where he served with distinction and rose to the rank of Colonel before submitting his final resignation in December 1863. </p>
-        <p>After leaving the military, Sage returned to New York City where he became a lawyer. There are few indications that Sage had any significant contact with the ANS after his return to New York, other than a series of reminiscences on the formation of the ANS, which he wrote for the American Journal of Numismatics in 1867 and a few dies and catalogs which he donated that same year. </p>
-        <p>Sage died from pneumonia on February 19, 1874 at the age of 32.</p>
-      </biogHist>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
-      </occupation>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300236210">military officers</term>
-      </occupation>
-    </description>
-    <relations>
-      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
-        <relationEntry>American Numismatic Society</relationEntry>
-      </cpfRelation>
-      <resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/sage.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
-        <relationEntry>portrait</relationEntry>
-      </resourceRelation>
-    </relations>
-  </cpfDescription>
+    <control>
+        <recordId>sage</recordId>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2014-06-20T19:41:22.534Z"/>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:49.256Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:51.56-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        <maintenanceEvent>
+					<eventType>revised</eventType>
+					<eventDateTime standardDateTime="2018-06-11T14:32:53.841-05:00"/>
+					<agentType>human</agentType>
+					<agent>Added URIs</agent>
+				</maintenanceEvent></maintenanceHistory>
+        <maintenanceStatus>revised</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    <sources><source xlink:type="simple" xlink:href="http://viaf.org/viaf/78704825">
+								<sourceEntry>VIAF</sourceEntry>
+								<descriptiveNote>
+									<p>Programmatically linked this record to VIAF with xEAC and extracted additional metadata from VIAF.</p>
+								</descriptiveNote>
+							</source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Sage, Augustus B., 1842-1874</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        <entityId localType="skos:exactMatch">http://viaf.org/viaf/78704825</entityId><entityId localType="skos:exactMatch">http://n2t.net/ark:/99166/w6ns4s9q</entityId></identity>
+        <description>
+            <existDates localType="xeac:life">
+                <dateRange>
+                    <fromDate standardDate="1842">1842</fromDate>
+                    <toDate standardDate="1874-02-19">February 19, 1874</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <abstract>One of the founding members of the ANS, the first meeting of the ANS was held in Sage's home in 1858. </abstract>
+                <p>Best remembered today for his medallic series, Sage's Numismatic Gallery, Augustus B. Sage was born in Connecticut in 1842. Little in known of Sage's early life, but in 1858 he was one of a small group of men who decided to form an "Antiquarian Society" in New York City for the study of coins and medals. (This Society, of course, would subsequently be renamed the "American Numismatic Society.") </p>
+                <p>The first meeting of this new society took place on March 15, 1858 at Sage's home on 121 Essex Street in New York City. Additional meetings, including the first formal meeting of the ANS on April 6, 1858, were also held at his home. At this latter meeting, Sage was elected Corresponding Secretary. Later that same year, on November 3, 1858, he was also elected Curator, although pressure from other matters caused him to resign from that position in January 1859. </p>
+                <p>In August 1862, with the Civil War raging, Sage joined the Union Army as a Captain in the New York Infantry Volunteers' 170th Regiment. Sage's first stint in the military service was cut short, however, when he was forced to resign due to ill health in December 1862. By July of 1863 he had recovered sufficiently to return to service, where he served with distinction and rose to the rank of Colonel before submitting his final resignation in December 1863. </p>
+                <p>After leaving the military, Sage returned to New York City where he became a lawyer. There are few indications that Sage had any significant contact with the ANS after his return to New York, other than a series of reminiscences on the formation of the ANS, which he wrote for the American Journal of Numismatics in 1867 and a few dies and catalogs which he donated that same year. </p>
+                <p>Sage died from pneumonia on February 19, 1874 at the age of 32.</p>
+            </biogHist>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300236210">military officers</term>
+            </occupation>
+        </description>
+        <relations>
+            <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+                <relationEntry>American Numismatic Society</relationEntry>
+            </cpfRelation>
+            <resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/sage.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
+                <relationEntry>portrait</relationEntry>
+            </resourceRelation>
+        </relations>
+    </cpfDescription>
 </eac-cpf>

@@ -1,89 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>cahn</recordId>
-    <maintenanceStatus>revised</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-      <agencyCode>US-nnan</agencyCode>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>derived</eventType>
-        <eventDateTime standardDateTime="2014-06-19T14:25:36.16Z">Thu, 12 Jun 2014 14:17:03 -0400</eventDateTime>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:49.734Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:52.102-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <identity>
-      <entityId localType="skos:exactMatch">http://viaf.org/viaf/71406352</entityId>
-      <entityId localType="skos:exactMatch">http://d-nb.info/gnd/119170434</entityId>
-      <entityId localType="skos:exactMatch">http://dbpedia.org/resource/Herbert_Cahn</entityId>
-      <entityId localType="skos:exactMatch">http://data.bnf.fr/ark:/12148/cb12032333b#foaf:Person</entityId>
-      <entityId localType="skos:exactMatch">http://www.idref.fr/028499700/id</entityId>
-      <entityType>person</entityType>
-      <nameEntry>
-        <part>Cahn, Herbert Adolph, 1915-2002</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <existDates localType="xeac:life">
-        <dateRange>
-          <fromDate standardDate="1915">1915</fromDate>
-          <toDate standardDate="2002">2002</toDate>
-        </dateRange>
-      </existDates>
-      <biogHist>
-        <abstract>Herbert A. Cahn (1915-2002) was as a classical archaeologist, numismatist, coin-dealer and antiquities-dealer.</abstract>
-        <p>Herbert A. Cahn (1915-2002) was as a classical archaeologist, numismatist, coin-dealer and antiquities-dealer. Born in Germany, he became a Swiss citizen in 1949. As a boy he assisted in compiling the sales catalogs for his father's firm. He studied classical archaeology and philology at the Universität Frankfurt under Ernst Langlotz. With the Nazi rise to power in Germany, Cahn, who was a Jew, emigrated to Switzerland in 1933 and continued his studies at Basel. His brother, Erich B. Cahn (1913-1993), also emigrated, establishing a coin dealership there the same year; the brothers began a long association together. Herbert Cahn received his doctorate in 1940 under Ernst Pfuh, writing on the coinage of Naxos which was published a few years later under the title Die Münzen der sizilischen Stadt Naxos. Ein Beitrag zur Kunstgeschichte des griechischen Westen. (“The Coins of the Sicilian City of Nexos”). This landmark die study is considered the standard reference for the coinage of Sicilian Naxos. Cahn joined the ANS in 1936 and was made a Corresponding Member in 1977. He received in 1983 the ANS's Huntington Award in recognition of his substantial contribution to the field of numismatics.</p>
-      </biogHist>
-    </description>
-  </cpfDescription>
+    <control>
+        <recordId>cahn</recordId>
+        <maintenanceStatus>revised</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2014-06-19T14:25:36.16Z">Thu, 12 Jun 2014 14:17:03 -0400</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:49.734Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:52.102-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        <maintenanceEvent>
+					<eventType>revised</eventType>
+					<eventDateTime standardDateTime="2019-01-25T07:59:12.656-06:00"/>
+					<agentType>human</agentType>
+					<agent>Inserted URIs</agent>
+				</maintenanceEvent>
+        </maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityId localType="skos:exactMatch">http://viaf.org/viaf/71406352</entityId>
+            <entityId localType="skos:exactMatch">http://d-nb.info/gnd/119170434</entityId>
+            <entityId localType="skos:exactMatch">http://dbpedia.org/resource/Herbert_Cahn</entityId>
+            
+            
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Cahn, Herbert Adolph, 1915-2002</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        <entityId localType="skos:exactMatch">http://n2t.net/ark:/99166/w6p1433g</entityId>
+            <entityId localType="skos:exactMatch">http://www.wikidata.org/entity/Q97402</entityId>
+            <entityId localType="skos:exactMatch">http://id.loc.gov/authorities/names/n81068559</entityId>
+            <entityId localType="skos:exactMatch">http://isni.org/0000000109135612</entityId>
+            <entityId localType="skos:exactMatch">http://catalogue.bnf.fr/ark:/12148/cb12032333b</entityId>
+            <entityId localType="skos:exactMatch">http://www.idref.fr/028499700</entityId>
+        </identity>
+        <description>
+            <existDates localType="xeac:life">
+                <dateRange>
+                    <fromDate standardDate="1915">1915</fromDate>
+                    <toDate standardDate="2002">2002</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <abstract>Herbert A. Cahn (1915-2002) was as a classical archaeologist, numismatist, coin-dealer and antiquities-dealer.</abstract>
+                <p>Herbert A. Cahn (1915-2002) was as a classical archaeologist, numismatist, coin-dealer and antiquities-dealer. Born in Germany, he became a Swiss citizen in 1949. As a boy he assisted in compiling the sales catalogs for his father's firm. He studied classical archaeology and philology at the Universität Frankfurt under Ernst Langlotz. With the Nazi rise to power in Germany, Cahn, who was a Jew, emigrated to Switzerland in 1933 and continued his studies at Basel. His brother, Erich B. Cahn (1913-1993), also emigrated, establishing a coin dealership there the same year; the brothers began a long association together. Herbert Cahn received his doctorate in 1940 under Ernst Pfuh, writing on the coinage of Naxos which was published a few years later under the title Die Münzen der sizilischen Stadt Naxos. Ein Beitrag zur Kunstgeschichte des griechischen Westen. (“The Coins of the Sicilian City of Nexos”). This landmark die study is considered the standard reference for the coinage of Sicilian Naxos. Cahn joined the ANS in 1936 and was made a Corresponding Member in 1977. He received in 1983 the ANS's Huntington Award in recognition of his substantial contribution to the field of numismatics.</p>
+            </biogHist>
+        </description>
+    </cpfDescription>
 </eac-cpf>

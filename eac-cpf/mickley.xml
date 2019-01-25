@@ -1,133 +1,137 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>mickley</recordId>
-    <maintenanceStatus>revised</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-      <agencyCode>US-nnan</agencyCode>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>derived</eventType>
-        <eventDateTime standardDateTime="2014-06-12T14:17:08-04:00">Thu, 12 Jun 2014 14:17:08 -0400</eventDateTime>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T13:06:12.125Z"/>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-        <eventDescription>Added context.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:50.058Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:52.402-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <identity>
-      <entityId localType="skos:exactMatch">http://viaf.org/viaf/13856012</entityId>
-      <entityType>person</entityType>
-      <nameEntry>
-        <part>Mickley, Joseph J. (Joseph Jacob), 1799-1878</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <existDates localType="xeac:life">
-        <dateRange>
-          <fromDate standardDate="1799">1799</fromDate>
-          <toDate standardDate="1878">1878</toDate>
-        </dateRange>
-      </existDates>
-      <biogHist>
-        <chronList>
-          <chronItem>
-            <event>Born</event>
-            <date standardDate="1799">1799</date>
-            <placeEntry vocabularySource="http://www.geonames.org/5183438/">Catasauqua (Pa.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Moved to Philadelphia</event>
-            <date standardDate="1818">1818</date>
-            <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Founded piano repair business</event>
-            <date standardDate="1822">1822</date>
-            <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Founded Numismatic and Antiquarian Society of Philadelphia</event>
-            <date standardDate="1857">1857</date>
-            <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
-          </chronItem>
-          <chronItem>
-            <event>Died</event>
-            <date standardDate="1878">1878</date>
-            <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
-          </chronItem>
-        </chronList>
-        <abstract>Pioneering numismatist Joseph J. Mickley (1799-1878) was born in Catasauqua, Pennsylvania.</abstract>
-        <p>Pioneering numismatist Joseph J. Mickley (1799-1878) was born in Catasauqua, Pennsylvania. He moved Philadelphia in 1818 to study the repair of pianos and other stringed instruments and by 1822 was operating his own business in the city. He was twice married and the father of six children. Over the years, Mickley became a regular visitor at the U.S. Mint in Philadelphia, becoming close friends with mint curator William E. Dubois, who dubbed him the “Father of American Numismatics.” Mickley was present at the groundbreaking Lewis Roper coin sale (1851) and attended the meeting that created America’s first organization of coin collectors, the Numismatic and Antiquarian Society of Philadelphia (1857). He served as the group’s first president. His Dates of United States Coins and their Degrees of Rarity (1858) was among the first coin collector reference books. Mickley, a victim of several coin robberies over the years, suffered a burglary on April 13, 1867, that motivated him to sell much of his collection to William Woodward, who offered it at auction from October 28 to November 2, 1867. Later that same year, Mickley became an honorary member of the American Numismatic and Archeological Society (later the American Numismatic Society). From 1869 to 1872 he traveled throughout Europe gathering coins from the mints of different countries for Dubois’ U.S. Mint collection. He died in Philadelphia.</p>
-      </biogHist>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
-      </occupation>
-    </description>
-    <relations>
-      <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/265085922" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
-        <relationEntry>Numismatic and Antiquarian Society of Philadelphia</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
-        <relationEntry>American Numismatic Society</relationEntry>
-      </cpfRelation>
-      <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/306073585" xlink:arcrole="rel:colleagueOf" xlink:role="arch:Family">
-        <relationEntry>Du Bois, William E. (William Ewing), 1810-1881</relationEntry>
-      </cpfRelation>
-    </relations>
-  </cpfDescription>
+    <control>
+        <recordId>mickley</recordId>
+        <maintenanceStatus>revised</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2014-06-12T14:17:08-04:00">Thu, 12 Jun 2014 14:17:08 -0400</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated EAC-CPF from EAD finding aids with an interation of PHP scripts.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T13:06:12.125Z"/>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Added context.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:50.058Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:52.402-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        <maintenanceEvent>
+					<eventType>revised</eventType>
+					<eventDateTime standardDateTime="2018-06-11T13:11:50.427-05:00"/>
+					<agentType>human</agentType>
+					<agent>Inserted URI</agent>
+				</maintenanceEvent></maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityId localType="skos:exactMatch">http://viaf.org/viaf/13856012</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Mickley, Joseph J. (Joseph Jacob), 1799-1878</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        <entityId localType="skos:exactMatch">http://n2t.net/ark:/99166/w6cc2rj2</entityId></identity>
+        <description>
+            <existDates localType="xeac:life">
+                <dateRange>
+                    <fromDate standardDate="1799">1799</fromDate>
+                    <toDate standardDate="1878">1878</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <chronList>
+                    <chronItem>
+                        <event>Born</event>
+                        <date standardDate="1799">1799</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/5183438/">Catasauqua (Pa.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Moved to Philadelphia</event>
+                        <date standardDate="1818">1818</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Founded piano repair business</event>
+                        <date standardDate="1822">1822</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Founded Numismatic and Antiquarian Society of Philadelphia</event>
+                        <date standardDate="1857">1857</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
+                    </chronItem>
+                    <chronItem>
+                        <event>Died</event>
+                        <date standardDate="1878">1878</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/4560349/">Philadelphia (Pa.)</placeEntry>
+                    </chronItem>
+                </chronList>
+                <abstract>Pioneering numismatist Joseph J. Mickley (1799-1878) was born in Catasauqua, Pennsylvania.</abstract>
+                <p>Pioneering numismatist Joseph J. Mickley (1799-1878) was born in Catasauqua, Pennsylvania. He moved Philadelphia in 1818 to study the repair of pianos and other stringed instruments and by 1822 was operating his own business in the city. He was twice married and the father of six children. Over the years, Mickley became a regular visitor at the U.S. Mint in Philadelphia, becoming close friends with mint curator William E. Dubois, who dubbed him the “Father of American Numismatics.” Mickley was present at the groundbreaking Lewis Roper coin sale (1851) and attended the meeting that created America’s first organization of coin collectors, the Numismatic and Antiquarian Society of Philadelphia (1857). He served as the group’s first president. His Dates of United States Coins and their Degrees of Rarity (1858) was among the first coin collector reference books. Mickley, a victim of several coin robberies over the years, suffered a burglary on April 13, 1867, that motivated him to sell much of his collection to William Woodward, who offered it at auction from October 28 to November 2, 1867. Later that same year, Mickley became an honorary member of the American Numismatic and Archeological Society (later the American Numismatic Society). From 1869 to 1872 he traveled throughout Europe gathering coins from the mints of different countries for Dubois’ U.S. Mint collection. He died in Philadelphia.</p>
+            </biogHist>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
+            </occupation>
+        </description>
+        <relations>
+            <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/265085922" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+                <relationEntry>Numismatic and Antiquarian Society of Philadelphia</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+                <relationEntry>American Numismatic Society</relationEntry>
+            </cpfRelation>
+            <cpfRelation xlink:type="simple" xlink:href="http://viaf.org/viaf/306073585" xlink:arcrole="rel:colleagueOf" xlink:role="arch:Family">
+                <relationEntry>Du Bois, William E. (William Ewing), 1810-1881</relationEntry>
+            </cpfRelation>
+        </relations>
+    </cpfDescription>
 </eac-cpf>

@@ -1,108 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>parish</recordId>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>created</eventType>
-        <eventDateTime standardDateTime="2014-06-18T20:32:49.334Z"/>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:49.386Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:51.71-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <maintenanceStatus>new</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <identity>
-      <entityType>person</entityType>
-      <nameEntry>
-        <part>Parish, Daniel, 1842-1914</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <existDates localType="xeac:life">
-        <dateRange>
-          <fromDate standardDate="1842">1842</fromDate>
-          <toDate standardDate="1914">1914</toDate>
-        </dateRange>
-      </existDates>
-      <biogHist>
-        <abstract>President of the ANS from 1883 until 1896, Parish oversaw a series of significant revisions to the Society's Constitution. </abstract>
-        <p>Daniel Parish, Jr. joined the ANS in 1865 and assumed a leadership role almost immediately: that same year he was elected Corresponding Secretary. During the course of his association with the ANS over the next twenty-five years, Parish assumed numerous positions of increasing responsibility.</p>
-        <p>Initially, Parish served as Librarian from 1866-1870. By 1870, Parish had been elected First Vice-President. Parish would serve as either First or Second Vice-President for the next thirteen years. In 1883, he succeeded Charles Anthon as ANS President upon the latter's untimely death. The following year Parish would be elected President in his own right and remained as President until retiring in 1896. During Parish's tenure as president, the ANS substantially revised its Constitution in 1894 to incorporate the many revisions that had been made in a piecemeal fashion since 1884. Even after retiring from the presidency due to ill health, Parish continued to serve on numerous committees and served as First Vice-President once again from 1905-10. From 1910 until his death, Parish also served on the Board of Governors. </p>
-        <p>To commemorate his many significant donations to the ANS, the Society commissioned a medal designed by Lea Ahlborn in 1890. In 1908, it elected Parish Honorary President for Life. Daniel Parish, Jr. died in December 1914. At the time of his death, Parish was also Chairman of the Executive Committee of the New-York Historical Society, an organization that he had been associated with for thirty-two years. </p>
-      </biogHist>
-      <occupation>
-        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
-        <dateRange>
-          <fromDate standardDate="1883">1883</fromDate>
-          <toDate standardDate="1896">1896</toDate>
-        </dateRange>
-        <term>President, ANS</term>
-      </occupation>
-      <occupation>
-        <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
-        <dateRange>
-          <fromDate standardDate="1866">1866</fromDate>
-          <toDate standardDate="1870">1870</toDate>
-        </dateRange>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025555">librarians</term>
-      </occupation>
-    </description>
-    <relations>
-      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
-        <relationEntry>American Numismatic Society</relationEntry>
-      </cpfRelation>
-      <resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/parish18xx-01.jpg" xlink:arcrole="foaf:thumbnail" xlink:role="portrait">
-        <relationEntry>portrait</relationEntry>
-      </resourceRelation>
-    </relations>
-  </cpfDescription>
+    <control>
+        <recordId>parish</recordId>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2014-06-18T20:32:49.334Z"/>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:49.386Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:51.71-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        </maintenanceHistory>
+        <maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Parish, Daniel, 1842-1914</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        </identity>
+        <description>
+            <existDates localType="xeac:life">
+                <dateRange>
+                    <fromDate standardDate="1842">1842</fromDate>
+                    <toDate standardDate="1914">1914</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <abstract>President of the ANS from 1883 until 1896, Parish oversaw a series of significant revisions to the Society's Constitution. </abstract>
+                <p>Daniel Parish, Jr. joined the ANS in 1865 and assumed a leadership role almost immediately: that same year he was elected Corresponding Secretary. During the course of his association with the ANS over the next twenty-five years, Parish assumed numerous positions of increasing responsibility.</p>
+                <p>Initially, Parish served as Librarian from 1866-1870. By 1870, Parish had been elected First Vice-President. Parish would serve as either First or Second Vice-President for the next thirteen years. In 1883, he succeeded Charles Anthon as ANS President upon the latter's untimely death. The following year Parish would be elected President in his own right and remained as President until retiring in 1896. During Parish's tenure as president, the ANS substantially revised its Constitution in 1894 to incorporate the many revisions that had been made in a piecemeal fashion since 1884. Even after retiring from the presidency due to ill health, Parish continued to serve on numerous committees and served as First Vice-President once again from 1905-10. From 1910 until his death, Parish also served on the Board of Governors. </p>
+                <p>To commemorate his many significant donations to the ANS, the Society commissioned a medal designed by Lea Ahlborn in 1890. In 1908, it elected Parish Honorary President for Life. Daniel Parish, Jr. died in December 1914. At the time of his death, Parish was also Chairman of the Executive Committee of the New-York Historical Society, an organization that he had been associated with for thirty-two years. </p>
+            </biogHist>
+            <occupation>
+                <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+                <dateRange>
+                    <fromDate standardDate="1883">1883</fromDate>
+                    <toDate standardDate="1896">1896</toDate>
+                </dateRange>
+                <term>President, ANS</term>
+            </occupation>
+            <occupation>
+                <placeEntry vocabularySource="http://www.geonames.org/6342626/">American Numismatic Society (N.Y.)</placeEntry>
+                <dateRange>
+                    <fromDate standardDate="1866">1866</fromDate>
+                    <toDate standardDate="1870">1870</toDate>
+                </dateRange>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025555">librarians</term>
+            </occupation>
+        </description>
+        <relations>
+            <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="org:Organization">
+                <relationEntry>American Numismatic Society</relationEntry>
+            </cpfRelation>
+            <resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/parish18xx-01.jpg" xlink:arcrole="foaf:thumbnail" xlink:role="portrait">
+                <relationEntry>portrait</relationEntry>
+            </resourceRelation>
+        </relations>
+    </cpfDescription>
 </eac-cpf>

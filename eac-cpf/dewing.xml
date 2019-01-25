@@ -1,132 +1,136 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <control>
-    <recordId>dewing</recordId>
-    <maintenanceAgency>
-      <agencyName>American Numismatic Society</agencyName>
-    </maintenanceAgency>
-    <maintenanceHistory>
-      <maintenanceEvent>
-        <eventType>created</eventType>
-        <eventDateTime standardDateTime="2014-06-18T15:56:50.673Z"/>
-        <agentType>human</agentType>
-        <agent>Ethan Gruber</agent>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-18T16:24:14.063Z"/>
-        <agentType>human</agentType>
-        <agent>Added portrait</agent>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2014-06-20T17:58:49.783Z"/>
-        <agentType>machine</agentType>
-        <agent>xEAC</agent>
-        <eventDescription>Relation Inserted</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2015-03-19T10:08:50.146Z"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
-      </maintenanceEvent>
-      <maintenanceEvent>
-        <eventType>revised</eventType>
-        <eventDateTime standardDateTime="2016-01-27T15:21:52.496-05:00"/>
-        <agentType>machine</agentType>
-        <agent>XSLT</agent>
-        <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
-      </maintenanceEvent>
-    </maintenanceHistory>
-    <maintenanceStatus>revised</maintenanceStatus>
-    <publicationStatus>approved</publicationStatus>
-    <conventionDeclaration>
-      <abbreviation>ANS</abbreviation>
-      <citation>American Numismatic Society</citation>
-    </conventionDeclaration>
-    <sources>
-      <source xlink:type="simple" xlink:href="http://viaf.org/viaf/32085486"/>
-    </sources>
-    <localTypeDeclaration>
-      <abbreviation>dcterms</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>foaf</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>org</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>rel</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>skos</abbreviation>
-      <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
-    </localTypeDeclaration>
-    <localTypeDeclaration>
-      <abbreviation>xeac</abbreviation>
-      <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
-    </localTypeDeclaration>
-  </control>
-  <cpfDescription>
-    <identity>
-      <entityType>person</entityType>
-      <nameEntry>
-        <part>Dewing, Arthur S., 1880-1971</part>
-        <preferredForm>ANS</preferredForm>
-      </nameEntry>
-    </identity>
-    <description>
-      <existDates localType="xeac:life">
-        <dateRange>
-          <fromDate standardDate="1880-04-16">April 16, 1880</fromDate>
-          <toDate standardDate="1971-01-20">January 20, 1971</toDate>
-        </dateRange>
-      </existDates>
-      <biogHist>
-        <chronList>
-          <chronItem>
-            <event>Born</event>
-            <date standardDate="1880-04-16">April 16, 1880</date>
-            <placeEntry vocabularySource="http://www.geonames.org/4930956/">Boston (Mass.)</placeEntry>
-          </chronItem>
-        </chronList>
-        <abstract>Noted Greek numismatist and founder of the Harvard Business School, Dewing served on the Society's Council from 1942 until his death in 1971, most importantly as President from 1947 to 1949. </abstract>
-        <p>Noted Greek numismatist Arthur S. Dewing was born in Boston, Massachusetts on April 16, 1880, and educated at Harvard University, where he received his doctorate in 1905. Dewing remained at Harvard until 1912, teaching philosophy and economics. After a brief sojourn in business, he returned to Harvard in 1919, where he remained until 1933 when he once again returned to the business world. During this latter period at Harvard, Dewing helped found the Harvard Business School and developed the case study method used there. </p>
-        <p>Dewing joined the ANS in May 1928 as an associate member and was soon named a Fellow in January 1929. He was a member of the ANS Council from 1942 until his death in 1971, serving as Third Vice President from 1944 until 1946 and President from 1947 through 1949. Shortly before his death in January 1971, Dewing was also named Honorary Councilor for Life. </p>
-        <p>Dewing's tenure as president, although brief, nonetheless had a major impact upon the Society's future. Shortly after taking office, Dewing appointed a Reorganization Committee "to study the routine functions of the Society's staff with a view to making recommendations for improvement." As a result of this committee's recommendations, in Dewing's first year as president the Society reassigned its staff to enhance their efficiency, and began a gradual expansion of the Curatorial Department. (At the time, the Society maintained only one curator.) Later that same year, the Society also established its first Photographic Department. Still in the same year, the Society also expanded its publishing program, with the launch of Numismatic Literature. </p>
-        <p>The second year of Dewing's presidency found the Society making substantial revisions to its constitution. These resulted in the adoption of a new Constitution and By-laws in 1948 which more clearly defined the functions of the Society and its museum and re-arranged the staff and governing authority around those functions. </p>
-        <p>While on the Council, Dewing also served at various times on the Ancient and Greek Coin Committees, as well as the Finance and Huntington Medal Committees. Dewing served as Chair of the latter committee from 1949-52, during which time George Miles, C.H.V. Sutherland, and Henri Seyrig were honored. </p>
-        <p>Dewing began amassing his collection of Greek coins in the late 1920s. By the time of his death in January 1971, the collection numbered almost three thousand coins and was acclaimed in The Numismatist as "one of the most outstanding in the hands of a private collector in the world." After his death, the collection was placed on loan to Harvard's Fogg Museum by the Dewing Numismatic Foundation. In 1985, it was published by the ANS in two volumes in the Society's Ancient Coins in North American Collections (ACNAC) series. </p>
-        <p>In addition to his membership in the ANS, Dewing was also a member of both the Royal and Boston Numismatic Societies, as well as the American Academy of Art and Sciences and Archeological Institution of America. </p>
-        <p>Dewing died on January 20, 1971. </p>
-      </biogHist>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300266109">academics (people)</term>
-      </occupation>
-      <occupation>
-        <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
-      </occupation>
-      <occupation>
-        <term>President, ANS</term>
-      </occupation>
-    </description>
-    <relations>
-      <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="foaf:Person">
-        <relationEntry>American Numismatic Society</relationEntry>
-      </cpfRelation>
-      <resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/05-00079.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
-        <relationEntry>portrait</relationEntry>
-      </resourceRelation>
-      <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="west" xlink:arcrole="rel:colleagueOf">
-        <relationEntry>West, Louis C. (Louis Caulton), 1882-1972</relationEntry>
-      </cpfRelation>
-    </relations>
-  </cpfDescription>
+    <control>
+        <recordId>dewing</recordId>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2014-06-18T15:56:50.673Z"/>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-18T16:24:14.063Z"/>
+                <agentType>human</agentType>
+                <agent>Added portrait</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2014-06-20T17:58:49.783Z"/>
+                <agentType>machine</agentType>
+                <agent>xEAC</agent>
+                <eventDescription>Relation Inserted</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2015-03-19T10:08:50.146Z"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF documents into the new and more semantically aware relationship model; moved otherRecordIds into entityIds with skos:exactMatch @localType.</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2016-01-27T15:21:52.496-05:00"/>
+                <agentType>machine</agentType>
+                <agent>XSLT</agent>
+                <eventDescription>Reprocessed EAC-CPF records to insert xlink:role when missing.</eventDescription>
+            </maintenanceEvent>
+        <maintenanceEvent>
+					<eventType>revised</eventType>
+					<eventDateTime standardDateTime="2018-06-11T14:29:19.353-05:00"/>
+					<agentType>human</agentType>
+					<agent>Inserted URIs</agent>
+				</maintenanceEvent></maintenanceHistory>
+        <maintenanceStatus>revised</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <sources>
+            <source xlink:type="simple" xlink:href="http://viaf.org/viaf/32085486"/>
+        </sources>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>xeac</abbreviation>
+            <citation xlink:type="simple" xlink:role="semantic" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Dewing, Arthur S., 1880-1971</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+        <entityId localType="skos:exactMatch">http://viaf.org/viaf/32085486</entityId><entityId localType="skos:exactMatch">http://n2t.net/ark:/99166/w6t763zr</entityId></identity>
+        <description>
+            <existDates localType="xeac:life">
+                <dateRange>
+                    <fromDate standardDate="1880-04-16">April 16, 1880</fromDate>
+                    <toDate standardDate="1971-01-20">January 20, 1971</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <chronList>
+                    <chronItem>
+                        <event>Born</event>
+                        <date standardDate="1880-04-16">April 16, 1880</date>
+                        <placeEntry vocabularySource="http://www.geonames.org/4930956/">Boston (Mass.)</placeEntry>
+                    </chronItem>
+                </chronList>
+                <abstract>Noted Greek numismatist and founder of the Harvard Business School, Dewing served on the Society's Council from 1942 until his death in 1971, most importantly as President from 1947 to 1949. </abstract>
+                <p>Noted Greek numismatist Arthur S. Dewing was born in Boston, Massachusetts on April 16, 1880, and educated at Harvard University, where he received his doctorate in 1905. Dewing remained at Harvard until 1912, teaching philosophy and economics. After a brief sojourn in business, he returned to Harvard in 1919, where he remained until 1933 when he once again returned to the business world. During this latter period at Harvard, Dewing helped found the Harvard Business School and developed the case study method used there. </p>
+                <p>Dewing joined the ANS in May 1928 as an associate member and was soon named a Fellow in January 1929. He was a member of the ANS Council from 1942 until his death in 1971, serving as Third Vice President from 1944 until 1946 and President from 1947 through 1949. Shortly before his death in January 1971, Dewing was also named Honorary Councilor for Life. </p>
+                <p>Dewing's tenure as president, although brief, nonetheless had a major impact upon the Society's future. Shortly after taking office, Dewing appointed a Reorganization Committee "to study the routine functions of the Society's staff with a view to making recommendations for improvement." As a result of this committee's recommendations, in Dewing's first year as president the Society reassigned its staff to enhance their efficiency, and began a gradual expansion of the Curatorial Department. (At the time, the Society maintained only one curator.) Later that same year, the Society also established its first Photographic Department. Still in the same year, the Society also expanded its publishing program, with the launch of Numismatic Literature. </p>
+                <p>The second year of Dewing's presidency found the Society making substantial revisions to its constitution. These resulted in the adoption of a new Constitution and By-laws in 1948 which more clearly defined the functions of the Society and its museum and re-arranged the staff and governing authority around those functions. </p>
+                <p>While on the Council, Dewing also served at various times on the Ancient and Greek Coin Committees, as well as the Finance and Huntington Medal Committees. Dewing served as Chair of the latter committee from 1949-52, during which time George Miles, C.H.V. Sutherland, and Henri Seyrig were honored. </p>
+                <p>Dewing began amassing his collection of Greek coins in the late 1920s. By the time of his death in January 1971, the collection numbered almost three thousand coins and was acclaimed in The Numismatist as "one of the most outstanding in the hands of a private collector in the world." After his death, the collection was placed on loan to Harvard's Fogg Museum by the Dewing Numismatic Foundation. In 1985, it was published by the ANS in two volumes in the Society's Ancient Coins in North American Collections (ACNAC) series. </p>
+                <p>In addition to his membership in the ANS, Dewing was also a member of both the Royal and Boston Numismatic Societies, as well as the American Academy of Art and Sciences and Archeological Institution of America. </p>
+                <p>Dewing died on January 20, 1971. </p>
+            </biogHist>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300266109">academics (people)</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
+            </occupation>
+            <occupation>
+                <term>President, ANS</term>
+            </occupation>
+        </description>
+        <relations>
+            <cpfRelation xlink:type="simple" xlink:href="american_numismatic_society" xlink:arcrole="org:memberOf" xlink:role="foaf:Person">
+                <relationEntry>American Numismatic Society</relationEntry>
+            </cpfRelation>
+            <resourceRelation xlink:type="simple" xlink:href="http://numismatics.org/wikiuploads/Archives/05-00079.jpg" xlink:arcrole="foaf:depiction" xlink:role="portrait">
+                <relationEntry>portrait</relationEntry>
+            </resourceRelation>
+            <cpfRelation xlink:role="foaf:Person" xlink:type="simple" xlink:href="west" xlink:arcrole="rel:colleagueOf">
+                <relationEntry>West, Louis C. (Louis Caulton), 1882-1972</relationEntry>
+            </cpfRelation>
+        </relations>
+    </cpfDescription>
 </eac-cpf>
