@@ -1,111 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0108">
-  <eadheader>
-    <eadid countrycode="US" mainagencycode="US-nnan">nnan0108</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Howland Wood curator correspondence and other material, 1913-1937</titleproper>
-        <author>David Hill</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>ANS Archives</publisher>
-        <date normal="2011">©2011</date>
-        <address>
-          <addressline>American Numismatic Society Archives</addressline>
-          <addressline>75 Varick Street, 11th floor</addressline>
-          <addressline>New York, NY 10013</addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>Finding aid encoded by David Hill using EADitor ©2011</creation>
-      <langusage>Finding aid written in English</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <head>Descriptive Summary</head>
-      <unittitle>Howland Wood curator correspondence and other material</unittitle>
-      <abstract>Mostly official correspondence from Wood’s work as curator of the American Numismatic Society.</abstract>
-      <physloc audience="internal">ANS Vault</physloc>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <persname authfilenumber="http://numismatics.org/authority/wood_howland" role="xeac:entity">Wood, Howland, 1877-1938</persname>
-      </origination>
-      <unitdate normal="1913/1917" type="inclusive">1913-1937</unitdate>
-      <repository>American Numismatic Society</repository>
-      <physdesc>
-        <extent>10 cubic feet (12 boxes)</extent>
-      </physdesc>
-      <daogrp>
-        <daodesc>
-          <p>Howland Wood</p>
-        </daodesc>
-        <daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6060/6284351056_e24ae8b771_s.jpg" xlink:label="Square"/>
-        <daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6060/6284351056_e24ae8b771_t.jpg" xlink:label="Thumbnail"/>
-        <daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6060/6284351056_e24ae8b771_m.jpg" xlink:label="Small"/>
-        <daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6060/6284351056_e24ae8b771.jpg" xlink:label="Medium"/>
-      </daogrp>
-    </did>
-    <bioghist>
-      <head>Biographical Note</head>
-      <p>Howland Wood was born in New Bedford Massachusetts in 1877 and graduated from Brown University in 1900. Wood became a member of the ANS in 1909. By 1913 he had been appointed Curator, remaining in this position until his death in 1938. At that time, the Society only maintained a single curator, with two assistants. Despite the limited size of the staff, during Wood's tenure the Society's collections increased significantly, from 50,000 to almost 200,000 specimens. In addition to his curatorial duties, Wood also served as editor of the American Journal of Numismatics from 1910 to 1920. In 1920, Wood became only the third recipient of the Society's Archer M. Huntington Medal Award. Outside of the ANS, Wood also served as secretary to the American Numismatic Association from 1905 to 1909 and then as governor and chairman of the ANA's board from 1909 to 1912. After Wood's death, Edward T. Newell (ANS President, 1916-1941) eulogized Wood as "the ideal Curator," noting that "Howland Wood was one of those rare geniuses who combined an inherited urge to collect, an insatiable curiosity as to the 'why' and the 'wherefore,' and an orderly mind which could not brook obvious gaps or disorderly arrangement."</p>
-    </bioghist>
-    <relatedmaterial>
-      <head>Related Material</head>
-      <p>See also Howland Wood personal correspondence, 1873, 1902-1938.</p>
-    </relatedmaterial>
-    <acqinfo audience="internal">
-      <head>Provenance</head>
-      <p>Produced during the regular course of work at the American Numismatic Society.</p>
-    </acqinfo>
-    <accessrestrict>
-      <head>Access</head>
-      <p>Collection open to all researchers.</p>
-    </accessrestrict>
-    <custodhist audience="internal">
-      <head>Custodial History</head>
-      <p>Materials were produced and held from the time of their creation at the American Numismatic Society.</p>
-    </custodhist>
-    <prefercite>
-      <head>Preferred Citation</head>
-      <p>Howland Wood curator correspondence and other material, 1913-1937, Archives, American Numismatic Society.</p>
-    </prefercite>
-    <userestrict>
-      <head>Restrictions</head>
-      <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
-    </userestrict>
-    <controlaccess>
-      <subject source="lcsh" authfilenumber="sh85088712">Museum curators</subject>
-      <subject>Coins--Collectors and collecting</subject>
-      <subject>Medals--Collectors and collecting</subject>
-      <subject>Coins, Far Eastern--Collectors and collecting</subject>
-      <persname authfilenumber="http://numismatics.org/authority/wood_howland" role="xeac:entity">Wood, Howland, 1877-1938</persname>
-      <persname authfilenumber="http://numismatics.org/authority/zabriskie" role="xeac:entity">Zabriskie, Andrew C. (Andrew Christian), 1853-1916</persname>
-      <persname authfilenumber="18394487" source="viaf">Morgan, J. P. (John Pierpont), 1867-1943</persname>
-      <persname authfilenumber="http://numismatics.org/authority/robertson" role="xeac:entity">Robertson, Robert, 1869-1937</persname>
-      <persname authfilenumber="13781722" source="viaf">Robinson, John, 1846-1925</persname>
-      <persname authfilenumber="89386855" source="viaf">Ros, Giuseppe</persname>
-      <persname>Ramsden, Henry A., d. 1915</persname>
-      <persname authfilenumber="18004440" source="viaf">Titchener, Edward Bradford, 1867-1927</persname>
-      <persname authfilenumber="55604642" source="viaf">Canfield, Frederick A. (Frederick Alexander), 1849-1926</persname>
-      <corpname authfilenumber="126658221" source="viaf">New Jersey Historical Society</corpname>
-      <corpname>American Journal of Numismatics</corpname>
-      <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society" role="xeac:entity">American Numismatic Society</corpname>
-      <corpname authfilenumber="131496305" source="viaf">D.O. Mills &amp; Co. (Sacramento, Calif.)</corpname>
-      <genreform source="aat" authfilenumber="300103035">Rubbings (Visual works)</genreform>
-      <genreform source="aat" authfilenumber="300026877">Correspondence</genreform>
-      <genreform source="aat" authfilenumber="300046300">Photographs</genreform>
-      <genreform source="aat" authfilenumber="300264354">Notebooks</genreform>
-      <genreform source="aat" authfilenumber="300027267">Reports</genreform>
-      <genreform authfilenumber="300026554" source="aat">Indexes (Reference sources)</genreform>
-      <corpname>American Numismatic Society--Employees</corpname>
-    </controlaccess>
-    <scopecontent>
-      <head>Scope and Content Note</head>
-      <p>Mostly official correspondence from Howland Wood’s work as curator of the American Numismatic Society (ANS). Many of the letters are to and from dealers, ANS members, and the general public and involve matters such as the authentication and value of individual coins as well as coin donations, purchasing, items sent on approval, and other efforts to add to and document the ANS collections, including its holdings in Indian Peace Medals and medals relating to World War I. Occasionally, coin rubbings and photographs are included. Also discussed are building security issues, such as a theft of coins from the J.P. Morgan and D.O. Mills collections (Newell, 1927); employee matters, such as hiring an assistant curator upon the death of Robert Robertson in 1937 (e.g., Duffield, Jan. 27, 1937), and lists of employees and salaries (see Union Trust Company). Other topics include Wood’s work as editor of the American Journal of Numismatics, such as discussions of article content and production issues; photographing and casting of coins; cleaning of coins (e.g., Hopkins, March 4, 1931 and Oliveira, May 16, 1933); exhibits; the return of the Andrew Zabriskie collection, with a catalog of Polish coins returned (1924); the addition to the building at Audubon Terrace (see Eidlitz, 1921-1934); the Bechtler coin press donated to the ANS (Tapp, 1926-1928); the loan of the Frederick A. Canfield collection by the New Jersey Historical Society (1930-1931); psychologist and collector Edward B. Titchener of Cornell University; and the Henry A. Ramsden Far Eastern collection, including a note to John Robinson about the terms of Ramsden’s will, a numbered list of Ramsden coins, and related materials, such as those pertaining to Far Eastern collector Giuseppe Ros, Italian consulate general in Shangai (R, 1913-1921). In addition to the correspondence are research materials, including notebooks on Indian Bull and Horseman series; files on Bryan Money, Mexican coins, Ethiopian (Abyssinian) coins, American medals (1918-1921), and Indian Peace Medals (1917); a handwritten index to the Journal of the Royal Asiatic Society of Great Britain and Ireland (1837-1911), The Indian Antiquary (1877-1919), and the Journal of the Asiatic Society of Bengal (1832-1910); and typed curator and committee reports (1913-1927).</p>
-    </scopecontent>
-  </archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+     id="nnan0108">
+   <eadheader>
+      <eadid countrycode="US" mainagencycode="US-nnan">nnan0108</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Howland Wood curator correspondence and other material, 1913-1937</titleproper>
+            <author>David Hill</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>ANS Archives</publisher>
+            <date normal="2011">©2011</date>
+            <address>
+               <addressline>American Numismatic Society Archives</addressline>
+               <addressline>75 Varick Street, 11th floor</addressline>
+               <addressline>New York, NY 10013</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid encoded by David Hill using EADitor ©2011</creation>
+         <langusage>Finding aid written in English</langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <head>Descriptive Summary</head>
+         <unittitle>Howland Wood curator correspondence and other material</unittitle>
+         <abstract>Mostly official correspondence from Wood’s work as curator of the American Numismatic Society.</abstract>
+         <physloc audience="internal">ANS Vault</physloc>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <origination>
+            <persname authfilenumber="http://numismatics.org/authority/wood_howland"
+                      role="xeac:entity">Wood, Howland, 1877-1938</persname>
+         </origination>
+         <unitdate normal="1913/1917" type="inclusive">1913-1937</unitdate>
+         <repository>American Numismatic Society</repository>
+         <physdesc>
+            <extent>10 cubic feet (12 boxes)</extent>
+         </physdesc>
+         <daogrp>
+            <daodesc>
+               <p>Howland Wood</p>
+            </daodesc>
+         </daogrp>
+      </did>
+      <bioghist>
+         <head>Biographical Note</head>
+         <p>Howland Wood was born in New Bedford Massachusetts in 1877 and graduated from Brown University in 1900. Wood became a member of the ANS in 1909. By 1913 he had been appointed Curator, remaining in this position until his death in 1938. At that time, the Society only maintained a single curator, with two assistants. Despite the limited size of the staff, during Wood's tenure the Society's collections increased significantly, from 50,000 to almost 200,000 specimens. In addition to his curatorial duties, Wood also served as editor of the American Journal of Numismatics from 1910 to 1920. In 1920, Wood became only the third recipient of the Society's Archer M. Huntington Medal Award. Outside of the ANS, Wood also served as secretary to the American Numismatic Association from 1905 to 1909 and then as governor and chairman of the ANA's board from 1909 to 1912. After Wood's death, Edward T. Newell (ANS President, 1916-1941) eulogized Wood as "the ideal Curator," noting that "Howland Wood was one of those rare geniuses who combined an inherited urge to collect, an insatiable curiosity as to the 'why' and the 'wherefore,' and an orderly mind which could not brook obvious gaps or disorderly arrangement."</p>
+      </bioghist>
+      <relatedmaterial>
+         <head>Related Material</head>
+         <p>See also Howland Wood personal correspondence, 1873, 1902-1938.</p>
+      </relatedmaterial>
+      <acqinfo audience="internal">
+         <head>Provenance</head>
+         <p>Produced during the regular course of work at the American Numismatic Society.</p>
+      </acqinfo>
+      <accessrestrict>
+         <head>Access</head>
+         <p>Collection open to all researchers.</p>
+      </accessrestrict>
+      <custodhist audience="internal">
+         <head>Custodial History</head>
+         <p>Materials were produced and held from the time of their creation at the American Numismatic Society.</p>
+      </custodhist>
+      <prefercite>
+         <head>Preferred Citation</head>
+         <p>Howland Wood curator correspondence and other material, 1913-1937, Archives, American Numismatic Society.</p>
+      </prefercite>
+      <userestrict>
+         <head>Restrictions</head>
+         <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
+      </userestrict>
+      <controlaccess>
+         <subject source="lcsh" authfilenumber="sh85088712">Museum curators</subject>
+         <subject>Coins--Collectors and collecting</subject>
+         <subject>Medals--Collectors and collecting</subject>
+         <subject>Coins, Far Eastern--Collectors and collecting</subject>
+         <persname authfilenumber="http://numismatics.org/authority/wood_howland"
+                   role="xeac:entity">Wood, Howland, 1877-1938</persname>
+         <persname authfilenumber="http://numismatics.org/authority/zabriskie" role="xeac:entity">Zabriskie, Andrew C. (Andrew Christian), 1853-1916</persname>
+         <persname authfilenumber="18394487" source="viaf">Morgan, J. P. (John Pierpont), 1867-1943</persname>
+         <persname authfilenumber="http://numismatics.org/authority/robertson" role="xeac:entity">Robertson, Robert, 1869-1937</persname>
+         <persname authfilenumber="13781722" source="viaf">Robinson, John, 1846-1925</persname>
+         <persname authfilenumber="89386855" source="viaf">Ros, Giuseppe</persname>
+         <persname>Ramsden, Henry A., d. 1915</persname>
+         <persname authfilenumber="18004440" source="viaf">Titchener, Edward Bradford, 1867-1927</persname>
+         <persname authfilenumber="55604642" source="viaf">Canfield, Frederick A. (Frederick Alexander), 1849-1926</persname>
+         <corpname authfilenumber="126658221" source="viaf">New Jersey Historical Society</corpname>
+         <corpname>American Journal of Numismatics</corpname>
+         <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society"
+                   role="xeac:entity">American Numismatic Society</corpname>
+         <corpname authfilenumber="131496305" source="viaf">D.O. Mills &amp; Co. (Sacramento, Calif.)</corpname>
+         <genreform source="aat" authfilenumber="300103035">Rubbings (Visual works)</genreform>
+         <genreform source="aat" authfilenumber="300026877">Correspondence</genreform>
+         <genreform source="aat" authfilenumber="300046300">Photographs</genreform>
+         <genreform source="aat" authfilenumber="300264354">Notebooks</genreform>
+         <genreform source="aat" authfilenumber="300027267">Reports</genreform>
+         <genreform authfilenumber="300026554" source="aat">Indexes (Reference sources)</genreform>
+         <corpname>American Numismatic Society--Employees</corpname>
+      </controlaccess>
+      <scopecontent>
+         <head>Scope and Content Note</head>
+         <p>Mostly official correspondence from Howland Wood’s work as curator of the American Numismatic Society (ANS). Many of the letters are to and from dealers, ANS members, and the general public and involve matters such as the authentication and value of individual coins as well as coin donations, purchasing, items sent on approval, and other efforts to add to and document the ANS collections, including its holdings in Indian Peace Medals and medals relating to World War I. Occasionally, coin rubbings and photographs are included. Also discussed are building security issues, such as a theft of coins from the J.P. Morgan and D.O. Mills collections (Newell, 1927); employee matters, such as hiring an assistant curator upon the death of Robert Robertson in 1937 (e.g., Duffield, Jan. 27, 1937), and lists of employees and salaries (see Union Trust Company). Other topics include Wood’s work as editor of the American Journal of Numismatics, such as discussions of article content and production issues; photographing and casting of coins; cleaning of coins (e.g., Hopkins, March 4, 1931 and Oliveira, May 16, 1933); exhibits; the return of the Andrew Zabriskie collection, with a catalog of Polish coins returned (1924); the addition to the building at Audubon Terrace (see Eidlitz, 1921-1934); the Bechtler coin press donated to the ANS (Tapp, 1926-1928); the loan of the Frederick A. Canfield collection by the New Jersey Historical Society (1930-1931); psychologist and collector Edward B. Titchener of Cornell University; and the Henry A. Ramsden Far Eastern collection, including a note to John Robinson about the terms of Ramsden’s will, a numbered list of Ramsden coins, and related materials, such as those pertaining to Far Eastern collector Giuseppe Ros, Italian consulate general in Shangai (R, 1913-1921). In addition to the correspondence are research materials, including notebooks on Indian Bull and Horseman series; files on Bryan Money, Mexican coins, Ethiopian (Abyssinian) coins, American medals (1918-1921), and Indian Peace Medals (1917); a handwritten index to the Journal of the Royal Asiatic Society of Great Britain and Ireland (1837-1911), The Indian Antiquary (1877-1919), and the Journal of the Asiatic Society of Bengal (1832-1910); and typed curator and committee reports (1913-1927).</p>
+      </scopecontent>
+   </archdesc>
 </ead>

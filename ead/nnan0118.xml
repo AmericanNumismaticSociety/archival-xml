@@ -1,71 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0118" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader langencoding="iso639-2b">
-    <eadid countrycode="US" mainagencycode="US-nnan">nnan0118</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Colonial Coin Collectors Club founding documents, 1993-1994</titleproper>
-        <author>David Hill</author>
-      </titlestmt>
-      <publicationstmt>
-        <date>© 2011</date>
-        <address>
-          <addressline>American Numismatic Society Archives</addressline>
-          <addressline>75 Varick Street, 11th floor</addressline>
-          <addressline>New York, NY 10013</addressline>
-        </address>
-        <publisher>ANS Archives</publisher>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>Finding aid encoded by David Hill using EADitor ©2011</creation>
-      <langusage>Finding aid written in English</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <head>Descriptive Summary</head>
-      <unittitle>Colonial Coin Collectors Club founding documents</unittitle>
-      <abstract>Proposed and draft bylaws, constitution, and certificate of incorporation relating to the founding of the Colonial Coin Collectors Club.</abstract>
-      <physloc audience="internal">Rare Book Room - Pamphlet - Archives</physloc>
-      <physdesc>
-        <extent>1 folder</extent>
-      </physdesc>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <unitdate normal="1993/1994">1993-1994</unitdate>
-      <repository>American Numismatic Society</repository>
-    </did>
-    <scopecontent>
-      <head>Scope and Content Note</head>
-      <p>Proposed and draft bylaws, constitution, and certificate of incorporation relating to the founding of the Colonial Coin Collectors Club. Includes several pieces of correspondence sent among committee members Henry Bergos, Craig McDonald, John Kraljevich, Bill Swoger, and Donald Scarinci, along with two news clippings.</p>
-    </scopecontent>
-    <controlaccess>
-      <genreform authfilenumber="300027433" source="aat">Bylaws (Administrative records)</genreform>
-      <genreform authfilenumber="300027437" source="aat">Constitutions</genreform>
-      <genreform authfilenumber="300027619" source="aat">Certificates of incorporation</genreform>
-      <genreform authfilenumber="300026877" source="aat">Correspondence</genreform>
-      <genreform authfilenumber="300026867" source="aat">Clippings (information artifacts)</genreform>
-      <persname>Bergos, Henry</persname>
-      <persname>McDonald, Craig</persname>
-      <persname>Kraljevich, John</persname>
-      <persname authfilenumber="106857221" source="viaf">Swoger, Bill</persname>
-      <subject>Coins--Collectors and collecting</subject>
-      <corpname authfilenumber="124680824" source="viaf">Colonial Coin Collectors Club</corpname>
-      <persname authfilenumber="2218941" source="viaf">Scarinci, Donald</persname>
-    </controlaccess>
-    <accessrestrict>
-      <head>Access</head>
-      <p>Collection open to all researchers.</p>
-    </accessrestrict>
-    <prefercite>
-      <head>Preferred Citation</head>
-      <p>Colonial Coin Collectors Club founding documents, 1993-1994, Archives, American Numismatic Society.</p>
-    </prefercite>
-    <userestrict>
-      <head>Restrictions</head>
-      <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
-    </userestrict>
-  </archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     id="nnan0118"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b">
+      <eadid countrycode="US" mainagencycode="US-nnan">nnan0118</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Colonial Coin Collectors Club founding documents, 1993-1994</titleproper>
+            <author>David Hill</author>
+         </titlestmt>
+         <publicationstmt>
+            <date>© 2011</date>
+            <address>
+               <addressline>American Numismatic Society Archives</addressline>
+               <addressline>75 Varick Street, 11th floor</addressline>
+               <addressline>New York, NY 10013</addressline>
+            </address>
+            <publisher>ANS Archives</publisher>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid encoded by David Hill using EADitor ©2011</creation>
+         <langusage>Finding aid written in English</langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <head>Descriptive Summary</head>
+         <unittitle>Colonial Coin Collectors Club founding documents</unittitle>
+         <abstract>Proposed and draft bylaws, constitution, and certificate of incorporation relating to the founding of the Colonial Coin Collectors Club.</abstract>
+         <physloc audience="internal">Rare Book Room - Pamphlet - Archives</physloc>
+         <physdesc>
+            <extent>1 folder</extent>
+         </physdesc>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <unitdate normal="1993/1994">1993-1994</unitdate>
+         <repository>American Numismatic Society</repository>
+      </did>
+      <scopecontent>
+         <head>Scope and Content Note</head>
+         <p>Proposed and draft bylaws, constitution, and certificate of incorporation relating to the founding of the Colonial Coin Collectors Club. Includes several pieces of correspondence sent among committee members Henry Bergos, Craig McDonald, John Kraljevich, Bill Swoger, and Donald Scarinci, along with two news clippings.</p>
+      </scopecontent>
+      <controlaccess>
+         <genreform authfilenumber="300027433" source="aat">Bylaws (Administrative records)</genreform>
+         <genreform authfilenumber="300027437" source="aat">Constitutions</genreform>
+         <genreform authfilenumber="300027619" source="aat">Certificates of incorporation</genreform>
+         <genreform authfilenumber="300026877" source="aat">Correspondence</genreform>
+         <genreform authfilenumber="300026867" source="aat">Clippings (information artifacts)</genreform>
+         <persname>Bergos, Henry</persname>
+         <persname>McDonald, Craig</persname>
+         <persname>Kraljevich, John</persname>
+         <persname authfilenumber="106857221" source="viaf">Swoger, Bill</persname>
+         <subject>Coins--Collectors and collecting</subject>
+         <corpname authfilenumber="124680824" source="viaf">Colonial Coin Collectors Club</corpname>
+         <persname authfilenumber="2218941" source="viaf">Scarinci, Donald</persname>
+      </controlaccess>
+      <accessrestrict>
+         <head>Access</head>
+         <p>Collection open to all researchers.</p>
+      </accessrestrict>
+      <prefercite>
+         <head>Preferred Citation</head>
+         <p>Colonial Coin Collectors Club founding documents, 1993-1994, Archives, American Numismatic Society.</p>
+      </prefercite>
+      <userestrict>
+         <head>Restrictions</head>
+         <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
+      </userestrict>
+   </archdesc>
 </ead>

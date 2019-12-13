@@ -1,109 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0040">
-  <eadheader>
-    <eadid countrycode="US" mainagencycode="US-nnan">nnan0040</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Henry and S.H. Chapman business correspondence, auction catalogs, and other material, 1869-1949.</titleproper>
-        <author>David Hill</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>ANS Archives</publisher>
-        <date normal="2011">2011</date>
-        <address>
-          <addressline>American Numismatic Society Archives</addressline>
-          <addressline>75 Varick Street, 11th floor</addressline>
-          <addressline>New York, NY 10013</addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>Finding aid encoded by David Hill using EADitor ©2011</creation>
-      <langusage>Finding aid written in English</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <head>Descriptive Summary</head>
-      <unittitle>Henry and S.H. Chapman business correspondence, auction catalogs, and other material</unittitle>
-      <abstract>Correspondence, mostly regarding bids, payments, lists of coins sent on approval, and other matters having to do with the buying and selling of coins, along with annotated
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+     id="nnan0040">
+   <eadheader>
+      <eadid countrycode="US" mainagencycode="US-nnan">nnan0040</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Henry and S.H. Chapman business correspondence, auction catalogs, and other material, 1869-1949.</titleproper>
+            <author>David Hill</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>ANS Archives</publisher>
+            <date normal="2011">2011</date>
+            <address>
+               <addressline>American Numismatic Society Archives</addressline>
+               <addressline>75 Varick Street, 11th floor</addressline>
+               <addressline>New York, NY 10013</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid encoded by David Hill using EADitor ©2011</creation>
+         <langusage>Finding aid written in English</langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <head>Descriptive Summary</head>
+         <unittitle>Henry and S.H. Chapman business correspondence, auction catalogs, and other material</unittitle>
+         <abstract>Correspondence, mostly regarding bids, payments, lists of coins sent on approval, and other matters having to do with the buying and selling of coins, along with annotated
 				auction catalogs, notebooks, and glass plate negatives.</abstract>
-      <physloc audience="internal">ANS Rare Book Room</physloc>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <unitdate type="inclusive" normal="1869/1949">1869 - 1949</unitdate>
-      <repository>American Numismatic Society</repository>
-      <physdesc>
-        <extent>17.5 cubic feet (19 boxes)</extent>
-      </physdesc>
-      <daogrp>
-        <daodesc>
-          <p>An envelope containing a 1902 letter from M.J. Friedman of Chicago to S.H. &amp; H. Chapman </p>
-        </daodesc>
-        <daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6123/5933434981_1f6f9971a8_s.jpg" xlink:label="Square"/>
-        <daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6123/5933434981_1f6f9971a8_t.jpg" xlink:label="Thumbnail"/>
-        <daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6123/5933434981_1f6f9971a8_m.jpg" xlink:label="Small"/>
-        <daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6123/5933434981_1f6f9971a8.jpg" xlink:label="Medium"/>
-        <daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6123/5933434981_1f6f9971a8_z.jpg" xlink:label="Medium 640"/>
-        <daoloc xlink:type="locator" xlink:href="http://farm7.static.flickr.com/6123/5933434981_1f6f9971a8_b.jpg" xlink:label="Large"/>
-      </daogrp>
-    </did>
-    <bioghist>
-      <head>Biographical Note</head>
-      <p>Brothers Henry Chapman (1859-1935) and S.H. (Samuel Hudson) Chapman (1857-1931) of Philadelphia began collecting stamps and other items by the age of ten. Educated in the Friends
+         <physloc audience="internal">ANS Rare Book Room</physloc>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <unitdate type="inclusive" normal="1869/1949">1869 - 1949</unitdate>
+         <repository>American Numismatic Society</repository>
+         <physdesc>
+            <extent>17.5 cubic feet (19 boxes)</extent>
+         </physdesc>
+         <daogrp>
+            <daodesc>
+               <p>An envelope containing a 1902 letter from M.J. Friedman of Chicago to S.H. &amp; H. Chapman </p>
+            </daodesc>
+         </daogrp>
+      </did>
+      <bioghist>
+         <head>Biographical Note</head>
+         <p>Brothers Henry Chapman (1859-1935) and S.H. (Samuel Hudson) Chapman (1857-1931) of Philadelphia began collecting stamps and other items by the age of ten. Educated in the Friends
 				School, they went on to work for the coin dealer John W. Haseltine while still in their teens and eventually opened their own business, S.H. &amp; H. Chapman, in 1878. Dividing
 				responsibilities, S.H. handled ancient Greek and Roman coins and Henry specialized in coins of the world after 1066. The company established its reputation with the sale of the Charles
 				Bushnell Collection in 1882, and from 1879 to 1906 it conducted eighty-three auction sales. S.H. was an accomplished photographer, and the company’s catalogs were noted for their
 				photographic plates. Following a disagreement, the brothers dissolved their business partnership in 1906, with S.H. continuing to hold auctions on his own until 1924 and Henry
 				continuing until 1932. Henry’s wife, Helen, carried on the business under his name after his death in 1935 until 1948. Henry produced the landmark catalog for the record-setting John
 				Story Jenks sale of December 7-17, 1921. Both brothers were members of the American Numismatic Society, with S.H. joining in 1906 and Henry in 1908. </p>
-    </bioghist>
-    <acqinfo audience="internal">
-      <head>Provenance</head>
-      <p>Catalogs and materials relating to the John Story Jenks collection donated to the AN by Chapman family heirs in 1982. Correspondence and other papers were donated to the ANS in 2002 by
+      </bioghist>
+      <acqinfo audience="internal">
+         <head>Provenance</head>
+         <p>Catalogs and materials relating to the John Story Jenks collection donated to the AN by Chapman family heirs in 1982. Correspondence and other papers were donated to the ANS in 2002 by
 				the Estate of Mrs. Henrietta Chapman Judson.</p>
-    </acqinfo>
-    <accessrestrict>
-      <head>Access</head>
-      <p>Collection open to all researchers.</p>
-    </accessrestrict>
-    <custodhist audience="internal">
-      <head>Custodial History</head>
-      <p>ANS has held the Chapman catalogs and John Story Jenks materials since 1982 and the correspondence and other papers since 2002.</p>
-    </custodhist>
-    <prefercite>
-      <head>Preferred Citation</head>
-      <p>Henry and S.H. Chapman business correspondence, auction catalogs, and other material, 1869-1949, Archives, American Numismatic Society.</p>
-    </prefercite>
-    <userestrict>
-      <head>Restrictions</head>
-      <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
-    </userestrict>
-    <controlaccess>
-      <subject>Coin dealers--United States</subject>
-      <subject>Coins--Collectors and collecting</subject>
-      <persname authfilenumber="91219339" source="viaf">Chapman, Henry, 1859-1935</persname>
-      <persname authfilenumber="http://numismatics.org/authority/chapman" role="xeac:entity">Chapman, S.H. (Samuel Hudson), 1869-1949</persname>
-      <persname>Jenks, John Story, 1839-1923</persname>
-      <corpname>S.H. &amp; H. Chapman</corpname>
-      <genreform source="aat" authfilenumber="300026877">Correspondence</genreform>
-      <genreform source="aat" authfilenumber="300026711">Bidding documents</genreform>
-      <genreform source="aat" authfilenumber="300101057">Letterpress copybooks</genreform>
-      <genreform source="aat" authfilenumber="300026068">Auction catalogs</genreform>
-      <genreform source="aat" authfilenumber="300200438">Page proofs</genreform>
-      <genreform source="aat" authfilenumber="300127173">Negatives (Photographic)</genreform>
-      <genreform source="aat" authfilenumber="300264354">Notebooks</genreform>
-      <genreform source="aat" authfilenumber="300027045">Inventories</genreform>
-      <genreform source="aat" authfilenumber="300027573">Receipts (Financial records)</genreform>
-      <genreform source="aat" authfilenumber="300026365">Housebooks</genreform>
-      <genreform source="aat" authfilenumber="300027496">Ledgers (Account books)</genreform>
-      <genreform source="aat" authfilenumber="300028094">Maps</genreform>
-      <geogname source="geonames" rules="AACR2" authfilenumber="4887398">Chicago (Ill.)</geogname>
-    </controlaccess>
-    <scopecontent>
-      <head>Scope and Content Note</head>
-      <p>The bulk of the collection consists of correspondence mostly regarding bids, payments, lists of coins sent on approval, and other matters having to do with the buying and selling of
+      </acqinfo>
+      <accessrestrict>
+         <head>Access</head>
+         <p>Collection open to all researchers.</p>
+      </accessrestrict>
+      <custodhist audience="internal">
+         <head>Custodial History</head>
+         <p>ANS has held the Chapman catalogs and John Story Jenks materials since 1982 and the correspondence and other papers since 2002.</p>
+      </custodhist>
+      <prefercite>
+         <head>Preferred Citation</head>
+         <p>Henry and S.H. Chapman business correspondence, auction catalogs, and other material, 1869-1949, Archives, American Numismatic Society.</p>
+      </prefercite>
+      <userestrict>
+         <head>Restrictions</head>
+         <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
+      </userestrict>
+      <controlaccess>
+         <subject>Coin dealers--United States</subject>
+         <subject>Coins--Collectors and collecting</subject>
+         <persname authfilenumber="91219339" source="viaf">Chapman, Henry, 1859-1935</persname>
+         <persname authfilenumber="http://numismatics.org/authority/chapman" role="xeac:entity">Chapman, S.H. (Samuel Hudson), 1869-1949</persname>
+         <persname>Jenks, John Story, 1839-1923</persname>
+         <corpname>S.H. &amp; H. Chapman</corpname>
+         <genreform source="aat" authfilenumber="300026877">Correspondence</genreform>
+         <genreform source="aat" authfilenumber="300026711">Bidding documents</genreform>
+         <genreform source="aat" authfilenumber="300101057">Letterpress copybooks</genreform>
+         <genreform source="aat" authfilenumber="300026068">Auction catalogs</genreform>
+         <genreform source="aat" authfilenumber="300200438">Page proofs</genreform>
+         <genreform source="aat" authfilenumber="300127173">Negatives (Photographic)</genreform>
+         <genreform source="aat" authfilenumber="300264354">Notebooks</genreform>
+         <genreform source="aat" authfilenumber="300027045">Inventories</genreform>
+         <genreform source="aat" authfilenumber="300027573">Receipts (Financial records)</genreform>
+         <genreform source="aat" authfilenumber="300026365">Housebooks</genreform>
+         <genreform source="aat" authfilenumber="300027496">Ledgers (Account books)</genreform>
+         <genreform source="aat" authfilenumber="300028094">Maps</genreform>
+         <geogname source="geonames" rules="AACR2" authfilenumber="4887398">Chicago (Ill.)</geogname>
+      </controlaccess>
+      <scopecontent>
+         <head>Scope and Content Note</head>
+         <p>The bulk of the collection consists of correspondence mostly regarding bids, payments, lists of coins sent on approval, and other matters having to do with the buying and selling of
 				coins, including about twelve cubic feet of letters received by the firm S.H. &amp; H. Chapman, still folded and in envelopes, mostly arranged alphabetically by the correspondent’s
 				last name and dating primarily from 1902 to 1904, but with some from as early as 1886 and as late as 1916; four letterpress copybooks containing copies of correspondence sent
 				(1883-1890); four file folders of later letters (1927-1930); and three file folders of correspondence of Henry Chapman’s business dating from the time after his death when his wife
@@ -116,97 +113,97 @@
 				(1919-1930); empty annotated envelopes from the Confederate States of America in which were sent bank notes from 1861 to 1863; a set of what appears to be maps of early eighteenth
 				century regions of various parts of the world, with hand-colored borders; and four issues of Extracts from the Minutes of the Yearly Meeting of Friends held in Philadelphia (1881,
 				1885, 1886, 1907).</p>
-    </scopecontent>
-    <dsc>
-      <c id="c_f08bad3a8df5570f857fb45a3e3f9bbf" level="otherlevel" otherlevel="Box">
-        <did>
-          <unittitle>Boxes 1-12</unittitle>
-        </did>
-        <scopecontent>
-          <head>Contents:</head>
-          <p>Box 1 A-BREN; Box 2 BRET-COU; Box 3 CRI-EZ; Box 4 F-G(1); Box 5 G(2)-J(1); Box 6 J(2)-M(1); Box 7 M(2)</p>
-        </scopecontent>
-        <note>
-          <p>Boxes 1-12 contain letters received by Henry and S.H. (Samuel Hudson) Chapman, still folded and in envelopes, arranged alphabetically by correspondent’s last name. Most date from 1902 to 1904, but some are from as early as 1886 and as late as 1915. </p>
-        </note>
-      </c>
-      <c id="c_8dd507123e449144c0c095bbf0c05531" level="otherlevel" otherlevel="Box">
-        <did>
-          <unittitle>Box 12</unittitle>
-        </did>
-        <scopecontent>
-          <head>Contents:</head>
-          <p>(1) Y-Z correspondence; (2) Miscellaneous correspondence, 8 folders (4 folders: 1890-1905, 1916, also contains empty annotated envelopes from the Confederate States of America in which were sent bank notes from 1861-1863; 4 folders: Henry Chapman, 1927, 1930).</p>
-        </scopecontent>
-      </c>
-      <c id="c_8b3d81dfe8fa5745d823272874710e01" level="otherlevel" otherlevel="Box">
-        <did>
-          <unittitle>Box 13</unittitle>
-        </did>
-        <scopecontent>
-          <head>Contents:</head>
-          <p>Four letterpress copybooks (1883-1890) containing copies of correspondence sent, mostly regarding bids, payments, and lists of coins sent on approval.
+      </scopecontent>
+      <dsc>
+         <c id="c_f08bad3a8df5570f857fb45a3e3f9bbf" level="otherlevel" otherlevel="Box">
+            <did>
+               <unittitle>Boxes 1-12</unittitle>
+            </did>
+            <scopecontent>
+               <head>Contents:</head>
+               <p>Box 1 A-BREN; Box 2 BRET-COU; Box 3 CRI-EZ; Box 4 F-G(1); Box 5 G(2)-J(1); Box 6 J(2)-M(1); Box 7 M(2)</p>
+            </scopecontent>
+            <note>
+               <p>Boxes 1-12 contain letters received by Henry and S.H. (Samuel Hudson) Chapman, still folded and in envelopes, arranged alphabetically by correspondent’s last name. Most date from 1902 to 1904, but some are from as early as 1886 and as late as 1915. </p>
+            </note>
+         </c>
+         <c id="c_8dd507123e449144c0c095bbf0c05531" level="otherlevel" otherlevel="Box">
+            <did>
+               <unittitle>Box 12</unittitle>
+            </did>
+            <scopecontent>
+               <head>Contents:</head>
+               <p>(1) Y-Z correspondence; (2) Miscellaneous correspondence, 8 folders (4 folders: 1890-1905, 1916, also contains empty annotated envelopes from the Confederate States of America in which were sent bank notes from 1861-1863; 4 folders: Henry Chapman, 1927, 1930).</p>
+            </scopecontent>
+         </c>
+         <c id="c_8b3d81dfe8fa5745d823272874710e01" level="otherlevel" otherlevel="Box">
+            <did>
+               <unittitle>Box 13</unittitle>
+            </did>
+            <scopecontent>
+               <head>Contents:</head>
+               <p>Four letterpress copybooks (1883-1890) containing copies of correspondence sent, mostly regarding bids, payments, and lists of coins sent on approval.
 
 (1) 1883; (2) 1884-1885; (3) 1885-1886
 (4) 1889-1890.</p>
-        </scopecontent>
-      </c>
-      <c id="c_d734ca85967708263516d09486de8762" level="otherlevel" otherlevel="Box">
-        <did>
-          <unittitle>Box 14</unittitle>
-        </did>
-        <scopecontent>
-          <head>Contents:</head>
-          <p>Fifteen Henry and S.H. Chapman catalogs, some annotated (1882-1914). (1) 1882, (2) 1882, (3) 1884, (4) 1890, (5) 1895, (6) 1904, (7) 1906, (8) 1907, (9) 1909, (10) 1909, (11) 1909, (12) 1911, (13) 1911, (14) 1914, (15) 1914.</p>
-        </scopecontent>
-      </c>
-      <c id="c_aa3fa83c016134af70cc1c3a52105749" level="otherlevel" otherlevel="Box">
-        <did>
-          <unittitle>Box 15</unittitle>
-        </did>
-        <scopecontent>
-          <head>Contents:</head>
-          <p>Henry and S.H. Chapman catalogs, mostly annotated. (1) 1912 – prices realized, George H. Earle collection
+            </scopecontent>
+         </c>
+         <c id="c_d734ca85967708263516d09486de8762" level="otherlevel" otherlevel="Box">
+            <did>
+               <unittitle>Box 14</unittitle>
+            </did>
+            <scopecontent>
+               <head>Contents:</head>
+               <p>Fifteen Henry and S.H. Chapman catalogs, some annotated (1882-1914). (1) 1882, (2) 1882, (3) 1884, (4) 1890, (5) 1895, (6) 1904, (7) 1906, (8) 1907, (9) 1909, (10) 1909, (11) 1909, (12) 1911, (13) 1911, (14) 1914, (15) 1914.</p>
+            </scopecontent>
+         </c>
+         <c id="c_aa3fa83c016134af70cc1c3a52105749" level="otherlevel" otherlevel="Box">
+            <did>
+               <unittitle>Box 15</unittitle>
+            </did>
+            <scopecontent>
+               <head>Contents:</head>
+               <p>Henry and S.H. Chapman catalogs, mostly annotated. (1) 1912 – prices realized, George H. Earle collection
 (2) 1920; (3) 1922; (4) 1921 – Annotated printed copy of the Chapman catalog for the John Story Jenks sale (648 pages); (5) 1932
 (6) plate of coin photographs (multiple copies); (7) Supplement to the Bushnell Catalog (multiple copies).</p>
-        </scopecontent>
-      </c>
-      <c id="c_b2ed91036c8fabd67bd1ce2b3b04d26f" level="otherlevel" otherlevel="Box">
-        <did>
-          <unittitle>Box 16</unittitle>
-        </did>
-        <scopecontent>
-          <head>Contents:</head>
-          <p>Notebook labeled “My Coins &amp; Medals” with an inventory of world coins (1869);  Henry Chapman’s school notebook labeled “Latin” with notes on Roman history (1873); Mrs. Chapman’s household account book (1935-1946); Receipt book (1873-1896); Composition notebook labeled “Henry Chapman, Income Tax” (1935-1945); Composition notebook, “Income Tax” (1946?-1947); Ledger listing transactions with individuals and organizations (1919-1930); Annotated catalogs used as bid books by Henry Chapman (1878-1899, 1917); A set of what appears to be maps of early eighteenth century regions of various parts of the world, with hand-colored borders; Henry Chapman’s “Blacklist,” or “Men Reported Bad” (circa 1904-1906).</p>
-        </scopecontent>
-      </c>
-      <c id="c_43c2ef860367bee3affe8dc93934cde6" level="otherlevel" otherlevel="Box">
-        <did>
-          <unittitle>Box 17</unittitle>
-        </did>
-        <scopecontent>
-          <head>Contents:</head>
-          <p>Six glass plate negatives used to produce the plates of coin photographs used in Ebenezer Gilbert’s book The United States Half Cents (1916); Manuscripts for the production of catalogs, including a sale from October 4, 1919, and possibly the John Story Jenks sale held on December 7-17, 1921.</p>
-        </scopecontent>
-      </c>
-      <c id="c_e3755b3533346b45d5e1e8ade0d6deec" level="otherlevel" otherlevel="Box">
-        <did>
-          <unittitle>Box 18</unittitle>
-        </did>
-        <scopecontent>
-          <head>Contents:</head>
-          <p>Manuscript of the Chapman catalog for the John Story Jenks sale held on December 7-17, 1921.</p>
-        </scopecontent>
-      </c>
-      <c id="c_8da8bffc6c1fcd237318338566716d15" level="otherlevel" otherlevel="Box">
-        <did>
-          <unittitle>Box 19</unittitle>
-        </did>
-        <scopecontent>
-          <head>Contents:</head>
-          <p>Annotated page proofs of the Chapman catalog for the John Story Jenks sale held on December 7, 1921.</p>
-        </scopecontent>
-      </c>
-    </dsc>
-  </archdesc>
+            </scopecontent>
+         </c>
+         <c id="c_b2ed91036c8fabd67bd1ce2b3b04d26f" level="otherlevel" otherlevel="Box">
+            <did>
+               <unittitle>Box 16</unittitle>
+            </did>
+            <scopecontent>
+               <head>Contents:</head>
+               <p>Notebook labeled “My Coins &amp; Medals” with an inventory of world coins (1869);  Henry Chapman’s school notebook labeled “Latin” with notes on Roman history (1873); Mrs. Chapman’s household account book (1935-1946); Receipt book (1873-1896); Composition notebook labeled “Henry Chapman, Income Tax” (1935-1945); Composition notebook, “Income Tax” (1946?-1947); Ledger listing transactions with individuals and organizations (1919-1930); Annotated catalogs used as bid books by Henry Chapman (1878-1899, 1917); A set of what appears to be maps of early eighteenth century regions of various parts of the world, with hand-colored borders; Henry Chapman’s “Blacklist,” or “Men Reported Bad” (circa 1904-1906).</p>
+            </scopecontent>
+         </c>
+         <c id="c_43c2ef860367bee3affe8dc93934cde6" level="otherlevel" otherlevel="Box">
+            <did>
+               <unittitle>Box 17</unittitle>
+            </did>
+            <scopecontent>
+               <head>Contents:</head>
+               <p>Six glass plate negatives used to produce the plates of coin photographs used in Ebenezer Gilbert’s book The United States Half Cents (1916); Manuscripts for the production of catalogs, including a sale from October 4, 1919, and possibly the John Story Jenks sale held on December 7-17, 1921.</p>
+            </scopecontent>
+         </c>
+         <c id="c_e3755b3533346b45d5e1e8ade0d6deec" level="otherlevel" otherlevel="Box">
+            <did>
+               <unittitle>Box 18</unittitle>
+            </did>
+            <scopecontent>
+               <head>Contents:</head>
+               <p>Manuscript of the Chapman catalog for the John Story Jenks sale held on December 7-17, 1921.</p>
+            </scopecontent>
+         </c>
+         <c id="c_8da8bffc6c1fcd237318338566716d15" level="otherlevel" otherlevel="Box">
+            <did>
+               <unittitle>Box 19</unittitle>
+            </did>
+            <scopecontent>
+               <head>Contents:</head>
+               <p>Annotated page proofs of the Chapman catalog for the John Story Jenks sale held on December 7, 1921.</p>
+            </scopecontent>
+         </c>
+      </dsc>
+   </archdesc>
 </ead>

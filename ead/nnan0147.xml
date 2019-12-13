@@ -1,67 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0147" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader langencoding="iso639-2b">
-    <eadid countrycode="US" mainagencycode="US-nnan">nnan0147</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Scrapbook of clippings, 1857-1858, 1864</titleproper>
-        <author>David Hill</author>
-      </titlestmt>
-      <publicationstmt>
-        <date>2014</date>
-        <address>
-          <addressline>American Numismatic Society Archives</addressline>
-          <addressline>75 Varick Street, 11th floor</addressline>
-          <addressline>New York, NY 10013</addressline>
-        </address>
-        <publisher>ANS Archives</publisher>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>Finding aid encoded by David Hill using EADitor ©2011</creation>
-      <langusage>Finding aid written in English</langusage>
-    </profiledesc>
-  </eadheader>
-  <frontmatter/>
-  <archdesc level="item">
-    <did>
-      <head>Descriptive Summary</head>
-      <unittitle>Scrapbook of clippings</unittitle>
-      <abstract>Scrapbook of clippings containing mostly the columns “Gleanings of Coins” by Augustus B. Sage.</abstract>
-      <physloc audience="internal">Rare Book Room - Pamphlet - Folio - HE-Z</physloc>
-      <physdesc>
-        <extent>1 bound item</extent>
-      </physdesc>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <unitdate normal="1857/1864">1857 - 1864</unitdate>
-      <repository>American Numismatic Society</repository>
-    </did>
-    <controlaccess>
-      <persname authfilenumber="57368358" source="viaf">Field, Cyrus W. (Cyrus West), 1819-1892</persname>
-      <genreform authfilenumber="300027341" source="aat">Scrapbooks</genreform>
-      <genreform authfilenumber="300026867" source="aat">Clippings (Information artifacts)</genreform>
-      <subject>Coins, American--Collectors and collecting</subject>
-      <persname authfilenumber="http://numismatics.org/authority/sage" role="xeac:entity">Sage, Augustus B., 1842-1874</persname>
-    </controlaccess>
-    <scopecontent>
-      <head>Scope and Content Note</head>
-      <p>Scrapbook of clippings containing mostly the columns “Gleanings of Coins” by Augustus B. Sage that appeared in the New York Dispatch newspaper (1857). There are also clippings from the
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     id="nnan0147"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b">
+      <eadid countrycode="US" mainagencycode="US-nnan">nnan0147</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Scrapbook of clippings, 1857-1858, 1864</titleproper>
+            <author>David Hill</author>
+         </titlestmt>
+         <publicationstmt>
+            <date>2014</date>
+            <address>
+               <addressline>American Numismatic Society Archives</addressline>
+               <addressline>75 Varick Street, 11th floor</addressline>
+               <addressline>New York, NY 10013</addressline>
+            </address>
+            <publisher>ANS Archives</publisher>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid encoded by David Hill using EADitor ©2011</creation>
+         <langusage>Finding aid written in English</langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="item">
+      <did>
+         <head>Descriptive Summary</head>
+         <unittitle>Scrapbook of clippings</unittitle>
+         <abstract>Scrapbook of clippings containing mostly the columns “Gleanings of Coins” by Augustus B. Sage.</abstract>
+         <physloc audience="internal">Rare Book Room - Pamphlet - Folio - HE-Z</physloc>
+         <physdesc>
+            <extent>1 bound item</extent>
+         </physdesc>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <unitdate normal="1857/1864">1857 - 1864</unitdate>
+         <repository>American Numismatic Society</repository>
+      </did>
+      <controlaccess>
+         <persname authfilenumber="57368358" source="viaf">Field, Cyrus W. (Cyrus West), 1819-1892</persname>
+         <genreform authfilenumber="300027341" source="aat">Scrapbooks</genreform>
+         <genreform authfilenumber="300026867" source="aat">Clippings (Information artifacts)</genreform>
+         <subject>Coins, American--Collectors and collecting</subject>
+         <persname authfilenumber="http://numismatics.org/authority/sage" role="xeac:entity">Sage, Augustus B., 1842-1874</persname>
+      </controlaccess>
+      <scopecontent>
+         <head>Scope and Content Note</head>
+         <p>Scrapbook of clippings containing mostly the columns “Gleanings of Coins” by Augustus B. Sage that appeared in the New York Dispatch newspaper (1857). There are also clippings from the
 				New York Daily Tribune and New York Times regarding early meetings of the American Numismatic Society (1858); others relating to the poem “Humanity” from the publication The Criminal
 				Life (1864); and several more, including one on the presentation of a gold medal to Cyrus W. Field (1858).</p>
-    </scopecontent>
-    <accessrestrict>
-      <head>Access</head>
-      <p>Collection open to all researchers.</p>
-    </accessrestrict>
-    <prefercite>
-      <head>Preferred Citation</head>
-      <p>Scrapbook of clippings, 1857-1858, 1864, Archives, American Numismatic Society.</p>
-    </prefercite>
-    <userestrict>
-      <head>Restrictions</head>
-      <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
-    </userestrict>
-  </archdesc>
+      </scopecontent>
+      <accessrestrict>
+         <head>Access</head>
+         <p>Collection open to all researchers.</p>
+      </accessrestrict>
+      <prefercite>
+         <head>Preferred Citation</head>
+         <p>Scrapbook of clippings, 1857-1858, 1864, Archives, American Numismatic Society.</p>
+      </prefercite>
+      <userestrict>
+         <head>Restrictions</head>
+         <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
+      </userestrict>
+   </archdesc>
 </ead>

@@ -1,420 +1,412 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0128" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader langencoding="iso639-2b">
-    <eadid countrycode="US" mainagencycode="US-nnan">nnan0128</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Vladimir and Elvira Clain-Stefanelli papers, 1938-1972</titleproper>
-        <author>Arnold Tescher</author>
-      </titlestmt>
-      <publicationstmt>
-        <date>© 2013</date>
-        <address>
-          <addressline>American Numismatic Society Archives</addressline>
-          <addressline>75 Varick Street, 11th floor</addressline>
-          <addressline>New York, NY 10013</addressline>
-        </address>
-        <publisher>ANS Archives</publisher>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>Finding aid encoded by David Hill using EADitor ©2013</creation>
-      <langusage>Finding aid written in English</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <head>Descriptive Summary</head>
-      <unittitle>Vladimir and Elvira Clain-Stefanelli papers</unittitle>
-      <abstract>Vladimir and Elvira Clain-Stefenelli research materials relating to Callatis and Roman Republican coinage and American medals </abstract>
-      <physloc audience="internal">Archives office</physloc>
-      <physdesc>
-        <extent>5.75 cubic feet (11 boxes)</extent>
-      </physdesc>
-      <langmaterial>
-        <language langcode="rum">Romanian</language>
-        <language langcode="ger">German</language>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <unitdate normal="1938/1972">1938 - 1972</unitdate>
-      <repository>American Numismatic Society</repository>
-      <daogrp>
-        <daodesc>
-          <p>Elvira E. Clain-Stefanelli (1914-2001) and her husband Dr. Vladimir Clain-Stefanelli (1914-1982)</p>
-        </daodesc>
-        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7381/9773270843_b6ec13c27c_s.jpg" xlink:label="Square"/>
-        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7381/9773270843_b6ec13c27c_q.jpg" xlink:label="Large Square"/>
-        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7381/9773270843_b6ec13c27c_t.jpg" xlink:label="Thumbnail"/>
-        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7381/9773270843_b6ec13c27c_m.jpg" xlink:label="Small"/>
-        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7381/9773270843_b6ec13c27c_n.jpg" xlink:label="Small 320"/>
-        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7381/9773270843_b6ec13c27c.jpg" xlink:label="Medium"/>
-        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7381/9773270843_b6ec13c27c_z.jpg" xlink:label="Medium 640"/>
-        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7381/9773270843_b6ec13c27c_c.jpg" xlink:label="Medium 800"/>
-        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7381/9773270843_b6ec13c27c_b.jpg" xlink:label="Large"/>
-        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7381/9773270843_a26f1b9e77_h.jpg" xlink:label="Large 1600"/>
-        <daoloc xlink:type="locator" xlink:href="http://farm8.staticflickr.com/7381/9773270843_2f38320160_o.jpg" xlink:label="Original"/>
-      </daogrp>
-    </did>
-    <bibliography>
-      <head>See:</head>
-      <bibref>David Hill and Elena Stolyarik, “New Archives Accessions,” ANS Magazine 12:2 (2013), 48-53.</bibref>
-    </bibliography>
-    <arrangement>
-      <p>Organized in three series: 1. Binders and scrapbooks, 1940s-1950s, 2. Manuscripts, typescripts, and card index relating to Callatis, 1938-1947, and 3. American medals research materials, 1970-1972. </p>
-    </arrangement>
-    <controlaccess>
-      <persname authfilenumber="56651069" source="viaf">Clain-Stefanelli, Elvira E. (Elvira Eliza) 1914-1982</persname>
-      <persname authfilenumber="24599641" source="viaf">Clain-Stefanelli, Vladimir, 1914-1968</persname>
-      <genreform authfilenumber="300264354" source="aat">Notebooks </genreform>
-      <genreform authfilenumber="300265639" source="aat">Research notes</genreform>
-      <genreform authfilenumber="300048719" rules="aat">Card indexes</genreform>
-      <genreform authfilenumber="300046300" source="aat">Photographs</genreform>
-      <geogname source="geonames" rules="AACR2" authfilenumber="673921">Mangalia (Romania)</geogname>
-      <subject>Coins, Greek--Romania--Mangalia</subject>
-      <subject source="lcsh" authfilenumber="sh85027857">Coins, Roman</subject>
-      <subject source="lcsh" authfilenumber="sh85027805">Coins, Ancient</subject>
-      <subject source="lcsh" authfilenumber="sh92000418">Medals--United States</subject>
-      <genreform source="aat" authfilenumber="300026059">Catalogs (Documents)</genreform>
-    </controlaccess>
-    <scopecontent>
-      <p>Contains seventy-seven binders and scrapbooks of illustrated coin files, including Elvira Clain-Stefanelli’s notebooks on Roman Republican coins; manuscripts, typescripts, and several hundred index cards on the coinage of Callatis; and Clain-Stefanellis’ extensive research materials on American medals.</p>
-    </scopecontent>
-    <bioghist>
-      <head>Biographical Note</head>
-      <p>Elvira E. Clain-Stefanelli (1914-2001) and her husband Dr. Vladimir Clain-Stefanelli (1914-1982) were academic numismatic historians and later numismatic authors and curators. They pursued their interest in ancient coinage of the Black Sea region and U.S. medals as a team, serving together as members of the American Numismatic Society and numerous other national and international numismatic organizations. Vladimir became an ANS Associate in 1951 and a Fellow in 1957; Elvira became a Fellow in 1963. The two were frequent visitors to the Society when they worked for Hesperia Art Galleries and then Stack’s in the 1950s. In 1956 Vladimir became curator of the Smithsonian's Division of Numismatics; a year later, Elvira joined him as Assistant Curator. Together, they built the National Numismatic Collection from approximately 60,000 specimens in 1956 to almost one million objects. Two years after Vladimir's death in 1982, Elvira became the department's first executive director, holding that position until her retirement in 2000.</p>
-      <p>Dr. Vladimir Clain-Stefanelli (born Waldemar Günther Klein, but later changing the spelling of his surname to Clain and adding Stefanelli, his mother's maiden name) was born in Czernowitz, Bukovina, Austria (now part of the Ukraine and Romania). Vladimir was initially a well-known specialist of Eastern European coinage, in particular of his native Romania. He also specialized in historical documentation of United States coinages as well as coinages of Greek colonies and southeast European issues of the 15th and 16th centuries. Vladimir received a B.A. and M.A. in 1936, and Ph.D. in 1938 from the University of King Carol II in Austria. His 1938 doctoral dissertation, concerning the ancient coinage of Callatis, is included in the collection. Vladimir married the former Elvira Eliza Olinescu on January 3, 1939. After WW II, the couple moved to Italy where they worked for the P&amp;P Santamaria firm. They moved to the United States in 1951, where they would live out the remainder of their lives.  </p>
-      <p>Elvira E. Clain-Stefanelli was born in Bucharest, Romania. She received a degree in history from Franz Josef University in 1936 and later an M.A. in history from the University of Cernauti in Romania. Working with her husband after his appointment as manager of Stack's Coin Galleries subsidiary in 1954, Elvira wrote their first sales catalog. She joined the Smithsonian staff in 1957. In 1973 Elvira, along with her husband, received the Smithsonian Gold Medal for Exceptional Service. In 1996, she received the ANA's Farran Zerbe Memorial Award for Distinguished Service. During her numismatic career, Elvira was advisor to the U.S. Mint, the Department of Treasury, and many boards, committees, and associations.</p>
-      <p>Together or separately, Elvira and Vladimir Clain-Stefanelli wrote and published many important works including: Monetary history and medallic art at the Smithsonian Institution, Washington, D.C (Numisma, anÌƒo) (1965); History of the National Numismatic Collections (1968); La monnaie: trésor d’art (1971); Medals Commemorating Battles of the American Revolution (1973); The Beauty and Lore of Coins Currency and Medals (1974); Chartered for Progress, Two Centuries of American Banking: A Pictorial Essay(1975); Muenzen der Neuzeit (1978); Numismatic Bibliography (1984); Life in Republican Rome (1999).</p>
-    </bioghist>
-    <acqinfo audience="internal">
-      <head>Provenance</head>
-      <p>From Kolbe &amp; Fanning New York Book Auction 2013. “We are grateful to Anthony Terranova for donating, and Kolbe &amp; Fanning Numismatic Booksellers for helping to acquire, some of the rare and unique notebooks, scrapbooks, unpublished writings, photographs, and other research materials produced by numismatic scholars Vladimir and Elvira Eliza Clain-Stefanelli” (ANS Magazine, 2013, v.2).</p>
-    </acqinfo>
-    <accessrestrict>
-      <head>Access</head>
-      <p>Collection open to all researchers.</p>
-    </accessrestrict>
-    <custodhist audience="internal">
-      <head>Custodial History</head>
-      <p>Prior to the Kolbe &amp; Fanning New York Book Auction 2013, the papers were kept by the Clain-Stefanelli's son Alex.</p>
-    </custodhist>
-    <prefercite>
-      <head>Preferred Citation</head>
-      <p>Clain-Stefanelli papers, 1938-1972, Archives, American Numismatic Society.</p>
-    </prefercite>
-    <userestrict>
-      <head>Restrictions</head>
-      <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
-    </userestrict>
-    <dsc>
-      <c id="c_678a3e793501b5733cccbe61b937d708" level="series">
-        <did>
-          <unittitle>Series 1: Binders and scrapbooks, 1940s-1950s</unittitle>
-          <physdesc>
-            <extent>4 cubic feet (8 boxes)</extent>
-          </physdesc>
-        </did>
-        <note>
-          <p>Was lot 37, Kolbe &amp; Fanning New York Book Auction, 2013.</p>
-        </note>
-        <scopecontent>
-          <p>Contains seventy-seven binders and scrapbooks of illustrated coin files, including Elvira Clain-Stefanneli’s important notebooks on Roman Republican coins (Box 2). Compiled by Elvira and husband Vladimir, the material consists of detailed, handwritten notes with pasted clipped photos of coins, comprising a key resource for their research activities. Materials vary in form and condition, with most papers and photographs being well preserved with occasional exceptions. It is difficult to say exactly when the Clain-Stefanellis began assembling material for the notebooks. Elvira began compiling the notebooks after World War II, though it is likely that the larger size binders and scrapbooks are older than the smaller ones. Many years of work were devoted to these booklets, which served as both a reference and a repository of knowledge for the pair.</p>
-        </scopecontent>
-        <c id="c_698efe1dfb0515c819c05e6eaf9032e1" level="otherlevel" otherlevel="Box">
-          <did>
-            <unittitle>Box 1 of 11</unittitle>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     id="nnan0128"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b">
+      <eadid countrycode="US" mainagencycode="US-nnan">nnan0128</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Vladimir and Elvira Clain-Stefanelli papers, 1938-1972</titleproper>
+            <author>Arnold Tescher</author>
+         </titlestmt>
+         <publicationstmt>
+            <date>© 2013</date>
+            <address>
+               <addressline>American Numismatic Society Archives</addressline>
+               <addressline>75 Varick Street, 11th floor</addressline>
+               <addressline>New York, NY 10013</addressline>
+            </address>
+            <publisher>ANS Archives</publisher>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid encoded by David Hill using EADitor ©2013</creation>
+         <langusage>Finding aid written in English</langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <head>Descriptive Summary</head>
+         <unittitle>Vladimir and Elvira Clain-Stefanelli papers</unittitle>
+         <abstract>Vladimir and Elvira Clain-Stefenelli research materials relating to Callatis and Roman Republican coinage and American medals </abstract>
+         <physloc audience="internal">Archives office</physloc>
+         <physdesc>
+            <extent>5.75 cubic feet (11 boxes)</extent>
+         </physdesc>
+         <langmaterial>
+            <language langcode="rum">Romanian</language>
+            <language langcode="ger">German</language>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <unitdate normal="1938/1972">1938 - 1972</unitdate>
+         <repository>American Numismatic Society</repository>
+         <daogrp>
+            <daodesc>
+               <p>Elvira E. Clain-Stefanelli (1914-2001) and her husband Dr. Vladimir Clain-Stefanelli (1914-1982)</p>
+            </daodesc>
+         </daogrp>
+      </did>
+      <bibliography>
+         <head>See:</head>
+         <bibref>David Hill and Elena Stolyarik, “New Archives Accessions,” ANS Magazine 12:2 (2013), 48-53.</bibref>
+      </bibliography>
+      <arrangement>
+         <p>Organized in three series: 1. Binders and scrapbooks, 1940s-1950s, 2. Manuscripts, typescripts, and card index relating to Callatis, 1938-1947, and 3. American medals research materials, 1970-1972. </p>
+      </arrangement>
+      <controlaccess>
+         <persname authfilenumber="56651069" source="viaf">Clain-Stefanelli, Elvira E. (Elvira Eliza) 1914-1982</persname>
+         <persname authfilenumber="24599641" source="viaf">Clain-Stefanelli, Vladimir, 1914-1968</persname>
+         <genreform authfilenumber="300264354" source="aat">Notebooks </genreform>
+         <genreform authfilenumber="300265639" source="aat">Research notes</genreform>
+         <genreform authfilenumber="300048719" rules="aat">Card indexes</genreform>
+         <genreform authfilenumber="300046300" source="aat">Photographs</genreform>
+         <geogname source="geonames" rules="AACR2" authfilenumber="673921">Mangalia (Romania)</geogname>
+         <subject>Coins, Greek--Romania--Mangalia</subject>
+         <subject source="lcsh" authfilenumber="sh85027857">Coins, Roman</subject>
+         <subject source="lcsh" authfilenumber="sh85027805">Coins, Ancient</subject>
+         <subject source="lcsh" authfilenumber="sh92000418">Medals--United States</subject>
+         <genreform source="aat" authfilenumber="300026059">Catalogs (Documents)</genreform>
+      </controlaccess>
+      <scopecontent>
+         <p>Contains seventy-seven binders and scrapbooks of illustrated coin files, including Elvira Clain-Stefanelli’s notebooks on Roman Republican coins; manuscripts, typescripts, and several hundred index cards on the coinage of Callatis; and Clain-Stefanellis’ extensive research materials on American medals.</p>
+      </scopecontent>
+      <bioghist>
+         <head>Biographical Note</head>
+         <p>Elvira E. Clain-Stefanelli (1914-2001) and her husband Dr. Vladimir Clain-Stefanelli (1914-1982) were academic numismatic historians and later numismatic authors and curators. They pursued their interest in ancient coinage of the Black Sea region and U.S. medals as a team, serving together as members of the American Numismatic Society and numerous other national and international numismatic organizations. Vladimir became an ANS Associate in 1951 and a Fellow in 1957; Elvira became a Fellow in 1963. The two were frequent visitors to the Society when they worked for Hesperia Art Galleries and then Stack’s in the 1950s. In 1956 Vladimir became curator of the Smithsonian's Division of Numismatics; a year later, Elvira joined him as Assistant Curator. Together, they built the National Numismatic Collection from approximately 60,000 specimens in 1956 to almost one million objects. Two years after Vladimir's death in 1982, Elvira became the department's first executive director, holding that position until her retirement in 2000.</p>
+         <p>Dr. Vladimir Clain-Stefanelli (born Waldemar Günther Klein, but later changing the spelling of his surname to Clain and adding Stefanelli, his mother's maiden name) was born in Czernowitz, Bukovina, Austria (now part of the Ukraine and Romania). Vladimir was initially a well-known specialist of Eastern European coinage, in particular of his native Romania. He also specialized in historical documentation of United States coinages as well as coinages of Greek colonies and southeast European issues of the 15th and 16th centuries. Vladimir received a B.A. and M.A. in 1936, and Ph.D. in 1938 from the University of King Carol II in Austria. His 1938 doctoral dissertation, concerning the ancient coinage of Callatis, is included in the collection. Vladimir married the former Elvira Eliza Olinescu on January 3, 1939. After WW II, the couple moved to Italy where they worked for the P&amp;P Santamaria firm. They moved to the United States in 1951, where they would live out the remainder of their lives.  </p>
+         <p>Elvira E. Clain-Stefanelli was born in Bucharest, Romania. She received a degree in history from Franz Josef University in 1936 and later an M.A. in history from the University of Cernauti in Romania. Working with her husband after his appointment as manager of Stack's Coin Galleries subsidiary in 1954, Elvira wrote their first sales catalog. She joined the Smithsonian staff in 1957. In 1973 Elvira, along with her husband, received the Smithsonian Gold Medal for Exceptional Service. In 1996, she received the ANA's Farran Zerbe Memorial Award for Distinguished Service. During her numismatic career, Elvira was advisor to the U.S. Mint, the Department of Treasury, and many boards, committees, and associations.</p>
+         <p>Together or separately, Elvira and Vladimir Clain-Stefanelli wrote and published many important works including: Monetary history and medallic art at the Smithsonian Institution, Washington, D.C (Numisma, anÌƒo) (1965); History of the National Numismatic Collections (1968); La monnaie: trésor d’art (1971); Medals Commemorating Battles of the American Revolution (1973); The Beauty and Lore of Coins Currency and Medals (1974); Chartered for Progress, Two Centuries of American Banking: A Pictorial Essay(1975); Muenzen der Neuzeit (1978); Numismatic Bibliography (1984); Life in Republican Rome (1999).</p>
+      </bioghist>
+      <acqinfo audience="internal">
+         <head>Provenance</head>
+         <p>From Kolbe &amp; Fanning New York Book Auction 2013. “We are grateful to Anthony Terranova for donating, and Kolbe &amp; Fanning Numismatic Booksellers for helping to acquire, some of the rare and unique notebooks, scrapbooks, unpublished writings, photographs, and other research materials produced by numismatic scholars Vladimir and Elvira Eliza Clain-Stefanelli” (ANS Magazine, 2013, v.2).</p>
+      </acqinfo>
+      <accessrestrict>
+         <head>Access</head>
+         <p>Collection open to all researchers.</p>
+      </accessrestrict>
+      <custodhist audience="internal">
+         <head>Custodial History</head>
+         <p>Prior to the Kolbe &amp; Fanning New York Book Auction 2013, the papers were kept by the Clain-Stefanelli's son Alex.</p>
+      </custodhist>
+      <prefercite>
+         <head>Preferred Citation</head>
+         <p>Clain-Stefanelli papers, 1938-1972, Archives, American Numismatic Society.</p>
+      </prefercite>
+      <userestrict>
+         <head>Restrictions</head>
+         <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
+      </userestrict>
+      <dsc>
+         <c id="c_678a3e793501b5733cccbe61b937d708" level="series">
+            <did>
+               <unittitle>Series 1: Binders and scrapbooks, 1940s-1950s</unittitle>
+               <physdesc>
+                  <extent>4 cubic feet (8 boxes)</extent>
+               </physdesc>
+            </did>
             <note>
-              <p>Three large matching scrapbooks [29 by 24.5cm], each containing 100 leaves or more on which have been pasted thousands of photographs of medieval and early modern European coins and medals, with two of the scrapbooks being devoted entirely to Germanic coinages.</p>
+               <p>Was lot 37, Kolbe &amp; Fanning New York Book Auction, 2013.</p>
             </note>
-          </did>
-        </c>
-        <c id="c_27e9ad36d3353567ef778b464dcd974b" level="otherlevel" otherlevel="Box">
-          <did>
-            <unittitle>Box 2 of 11</unittitle>
-            <note>
-              <p>Twelve small binders [16 by 11 cm] devoted to Roman Republican denarii (one binder is devoted to anonymous issues arranged by symbols used). Also included are two rather overflowing binders covering Augustus. </p>
-            </note>
-          </did>
-        </c>
-        <c id="c_0a4dcae3ce0bee1fcaa49271c144c81f" level="otherlevel" otherlevel="Box">
-          <did>
-            <unittitle>Box 3 of 11</unittitle>
-            <note>
-              <p>Twelve small binders [13.5 by 9.5 cm or 16 by 11 cm] holding hundreds of leaves of ruled paper with detailed handwritten notes describing innumerable coins, with pasted clipped photos of coins throughout. Some additional illustrations are hand-drawn. Includes binders covering: Acarnania (1 binder); Aeolis (1 binder); Aetolia (1 binder); Alexander the Great (1 binder); Ancient Greek Gold Coins (1 binder); Attica (1 binder); Bactria (1 binder); Boeotia (1 binder); Caria &amp; Cilicia (1 binder); Chios (1 binder); and Crete (2 binders).</p>
-            </note>
-          </did>
-        </c>
-        <c id="c_534de12ca04d95b8f70e1b280b87109b" level="otherlevel" otherlevel="Box">
-          <did>
-            <unittitle>Box 4 of 11</unittitle>
-            <note>
-              <p>Eleven small binders [16 by 11 cm] holding hundreds of leaves of ruled paper with detailed handwritten notes describing innumerable coins, with pasted clipped photos of coins throughout.  Some additional illustrations are hand-drawn.  Includes binders covering:  Cyclades (1 binder); Epirus (1 binder); Euboea (1 binder); Illyricum (1 binder); Ionia (1 binder); Judea (1 binder); Lycia (1 binder); Macedon (3 binders); and Mysia (1 binder).</p>
-            </note>
-          </did>
-        </c>
-        <c id="c_8e94f90a72ae729d420ce893cfa7af9c" level="otherlevel" otherlevel="Box">
-          <did>
-            <unittitle>Box 5 of 11</unittitle>
-            <note>
-              <p>Twelve small binders [13.5 by 9.5 cm or 16 by 11 cm] holding hundreds of leaves of ruled paper with detailed handwritten notes describing innumerable coins, with pasted clipped photos of coins throughout.  Some additional illustrations are hand-drawn.  Includes binders covering: Messana (3 binders); Phokis, etc. (1 binder); Sicily (6 binders); South Italy (2 binders).</p>
-            </note>
-          </did>
-        </c>
-        <c id="c_c69fc7dd77804b6f9bf37f3ed0c3159a" level="otherlevel" otherlevel="Box">
-          <did>
-            <unittitle>Box 6 of 11</unittitle>
-            <note>
-              <p>Twelve small binders [13.5 by 9.5 cm or 16 by 11 cm] holding hundreds of leaves of ruled paper with detailed handwritten notes describing innumerable coins, with pasted clipped photos of coins throughout.  Includes binders labeled as follows: South Italy (2 binders); Syria (1 binder); Thessaly (1 binder); Thrace (1 binder); Zankle (1 binder); Austria (1 binder); England, Australia, Canada, South Africa and Newfoundland (1 binder); France (1 binder); Germany (Anhalt-Bernburg, Brunswick) (1 binder); Germany (Danzig, Oldenburg) (1 binder); and Germany (Prussia, Stuttgart) (1 binder).</p>
-            </note>
-          </did>
-        </c>
-        <c id="c_3a79b8dfcb573870ecf727fc38c6604a" level="otherlevel" otherlevel="Box">
-          <did>
-            <unittitle>Box 7 of 11</unittitle>
-            <note>
-              <p>Eleven small binders [16 by 11 cm in size] holding hundreds of leaves of ruled paper with detailed handwritten notes describing innumerable world coins, with pasted clipped photos of coins throughout. Includes binders labeled as follows: Germany (Thurn &amp; Taxis, Weimar Republic, West German Rep.) (1 binder); Italy, Vatican City (1 binder); Portugal, Spain (1 binder); Scandinavia, Russia (1 binder); Switzerland, Monaco, Netherlands, Belgium, Liechtenstein (1 binder); Eastern Europe, Balkans (1 binder); Afghanistan, Annan, Assam, Burma, Cambodia (1 binder); Persia (1 binder); China, Minor Eastern Countries (1 binder); India, Dutch East Indies, Java, Dutch West Indies (1 binder); Turkey, Algiers, Egypt, and Tunis (1 binder). </p>
-            </note>
-          </did>
-        </c>
-        <c id="c_1e03d7467bdcdb3c0c06a44c4b14b2bb" level="otherlevel" otherlevel="Box">
-          <did>
-            <unittitle>Box 8 of 11</unittitle>
-            <note>
-              <p>Three small binders [16 by 11 cm in size] holding hundreds of leaves of ruled paper with detailed handwritten notes describing innumerable world coins, with pasted clipped photos of coins throughout. Includes binders labeled as follows:
+            <scopecontent>
+               <p>Contains seventy-seven binders and scrapbooks of illustrated coin files, including Elvira Clain-Stefanneli’s important notebooks on Roman Republican coins (Box 2). Compiled by Elvira and husband Vladimir, the material consists of detailed, handwritten notes with pasted clipped photos of coins, comprising a key resource for their research activities. Materials vary in form and condition, with most papers and photographs being well preserved with occasional exceptions. It is difficult to say exactly when the Clain-Stefanellis began assembling material for the notebooks. Elvira began compiling the notebooks after World War II, though it is likely that the larger size binders and scrapbooks are older than the smaller ones. Many years of work were devoted to these booklets, which served as both a reference and a repository of knowledge for the pair.</p>
+            </scopecontent>
+            <c id="c_698efe1dfb0515c819c05e6eaf9032e1" level="otherlevel" otherlevel="Box">
+               <did>
+                  <unittitle>Box 1 of 11</unittitle>
+                  <note>
+                     <p>Three large matching scrapbooks [29 by 24.5cm], each containing 100 leaves or more on which have been pasted thousands of photographs of medieval and early modern European coins and medals, with two of the scrapbooks being devoted entirely to Germanic coinages.</p>
+                  </note>
+               </did>
+            </c>
+            <c id="c_27e9ad36d3353567ef778b464dcd974b" level="otherlevel" otherlevel="Box">
+               <did>
+                  <unittitle>Box 2 of 11</unittitle>
+                  <note>
+                     <p>Twelve small binders [16 by 11 cm] devoted to Roman Republican denarii (one binder is devoted to anonymous issues arranged by symbols used). Also included are two rather overflowing binders covering Augustus. </p>
+                  </note>
+               </did>
+            </c>
+            <c id="c_0a4dcae3ce0bee1fcaa49271c144c81f" level="otherlevel" otherlevel="Box">
+               <did>
+                  <unittitle>Box 3 of 11</unittitle>
+                  <note>
+                     <p>Twelve small binders [13.5 by 9.5 cm or 16 by 11 cm] holding hundreds of leaves of ruled paper with detailed handwritten notes describing innumerable coins, with pasted clipped photos of coins throughout. Some additional illustrations are hand-drawn. Includes binders covering: Acarnania (1 binder); Aeolis (1 binder); Aetolia (1 binder); Alexander the Great (1 binder); Ancient Greek Gold Coins (1 binder); Attica (1 binder); Bactria (1 binder); Boeotia (1 binder); Caria &amp; Cilicia (1 binder); Chios (1 binder); and Crete (2 binders).</p>
+                  </note>
+               </did>
+            </c>
+            <c id="c_534de12ca04d95b8f70e1b280b87109b" level="otherlevel" otherlevel="Box">
+               <did>
+                  <unittitle>Box 4 of 11</unittitle>
+                  <note>
+                     <p>Eleven small binders [16 by 11 cm] holding hundreds of leaves of ruled paper with detailed handwritten notes describing innumerable coins, with pasted clipped photos of coins throughout.  Some additional illustrations are hand-drawn.  Includes binders covering:  Cyclades (1 binder); Epirus (1 binder); Euboea (1 binder); Illyricum (1 binder); Ionia (1 binder); Judea (1 binder); Lycia (1 binder); Macedon (3 binders); and Mysia (1 binder).</p>
+                  </note>
+               </did>
+            </c>
+            <c id="c_8e94f90a72ae729d420ce893cfa7af9c" level="otherlevel" otherlevel="Box">
+               <did>
+                  <unittitle>Box 5 of 11</unittitle>
+                  <note>
+                     <p>Twelve small binders [13.5 by 9.5 cm or 16 by 11 cm] holding hundreds of leaves of ruled paper with detailed handwritten notes describing innumerable coins, with pasted clipped photos of coins throughout.  Some additional illustrations are hand-drawn.  Includes binders covering: Messana (3 binders); Phokis, etc. (1 binder); Sicily (6 binders); South Italy (2 binders).</p>
+                  </note>
+               </did>
+            </c>
+            <c id="c_c69fc7dd77804b6f9bf37f3ed0c3159a" level="otherlevel" otherlevel="Box">
+               <did>
+                  <unittitle>Box 6 of 11</unittitle>
+                  <note>
+                     <p>Twelve small binders [13.5 by 9.5 cm or 16 by 11 cm] holding hundreds of leaves of ruled paper with detailed handwritten notes describing innumerable coins, with pasted clipped photos of coins throughout.  Includes binders labeled as follows: South Italy (2 binders); Syria (1 binder); Thessaly (1 binder); Thrace (1 binder); Zankle (1 binder); Austria (1 binder); England, Australia, Canada, South Africa and Newfoundland (1 binder); France (1 binder); Germany (Anhalt-Bernburg, Brunswick) (1 binder); Germany (Danzig, Oldenburg) (1 binder); and Germany (Prussia, Stuttgart) (1 binder).</p>
+                  </note>
+               </did>
+            </c>
+            <c id="c_3a79b8dfcb573870ecf727fc38c6604a" level="otherlevel" otherlevel="Box">
+               <did>
+                  <unittitle>Box 7 of 11</unittitle>
+                  <note>
+                     <p>Eleven small binders [16 by 11 cm in size] holding hundreds of leaves of ruled paper with detailed handwritten notes describing innumerable world coins, with pasted clipped photos of coins throughout. Includes binders labeled as follows: Germany (Thurn &amp; Taxis, Weimar Republic, West German Rep.) (1 binder); Italy, Vatican City (1 binder); Portugal, Spain (1 binder); Scandinavia, Russia (1 binder); Switzerland, Monaco, Netherlands, Belgium, Liechtenstein (1 binder); Eastern Europe, Balkans (1 binder); Afghanistan, Annan, Assam, Burma, Cambodia (1 binder); Persia (1 binder); China, Minor Eastern Countries (1 binder); India, Dutch East Indies, Java, Dutch West Indies (1 binder); Turkey, Algiers, Egypt, and Tunis (1 binder). </p>
+                  </note>
+               </did>
+            </c>
+            <c id="c_1e03d7467bdcdb3c0c06a44c4b14b2bb" level="otherlevel" otherlevel="Box">
+               <did>
+                  <unittitle>Box 8 of 11</unittitle>
+                  <note>
+                     <p>Three small binders [16 by 11 cm in size] holding hundreds of leaves of ruled paper with detailed handwritten notes describing innumerable world coins, with pasted clipped photos of coins throughout. Includes binders labeled as follows:
 South America (Argentina, Chile) (1 binder); South America (Colombia, Honduras) (1 binder); and South America (Mexico, Venezuela) (1 binder).
 </p>
-            </note>
-          </did>
-        </c>
-      </c>
-      <c id="c_3a19d30458321c8b7f581cdf490b3de3" level="series">
-        <did>
-          <unittitle>Series 2: Manuscripts, typescripts, and card index relating to Callatis, 1938-1947</unittitle>
-          <physdesc>
-            <extent>0.75 cubic feet (2 boxes)</extent>
-          </physdesc>
-          <note>
-            <p>Was lot 34, Kolbe &amp; Fanning New York Book Auction, 2013.</p>
-          </note>
-        </did>
-        <scopecontent>
-          <p>Includes several file folders holding extensive manuscript and typescript materials by Clain-Stefanelli on Callatis, in particular his unpublished doctoral dissertation, “Monete Inedite din Callatis cu o contributie la teoria contramarcaril monetelor antice” (1938), a valuable research tool for Greek numismatic scholars with particular interest in Greek colonies of the Black Sea region. The thesis appears in several forms: both handwritten notes and typescript drafts, as well as in the bound (final?) copy. And while the bulk of the material is written in Romanian, there are some German documents and a folder containing typewritten notes on the Callatis coinage written in English. In the bound copy of the thesis (page 16), there appears to be reference to Clain-Stefanelli’s important observation concerning quasi-autonomous bronze coins of Callatis, a type of which is counterstamped with the letters TPA. Clain-Stefanelli connected this with a group of coins issued in Callatis under the Roman emperor Trajan, noting that the counterstamp with the abbreviated name of the emperor was an excellent device for announcing a new ruler until dies could be prepared to show his portrait on the coins. Also present in the collection are a number of high quality photographs on the coinage of Callatis; notes for a slide presentation on “The Ancient Gold Coinage of Kallatis”; two early publications by Clain-Stefanelli, “Beiträge zur Münzkunde von Kallatis” (1939) and “Contributo allo studio delle monete di Callatis” (1947). Also contains several hundred large index cards on which individual coins of Callatis (modern day Mangalia on the coast of the Black Sea in Romania, founded at the end of the sixth century B.C. by Dorian Greek colonists) have been described; three small heavily annotated notebooks on the subject; and two cotton-lined boxes containing six very well-made plaster casts of Greek coins. Clain-Stefanelli’s dedication to detail as well as his scholarship is evident in this material.</p>
-        </scopecontent>
-        <c id="c_00e794f8851e586ef421c288a65f55ea" level="otherlevel" otherlevel="Box">
-          <did>
-            <unittitle>Box 9 of 11: Manuscripts and typescripts</unittitle>
-          </did>
-        </c>
-        <c id="c_0b2a165986fc9cd720e8f6795224a3c5" level="otherlevel" otherlevel="Box">
-          <did>
-            <unittitle>Box 10 of 11: Card index</unittitle>
-          </did>
-        </c>
-      </c>
-      <c id="c_47e6b100e6c70cf6dbf5b1a2448c8b39" level="series">
-        <did>
-          <unittitle>Series 3: American medals research materials, 1970-1972</unittitle>
-          <physdesc>
-            <extent>1 cubic foot (1 box)</extent>
-          </physdesc>
-          <note>
-            <p>Was lot 193, Kolbe &amp; Fanning New York Book Auction, 2013.</p>
-          </note>
-        </did>
-        <scopecontent>
-          <p>Contains advanced research materials on American medals and foreign medals relating to America assembled during the writing of the book Medals Commemorating Battles of the American Revolution (1973). Included are hundreds of pages of photocopied articles, original photographs (and some negatives) depicting important American medals; manuscript notes and other research materials relating to medallic portrayals of important historical events and personages in the early history of the United States. Noteworthy are Clain-Stefanellis’ research materials on Benjamin Franklin medals (seven folders); medallic art depicting George Washington, John Paul Jones, and Nathaniel Greene; materials on Comitia Americana and Libertas Americana series medals; and numerous folders containing information about Franco-American medals and artists.</p>
-        </scopecontent>
-        <c id="c_50502125f50faa5c110f6f903f3f9725" level="otherlevel" otherlevel="Box">
-          <did>
-            <unittitle>Box 11 of 11</unittitle>
-          </did>
-          <c id="c_162716e935736c7f805637b1b281dd2a" level="file">
+                  </note>
+               </did>
+            </c>
+         </c>
+         <c id="c_3a19d30458321c8b7f581cdf490b3de3" level="series">
             <did>
-              <unittitle>American Revolution</unittitle>
+               <unittitle>Series 2: Manuscripts, typescripts, and card index relating to Callatis, 1938-1947</unittitle>
+               <physdesc>
+                  <extent>0.75 cubic feet (2 boxes)</extent>
+               </physdesc>
+               <note>
+                  <p>Was lot 34, Kolbe &amp; Fanning New York Book Auction, 2013.</p>
+               </note>
             </did>
-          </c>
-          <c id="c_64b6d054eff0610e667cc324c6e70c4f" level="file">
+            <scopecontent>
+               <p>Includes several file folders holding extensive manuscript and typescript materials by Clain-Stefanelli on Callatis, in particular his unpublished doctoral dissertation, “Monete Inedite din Callatis cu o contributie la teoria contramarcaril monetelor antice” (1938), a valuable research tool for Greek numismatic scholars with particular interest in Greek colonies of the Black Sea region. The thesis appears in several forms: both handwritten notes and typescript drafts, as well as in the bound (final?) copy. And while the bulk of the material is written in Romanian, there are some German documents and a folder containing typewritten notes on the Callatis coinage written in English. In the bound copy of the thesis (page 16), there appears to be reference to Clain-Stefanelli’s important observation concerning quasi-autonomous bronze coins of Callatis, a type of which is counterstamped with the letters TPA. Clain-Stefanelli connected this with a group of coins issued in Callatis under the Roman emperor Trajan, noting that the counterstamp with the abbreviated name of the emperor was an excellent device for announcing a new ruler until dies could be prepared to show his portrait on the coins. Also present in the collection are a number of high quality photographs on the coinage of Callatis; notes for a slide presentation on “The Ancient Gold Coinage of Kallatis”; two early publications by Clain-Stefanelli, “Beiträge zur Münzkunde von Kallatis” (1939) and “Contributo allo studio delle monete di Callatis” (1947). Also contains several hundred large index cards on which individual coins of Callatis (modern day Mangalia on the coast of the Black Sea in Romania, founded at the end of the sixth century B.C. by Dorian Greek colonists) have been described; three small heavily annotated notebooks on the subject; and two cotton-lined boxes containing six very well-made plaster casts of Greek coins. Clain-Stefanelli’s dedication to detail as well as his scholarship is evident in this material.</p>
+            </scopecontent>
+            <c id="c_00e794f8851e586ef421c288a65f55ea" level="otherlevel" otherlevel="Box">
+               <did>
+                  <unittitle>Box 9 of 11: Manuscripts and typescripts</unittitle>
+               </did>
+            </c>
+            <c id="c_0b2a165986fc9cd720e8f6795224a3c5" level="otherlevel" otherlevel="Box">
+               <did>
+                  <unittitle>Box 10 of 11: Card index</unittitle>
+               </did>
+            </c>
+         </c>
+         <c id="c_47e6b100e6c70cf6dbf5b1a2448c8b39" level="series">
             <did>
-              <unittitle>Castorland (Duvivier)</unittitle>
+               <unittitle>Series 3: American medals research materials, 1970-1972</unittitle>
+               <physdesc>
+                  <extent>1 cubic foot (1 box)</extent>
+               </physdesc>
+               <note>
+                  <p>Was lot 193, Kolbe &amp; Fanning New York Book Auction, 2013.</p>
+               </note>
             </did>
-          </c>
-          <c id="c_2a0dca6cce423aa36d8bc01e98958392" level="file">
-            <did>
-              <unittitle>Diplomatic Medal 1792 (Dupre)</unittitle>
-            </did>
-          </c>
-          <c id="c_0206e1e3ea0d2988b1d1c24401a9cae9" level="file">
-            <did>
-              <unittitle>Dupre, Augustin (1748-1833)</unittitle>
-            </did>
-          </c>
-          <c id="c_f513e068cd75a6b6b7133fae0210f158" level="file">
-            <did>
-              <unittitle>Duvivier, Benjamin (1730-1819)</unittitle>
-            </did>
-          </c>
-          <c id="c_1bebc1b00ee9b09f3b93815917bf79c1" level="file">
-            <did>
-              <unittitle>Engravers of the Revolutionary Medals (Article, American Journal of Numismatics)</unittitle>
-            </did>
-          </c>
-          <c id="c_e1605bc425ca26c1ff6a822c9fe806ea" level="file">
-            <did>
-              <unittitle>Fleury, Louis, Col.—Stony Point, 1778-81 (Duvivier)</unittitle>
-            </did>
-          </c>
-          <c id="c_97773896c357afa6949386ffe4c841ef" level="file">
-            <did>
-              <unittitle>Franco-American Exhibit, 1973 (Correspondence)</unittitle>
-            </did>
-          </c>
-          <c id="c_6a70778d136c64916d6f94f10aa7843a" level="file">
-            <did>
-              <unittitle>Franco-American Medals (1)</unittitle>
-            </did>
-          </c>
-          <c id="c_51585f493d3a49142e9db3474704c1c2" level="file">
-            <did>
-              <unittitle>Franco-American Medals (2)</unittitle>
-            </did>
-          </c>
-          <c id="c_d626e1067469c1e4b562264ae240c11b" level="file">
-            <did>
-              <unittitle>Franklin, Benjamin</unittitle>
-            </did>
-          </c>
-          <c id="c_9ca2327f7dd725764cce076d36156118" level="file">
-            <did>
-              <unittitle>Franklin Medal, Legend (Dupre)</unittitle>
-            </did>
-          </c>
-          <c id="c_7b7ec62cad813c04e5b4763eb9b56a70" level="file">
-            <did>
-              <unittitle>Franklin Medal, Small (Dupre)</unittitle>
-            </did>
-          </c>
-          <c id="c_04b810fd3be8996e807b76026cca82a4" level="file">
-            <did>
-              <unittitle>Franklin Medals (Nini)</unittitle>
-            </did>
-          </c>
-          <c id="c_e9f92c6a031089b415f4fd2dbfab3d70" level="file">
-            <did>
-              <unittitle>Franklin Medals (Nini)</unittitle>
-            </did>
-          </c>
-          <c id="c_58c11beff9164900cc83b38ebc456585" level="file">
-            <did>
-              <unittitle>Franklin, Benjamin (Correspondence)</unittitle>
-            </did>
-          </c>
-          <c id="c_5db263742c93190ccc79a4deb5e5062c" level="file">
-            <did>
-              <unittitle>Franklin, Benjamin, 1784 (Dupre) (Notes, Correspondence, etc.)</unittitle>
-            </did>
-          </c>
-          <c id="c_8f4cab144035d446090b14f4e4cc2f9d" level="file">
-            <did>
-              <unittitle>Franklin Seal (Dupre)</unittitle>
-            </did>
-          </c>
-          <c id="c_bc16ec39513706991c659a18b4b15169" level="file">
-            <did>
-              <unittitle>Galle, Andre</unittitle>
-            </did>
-          </c>
-          <c id="c_bbac1915b3e543606f5aed352f0dd321" level="file">
-            <did>
-              <unittitle>Gayrard</unittitle>
-            </did>
-          </c>
-          <c id="c_6a273194fe6c6a78249967a5ea5b81c7" level="file">
-            <did>
-              <unittitle>Gates, Horatio-Saratoga, 1785 (Gatteaux)</unittitle>
-            </did>
-          </c>
-          <c id="c_2977efbc3293455b31dc1988855ea9c1" level="file">
-            <did>
-              <unittitle>Gatteaux, Nicole M. (1751-1832)</unittitle>
-            </did>
-          </c>
-          <c id="c_97eb809bf2632279ba26f888238c513a" level="file">
-            <did>
-              <unittitle>Greene, Nathaniel (Dupre)</unittitle>
-            </did>
-          </c>
-          <c id="c_5180b327c8eaaa5e8599d10b11243c46" level="file">
-            <did>
-              <unittitle>Houdon</unittitle>
-            </did>
-          </c>
-          <c id="c_fa39a525b9c28b081277d513c44fbb77" level="file">
-            <did>
-              <unittitle>Howard, J. Edgar—Cowpens Infant, 1781 (Duvivier)</unittitle>
-            </did>
-          </c>
-          <c id="c_de87347502e5a28757d4dfd061428118" level="file">
-            <did>
-              <unittitle>Jones, John Paul—Serapis, 1789 (Dupre)</unittitle>
-            </did>
-          </c>
-          <c id="c_391b5f3a70345e023d00dffdc722ab7c" level="file">
-            <did>
-              <unittitle>Lafayette (Duvivier)</unittitle>
-            </did>
-          </c>
-          <c id="c_925c6cb9e8cfdfa07d3ad1792f5e8158" level="file">
-            <did>
-              <unittitle>Libertas Americana 1783 (Dupre)</unittitle>
-            </did>
-          </c>
-          <c id="c_b33b334eae5f5775ef900848bca2a089" level="file">
-            <did>
-              <unittitle>Morgan, Daniel—Cowpens, 1789 (Dupre)</unittitle>
-            </did>
-          </c>
-          <c id="c_2e853524572d273929f52633ef75b049" level="file">
-            <did>
-              <unittitle>Order of Cincinnatus</unittitle>
-            </did>
-          </c>
-          <c id="c_5d7cbe22740b8f7a63cb0440ae5ba9d3" level="file">
-            <did>
-              <unittitle>Stewart, John, Maj.</unittitle>
-            </did>
-          </c>
-          <c id="c_33d04b4f07fe0d980d74cbd0e52d1abc" level="file">
-            <did>
-              <unittitle>Washington, George 1776 (1785) (Duvivier)</unittitle>
-            </did>
-          </c>
-          <c id="c_678a60c9cb95935c6b7280c39f93db89" level="file">
-            <did>
-              <unittitle>Washington, William A. —Cowpens-Caval. 1781-85</unittitle>
-            </did>
-          </c>
-          <c id="c_8b5c983bd25e0ba17c4c4140f117353b" level="file">
-            <did>
-              <unittitle>Wayne, Anthony—Stony Point, 1779 (1789) (Gatteaux)</unittitle>
-            </did>
-          </c>
-          <c id="c_c7cc9b93751b9caf284411e044a0ca0b" level="file">
-            <did>
-              <unittitle>Wright, Henry L.</unittitle>
-            </did>
-          </c>
-          <c id="c_8d3a47cbf10bd3aa9952bc88655e5d7d" level="file">
-            <did>
-              <unittitle>Wright, Joseph (1756-1793)</unittitle>
-            </did>
-          </c>
-          <c id="c_19c1fdd5587c55fd9ac58ac585ca0af7" level="file">
-            <did>
-              <unittitle>Miscellaneous Medalists</unittitle>
-            </did>
-          </c>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+            <scopecontent>
+               <p>Contains advanced research materials on American medals and foreign medals relating to America assembled during the writing of the book Medals Commemorating Battles of the American Revolution (1973). Included are hundreds of pages of photocopied articles, original photographs (and some negatives) depicting important American medals; manuscript notes and other research materials relating to medallic portrayals of important historical events and personages in the early history of the United States. Noteworthy are Clain-Stefanellis’ research materials on Benjamin Franklin medals (seven folders); medallic art depicting George Washington, John Paul Jones, and Nathaniel Greene; materials on Comitia Americana and Libertas Americana series medals; and numerous folders containing information about Franco-American medals and artists.</p>
+            </scopecontent>
+            <c id="c_50502125f50faa5c110f6f903f3f9725" level="otherlevel" otherlevel="Box">
+               <did>
+                  <unittitle>Box 11 of 11</unittitle>
+               </did>
+               <c id="c_162716e935736c7f805637b1b281dd2a" level="file">
+                  <did>
+                     <unittitle>American Revolution</unittitle>
+                  </did>
+               </c>
+               <c id="c_64b6d054eff0610e667cc324c6e70c4f" level="file">
+                  <did>
+                     <unittitle>Castorland (Duvivier)</unittitle>
+                  </did>
+               </c>
+               <c id="c_2a0dca6cce423aa36d8bc01e98958392" level="file">
+                  <did>
+                     <unittitle>Diplomatic Medal 1792 (Dupre)</unittitle>
+                  </did>
+               </c>
+               <c id="c_0206e1e3ea0d2988b1d1c24401a9cae9" level="file">
+                  <did>
+                     <unittitle>Dupre, Augustin (1748-1833)</unittitle>
+                  </did>
+               </c>
+               <c id="c_f513e068cd75a6b6b7133fae0210f158" level="file">
+                  <did>
+                     <unittitle>Duvivier, Benjamin (1730-1819)</unittitle>
+                  </did>
+               </c>
+               <c id="c_1bebc1b00ee9b09f3b93815917bf79c1" level="file">
+                  <did>
+                     <unittitle>Engravers of the Revolutionary Medals (Article, American Journal of Numismatics)</unittitle>
+                  </did>
+               </c>
+               <c id="c_e1605bc425ca26c1ff6a822c9fe806ea" level="file">
+                  <did>
+                     <unittitle>Fleury, Louis, Col.—Stony Point, 1778-81 (Duvivier)</unittitle>
+                  </did>
+               </c>
+               <c id="c_97773896c357afa6949386ffe4c841ef" level="file">
+                  <did>
+                     <unittitle>Franco-American Exhibit, 1973 (Correspondence)</unittitle>
+                  </did>
+               </c>
+               <c id="c_6a70778d136c64916d6f94f10aa7843a" level="file">
+                  <did>
+                     <unittitle>Franco-American Medals (1)</unittitle>
+                  </did>
+               </c>
+               <c id="c_51585f493d3a49142e9db3474704c1c2" level="file">
+                  <did>
+                     <unittitle>Franco-American Medals (2)</unittitle>
+                  </did>
+               </c>
+               <c id="c_d626e1067469c1e4b562264ae240c11b" level="file">
+                  <did>
+                     <unittitle>Franklin, Benjamin</unittitle>
+                  </did>
+               </c>
+               <c id="c_9ca2327f7dd725764cce076d36156118" level="file">
+                  <did>
+                     <unittitle>Franklin Medal, Legend (Dupre)</unittitle>
+                  </did>
+               </c>
+               <c id="c_7b7ec62cad813c04e5b4763eb9b56a70" level="file">
+                  <did>
+                     <unittitle>Franklin Medal, Small (Dupre)</unittitle>
+                  </did>
+               </c>
+               <c id="c_04b810fd3be8996e807b76026cca82a4" level="file">
+                  <did>
+                     <unittitle>Franklin Medals (Nini)</unittitle>
+                  </did>
+               </c>
+               <c id="c_e9f92c6a031089b415f4fd2dbfab3d70" level="file">
+                  <did>
+                     <unittitle>Franklin Medals (Nini)</unittitle>
+                  </did>
+               </c>
+               <c id="c_58c11beff9164900cc83b38ebc456585" level="file">
+                  <did>
+                     <unittitle>Franklin, Benjamin (Correspondence)</unittitle>
+                  </did>
+               </c>
+               <c id="c_5db263742c93190ccc79a4deb5e5062c" level="file">
+                  <did>
+                     <unittitle>Franklin, Benjamin, 1784 (Dupre) (Notes, Correspondence, etc.)</unittitle>
+                  </did>
+               </c>
+               <c id="c_8f4cab144035d446090b14f4e4cc2f9d" level="file">
+                  <did>
+                     <unittitle>Franklin Seal (Dupre)</unittitle>
+                  </did>
+               </c>
+               <c id="c_bc16ec39513706991c659a18b4b15169" level="file">
+                  <did>
+                     <unittitle>Galle, Andre</unittitle>
+                  </did>
+               </c>
+               <c id="c_bbac1915b3e543606f5aed352f0dd321" level="file">
+                  <did>
+                     <unittitle>Gayrard</unittitle>
+                  </did>
+               </c>
+               <c id="c_6a273194fe6c6a78249967a5ea5b81c7" level="file">
+                  <did>
+                     <unittitle>Gates, Horatio-Saratoga, 1785 (Gatteaux)</unittitle>
+                  </did>
+               </c>
+               <c id="c_2977efbc3293455b31dc1988855ea9c1" level="file">
+                  <did>
+                     <unittitle>Gatteaux, Nicole M. (1751-1832)</unittitle>
+                  </did>
+               </c>
+               <c id="c_97eb809bf2632279ba26f888238c513a" level="file">
+                  <did>
+                     <unittitle>Greene, Nathaniel (Dupre)</unittitle>
+                  </did>
+               </c>
+               <c id="c_5180b327c8eaaa5e8599d10b11243c46" level="file">
+                  <did>
+                     <unittitle>Houdon</unittitle>
+                  </did>
+               </c>
+               <c id="c_fa39a525b9c28b081277d513c44fbb77" level="file">
+                  <did>
+                     <unittitle>Howard, J. Edgar—Cowpens Infant, 1781 (Duvivier)</unittitle>
+                  </did>
+               </c>
+               <c id="c_de87347502e5a28757d4dfd061428118" level="file">
+                  <did>
+                     <unittitle>Jones, John Paul—Serapis, 1789 (Dupre)</unittitle>
+                  </did>
+               </c>
+               <c id="c_391b5f3a70345e023d00dffdc722ab7c" level="file">
+                  <did>
+                     <unittitle>Lafayette (Duvivier)</unittitle>
+                  </did>
+               </c>
+               <c id="c_925c6cb9e8cfdfa07d3ad1792f5e8158" level="file">
+                  <did>
+                     <unittitle>Libertas Americana 1783 (Dupre)</unittitle>
+                  </did>
+               </c>
+               <c id="c_b33b334eae5f5775ef900848bca2a089" level="file">
+                  <did>
+                     <unittitle>Morgan, Daniel—Cowpens, 1789 (Dupre)</unittitle>
+                  </did>
+               </c>
+               <c id="c_2e853524572d273929f52633ef75b049" level="file">
+                  <did>
+                     <unittitle>Order of Cincinnatus</unittitle>
+                  </did>
+               </c>
+               <c id="c_5d7cbe22740b8f7a63cb0440ae5ba9d3" level="file">
+                  <did>
+                     <unittitle>Stewart, John, Maj.</unittitle>
+                  </did>
+               </c>
+               <c id="c_33d04b4f07fe0d980d74cbd0e52d1abc" level="file">
+                  <did>
+                     <unittitle>Washington, George 1776 (1785) (Duvivier)</unittitle>
+                  </did>
+               </c>
+               <c id="c_678a60c9cb95935c6b7280c39f93db89" level="file">
+                  <did>
+                     <unittitle>Washington, William A. —Cowpens-Caval. 1781-85</unittitle>
+                  </did>
+               </c>
+               <c id="c_8b5c983bd25e0ba17c4c4140f117353b" level="file">
+                  <did>
+                     <unittitle>Wayne, Anthony—Stony Point, 1779 (1789) (Gatteaux)</unittitle>
+                  </did>
+               </c>
+               <c id="c_c7cc9b93751b9caf284411e044a0ca0b" level="file">
+                  <did>
+                     <unittitle>Wright, Henry L.</unittitle>
+                  </did>
+               </c>
+               <c id="c_8d3a47cbf10bd3aa9952bc88655e5d7d" level="file">
+                  <did>
+                     <unittitle>Wright, Joseph (1756-1793)</unittitle>
+                  </did>
+               </c>
+               <c id="c_19c1fdd5587c55fd9ac58ac585ca0af7" level="file">
+                  <did>
+                     <unittitle>Miscellaneous Medalists</unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
 </ead>
