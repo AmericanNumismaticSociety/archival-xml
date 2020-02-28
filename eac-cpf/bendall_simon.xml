@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <control>
+        <recordId>bendall_simon</recordId>
+        <maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2020-02-27T16:22:34-05:00">Thu, 27 Feb 2020 16:22:34 -0500</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated from CSV (https://docs.google.com/spreadsheets/d/e/2PACX-1vRTGuolaKr3petLr16lTbFzam4ysSr5GT2AWvIZZpj4gaCn9h5GjTifD6_b7Lt2CMp_w8w82J3hWaHG/pubhtml) from Google Drive for IGCH records.</eventDescription>
+            </maintenanceEvent>
+        </maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Bendall, Simon</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+            <entityId localType="skos:exactMatch">http://viaf.org/viaf/79062828</entityId>
+            <entityId localType="skos:exactMatch">http://catalogue.bnf.fr/ark:/12148/cb12118117r</entityId>
+            <entityId localType="skos:exactMatch">http://isni.org/0000000109187754</entityId>
+            <entityId localType="skos:exactMatch">http://id.loc.gov/authorities/names/n79076258</entityId>
+            <entityId localType="skos:exactMatch">http://www.wikidata.org/entity/Q65926110</entityId>
+        </identity>
+        <description>
+            <existDates>
+                <localType>xeac:life</localType>
+                <dateRange>
+                    <fromDate standardDate="1937">1937</fromDate>
+                    <toDate standardDate="2019-06-26">2019-06-26</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <abstract>Simon Bendall (1937 – 26 June 2019) was an English numismatist specializing in Byzantine coins. He wrote the first major work on the coinage of the Empire of Trebizond.</abstract>
+            </biogHist>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025486">archaeologists</term>
+            </occupation>
+        </description>
+    </cpfDescription>
+</eac-cpf>

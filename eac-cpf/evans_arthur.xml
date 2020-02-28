@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <control>
+        <recordId>evans_arthur</recordId>
+        <maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2020-02-27T16:22:40-05:00">Thu, 27 Feb 2020 16:22:40 -0500</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated from CSV (https://docs.google.com/spreadsheets/d/e/2PACX-1vRTGuolaKr3petLr16lTbFzam4ysSr5GT2AWvIZZpj4gaCn9h5GjTifD6_b7Lt2CMp_w8w82J3hWaHG/pubhtml) from Google Drive for IGCH records.</eventDescription>
+            </maintenanceEvent>
+        </maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Evans, Arthur, Sir, 1851-1941.</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+            <entityId localType="skos:exactMatch">http://n2t.net/ark:/99166/w6nc66vg</entityId>
+            <entityId localType="skos:exactMatch">http://viaf.org/viaf/14778694</entityId>
+            <entityId localType="skos:exactMatch">http://www.worldcat.org/wcidentities/lccn-n80080436</entityId>
+            <entityId localType="skos:exactMatch">http://id.loc.gov/authorities/names/n80080436</entityId>
+            <entityId localType="skos:exactMatch">http://catalogue.bnf.fr/ark:/12148/cb119494228</entityId>
+            <entityId localType="skos:exactMatch">http://d-nb.info/gnd/118685562</entityId>
+            <entityId localType="skos:exactMatch">http://isni.org/0000000108717805</entityId>
+            <entityId localType="skos:exactMatch">http://vocab.getty.edu/ulan/500212319</entityId>
+            <entityId localType="skos:exactMatch">http://www.wikidata.org/entity/Q188929</entityId>
+            <entityId localType="skos:exactMatch">http://www.idref.fr/027457419</entityId>
+        </identity>
+        <description>
+            <existDates>
+                <localType>xeac:life</localType>
+                <dateRange>
+                    <fromDate standardDate="1851-07-08">July 8, 1851</fromDate>
+                    <toDate standardDate="1941-07-11">July 11, 1941</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <abstract>Sir Arthur John Evans (8 July 1851 – 11 July 1941) was an English archaeologist and pioneer in the study of Aegean civilization in the Bronze Age. He is most famous for unearthing the palace of Knossos on the Greek island of Crete.</abstract>
+            </biogHist>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025486">archaeologists</term>
+            </occupation>
+        </description>
+    </cpfDescription>
+</eac-cpf>

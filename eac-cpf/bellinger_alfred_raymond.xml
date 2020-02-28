@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <control>
+        <recordId>bellinger_alfred_raymond</recordId>
+        <maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2020-02-27T16:22:33-05:00">Thu, 27 Feb 2020 16:22:33 -0500</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated from CSV (https://docs.google.com/spreadsheets/d/e/2PACX-1vRTGuolaKr3petLr16lTbFzam4ysSr5GT2AWvIZZpj4gaCn9h5GjTifD6_b7Lt2CMp_w8w82J3hWaHG/pubhtml) from Google Drive for IGCH records.</eventDescription>
+            </maintenanceEvent>
+        </maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Bellinger, Alfred Raymond</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+            <entityId localType="skos:exactMatch">http://n2t.net/ark:/99166/w6417c7r</entityId>
+            <entityId localType="skos:exactMatch">http://viaf.org/viaf/34584084</entityId>
+            <entityId localType="skos:exactMatch">http://www.worldcat.org/wcidentities/lccn-n81068837</entityId>
+            <entityId localType="skos:exactMatch">http://id.loc.gov/authorities/names/n81068837</entityId>
+            <entityId localType="skos:exactMatch">http://catalogue.bnf.fr/ark:/12148/cb12752311n</entityId>
+            <entityId localType="skos:exactMatch">http://d-nb.info/gnd/128496045</entityId>
+            <entityId localType="skos:exactMatch">http://isni.org/0000000108868734</entityId>
+            <entityId localType="skos:exactMatch">http://www.wikidata.org/entity/Q15068377</entityId>
+            <entityId localType="skos:exactMatch">http://www.idref.fr/081909373</entityId>
+        </identity>
+        <description>
+            <existDates>
+                <localType>xeac:life</localType>
+                <dateRange>
+                    <fromDate standardDate="1893-07-24">July 24, 1893</fromDate>
+                    <toDate standardDate="1978-02-11">1978-02-11</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <abstract>Alfred Raymond Bellinger (Durham, 1893 – 1978) was an American archaeologist and numismatist. He taught at Yale University and took part in the Dura-Europos excavations and published the book: Dura final report, VI, The coins.</abstract>
+            </biogHist>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025486">archaeologists</term>
+            </occupation>
+        </description>
+    </cpfDescription>
+</eac-cpf>

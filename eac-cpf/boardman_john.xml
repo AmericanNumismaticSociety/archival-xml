@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <control>
+        <recordId>boardman_john</recordId>
+        <maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2020-02-27T16:22:35-05:00">Thu, 27 Feb 2020 16:22:35 -0500</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated from CSV (https://docs.google.com/spreadsheets/d/e/2PACX-1vRTGuolaKr3petLr16lTbFzam4ysSr5GT2AWvIZZpj4gaCn9h5GjTifD6_b7Lt2CMp_w8w82J3hWaHG/pubhtml) from Google Drive for IGCH records.</eventDescription>
+            </maintenanceEvent>
+        </maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Boardman, John</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+            <entityId localType="skos:exactMatch">http://n2t.net/ark:/99166/w60v9f98</entityId>
+            <entityId localType="skos:exactMatch">http://viaf.org/viaf/71406946</entityId>
+            <entityId localType="skos:exactMatch">http://www.worldcat.org/wcidentities/lccn-n79021119</entityId>
+            <entityId localType="skos:exactMatch">http://id.loc.gov/authorities/names/n79021119</entityId>
+            <entityId localType="skos:exactMatch">http://catalogue.bnf.fr/ark:/12148/cb120347228</entityId>
+            <entityId localType="skos:exactMatch">http://d-nb.info/gnd/120612194</entityId>
+            <entityId localType="skos:exactMatch">http://isni.org/0000000109135671</entityId>
+            <entityId localType="skos:exactMatch">http://www.wikidata.org/entity/Q566658</entityId>
+            <entityId localType="skos:exactMatch">http://www.idref.fr/028529308</entityId>
+        </identity>
+        <description>
+            <existDates>
+                <localType>xeac:life</localType>
+                <dateRange>
+                    <fromDate standardDate="1927-08-20">August 20, 1927</fromDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <abstract>Sir John Boardman is a classical art historian and archaeologist, &quot;Britain's most distinguished historian of ancient Greek art.&quot;</abstract>
+            </biogHist>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025541">art historians</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025486">archaeologists</term>
+            </occupation>
+        </description>
+    </cpfDescription>
+</eac-cpf>

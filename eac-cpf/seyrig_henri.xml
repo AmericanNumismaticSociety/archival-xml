@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <control>
+        <recordId>seyrig_henri</recordId>
+        <maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>approved</publicationStatus>
+        <maintenanceAgency>
+            <agencyName>American Numismatic Society</agencyName>
+            <agencyCode>US-nnan</agencyCode>
+        </maintenanceAgency>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>derived</eventType>
+                <eventDateTime standardDateTime="2020-02-27T16:22:52-05:00">Thu, 27 Feb 2020 16:22:52 -0500</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Ethan Gruber</agent>
+                <eventDescription>Generated from CSV (https://docs.google.com/spreadsheets/d/e/2PACX-1vRTGuolaKr3petLr16lTbFzam4ysSr5GT2AWvIZZpj4gaCn9h5GjTifD6_b7Lt2CMp_w8w82J3hWaHG/pubhtml) from Google Drive for IGCH records.</eventDescription>
+            </maintenanceEvent>
+        </maintenanceHistory>
+        <conventionDeclaration>
+            <abbreviation>ANS</abbreviation>
+            <citation>American Numismatic Society</citation>
+        </conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>dcterms</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>org</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/ns/org#">http://www.w3.org/ns/org#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>rel</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://purl.org/vocab/relationship/">http://purl.org/vocab/relationship/</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>skos</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
+        </localTypeDeclaration>
+        <localTypeDeclaration>
+            <abbreviation>foaf</abbreviation>
+            <citation xlink:role="semantic" xlink:type="simple" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
+        </localTypeDeclaration>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part>Seyrig, Henri</part>
+                <preferredForm>ANS</preferredForm>
+            </nameEntry>
+            <entityId localType="skos:exactMatch">http://n2t.net/ark:/99166/w6tn1nzm</entityId>
+            <entityId localType="skos:exactMatch">http://viaf.org/viaf/381705</entityId>
+            <entityId localType="skos:exactMatch">http://www.worldcat.org/wcidentities/lccn-nr88004032</entityId>
+            <entityId localType="skos:exactMatch">http://id.loc.gov/authorities/names/nr88004032</entityId>
+            <entityId localType="skos:exactMatch">FRBNF119245947</entityId>
+            <entityId localType="skos:exactMatch">http://d-nb.info/gnd/119178117</entityId>
+            <entityId localType="skos:exactMatch">http://isni.org/0000000121175609</entityId>
+            <entityId localType="skos:exactMatch">http://www.wikidata.org/entity/Q1606021</entityId>
+            <entityId localType="skos:exactMatch">http://catalogue.bnf.fr/ark:/12148/cb11924594s</entityId>
+            <entityId localType="skos:exactMatch">http://www.idref.fr/027135896</entityId>
+        </identity>
+        <description>
+            <existDates>
+                <localType>xeac:life</localType>
+                <dateRange>
+                    <fromDate standardDate="1895-11-10">November 10, 1895</fromDate>
+                    <toDate standardDate="1973-01-21">1973-01-21</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <abstract>Henri Arnold Seyrig (10 November 1895 – 21 January 1973) was a French archaeologist, numismatist, and historian of antiquities. He was general director of antiquities of Syria and Lebanon since 1929 and director during more than twenty years of the Institute of archaeology of Beirut.</abstract>
+            </biogHist>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025565">numismatists</term>
+            </occupation>
+            <occupation>
+                <term vocabularySource="http://vocab.getty.edu/aat/300025486">archaeologists</term>
+            </occupation>
+        </description>
+    </cpfDescription>
+</eac-cpf>
