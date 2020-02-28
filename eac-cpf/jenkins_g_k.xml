@@ -11,7 +11,7 @@
         <maintenanceHistory>
             <maintenanceEvent>
                 <eventType>derived</eventType>
-                <eventDateTime standardDateTime="2020-02-27T16:22:45-05:00">Thu, 27 Feb 2020 16:22:45 -0500</eventDateTime>
+                <eventDateTime standardDateTime="2020-02-28T09:17:19-05:00">Fri, 28 Feb 2020 09:17:19 -0500</eventDateTime>
                 <agentType>human</agentType>
                 <agent>Ethan Gruber</agent>
                 <eventDescription>Generated from CSV (https://docs.google.com/spreadsheets/d/e/2PACX-1vRTGuolaKr3petLr16lTbFzam4ysSr5GT2AWvIZZpj4gaCn9h5GjTifD6_b7Lt2CMp_w8w82J3hWaHG/pubhtml) from Google Drive for IGCH records.</eventDescription>
@@ -42,7 +42,7 @@
             <citation xlink:role="semantic" xlink:type="simple" xlink:href="http://www.w3.org/2004/02/skos/core#">http://www.w3.org/2004/02/skos/core#</citation>
         </localTypeDeclaration>
         <localTypeDeclaration>
-            <abbreviation>foaf</abbreviation>
+            <abbreviation>xeac</abbreviation>
             <citation xlink:role="semantic" xlink:type="simple" xlink:href="https://github.com/ewg118/xEAC#">https://github.com/ewg118/xEAC#</citation>
         </localTypeDeclaration>
     </control>
@@ -62,11 +62,10 @@
             <entityId localType="skos:exactMatch">http://www.idref.fr/029890020</entityId>
         </identity>
         <description>
-            <existDates>
-                <localType>xeac:life</localType>
+            <existDates localType="xeac:life">
                 <dateRange>
                     <fromDate standardDate="1918-07-02">July 2, 1918</fromDate>
-                    <toDate standardDate="2005-05-22">2005-05-22</toDate>
+                    <toDate standardDate="2005-05-22">May 22, 2005</toDate>
                 </dateRange>
             </existDates>
             <biogHist>
