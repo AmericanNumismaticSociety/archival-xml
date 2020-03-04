@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xml:id="igch339.006">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hoard Photographs about IGCH 0339</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>American Numismatic Society</name>
+                    <idno type="URI">http://numismatics.org/authority/american_numismatic_society</idno>
+                </publisher>
+                <pubPlace>New York (N.Y.)</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Archival record from the Inventory of Greek Coin Hoards and Coin Hoards folders in the American Numismatic Society.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://vocab.getty.edu/aat/">300046300</classCode>
+                <keywords scheme="nmo:Hoard">
+                    <term ref="http://coinhoards.org/id/igch0339">IGCH 0339</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2020-03-04">Generated TEI file from Google spreadsheet of IGCH archival records (https://docs.google.com/spreadsheets/d/e/2PACX-1vTRQbc1C_jdWLdV7jehdctKs7_BJG1TrOEGllRQhge-bXkBIeyEVEpS0cS-4vjmAsmqlYsOvaFzWH5J/pubhtml).</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:id="igch339.006_001_001" style="depiction">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_001.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_002_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_002.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_003_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_003.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_004_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_004.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_005_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_005.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_006_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_006.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_007_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_007.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_008_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_008.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_009_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_009.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_010_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_010.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_011_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_011.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_012_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_012.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_013_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_013.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_014_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_014.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_015_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_015.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_016_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_016.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_017_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_017.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_018_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_018.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_019_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_019.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_020_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_020.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_021_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_021.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_022_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_022.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_023_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_023.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_024_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_024.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_025_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_025.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_026_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_026.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_027_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_027.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_028_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_028.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_029_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_029.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_030_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_030.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_031_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_031.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_032_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_032.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_033_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_033.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_034_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_034.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_035_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_035.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_036_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_036.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_037_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_037.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+    <facsimile xml:id="igch339.006_038_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch339.006_038.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1200px" width="1725px"/>
+    </facsimile>
+</TEI>

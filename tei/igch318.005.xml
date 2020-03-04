@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xml:id="igch318.005">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Notes/Correspondence of Schwabacher/Nussbaum and Noe about IGCH 0318</title>
+                <author>
+                    <persName ref="http://numismatics.org/authority/schwabacher_willy">Schwabacher, Willy</persName>
+                </author>
+                <author>
+                    <persName ref="http://numismatics.org/authority/nussbaum_hans">Nussbaum, Hans</persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>American Numismatic Society</name>
+                    <idno type="URI">http://numismatics.org/authority/american_numismatic_society</idno>
+                </publisher>
+                <pubPlace>New York (N.Y.)</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Archival record from the Inventory of Greek Coin Hoards and Coin Hoards folders in the American Numismatic Society.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <particDesc>
+                <listPerson>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/schwabacher_willy">Schwabacher, Willy</persName>
+                    </person>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/kambanis_michel_l">Kambanis, Michel L.</persName>
+                    </person>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/hirsch_jacob">Hirsch, Jacob</persName>
+                    </person>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/nussbaum_hans">Nussbaum, Hans</persName>
+                    </person>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/noe">Noe, Sydney P. (Sydney Philip), 1885-1969</persName>
+                    </person>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/zoumpoulakis_theodore">Zoumpoulakis, Theodore</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+            <textClass>
+                <classCode scheme="http://vocab.getty.edu/aat/">300265639</classCode>
+                <classCode scheme="http://vocab.getty.edu/aat/">300026877</classCode>
+                <keywords scheme="nmo:Hoard">
+                    <term ref="http://coinhoards.org/id/igch0318">IGCH 0318</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2020-03-04">Generated TEI file from Google spreadsheet of IGCH archival records (https://docs.google.com/spreadsheets/d/e/2PACX-1vTRQbc1C_jdWLdV7jehdctKs7_BJG1TrOEGllRQhge-bXkBIeyEVEpS0cS-4vjmAsmqlYsOvaFzWH5J/pubhtml).</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:id="igch318.005_001_001" style="depiction">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch318.005_001.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1650px" width="1275px"/>
+    </facsimile>
+    <facsimile xml:id="igch318.005_002_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch318.005_002.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1650px" width="1275px"/>
+    </facsimile>
+    <facsimile xml:id="igch318.005_003_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch318.005_003.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2514px" width="1614px"/>
+    </facsimile>
+    <facsimile xml:id="igch318.005_005_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch318.005_005.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
+    </facsimile>
+    <facsimile xml:id="igch318.005_006_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch318.005_006.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="3509px" width="2481px"/>
+    </facsimile>
+    <facsimile xml:id="igch318.005_007_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch318.005_007.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="3509px" width="2481px"/>
+    </facsimile>
+</TEI>

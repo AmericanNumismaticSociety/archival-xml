@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xml:id="igch1928.016">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondence of Vlasto and Noe about IGCH 1928 (May 20, 1932)</title>
+                <author>
+                    <persName ref="http://numismatics.org/authority/vlasto_michel_p">Vlasto, Michel P.</persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>American Numismatic Society</name>
+                    <idno type="URI">http://numismatics.org/authority/american_numismatic_society</idno>
+                </publisher>
+                <pubPlace>New York (N.Y.)</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>igch1928.016</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItemStruct>
+                            <author>
+                                <persName ref="http://numismatics.org/authority/vlasto_michel_p">Vlasto, Michel P.</persName>
+                            </author>
+                        </msItemStruct>
+                    </msContents>
+                    <history>
+                        <origin>
+                            <date when="1932-05-20">May 20, 1932</date>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <particDesc>
+                <listPerson>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/vlasto_michel_p">Vlasto, Michel P.</persName>
+                    </person>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/noe">Noe, Sydney P. (Sydney Philip), 1885-1969</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+            <textClass>
+                <classCode scheme="http://vocab.getty.edu/aat/">300026877</classCode>
+                <keywords scheme="nmo:Hoard">
+                    <term ref="http://coinhoards.org/id/igch1928">IGCH 1928</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2020-03-04">Generated TEI file from Google spreadsheet of IGCH archival records (https://docs.google.com/spreadsheets/d/e/2PACX-1vTRQbc1C_jdWLdV7jehdctKs7_BJG1TrOEGllRQhge-bXkBIeyEVEpS0cS-4vjmAsmqlYsOvaFzWH5J/pubhtml).</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:id="igch1928.016_001_001" style="depiction">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch1928.016_001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2475px" width="1575px"/>
+    </facsimile>
+    <facsimile xml:id="igch1928.016_002_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch1928.016_002.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2475px" width="1634px"/>
+    </facsimile>
+</TEI>

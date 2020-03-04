@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xml:id="igch223.003">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondence of Ravel and Noe about IGCH 0223 (September 21, 1936)</title>
+                <author>
+                    <persName ref="http://numismatics.org/authority/ravel_oscar">Ravel, Oscar</persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>American Numismatic Society</name>
+                    <idno type="URI">http://numismatics.org/authority/american_numismatic_society</idno>
+                </publisher>
+                <pubPlace>New York (N.Y.)</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>igch223.003</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItemStruct>
+                            <author>
+                                <persName ref="http://numismatics.org/authority/ravel_oscar">Ravel, Oscar</persName>
+                            </author>
+                        </msItemStruct>
+                    </msContents>
+                    <history>
+                        <origin>
+                            <date when="1936-09-21">September 21, 1936</date>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <particDesc>
+                <listPerson>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/ravel_oscar">Ravel, Oscar</persName>
+                    </person>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/noe">Noe, Sydney P. (Sydney Philip), 1885-1969</persName>
+                    </person>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/nanteuil_henri_de">Nanteuil, Henri de, 1876-1941</persName>
+                    </person>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
+                    </person>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/vlasto_michel_p">Vlasto, Michel P.</persName>
+                    </person>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/brett">Brett, Agnes Baldwin, 1876-1955</persName>
+                    </person>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/ginori_conti_piero">Ginori Conti, Piero, 1865-1939</persName>
+                    </person>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/kambanis_michel_l">Kambanis, Michel L.</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+            <textClass>
+                <classCode scheme="http://vocab.getty.edu/aat/">300026877</classCode>
+                <keywords scheme="nmo:Hoard">
+                    <term ref="http://coinhoards.org/id/igch0223">IGCH 0223</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2020-03-04">Generated TEI file from Google spreadsheet of IGCH archival records (https://docs.google.com/spreadsheets/d/e/2PACX-1vTRQbc1C_jdWLdV7jehdctKs7_BJG1TrOEGllRQhge-bXkBIeyEVEpS0cS-4vjmAsmqlYsOvaFzWH5J/pubhtml).</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:id="igch223.003_001_001" style="depiction">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch223.003_001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2400px" width="2025px"/>
+    </facsimile>
+    <facsimile xml:id="igch223.003_002_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch223.003_002.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2400px" width="2025px"/>
+    </facsimile>
+</TEI>

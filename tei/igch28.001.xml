@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xml:id="igch28.001">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondence/Invoice of Newell about IGCH 0028 (July 7, 1931)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>American Numismatic Society</name>
+                    <idno type="URI">http://numismatics.org/authority/american_numismatic_society</idno>
+                </publisher>
+                <pubPlace>New York (N.Y.)</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Archival record from the Inventory of Greek Coin Hoards and Coin Hoards folders in the American Numismatic Society.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <particDesc>
+                <listPerson>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+            <textClass>
+                <classCode scheme="http://vocab.getty.edu/aat/">300026877</classCode>
+                <classCode scheme="http://vocab.getty.edu/aat/">300027568</classCode>
+                <keywords scheme="nmo:Hoard">
+                    <term ref="http://coinhoards.org/id/igch0028">IGCH 0028</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2020-03-04">Generated TEI file from Google spreadsheet of IGCH archival records (https://docs.google.com/spreadsheets/d/e/2PACX-1vTRQbc1C_jdWLdV7jehdctKs7_BJG1TrOEGllRQhge-bXkBIeyEVEpS0cS-4vjmAsmqlYsOvaFzWH5J/pubhtml).</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:id="igch28.001_001_001" style="depiction">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch28.001_001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="3000px" width="2400px"/>
+    </facsimile>
+    <facsimile xml:id="igch28.001_002_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch28.001_002.jpg" n="Invoice" mimeType="image/jpeg" type="IIIFService" height="3000px" width="2250px"/>
+    </facsimile>
+</TEI>

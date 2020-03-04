@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xml:id="igch2209.001">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondence of P. Norrit &amp;amp; Co. and American Numismatic Society about IGCH 2209 (April 27, 1922)</title>
+                <author>
+                    <corpName ref="http://numismatics.org/authority/p_norrit_co">P. Norrit &amp;amp; Co.</corpName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>American Numismatic Society</name>
+                    <idno type="URI">http://numismatics.org/authority/american_numismatic_society</idno>
+                </publisher>
+                <pubPlace>New York (N.Y.)</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>igch2209.001</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItemStruct>
+                            <author>
+                                <corpName ref="http://numismatics.org/authority/p_norrit_co">P. Norrit &amp;amp; Co.</corpName>
+                            </author>
+                        </msItemStruct>
+                    </msContents>
+                    <history>
+                        <origin>
+                            <date when="1922-04-27">April 27, 1922</date>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <particDesc>
+                <listOrg>
+                    <org>
+                        <orgName ref="http://numismatics.org/authority/p_norrit_co">P. Norrit &amp;amp; Co.</orgName>
+                    </org>
+                    <org>
+                        <orgName ref="http://numismatics.org/authority/american_numismatic_society">American Numismatic Society</orgName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <textClass>
+                <classCode scheme="http://vocab.getty.edu/aat/">300026877</classCode>
+                <keywords scheme="nmo:Hoard">
+                    <term ref="http://coinhoards.org/id/igch2209">IGCH 2209</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2020-03-04">Generated TEI file from Google spreadsheet of IGCH archival records (https://docs.google.com/spreadsheets/d/e/2PACX-1vTRQbc1C_jdWLdV7jehdctKs7_BJG1TrOEGllRQhge-bXkBIeyEVEpS0cS-4vjmAsmqlYsOvaFzWH5J/pubhtml).</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:id="igch2209.001_001" style="depiction">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2209.001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2514px" width="1614px"/>
+    </facsimile>
+</TEI>

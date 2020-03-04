@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xml:id="igch2039.001">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Notes of Noe about IGCH 2039 (September 1, 1954)</title>
+                <author>
+                    <persName ref="http://numismatics.org/authority/noe">Noe, Sydney P. (Sydney Philip), 1885-1969</persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>American Numismatic Society</name>
+                    <idno type="URI">http://numismatics.org/authority/american_numismatic_society</idno>
+                </publisher>
+                <pubPlace>New York (N.Y.)</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>igch2039.001</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItemStruct>
+                            <author>
+                                <persName ref="http://numismatics.org/authority/noe">Noe, Sydney P. (Sydney Philip), 1885-1969</persName>
+                            </author>
+                        </msItemStruct>
+                    </msContents>
+                    <history>
+                        <origin>
+                            <date when="1954-09-01">September 1, 1954</date>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <particDesc>
+                <listPerson>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/noe">Noe, Sydney P. (Sydney Philip), 1885-1969</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+            <textClass>
+                <classCode scheme="http://vocab.getty.edu/aat/">300265639</classCode>
+                <keywords scheme="nmo:Hoard">
+                    <term ref="http://coinhoards.org/id/igch2039">IGCH 2039</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2020-03-04">Generated TEI file from Google spreadsheet of IGCH archival records (https://docs.google.com/spreadsheets/d/e/2PACX-1vTRQbc1C_jdWLdV7jehdctKs7_BJG1TrOEGllRQhge-bXkBIeyEVEpS0cS-4vjmAsmqlYsOvaFzWH5J/pubhtml).</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:id="igch2039.001_001" style="depiction">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2039.001.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="2280px" width="1469px"/>
+    </facsimile>
+</TEI>

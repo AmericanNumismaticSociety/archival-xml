@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xml:id="igch289.004">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondence/Notes of Robinson and Noe about IGCH 0289 (July 14, 1950)</title>
+                <author>
+                    <persName ref="http://numismatics.org/authority/robinson_e_s_g">Robinson, E. S. G. (Edward Stanley Gotch)</persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>American Numismatic Society</name>
+                    <idno type="URI">http://numismatics.org/authority/american_numismatic_society</idno>
+                </publisher>
+                <pubPlace>New York (N.Y.)</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Archival record from the Inventory of Greek Coin Hoards and Coin Hoards folders in the American Numismatic Society.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <particDesc>
+                <listPerson>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/robinson_e_s_g">Robinson, E. S. G. (Edward Stanley Gotch)</persName>
+                    </person>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/noe">Noe, Sydney P. (Sydney Philip), 1885-1969</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+            <textClass>
+                <classCode scheme="http://vocab.getty.edu/aat/">300026877</classCode>
+                <classCode scheme="http://vocab.getty.edu/aat/">300265639</classCode>
+                <keywords scheme="nmo:Hoard">
+                    <term ref="http://coinhoards.org/id/igch0289">IGCH 0289</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2020-03-04">Generated TEI file from Google spreadsheet of IGCH archival records (https://docs.google.com/spreadsheets/d/e/2PACX-1vTRQbc1C_jdWLdV7jehdctKs7_BJG1TrOEGllRQhge-bXkBIeyEVEpS0cS-4vjmAsmqlYsOvaFzWH5J/pubhtml).</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:id="igch289.004_001_001" style="depiction">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_002_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_002.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_003_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_003.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_004_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_004.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_005_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_005.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_006_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_006.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_007_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_007.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_008_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_008.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_009_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_009.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_010_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_010.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_011_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_011.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_012_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_012.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_013_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_013.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_014_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_014.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_015_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_015.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_016_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_016.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_017_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_017.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_018_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_018.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_019_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_019.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_020_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_020.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_021_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_021.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_022_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_022.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_023_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_023.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_024_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_024.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_025_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_025.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_026_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_026.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_027_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_027.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_028_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_028.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_029_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_029.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_030_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_030.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_031_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_031.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_032_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_032.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_033_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_033.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_034_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_034.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_035_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_035.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_036_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_036.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_037_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_037.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_038_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_038.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_039_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_039.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_040_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_040.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_041_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_041.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_042_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_042.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_043_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_043.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_044_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_044.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_045_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_045.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+    <facsimile xml:id="igch289.004_046_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch289.004_046.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1164px" width="1764px"/>
+    </facsimile>
+</TEI>

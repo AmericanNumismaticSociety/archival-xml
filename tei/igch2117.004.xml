@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xml:id="igch2117.004">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondence/Hoard Photographs of Mildenberg about IGCH 2117 (June 30, 1959)</title>
+                <author>
+                    <persName ref="http://numismatics.org/authority/mildenberg_leo">Mildenberg, Leo</persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>American Numismatic Society</name>
+                    <idno type="URI">http://numismatics.org/authority/american_numismatic_society</idno>
+                </publisher>
+                <pubPlace>New York (N.Y.)</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Archival record from the Inventory of Greek Coin Hoards and Coin Hoards folders in the American Numismatic Society.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <particDesc>
+                <listPerson>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/mildenberg_leo">Mildenberg, Leo</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+            <textClass>
+                <classCode scheme="http://vocab.getty.edu/aat/">300026877</classCode>
+                <classCode scheme="http://vocab.getty.edu/aat/">300046300</classCode>
+                <keywords scheme="nmo:Hoard">
+                    <term ref="http://coinhoards.org/id/igch2117">IGCH 2117</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2020-03-04">Generated TEI file from Google spreadsheet of IGCH archival records (https://docs.google.com/spreadsheets/d/e/2PACX-1vTRQbc1C_jdWLdV7jehdctKs7_BJG1TrOEGllRQhge-bXkBIeyEVEpS0cS-4vjmAsmqlYsOvaFzWH5J/pubhtml).</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:id="igch2117.004_001_001" style="depiction">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+    <facsimile xml:id="igch2117.004_002_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_002.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+    <facsimile xml:id="igch2117.004_003_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_003.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+    <facsimile xml:id="igch2117.004_004_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_004.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+    <facsimile xml:id="igch2117.004_005_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_005.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+    <facsimile xml:id="igch2117.004_006_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_006.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+    <facsimile xml:id="igch2117.004_007_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_007.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+    <facsimile xml:id="igch2117.004_008_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_008.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+    <facsimile xml:id="igch2117.004_009_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_009.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+    <facsimile xml:id="igch2117.004_010_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_010.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+    <facsimile xml:id="igch2117.004_011_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_011.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+    <facsimile xml:id="igch2117.004_012_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_012.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+    <facsimile xml:id="igch2117.004_013_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_013.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+    <facsimile xml:id="igch2117.004_014_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_014.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+    <facsimile xml:id="igch2117.004_015_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_015.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+    <facsimile xml:id="igch2117.004_016_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_016.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+    <facsimile xml:id="igch2117.004_017_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_017.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+    <facsimile xml:id="igch2117.004_018_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_018.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+    <facsimile xml:id="igch2117.004_019_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_019.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+    <facsimile xml:id="igch2117.004_020_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2117.004_020.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1455px" width="2325px"/>
+    </facsimile>
+</TEI>

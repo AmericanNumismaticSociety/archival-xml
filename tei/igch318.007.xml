@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xml:id="igch318.007">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Notes/Hoard Photographs of Robinson about IGCH 0318</title>
+                <author>
+                    <persName ref="http://numismatics.org/authority/robinson_e_s_g">Robinson, E. S. G. (Edward Stanley Gotch)</persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>American Numismatic Society</name>
+                    <idno type="URI">http://numismatics.org/authority/american_numismatic_society</idno>
+                </publisher>
+                <pubPlace>New York (N.Y.)</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Archival record from the Inventory of Greek Coin Hoards and Coin Hoards folders in the American Numismatic Society.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <particDesc>
+                <listPerson>
+                    <person>
+                        <persName ref="http://numismatics.org/authority/robinson_e_s_g">Robinson, E. S. G. (Edward Stanley Gotch)</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+            <textClass>
+                <classCode scheme="http://vocab.getty.edu/aat/">300265639</classCode>
+                <classCode scheme="http://vocab.getty.edu/aat/">300046300</classCode>
+                <keywords scheme="nmo:Hoard">
+                    <term ref="http://coinhoards.org/id/igch0318">IGCH 0318</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2020-03-04">Generated TEI file from Google spreadsheet of IGCH archival records (https://docs.google.com/spreadsheets/d/e/2PACX-1vTRQbc1C_jdWLdV7jehdctKs7_BJG1TrOEGllRQhge-bXkBIeyEVEpS0cS-4vjmAsmqlYsOvaFzWH5J/pubhtml).</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:id="igch318.007_001_001" style="depiction">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch318.007_001.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1650px" width="1275px"/>
+    </facsimile>
+    <facsimile xml:id="igch318.007_002_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch318.007_002.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="975px" width="1239px"/>
+    </facsimile>
+    <facsimile xml:id="igch318.007_003_001">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch318.007_003.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="975px" width="1239px"/>
+    </facsimile>
+</TEI>
