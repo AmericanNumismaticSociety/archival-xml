@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xml:id="schaefer.rrdp.b13">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schaefer Roman Republican Die Study: Binder 13</title>
+                <author>
+                    <persName ref="http://numismatics.org/authority/schaefer_richard">Schaefer, Richard, 1946-</persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>American Numismatic Society</name>
+                    <idno type="URI">http://numismatics.org/authority/american_numismatic_society</idno>
+                </publisher>
+                <pubPlace>New York (N.Y.)</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <title>Schaefer Roman Republican Die Study: Binder13</title>
+                        <author>
+                            <persName ref="http://numismatics.org/authority/schaefer_richard">Schaefer, Richard, 1946-</persName>
+                        </author>
+                        <imprint>
+                            <date>unknown</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://vocab.getty.edu/aat/">300264354</classCode>
+                <keywords scheme="nmo:TypeSeriesItem">
+                    <term ref="http://numismatics.org/crro/id/rrc-285.3" facs="#schaefer_285_b13_p002-0">RRC 285/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-285.6" facs="#schaefer_285_b13_p002-0">RRC 285/6</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-285.7a" facs="#schaefer_285_b13_p002-0">RRC 285/7a</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-285.7b" facs="#schaefer_285_b13_p002-0">RRC 285/7b</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-285.3" facs="#schaefer_285_b13_p003">RRC 285/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-285.4" facs="#schaefer_285_b13_p003">RRC 285/4</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-285.5b" facs="#schaefer_285_b13_p003">RRC 285/5b</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-494.46" facs="#schaefer_494-43_b13_p004-0">RRC 494/46</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-494.46" facs="#schaefer_494-43_b13_p005-1">RRC 494/46</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-286.1" facs="#schaefer_286_b13_p006">RRC 286/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-286.1" facs="#schaefer_285_b13_p010">RRC 286/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-286.1" facs="#schaefer_286_b13_p011">RRC 286/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-286.1" facs="#schaefer_286_b13_p018">RRC 286/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-286.1" facs="#schaefer_286_b13_p019">RRC 286/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-287.1" facs="#schaefer_287_b13_p020">RRC 287/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-286.1" facs="#schaefer_286_b13_p022">RRC 286/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-286.1" facs="#schaefer_286_b13_p023">RRC 286/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-287.1" facs="#schaefer_287_b13_p026">RRC 287/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-287.1" facs="#schaefer_287_b13_p027">RRC 287/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-289.1" facs="#schaefer_289-1_b13_p028">RRC 289/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-289.1" facs="#schaefer_289-1_b13_p029">RRC 289/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-287.1" facs="#schaefer_287_b13_p030">RRC 287/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-287.1" facs="#schaefer_287_b13_p031">RRC 287/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-286.1" facs="#schaefer_286_b13_p032">RRC 286/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-287.1" facs="#schaefer_287_b13_p033-0">RRC 287/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-496.2" facs="#schaefer_496_b13_p036-0">RRC 496/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-496.3" facs="#schaefer_496_b13_p036-0">RRC 496/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-496.2" facs="#schaefer_496_b13_p037-0">RRC 496/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-496.3" facs="#schaefer_496_b13_p037-0">RRC 496/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-289.1" facs="#schaefer_289-1_b13_p038">RRC 289/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-289.1" facs="#schaefer_289-1_b13_p039">RRC 289/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-286.1" facs="#schaefer_286_b13_p040">RRC 286/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-286.1" facs="#schaefer_286_b13_p041">RRC 286/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-289.1" facs="#schaefer_289-1_b13_p042">RRC 289/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-289.1" facs="#schaefer_289-1_b13_p043">RRC 289/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-496.1" facs="#schaefer_496-1_b13_p044-0">RRC 496/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-496.1" facs="#schaefer_496-1_b13_p045-0">RRC 496/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-289.1" facs="#schaefer_289-1_b13_p046-0">RRC 289/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-289.1" facs="#schaefer_289_b13_p047">RRC 289/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-289.2" facs="#schaefer_289_b13_p047">RRC 289/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-289.3" facs="#schaefer_289_b13_p047">RRC 289/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-289.4" facs="#schaefer_289_b13_p047">RRC 289/4</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-289.5" facs="#schaefer_289_b13_p047">RRC 289/5</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-290.1" facs="#schaefer_290_b13_p050-0">RRC 290/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-290.1" facs="#schaefer_290-1_b13_p051">RRC 290/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-497.1" facs="#schaefer_497-2_b13_p052-0">RRC 497/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-497.2d" facs="#schaefer_497-2_b13_p052-0">RRC 497/2d</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-497.1" facs="#schaefer_497-2_b13_p053">RRC 497/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-290.1" facs="#schaefer_290-1_b13_p054">RRC 290/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-290.1" facs="#schaefer_290-1_b13_p055">RRC 290/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-497.3" facs="#schaefer_497-3_b13_p056">RRC 497/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-497.3" facs="#schaefer_497-3_b13_p057">RRC 497/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-289.1" facs="#schaefer_289-1_b13_p058">RRC 289/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-289.1" facs="#schaefer_289-1_b13_p059">RRC 289/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-290.1" facs="#schaefer_290-1_b13_p060-0">RRC 290/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-290.1" facs="#schaefer_290-1_b13_p061">RRC 290/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-498.1" facs="#schaefer_499_b13_p062-released">RRC 498/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-499.1" facs="#schaefer_499_b13_p062-released">RRC 499/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-500.1" facs="#schaefer_498_b13_p063">RRC 500/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-290.1" facs="#schaefer_290-1_b13_p064">RRC 290/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-290.1" facs="#schaefer_290-1_b13_p065">RRC 290/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-500.2" facs="#schaefer_500_b13_p066-released">RRC 500/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-500.4" facs="#schaefer_500_b13_p066-released">RRC 500/4</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-290.1" facs="#schaefer_290-1_b13_p067-0">RRC 290/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-500.4" facs="#schaefer_290-1_b13_p067-0">RRC 500/4</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-290.2" facs="#schaefer_290-2_b13_p068">RRC 290/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-290.3" facs="#schaefer_290-2_b13_p068">RRC 290/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-290.2" facs="#schaefer_290_b13_p069-0">RRC 290/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-290.3" facs="#schaefer_290_b13_p069-0">RRC 290/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-290.6" facs="#schaefer_290_b13_p069-0">RRC 290/6</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-500.7" facs="#schaefer_500_b13_p070-0">RRC 500/7</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-290.4" facs="#schaefer_290_b13_p071-0">RRC 290/4</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-500.6" facs="#schaefer_290_b13_p071-0">RRC 500/6</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-290.1" facs="#schaefer_290-1_b13_p072-0">RRC 290/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-290.1" facs="#schaefer_290-1_b13_p073">RRC 290/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-500.5" facs="#schaefer_500-5_b13_p074">RRC 500/5</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-500.5" facs="#schaefer_500-5_b13_p075">RRC 500/5</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-502.2" facs="#schaefer_502-2_b13_p076-0">RRC 502/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-502.2" facs="#schaefer_502-2_b13_p077">RRC 502/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-500.5" facs="#schaefer_500-5_b13_p078">RRC 500/5</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-500.5" facs="#schaefer_500-5_b13_p079-0">RRC 500/5</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-501.1" facs="#schaefer_501_b13_p080">RRC 501/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-501.1" facs="#schaefer_501_b13_p081">RRC 501/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-500.5" facs="#schaefer_500-5_b13_p082">RRC 500/5</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-502.2" facs="#schaefer_502-2_b13_p083">RRC 502/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-502.3" facs="#schaefer_504_b13_p084-1">RRC 502/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-502.4" facs="#schaefer_504_b13_p084-1">RRC 502/4</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-503.1" facs="#schaefer_504_b13_p084-1">RRC 503/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-504.1" facs="#schaefer_504_b13_p084-1">RRC 504/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-502.3" facs="#schaefer_504_b13_p085">RRC 502/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-502.4" facs="#schaefer_504_b13_p085">RRC 502/4</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-504.1" facs="#schaefer_504_b13_p085">RRC 504/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-500.5" facs="#schaefer_500-5_b13_p086">RRC 500/5</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-500.5" facs="#schaefer_500-5_b13_p087">RRC 500/5</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-502.2" facs="#schaefer_502-2_b13_p088v">RRC 502/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-502.2" facs="#schaefer_502-2_b13_p089-0">RRC 502/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-504.1" facs="#schaefer_504-1_b13_p090">RRC 504/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-505.1" facs="#schaefer_505-1_b13_p092-released">RRC 505/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-505.2" facs="#schaefer_505-1_b13_p092-released">RRC 505/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-502.2" facs="#schaefer_502-2_b13_p093">RRC 502/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-505.3" facs="#schaefer_506-1_b13_p096-0">RRC 505/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-506.1" facs="#schaefer_506-1_b13_p096-0">RRC 506/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-505.4" facs="#schaefer_505-5_b13_p098-0">RRC 505/4</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-506.2" facs="#schaefer_505-5_b13_p098-0">RRC 506/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-505.5" facs="#schaefer_505-5_b13_p099-1">RRC 505/5</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-506.2" facs="#schaefer_505-5_b13_p099-1">RRC 506/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-506.2" facs="#schaefer_506-2_b13_p102-0">RRC 506/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-506.2" facs="#schaefer_506-2_b13_p103">RRC 506/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-506.3" facs="#schaefer_507-1b_b13_p104-0">RRC 506/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-507.1b" facs="#schaefer_507-1b_b13_p104-0">RRC 507/1b</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-507.1b" facs="#schaefer_507-1b_b13_p105">RRC 507/1b</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-507.2" facs="#schaefer_507-2_b13_p106-0">RRC 507/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-507.2" facs="#schaefer_507-2_b13_p107-0">RRC 507/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-508.3" facs="#schaefer_508-3_b13_p108-0">RRC 508/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-508.3" facs="#schaefer_508-3_b13_p109-released">RRC 508/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-508.2" facs="#schaefer_508-2_b13_p110-0">RRC 508/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-508.2" facs="#schaefer_508-2_b13_p111-0">RRC 508/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-506.3" facs="#schaefer_506-3_b13_p112">RRC 506/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-509.4" facs="#schaefer_509-5_b13_p114-0">RRC 509/4</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-509.5" facs="#schaefer_509-5_b13_p114-0">RRC 509/5</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-510.1" facs="#schaefer_509-5_b13_p114-0">RRC 510/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-509.2" facs="#schaefer_510_b13_p115-0">RRC 509/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-510.1" facs="#schaefer_510_b13_p115-0">RRC 510/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-511.1" facs="#schaefer_511_b13_p118-0">RRC 511/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-512.1" facs="#schaefer_512-2_b13_p128-0">RRC 512/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-512.2" facs="#schaefer_512-2_b13_p128-0">RRC 512/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-512.2" facs="#schaefer_512_b13_p129-0">RRC 512/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-513.2" facs="#schaefer_513-2_b13_p130-0">RRC 513/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-513.1" facs="#schaefer_513_b13_p131">RRC 513/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-513.2" facs="#schaefer_513_b13_p131">RRC 513/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-513.3" facs="#schaefer_513_b13_p131">RRC 513/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-514.1" facs="#schaefer_514_b13_p132-0">RRC 514/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-514.2" facs="#schaefer_514_b13_p132-0">RRC 514/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-514.2" facs="#schaefer_514_b13_p133">RRC 514/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-515.1" facs="#schaefer_515_b13_p134-0">RRC 515/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-515.2" facs="#schaefer_515_b13_p134-0">RRC 515/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-515.2" facs="#schaefer_515_b13_p135-1">RRC 515/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-517.2" facs="#schaefer_517-2_b13_p142">RRC 517/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-517.2" facs="#schaefer_517_b13_p143">RRC 517/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-517.3" facs="#schaefer_517_b13_p143">RRC 517/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-517.5a" facs="#schaefer_517-5a_b13_p144">RRC 517/5a</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-517.4a" facs="#schaefer_517_b13_p146-0">RRC 517/4a</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-517.5c" facs="#schaefer_517_b13_p146-0">RRC 517/5c</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-517.5a" facs="#schaefer_517-5a_b13_p148-0">RRC 517/5a</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-517.5c" facs="#schaefer_517-5a_b13_p148-0">RRC 517/5c</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-517.5a" facs="#schaefer_517-5a_b13_p149">RRC 517/5a</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-517.7" facs="#schaefer_517-7_b13_p150-0">RRC 517/7</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-517.8" facs="#schaefer_517-8_b13_p152-0">RRC 517/8</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-517.8" facs="#schaefer_518-8_b13_p153">RRC 517/8</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-518.2" facs="#schaefer_518-2_b13_p154">RRC 518/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-518.1" facs="#schaefer_518-1_b13_p155">RRC 518/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-518.1" facs="#schaefer_518_b13_p156">RRC 518/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-519.2" facs="#schaefer_518_b13_p156">RRC 519/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-519.1" facs="#schaefer_519-1_b13_p157-0">RRC 519/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-519.2" facs="#schaefer_519-2_b13_p158-0">RRC 519/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-519.2" facs="#schaefer_519-2_b13_p160-released">RRC 519/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-519.2" facs="#schaefer_519-2_b13_p161-0">RRC 519/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-521.1" facs="#schaefer_521_b13_p162-0">RRC 521/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-521.2" facs="#schaefer_521_b13_p162-0">RRC 521/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-521.1" facs="#schaefer_521_b13_p163">RRC 521/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-521.2" facs="#schaefer_521_b13_p163">RRC 521/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-522.2" facs="#schaefer_522-4_b13_p164">RRC 522/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-522.4" facs="#schaefer_522-4_b13_p164">RRC 522/4</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-522.4" facs="#schaefer_522_b13_p165">RRC 522/4</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-525.2" facs="#schaefer_525-2_b13_p170-0">RRC 525/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-525.1" facs="#schaefer_525-1_b13_p171-0">RRC 525/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-526.1" facs="#schaefer_525-1_b13_p171-0">RRC 526/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-525.3" facs="#schaefer_525_b13_p172-1">RRC 525/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-526.2" facs="#schaefer_526_b13_p174-0">RRC 526/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-526.2" facs="#schaefer_526_b13_p175-0">RRC 526/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-526.3" facs="#schaefer_526-3_b13_p176-0">RRC 526/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-526.4" facs="#schaefer_526-3_b13_p176-0">RRC 526/4</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-526.4" facs="#schaefer_526-3_b13_p177">RRC 526/4</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-528.2a" facs="#schaefer_528_b13_p178-0">RRC 528/2a</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-528.2b" facs="#schaefer_528_b13_p178-0">RRC 528/2b</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-528.3" facs="#schaefer_528_b13_p179">RRC 528/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-529.1" facs="#schaefer_529_b13_p180-0">RRC 529/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-528.3" facs="#schaefer_529_b13_p181-1">RRC 528/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-529.3" facs="#schaefer_529_b13_p182-0">RRC 529/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-532.1" facs="#schaefer_532_b13_p184-0">RRC 532/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-532.1" facs="#schaefer_532_b13_p185">RRC 532/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-530.1" facs="#schaefer_530_b13_p189-2">RRC 530/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-533.2" facs="#schaefer_533-1_b13_p190-0">RRC 533/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-533.2" facs="#schaefer_533-1_b13_p191-1">RRC 533/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-534.1" facs="#schaefer_534_b13_p192-0">RRC 534/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-534.2" facs="#schaefer_534_b13_p192-0">RRC 534/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-535.1" facs="#schaefer_535-1_b13_p193-0">RRC 535/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-533.2" facs="#schaefer_535-2_b13_p194">RRC 533/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-533.2" facs="#schaefer_535-2_b13_p195">RRC 533/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-534.3" facs="#schaefer_534-3_b13_p196-0">RRC 534/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-533.3a" facs="#schaefer_533_b13_p197-0">RRC 533/3a</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-534.2" facs="#schaefer_533_b13_p197-0">RRC 534/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-534.3" facs="#schaefer_533_b13_p197-0">RRC 534/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-535.1" facs="#schaefer_535_b13_p198-0">RRC 535/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-535.1" facs="#schaefer_535_b13_p199-0">RRC 535/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-535.2" facs="#schaefer_535-1_b13_p200-0">RRC 535/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-534.3" facs="#schaefer_534-2_b13_p203">RRC 534/3</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-535.1" facs="#schaefer_535-1_b13_p204-0">RRC 535/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-535.1" facs="#schaefer_535-1_b13_p205">RRC 535/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-535.2" facs="#schaefer_535-2_b13_p206">RRC 535/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-535.2" facs="#schaefer_535-2_b13_p207-0">RRC 535/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-535.1" facs="#schaefer_535-1_b13_p209-1">RRC 535/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-535.2" facs="#schaefer_535-2_b13_p210">RRC 535/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-535.1" facs="#schaefer_535-1_b13_p213">RRC 535/1</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2020-07-13">Generated TEI document by processing list of files generated by ImageMagick identify library.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:id="schaefer_blank_b13_p001" style="depiction">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_blank_b13_p001.jpg" n="1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_285_b13_p002-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_285_b13_p002-0.jpg" n="2-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_285_b13_p002-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_285_b13_p002-1.jpg" n="2-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_285_b13_p003">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_285_b13_p003.jpg" n="3" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_494-43_b13_p004-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_494-43_b13_p004-0.jpg" n="4-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_494-43_b13_p004-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_494-43_b13_p004-1.jpg" n="4-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_494-43_b13_p004-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_494-43_b13_p004-2.jpg" n="4-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_494-43_b13_p005-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_494-43_b13_p005-0.jpg" n="5-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_494-43_b13_p005-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_494-43_b13_p005-1.jpg" n="5-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_286_b13_p006">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_286_b13_p006.jpg" n="6" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_286_b13_p007">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_286_b13_p007.jpg" n="7" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_blank_b13_p008">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_blank_b13_p008.jpg" n="8" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_494-42_b13_p009">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_494-42_b13_p009.jpg" n="9" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_285_b13_p010">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_285_b13_p010.jpg" n="10" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_286_b13_p011">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_286_b13_p011.jpg" n="11" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_494-43_b13_p012-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_494-43_b13_p012-0.jpg" n="12-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_494-43_b13_p013-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_494-43_b13_p013-0.jpg" n="13-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_494-43_b13_p013-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_494-43_b13_p013-1.jpg" n="13-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_286_b13_p014">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_286_b13_p014.jpg" n="14" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_286_b13_p015">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_286_b13_p015.jpg" n="15" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_494-42_b13_p016">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_494-42_b13_p016.jpg" n="16" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_494-43_b13_p017">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_494-43_b13_p017.jpg" n="17" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_286_b13_p018">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_286_b13_p018.jpg" n="18" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_286_b13_p019">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_286_b13_p019.jpg" n="19" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_287_b13_p020">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_287_b13_p020.jpg" n="20" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_blank_b13_p021">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_blank_b13_p021.jpg" n="21" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_286_b13_p022">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_286_b13_p022.jpg" n="22" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_286_b13_p023">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_286_b13_p023.jpg" n="23" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_494-42_b13_p024">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_494-42_b13_p024.jpg" n="24" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_494-42_b13_p025-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_494-42_b13_p025-0.jpg" n="25-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_494-42_b13_p025-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_494-42_b13_p025-1.jpg" n="25-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_287_b13_p026">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_287_b13_p026.jpg" n="26" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_287_b13_p027">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_287_b13_p027.jpg" n="27" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_289-1_b13_p028">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_289-1_b13_p028.jpg" n="28" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_289-1_b13_p029">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_289-1_b13_p029.jpg" n="29" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_287_b13_p030">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_287_b13_p030.jpg" n="30" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_287_b13_p031">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_287_b13_p031.jpg" n="31" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_286_b13_p032">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_286_b13_p032.jpg" n="32" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_287_b13_p033-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_287_b13_p033-0.jpg" n="33-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_287_b13_p033-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_287_b13_p033-1.jpg" n="33-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_495-2_b13_p034-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_495-2_b13_p034-0.jpg" n="34-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_495-2_b13_p034-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_495-2_b13_p034-1.jpg" n="34-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_495-2_b13_p034-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_495-2_b13_p034-2.jpg" n="34-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_495-2_b13_p035-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_495-2_b13_p035-0.jpg" n="35-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_495-2_b13_p035-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_495-2_b13_p035-1.jpg" n="35-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_496_b13_p036-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_496_b13_p036-0.jpg" n="36-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_496_b13_p036-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_496_b13_p036-1.jpg" n="36-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_496_b13_p037-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_496_b13_p037-0.jpg" n="37-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_496_b13_p037-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_496_b13_p037-1.jpg" n="37-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_289-1_b13_p038">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_289-1_b13_p038.jpg" n="38" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_289-1_b13_p039">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_289-1_b13_p039.jpg" n="39" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_286_b13_p040">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_286_b13_p040.jpg" n="40" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_286_b13_p041">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_286_b13_p041.jpg" n="41" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_289-1_b13_p042">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_289-1_b13_p042.jpg" n="42" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_289-1_b13_p043">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_289-1_b13_p043.jpg" n="43" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_496-1_b13_p044-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_496-1_b13_p044-0.jpg" n="44-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_496-1_b13_p044-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_496-1_b13_p044-1.jpg" n="44-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_496-1_b13_p045-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_496-1_b13_p045-0.jpg" n="45-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_496-1_b13_p045-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_496-1_b13_p045-1.jpg" n="45-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_289-1_b13_p046-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_289-1_b13_p046-0.jpg" n="46-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_289-1_b13_p046-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_289-1_b13_p046-1.jpg" n="46-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_289_b13_p047">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_289_b13_p047.jpg" n="47" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_497-2_b13_p048-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_497-2_b13_p048-0.jpg" n="48-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_497-2_b13_p048-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_497-2_b13_p048-1.jpg" n="48-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_497_b13_p049">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_497_b13_p049.jpg" n="49" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290_b13_p050-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290_b13_p050-0.jpg" n="50-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290_b13_p050-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290_b13_p050-1.jpg" n="50-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290-1_b13_p051">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290-1_b13_p051.jpg" n="51" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_497-2_b13_p052-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_497-2_b13_p052-0.jpg" n="52-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_497-2_b13_p052-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_497-2_b13_p052-1.jpg" n="52-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_497-2_b13_p053">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_497-2_b13_p053.jpg" n="53" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290-1_b13_p054">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290-1_b13_p054.jpg" n="54" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290-1_b13_p055">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290-1_b13_p055.jpg" n="55" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_497-3_b13_p056">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_497-3_b13_p056.jpg" n="56" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_497-3_b13_p057">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_497-3_b13_p057.jpg" n="57" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_289-1_b13_p058">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_289-1_b13_p058.jpg" n="58" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_289-1_b13_p059">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_289-1_b13_p059.jpg" n="59" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290-1_b13_p060-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290-1_b13_p060-0.jpg" n="60-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290-1_b13_p060-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290-1_b13_p060-1.jpg" n="60-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290-1_b13_p061">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290-1_b13_p061.jpg" n="61" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_499_b13_p062-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_499_b13_p062-0.jpg" n="62-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_499_b13_p062-released">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_499_b13_p062-released.jpg" n="62-released" mimeType="image/jpeg" type="IIIFService" height="5160px" width="3660px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_498_b13_p063">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_498_b13_p063.jpg" n="63" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290-1_b13_p064">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290-1_b13_p064.jpg" n="64" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290-1_b13_p065">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290-1_b13_p065.jpg" n="65" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_500_b13_p066-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_500_b13_p066-0.jpg" n="66-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_500_b13_p066-released">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_500_b13_p066-released.jpg" n="66-released" mimeType="image/jpeg" type="IIIFService" height="5160px" width="3660px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290-1_b13_p067-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290-1_b13_p067-0.jpg" n="67-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290-1_b13_p067-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290-1_b13_p067-1.jpg" n="67-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290-2_b13_p068">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290-2_b13_p068.jpg" n="68" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290_b13_p069-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290_b13_p069-0.jpg" n="69-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290_b13_p069-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290_b13_p069-1.jpg" n="69-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_500_b13_p070-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_500_b13_p070-0.jpg" n="70-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_500_b13_p070-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_500_b13_p070-1.jpg" n="70-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_500_b13_p070-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_500_b13_p070-2.jpg" n="70-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290_b13_p071-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290_b13_p071-0.jpg" n="71-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290_b13_p071-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290_b13_p071-1.jpg" n="71-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290_b13_p071-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290_b13_p071-2.jpg" n="71-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290-1_b13_p072-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290-1_b13_p072-0.jpg" n="72-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290-1_b13_p072-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290-1_b13_p072-1.jpg" n="72-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_290-1_b13_p073">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_290-1_b13_p073.jpg" n="73" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_500-5_b13_p074">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_500-5_b13_p074.jpg" n="74" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_500-5_b13_p075">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_500-5_b13_p075.jpg" n="75" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_502-2_b13_p076-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_502-2_b13_p076-0.jpg" n="76-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_502-2_b13_p076-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_502-2_b13_p076-1.jpg" n="76-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_502-2_b13_p076-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_502-2_b13_p076-2.jpg" n="76-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_502-2_b13_p077">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_502-2_b13_p077.jpg" n="77" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_500-5_b13_p078">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_500-5_b13_p078.jpg" n="78" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_500-5_b13_p079-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_500-5_b13_p079-0.jpg" n="79-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_500-5_b13_p079-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_500-5_b13_p079-1.jpg" n="79-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_500-5_b13_p079-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_500-5_b13_p079-2.jpg" n="79-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_501_b13_p080">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_501_b13_p080.jpg" n="80" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_501_b13_p081">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_501_b13_p081.jpg" n="81" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_500-5_b13_p082">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_500-5_b13_p082.jpg" n="82" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_502-2_b13_p083">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_502-2_b13_p083.jpg" n="83" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_504_b13_p084-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_504_b13_p084-0.jpg" n="84-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_504_b13_p084-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_504_b13_p084-1.jpg" n="84-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_504_b13_p085">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_504_b13_p085.jpg" n="85" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_500-5_b13_p086">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_500-5_b13_p086.jpg" n="86" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_500-5_b13_p087">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_500-5_b13_p087.jpg" n="87" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_502-2_b13_p088-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_502-2_b13_p088-1.jpg" n="88-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_502-2_b13_p088v">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_502-2_b13_p088v.jpg" n="88v" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_502-2_b13_p089-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_502-2_b13_p089-0.jpg" n="89-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_502-2_b13_p089-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_502-2_b13_p089-1.jpg" n="89-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_504-1_b13_p090">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_504-1_b13_p090.jpg" n="90" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_various_b13_p091">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_various_b13_p091.jpg" n="91" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_505-1_b13_p092-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_505-1_b13_p092-0.jpg" n="92-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_505-1_b13_p092-released">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_505-1_b13_p092-released.jpg" n="92-released" mimeType="image/jpeg" type="IIIFService" height="4790px" width="3660px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_502-2_b13_p093">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_502-2_b13_p093.jpg" n="93" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_blank_b13_p094">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_blank_b13_p094.jpg" n="94" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_blank_b13_p095">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_blank_b13_p095.jpg" n="95" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_506-1_b13_p096-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_506-1_b13_p096-0.jpg" n="96-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_506-1_b13_p096-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_506-1_b13_p096-1.jpg" n="96-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_506-1_b13_p096-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_506-1_b13_p096-2.jpg" n="96-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_506-1_b13_p096-3">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_506-1_b13_p096-3.jpg" n="96-3" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_506-1_b13_p096-4">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_506-1_b13_p096-4.jpg" n="96-4" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_blank_b13_p097">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_blank_b13_p097.jpg" n="97" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_505-5_b13_p098-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_505-5_b13_p098-0.jpg" n="98-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_505-5_b13_p098-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_505-5_b13_p098-1.jpg" n="98-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_505-5_b13_p098-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_505-5_b13_p098-2.jpg" n="98-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_505-5_b13_p098-3">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_505-5_b13_p098-3.jpg" n="98-3" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_505-5_b13_p099-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_505-5_b13_p099-0.jpg" n="99-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_505-5_b13_p099-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_505-5_b13_p099-1.jpg" n="99-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_blank_b13_p100">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_blank_b13_p100.jpg" n="100" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_blank_b13_p101">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_blank_b13_p101.jpg" n="101" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_506-2_b13_p102-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_506-2_b13_p102-0.jpg" n="102-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_506-2_b13_p102-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_506-2_b13_p102-1.jpg" n="102-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_506-2_b13_p103">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_506-2_b13_p103.jpg" n="103" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_507-1b_b13_p104-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_507-1b_b13_p104-0.jpg" n="104-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_507-1b_b13_p104-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_507-1b_b13_p104-1.jpg" n="104-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_507-1b_b13_p104-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_507-1b_b13_p104-2.jpg" n="104-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_507-1b_b13_p105">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_507-1b_b13_p105.jpg" n="105" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_507-2_b13_p106-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_507-2_b13_p106-0.jpg" n="106-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_507-2_b13_p106-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_507-2_b13_p106-1.jpg" n="106-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_507-2_b13_p107-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_507-2_b13_p107-0.jpg" n="107-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_507-2_b13_p107-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_507-2_b13_p107-1.jpg" n="107-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_507-2_b13_p107-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_507-2_b13_p107-2.jpg" n="107-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_508-3_b13_p108-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_508-3_b13_p108-0.jpg" n="108-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_508-3_b13_p108-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_508-3_b13_p108-1.jpg" n="108-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_508-3_b13_p108-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_508-3_b13_p108-2.jpg" n="108-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_508-3_b13_p108-3">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_508-3_b13_p108-3.jpg" n="108-3" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_508-3_b13_p109-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_508-3_b13_p109-0.jpg" n="109-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_508-3_b13_p109-released">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_508-3_b13_p109-released.jpg" n="109-released" mimeType="image/jpeg" type="IIIFService" height="4559px" width="3660px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_508-2_b13_p110-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_508-2_b13_p110-0.jpg" n="110-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_508-2_b13_p110-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_508-2_b13_p110-1.jpg" n="110-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_508-2_b13_p111-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_508-2_b13_p111-0.jpg" n="111-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_508-2_b13_p111-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_508-2_b13_p111-1.jpg" n="111-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_506-3_b13_p112">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_506-3_b13_p112.jpg" n="112" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_blank_b13_p113">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_blank_b13_p113.jpg" n="113" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_509-5_b13_p114-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_509-5_b13_p114-0.jpg" n="114-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_509-5_b13_p114-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_509-5_b13_p114-1.jpg" n="114-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_509-5_b13_p114-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_509-5_b13_p114-2.jpg" n="114-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_510_b13_p115-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_510_b13_p115-0.jpg" n="115-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_510_b13_p115-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_510_b13_p115-1.jpg" n="115-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_blank_b13_p116">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_blank_b13_p116.jpg" n="116" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_blank_b13_p117">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_blank_b13_p117.jpg" n="117" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_511_b13_p118-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_511_b13_p118-0.jpg" n="118-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_511_b13_p118-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_511_b13_p118-1.jpg" n="118-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_511_b13_p118-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_511_b13_p118-2.jpg" n="118-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_511_b13_p119">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_511_b13_p119.jpg" n="119" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_494-43_b13_p12-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_494-43_b13_p12-1.jpg" n="12-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_511-3_b13_p120-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_511-3_b13_p120-0.jpg" n="120-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_511-3_b13_p120-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_511-3_b13_p120-1.jpg" n="120-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_511_b13_p121">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_511_b13_p121.jpg" n="121" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_511-3_b13_p122">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_511-3_b13_p122.jpg" n="122" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_511_b13_p123">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_511_b13_p123.jpg" n="123" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_511_b13_p124-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_511_b13_p124-0.jpg" n="124-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_511_b13_p124-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_511_b13_p124-1.jpg" n="124-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_511_b13_p125-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_511_b13_p125-0.jpg" n="125-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_511_b13_p125-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_511_b13_p125-1.jpg" n="125-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_511_b13_p125-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_511_b13_p125-2.jpg" n="125-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_512-3_b13_p126">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_512-3_b13_p126.jpg" n="126" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_511_b13_p127-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_511_b13_p127-0.jpg" n="127-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_511_b13_p127-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_511_b13_p127-1.jpg" n="127-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_511_b13_p127-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_511_b13_p127-2.jpg" n="127-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_512-2_b13_p128-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_512-2_b13_p128-0.jpg" n="128-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_512-2_b13_p128-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_512-2_b13_p128-1.jpg" n="128-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_512_b13_p129-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_512_b13_p129-0.jpg" n="129-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_512_b13_p129-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_512_b13_p129-1.jpg" n="129-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_513-2_b13_p130-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_513-2_b13_p130-0.jpg" n="130-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_513-2_b13_p130-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_513-2_b13_p130-1.jpg" n="130-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_513_b13_p131">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_513_b13_p131.jpg" n="131" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_514_b13_p132-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_514_b13_p132-0.jpg" n="132-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_514_b13_p132-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_514_b13_p132-1.jpg" n="132-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_514_b13_p132-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_514_b13_p132-2.jpg" n="132-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_514_b13_p132-3">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_514_b13_p132-3.jpg" n="132-3" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_514_b13_p132-4">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_514_b13_p132-4.jpg" n="132-4" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_514_b13_p133">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_514_b13_p133.jpg" n="133" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_515_b13_p134-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_515_b13_p134-0.jpg" n="134-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_515_b13_p134-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_515_b13_p134-1.jpg" n="134-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_515_b13_p134-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_515_b13_p134-2.jpg" n="134-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_515_b13_p135-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_515_b13_p135-0.jpg" n="135-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_515_b13_p135-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_515_b13_p135-1.jpg" n="135-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_516-2_b13_p136-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_516-2_b13_p136-0.jpg" n="136-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_516-2_b13_p136-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_516-2_b13_p136-1.jpg" n="136-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517_b13_p137">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517_b13_p137.jpg" n="137" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_516-5_b13_p138">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_516-5_b13_p138.jpg" n="138" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_516-5_b13_p139-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_516-5_b13_p139-0.jpg" n="139-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_516-5_b13_p139-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_516-5_b13_p139-1.jpg" n="139-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517-1_b13_p140-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517-1_b13_p140-0.jpg" n="140-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517-1_b13_p140-released">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517-1_b13_p140-released.jpg" n="140-released" mimeType="image/jpeg" type="IIIFService" height="4712px" width="3659px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517-2_b13_p142">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517-2_b13_p142.jpg" n="142" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517_b13_p143">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517_b13_p143.jpg" n="143" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517-5a_b13_p144">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517-5a_b13_p144.jpg" n="144" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_tralleis_b13_p145">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_tralleis_b13_p145.jpg" n="145" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517_b13_p146-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517_b13_p146-0.jpg" n="146-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517_b13_p146-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517_b13_p146-1.jpg" n="146-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517_b13_p146-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517_b13_p146-2.jpg" n="146-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517_b13_p147-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517_b13_p147-0.jpg" n="147-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517_b13_p147-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517_b13_p147-1.jpg" n="147-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517_b13_p147-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517_b13_p147-2.jpg" n="147-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517_b13_p147-3">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517_b13_p147-3.jpg" n="147-3" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517-5a_b13_p148-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517-5a_b13_p148-0.jpg" n="148-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517-5a_b13_p148-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517-5a_b13_p148-1.jpg" n="148-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517-5a_b13_p149">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517-5a_b13_p149.jpg" n="149" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517-7_b13_p150-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517-7_b13_p150-0.jpg" n="150-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517-7_b13_p150-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517-7_b13_p150-1.jpg" n="150-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517-7_b13_p150-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517-7_b13_p150-2.jpg" n="150-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_tralleis_b13_p151">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_tralleis_b13_p151.jpg" n="151" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517-8_b13_p152-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517-8_b13_p152-0.jpg" n="152-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517-8_b13_p152-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517-8_b13_p152-1.jpg" n="152-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517-8_b13_p152-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517-8_b13_p152-2.jpg" n="152-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_518-8_b13_p153">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_518-8_b13_p153.jpg" n="153" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517-8_b13_p153-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517-8_b13_p153-1.jpg" n="153-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_517-8_b13_p153-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_517-8_b13_p153-2.jpg" n="153-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_518-2_b13_p154">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_518-2_b13_p154.jpg" n="154" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_518-1_b13_p155">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_518-1_b13_p155.jpg" n="155" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_518_b13_p156">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_518_b13_p156.jpg" n="156" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_519-1_b13_p157-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_519-1_b13_p157-0.jpg" n="157-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_519-1_b13_p157-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_519-1_b13_p157-1.jpg" n="157-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_519-2_b13_p158-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_519-2_b13_p158-0.jpg" n="158-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_519-2_b13_p158-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_519-2_b13_p158-1.jpg" n="158-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_519-1_b13_p158-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_519-1_b13_p158-2.jpg" n="158-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_unknown_b13_p159">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_unknown_b13_p159.jpg" n="159" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_519-2_b13_p160-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_519-2_b13_p160-0.jpg" n="160-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_519-2_b13_p160-released">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_519-2_b13_p160-released.jpg" n="160-released" mimeType="image/jpeg" type="IIIFService" height="4425px" width="3500px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_519-2_b13_p161-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_519-2_b13_p161-0.jpg" n="161-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_521_b13_p162-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_521_b13_p162-0.jpg" n="162-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_521_b13_p162-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_521_b13_p162-1.jpg" n="162-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_521_b13_p162-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_521_b13_p162-2.jpg" n="162-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_521_b13_p163">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_521_b13_p163.jpg" n="163" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_522-4_b13_p164">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_522-4_b13_p164.jpg" n="164" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_522_b13_p165">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_522_b13_p165.jpg" n="165" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_523-1a_b13_p166-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_523-1a_b13_p166-0.jpg" n="166-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_523-1a_b13_p166-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_523-1a_b13_p166-1.jpg" n="166-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_523-1a_b13_p167-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_523-1a_b13_p167-0.jpg" n="167-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_523-1a_b13_p167-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_523-1a_b13_p167-1.jpg" n="167-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_524_b13_p168-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_524_b13_p168-0.jpg" n="168-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_524_b13_p168-released">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_524_b13_p168-released.jpg" n="168-released" mimeType="image/jpeg" type="IIIFService" height="4501px" width="3481px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_524_b13_p169-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_524_b13_p169-0.jpg" n="169-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_524_b13_p169-released">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_524_b13_p169-released.jpg" n="169-released" mimeType="image/jpeg" type="IIIFService" height="4555px" width="3514px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_525-2_b13_p170-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_525-2_b13_p170-0.jpg" n="170-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_525-2_b13_p170-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_525-2_b13_p170-1.jpg" n="170-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_525-1_b13_p171-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_525-1_b13_p171-0.jpg" n="171-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_525-1_b13_p171-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_525-1_b13_p171-1.jpg" n="171-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_525_b13_p172-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_525_b13_p172-0.jpg" n="172-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_525_b13_p172-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_525_b13_p172-1.jpg" n="172-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_525_b13_p173-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_525_b13_p173-0.jpg" n="173-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_525_b13_p173-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_525_b13_p173-1.jpg" n="173-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_525_b13_p173-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_525_b13_p173-2.jpg" n="173-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_526_b13_p174-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_526_b13_p174-0.jpg" n="174-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_526_b13_p174-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_526_b13_p174-1.jpg" n="174-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_526_b13_p175-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_526_b13_p175-0.jpg" n="175-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_526_b13_p175-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_526_b13_p175-1.jpg" n="175-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_526_b13_p175-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_526_b13_p175-2.jpg" n="175-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_526-3_b13_p176-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_526-3_b13_p176-0.jpg" n="176-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_526-3_b13_p176-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_526-3_b13_p176-1.jpg" n="176-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_526-3_b13_p177">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_526-3_b13_p177.jpg" n="177" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_528_b13_p178-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_528_b13_p178-0.jpg" n="178-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_528_b13_p178-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_528_b13_p178-1.jpg" n="178-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_528_b13_p179">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_528_b13_p179.jpg" n="179" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_529_b13_p180-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_529_b13_p180-0.jpg" n="180-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_529_b13_p180-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_529_b13_p180-1.jpg" n="180-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_529_b13_p180-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_529_b13_p180-2.jpg" n="180-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_529_b13_p180-3">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_529_b13_p180-3.jpg" n="180-3" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_529_b13_p181-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_529_b13_p181-0.jpg" n="181-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_529_b13_p181-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_529_b13_p181-1.jpg" n="181-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_529_b13_p182-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_529_b13_p182-0.jpg" n="182-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_529_b13_p182-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_529_b13_p182-1.jpg" n="182-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_529_b13_p183-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_529_b13_p183-0.jpg" n="183-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_529_b13_p183-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_529_b13_p183-1.jpg" n="183-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_529_b13_p183-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_529_b13_p183-2.jpg" n="183-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_532_b13_p184-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_532_b13_p184-0.jpg" n="184-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_532_b13_p184-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_532_b13_p184-1.jpg" n="184-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_532_b13_p185">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_532_b13_p185.jpg" n="185" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_blank_b13_p186">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_blank_b13_p186.jpg" n="186" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_529-4_b13_p187-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_529-4_b13_p187-0.jpg" n="187-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_529-4_b13_p187-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_529-4_b13_p187-1.jpg" n="187-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_529-4_b13_p187-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_529-4_b13_p187-2.jpg" n="187-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_531_b13_p188-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_531_b13_p188-0.jpg" n="188-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_531_b13_p188-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_531_b13_p188-1.jpg" n="188-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_531_b13_p188-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_531_b13_p188-2.jpg" n="188-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_530_b13_p189-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_530_b13_p189-0.jpg" n="189-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_530_b13_p189-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_530_b13_p189-1.jpg" n="189-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_530_b13_p189-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_530_b13_p189-2.jpg" n="189-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_533-1_b13_p190-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_533-1_b13_p190-0.jpg" n="190-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_533-2_b13_p191">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_533-2_b13_p191.jpg" n="191" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_533-1_b13_p191-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_533-1_b13_p191-1.jpg" n="191-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_534_b13_p192-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_534_b13_p192-0.jpg" n="192-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_534_b13_p192-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_534_b13_p192-1.jpg" n="192-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_534_b13_p192-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_534_b13_p192-2.jpg" n="192-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_534_b13_p192-3">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_534_b13_p192-3.jpg" n="192-3" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-1_b13_p193-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-1_b13_p193-0.jpg" n="193-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-1_b13_p193-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-1_b13_p193-1.jpg" n="193-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-1_b13_p193-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-1_b13_p193-2.jpg" n="193-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-2_b13_p194">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-2_b13_p194.jpg" n="194" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-2_b13_p195">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-2_b13_p195.jpg" n="195" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_534-3_b13_p196-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_534-3_b13_p196-0.jpg" n="196-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_534-3_b13_p196-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_534-3_b13_p196-1.jpg" n="196-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_533_b13_p197-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_533_b13_p197-0.jpg" n="197-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_533_b13_p197-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_533_b13_p197-1.jpg" n="197-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_533_b13_p197-2">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_533_b13_p197-2.jpg" n="197-2" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535_b13_p198-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535_b13_p198-0.jpg" n="198-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535_b13_p198-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535_b13_p198-1.jpg" n="198-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535_b13_p199-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535_b13_p199-0.jpg" n="199-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535_b13_p199-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535_b13_p199-1.jpg" n="199-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-1_b13_p200-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-1_b13_p200-0.jpg" n="200-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-1_b13_p200-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-1_b13_p200-1.jpg" n="200-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_blank_b13_p201">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_blank_b13_p201.jpg" n="201" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_blank_b13_p202">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_blank_b13_p202.jpg" n="202" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_534-2_b13_p203">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_534-2_b13_p203.jpg" n="203" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-1_b13_p204-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-1_b13_p204-0.jpg" n="204-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-1_b13_p204-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-1_b13_p204-1.jpg" n="204-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-1_b13_p205">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-1_b13_p205.jpg" n="205" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-2_b13_p206">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-2_b13_p206.jpg" n="206" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-2_b13_p207-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-2_b13_p207-0.jpg" n="207-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-2_b13_p207-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-2_b13_p207-1.jpg" n="207-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-1_b13_p208">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-1_b13_p208.jpg" n="208" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-1_b13_p209-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-1_b13_p209-0.jpg" n="209-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-1_b13_p209-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-1_b13_p209-1.jpg" n="209-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-2_b13_p210">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-2_b13_p210.jpg" n="210" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-2_b13_p211-0">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-2_b13_p211-0.jpg" n="211-0" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-2_b13_p211-1">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-2_b13_p211-1.jpg" n="211-1" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-1_b13_p212">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-1_b13_p212.jpg" n="212" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-1_b13_p213">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-1_b13_p213.jpg" n="213" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-1_b13_p214">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-1_b13_p214.jpg" n="214" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-1_b13_p215">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-1_b13_p215.jpg" n="215" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_535-1_b13_p216">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_535-1_b13_p216.jpg" n="216" mimeType="image/jpeg" type="IIIFService" height="4200px" width="3000px"/>
+    </facsimile>
+</TEI>
