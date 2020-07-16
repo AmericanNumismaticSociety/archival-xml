@@ -15,6 +15,12 @@
                 </publisher>
                 <pubPlace>New York (N.Y.)</pubPlace>
             </publicationStmt>
+            <notesStmt>
+                <note>
+                    <p>For more information on how to interpret notations in abbreviations in this document, please see Prof. Liv Mariah Yarrow's blog post,
+                        <ref target="https://livyarrow.org/2020/07/16/reading-notations-in-schaefers-binders-rrdp/">Reading notations in Schaefer’s binders (RRDP)</ref>.</p>
+                </note>
+            </notesStmt>
             <sourceDesc>
                 <biblStruct>
                     <monogr>
