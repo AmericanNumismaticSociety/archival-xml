@@ -231,6 +231,9 @@
                     <term ref="http://numismatics.org/crro/id/rrc-341.3" facs="#schaefer_clippings_output_341_sd">RRC 341/3</term>
                     <term ref="http://numismatics.org/crro/id/rrc-342.1" facs="#schaefer_clippings_output_342_04_sd">RRC 342/1</term>
                     <term ref="http://numismatics.org/crro/id/rrc-342.2" facs="#schaefer_clippings_output_342_04_sd">RRC 342/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-342.3a" facs="#schaefer_clippings_output_342-2_02_od">RRC 342/3a</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-342.3b" facs="#schaefer_clippings_output_342-2_02_od">RRC 342/3b</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-342.6a" facs="#schaefer_clippings_output_342_04_sd">RRC 342/6a</term>
                     <term ref="http://numismatics.org/crro/id/rrc-342.8a" facs="#schaefer_clippings_output_342_ld">RRC 342/8a</term>
                     <term ref="http://numismatics.org/crro/id/rrc-342.9b" facs="#schaefer_clippings_output_342_ld">RRC 342/9b</term>
                     <term ref="http://numismatics.org/crro/id/rrc-343.1c" facs="#schaefer_clippings_output_343_01_sd">RRC 343/1c</term>
@@ -352,6 +355,24 @@
                     <term ref="http://numismatics.org/crro/id/rrc-374.2" facs="#schaefer_clippings_output_374-2_02_sd">RRC 374/2</term>
                     <term ref="http://numismatics.org/crro/id/rrc-375.2" facs="#schaefer_clippings_output_375_sd">RRC 375/2</term>
                     <term ref="http://numismatics.org/crro/id/rrc-377.1" facs="#schaefer_clippings_output_377_sd">RRC 377/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-378.1a" facs="#schaefer_clippings_output_378_01_od">RRC 378/1a</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-378.1a" facs="#schaefer_clippings_output_378_02_od">RRC 378/1a</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-378.1a" facs="#schaefer_clippings_output_378_03_od">RRC 378/1a</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-378.1b" facs="#schaefer_clippings_output_378_03_od">RRC 378/1b</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-378.1b" facs="#schaefer_clippings_output_378_04_od">RRC 378/1b</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-378.1c" facs="#schaefer_clippings_output_378_04_od">RRC 378/1c</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-378.1c" facs="#schaefer_clippings_output_378_05_od">RRC 378/1c</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-378.1c" facs="#schaefer_clippings_output_378_06_od">RRC 378/1c</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-378.1c" facs="#schaefer_clippings_output_378_07_od">RRC 378/1c</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-378.1c" facs="#schaefer_clippings_output_378_08_od">RRC 378/1c</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-378.1c" facs="#schaefer_clippings_output_378_09_od">RRC 378/1c</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-378.1c" facs="#schaefer_clippings_output_378_10_od">RRC 378/1c</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-378.1c" facs="#schaefer_clippings_output_378_11_od">RRC 378/1c</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-378.1c" facs="#schaefer_clippings_output_378_12_od">RRC 378/1c</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-378.1c" facs="#schaefer_clippings_output_378_14_od">RRC 378/1c</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-378.1c" facs="#schaefer_clippings_output_378_15_od">RRC 378/1c</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-378.1c" facs="#schaefer_clippings_output_378_16_od">RRC 378/1c</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-378.1a" facs="#schaefer_clippings_output_378_16_od">RRC 378/1a</term>
                     <term ref="http://numismatics.org/crro/id/rrc-379.1" facs="#schaefer_clippings_output_379_01_sd">RRC 379/1</term>
                     <term ref="http://numismatics.org/crro/id/rrc-379.2" facs="#schaefer_clippings_output_379_01_sd">RRC 379/2</term>
                     <term ref="http://numismatics.org/crro/id/rrc-379.2" facs="#schaefer_clippings_output_379_02_sd">RRC 379/2</term>
