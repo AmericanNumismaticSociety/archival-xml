@@ -432,6 +432,7 @@
                     <term ref="http://numismatics.org/crro/id/rrc-383.1" facs="#schaefer_clippings_output_383A_08_od">RRC 383/1</term>
                     <term ref="http://numismatics.org/crro/id/rrc-384.1" facs="#schaefer_clippings_output_384_01_od">RRC 384/1</term>
                     <term ref="http://numismatics.org/crro/id/rrc-384.1" facs="#schaefer_clippings_output_384_02_od">RRC 384/1</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-384.1" facs="#schaefer_clippings_output_384_03_od">RRC 384/1</term>
                     <term ref="http://numismatics.org/crro/id/rrc-384.1" facs="#schaefer_clippings_output_384_04_od">RRC 384/1</term>
                     <term ref="http://numismatics.org/crro/id/rrc-384.1" facs="#schaefer_clippings_output_384_05_od">RRC 384/1</term>
                     <term ref="http://numismatics.org/crro/id/rrc-384.1" facs="#schaefer_clippings_output_384_06_od">RRC 384/1</term>
@@ -2218,6 +2219,9 @@
     </facsimile>
     <facsimile xml:id="schaefer_clippings_output_384_02_od">
         <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_clippings_output_384_02_od.jpg" n="384_02_od" mimeType="image/jpeg" type="IIIFService" height="7319px" width="10320px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_clippings_output_384_03_od">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_clippings_output_384_03_od.jpg" n="384_03_od" mimeType="image/jpeg" type="IIIFService" height="7319px" width="10320px"/>
     </facsimile>
     <facsimile xml:id="schaefer_clippings_output_384_04_od">
         <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_clippings_output_384_04_od.jpg" n="384_04_od" mimeType="image/jpeg" type="IIIFService" height="7319px" width="10320px"/>
