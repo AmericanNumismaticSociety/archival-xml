@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Edward T. Newell notebook on coins of Alexander III at Berlin, undated</title>
+            <title>Edward T. Newell notebook on coins of Alexander III at Berlin, 1922</title>
             <author>
                <persName ref="http://numismatics.org/authority/newell">Newell, Edward Theodore, 1886-1941</persName>
             </author>
@@ -24,7 +24,7 @@
                   </author>
                   <title>Edward T. Newell notebook on coins of Alexander III at Berlin, undated</title>
                   <imprint>
-                     <date>unknown</date>
+                     <date>1922</date>
                   </imprint>
                   <extent>circa 90 pages ; 17 x 10 cm.</extent>
                </monogr>
@@ -33,7 +33,8 @@
       </fileDesc>
       <profileDesc>
          <abstract>
-            <p>Notebook containing notes on coins of Alexander the Great at Berlin.</p>
+            <p>Notebook containing notes on coins of Alexander the Great at Berlin. As noted by Karsten Dahmen at Münzkabinett Berlin in 2017, after
+               reviewing the visitors' log: Edward T. Newell visted Berlin March 9-11, 13-18, and 20-23, 1922.</p>
          </abstract>
          <textClass>
             <classCode scheme="http://vocab.getty.edu/aat/">300264354</classCode>
