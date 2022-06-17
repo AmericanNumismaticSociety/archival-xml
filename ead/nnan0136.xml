@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     id="nnan0136"
-     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0136" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader langencoding="iso639-2b">
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0136</eadid>
       <filedesc>
@@ -38,8 +34,7 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <origination>
-            <persname authfilenumber="http://numismatics.org/authority/beach_h_prescott"
-                      role="xeac:entity">Beach, H. Prescott, 1871-1943</persname>
+            <persname authfilenumber="http://numismatics.org/authority/beach_h_prescott" role="xeac:entity">Beach, H. Prescott, 1871-1943</persname>
          </origination>
          <unitdate normal="1940">circa 1940</unitdate>
          <repository>American Numismatic Society</repository>
@@ -55,8 +50,7 @@
       <controlaccess>
          <genreform authfilenumber="300264354" source="aat">Notebooks</genreform>
          <genreform authfilenumber="300026059" source="aat">Catalogs (Documents)</genreform>
-         <persname authfilenumber="http://numismatics.org/authority/beach_h_prescott"
-                   role="xeac:entity">Beach, H. Prescott, 1871-1943</persname>
+         <persname authfilenumber="http://numismatics.org/authority/beach_h_prescott" role="xeac:entity">Beach, H. Prescott, 1871-1943</persname>
          <subject>Bank notes--United States</subject>
       </controlaccess>
       <acqinfo audience="internal">

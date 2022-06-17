@@ -1,0 +1,73 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nnan">nnan0169</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Frederic Bartholdi letter to Louis-Oscar Roty, 16 July 1887</titleproper>
+                <author>Jared Goldfarb</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2022-04-26">April 26, 2022</date>
+                <address>
+                    <addressline>American Numismatic Society Archives</addressline>
+                    <addressline>75 Varick Street, 11th floor</addressline>
+                    <addressline>New York, NY 10013</addressline>
+                </address>
+                <publisher>ANS Archives</publisher>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user dhill.</creation>
+            <langusage>Finding aid written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <frontmatter/>
+    <archdesc level="collection">
+        <did>
+            <head>Descriptive Summary</head>
+            <unittitle>Frederic Bartholdi letter to Louis-Oscar Roty, 16 July 1887</unittitle>
+            <abstract>A handwritten letter in French from Frederic Bartholdi to Louis-Oscar Roty.</abstract>
+            <physloc>ANS Rare Book Room - Archives Pamphlet 2</physloc>
+            <physdesc>
+                <extent>1 Letter</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="fre">French</language>
+            </langmaterial>
+            <origination>
+                <persname authfilenumber="7494435" source="viaf">Bartholdi, Frédéric Auguste (1834-1904)</persname>
+            </origination>
+            <unitdate normal="1887" type="inclusive">1887</unitdate>
+            <repository>American Numismatic Society</repository>
+        </did>
+        <controlaccess>
+            <persname authfilenumber="7494435" source="viaf">Bartholdi, Frédéric Auguste (1834-1904)</persname>
+            <persname authfilenumber="71221857" source="viaf">Roty, Oscar, 1846-1911</persname>
+        <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+            <subject>Statue of Liberty National Monument (N.Y. and N.J.)</subject>
+        </controlaccess>
+        <scopecontent>
+            
+        <p>A handwritten letter in French from Frederic Bartholdi to Louis-Oscar Roty suggesting nine different texts to be put on the medal commemorating the gift of the Statue of Liberty to the United States from France. </p>
+        <note><p>Numismatic sketches are visible on the verso.</p></note></scopecontent>
+        <bioghist>
+            <head>Biographical Note</head>
+            <p>Frédéric Bartholdi was a French sculptor best known for designing Liberty Enlightening the World, commonly known as the Statue of Liberty. To celebrate the relationship between France and the United States, the Union Franco-Americaine (Franco-American Union) was established in 1874. It raised money to build a massive statue to celebrate this relationship and Bartholdi was given the job. In October 1886, the structure was officially presented as the joint gift of the French and American people, and installed on Bedloe's Island in New York Harbor.</p>
+        <p>Louis-Oscar Roty was one of the most celebrated medallists of the Art Nouveau period. He created a medal for the Union Franco Americaine in 1886, commemorating the gift of the Statue of Liberty. </p>
+        </bioghist>
+        
+        <accessrestrict>
+            <head>Access</head>
+            <p>Collection open to all researchers.</p>
+        </accessrestrict>
+        
+        <prefercite>
+            <head>Preferred Citation</head>
+            <p>Frederic Bartholdi letter to Louis-Oscar Roty, 1887 July 16, Archives, American Numismatic Society.</p>
+        </prefercite>
+        <userestrict>
+            <head>Restrictions</head>
+            <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
+        </userestrict>
+    </archdesc>
+</ead>

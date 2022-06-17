@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     id="nnan0145"
-     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0145" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader langencoding="iso639-2b">
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0145</eadid>
       <filedesc>
@@ -38,15 +34,13 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <origination>
-            <persname authfilenumber="http://numismatics.org/authority/clapp_charles"
-                      role="xeac:entity">Clapp, Charles E.</persname>
+            <persname authfilenumber="http://numismatics.org/authority/clapp_charles" role="xeac:entity">Clapp, Charles E.</persname>
          </origination>
          <unitdate normal="1923">possibly 1923</unitdate>
          <repository>American Numismatic Society</repository>
       </did>
       <controlaccess>
-         <persname authfilenumber="http://numismatics.org/authority/clapp_charles"
-                   role="xeac:entity">Clapp, Charles E.</persname>
+         <persname authfilenumber="http://numismatics.org/authority/clapp_charles" role="xeac:entity">Clapp, Charles E.</persname>
          <subject>Coins, American--Collectors and collecting</subject>
          <genreform authfilenumber="300027045" source="aat">Inventories</genreform>
       </controlaccess>

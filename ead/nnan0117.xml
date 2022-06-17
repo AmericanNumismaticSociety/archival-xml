@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     id="nnan0117"
-     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" id="nnan0117" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader langencoding="iso639-2b">
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0117</eadid>
       <filedesc>
@@ -38,8 +34,7 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <origination>
-            <persname authfilenumber="http://numismatics.org/authority/clapp_george"
-                      role="xeac:entity">Clapp, George H. (George Hubbard), 1858-1949</persname>
+            <persname authfilenumber="http://numismatics.org/authority/clapp_george" role="xeac:entity">Clapp, George H. (George Hubbard), 1858-1949</persname>
          </origination>
          <unitdate normal="1923/1943">1923-1943</unitdate>
          <repository>American Numismatic Society</repository>
@@ -47,8 +42,7 @@
       <controlaccess>
          <genreform rules="aat" authfilenumber="300026877">Correspondence</genreform>
          <genreform source="aat" authfilenumber="300027200">Notes</genreform>
-         <persname authfilenumber="http://numismatics.org/authority/clapp_george"
-                   role="xeac:entity">Clapp, George H. (George Hubbard), 1858-1949</persname>
+         <persname authfilenumber="http://numismatics.org/authority/clapp_george" role="xeac:entity">Clapp, George H. (George Hubbard), 1858-1949</persname>
          <persname authfilenumber="http://numismatics.org/authority/chapman" role="xeac:entity">Chapman, S.H. (Samuel Hudson), 1869-1949</persname>
          <persname>Newcomb, Howard R. (Howard Rounds), 1877-1945</persname>
       </controlaccess>

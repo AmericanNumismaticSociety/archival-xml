@@ -1,0 +1,79 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nnan">nnan0172</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>H.R. Storer letters, 1914/16</titleproper>
+                <author>Jared Goldfarb</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2022-05-24">May 24, 2022</date>
+                <address>
+                    <addressline>American Numismatic Society Archives</addressline>
+                    <addressline>75 Varick Street, 11th floor</addressline>
+                    <addressline>New York, NY 10013</addressline>
+                </address>
+                <publisher>ANS Archives</publisher>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user dhill.</creation>
+            <langusage>Finding aid written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <frontmatter/>
+    <archdesc level="collection">
+        <did>
+            <head>Descriptive Summary</head>
+            <unittitle>H.R. Storer Letters</unittitle>
+            <abstract>Three letters regarding H. R. Storer during WW 1 concerning medical medals.</abstract>
+            <physloc>ARCHIVES -- Rare Book - Pamphlet - Archives 2</physloc>
+            <physdesc>
+                <extent>3 letters</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            <language langcode="fre">French</language>
+            </langmaterial>
+            <origination>
+                <persname source="viaf" authfilenumber="88508140">Storer, H. C.</persname>
+            </origination>
+            <unitdate normal="1914/1916" type="inclusive">1914 - 1916</unitdate>
+            <repository>American Numismatic Society</repository>
+        </did>
+        <controlaccess>
+            <persname authfilenumber="88508140" source="viaf">Storer, H. C.</persname>
+            <persname>Noe, Sidney</persname>
+            <persname authfilenumber="92848432" source="viaf">Weber, Frederick Parkes, 1863-1962</persname>
+            <subject>Medicine</subject>
+            <subject>Medals</subject>
+            <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+        <persname>Savage, Alexander</persname>
+            <persname>Gohl, Edmund</persname>
+        <subject>Medals, Medical</subject>
+        </controlaccess>
+        <scopecontent>
+            <p>Three letters regarding H. R. Storer during WW 1 concerning medical medals. The first letter, written by Weber in London, dated December 6, 1915, and addressed to Storer in Germany, asks for a copy of a German journal that will need to go through Holland. The second letter, sent by Storer to Noe and dated January 2, 1916, refers to Weber needing help getting information on medical medals. The third letter is handwritten in French and sent by Edmund Gohl of the National Hungarian Museum to Alexander Savage. The letter most likely dates to either 1914 or 1919 and its contents concern Storer writing about Hungarian medical medals, asking whether ANS might want some books on Hungarian numismatic issues, and giving a bibliography of suggestions. </p>
+        </scopecontent>
+        <bioghist>
+            <head>Biographical Note</head>
+            <p>Dr. Storer was an American physician, numismatist, and anti-abortion crusader who also wrote extensively on medals connected with medicine.</p>
+        <p>Sidney Noe  (1885-1969) was ANS librarian, secretary, and chief curator, variously from 1915-1953.  Noe makes reference to “the enclosed” (medal?) that is from his friend, Dr. Weber (Dr. F. Parkes Weber, see below). Dr. Storer requests that Noe “look up the reference” for him.</p>
+            <p>Frederick Parkes Weber was an English dermatologist, avid coin collector, and member of the Royal Numismatic Society.  Dr. Weber was the author of many books about numismatic topics including “Aspects of Death in Art” (ANS W434 A87) wherein he acknowledges Dr. H.R. Storer in the Preface. </p>
+        </bioghist>
+        
+        <accessrestrict>
+            <head>Access</head>
+            <p>Collection open to all researchers.</p>
+        </accessrestrict>
+        
+        <prefercite>
+            <head>Preferred Citation</head>
+            <p>H.R. Storer Letters, 1915 to 1916, American Numismatic Society, Archives</p>
+        </prefercite>
+        <userestrict>
+            <head>Restrictions</head>
+            <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
+        </userestrict>
+    </archdesc>
+</ead>

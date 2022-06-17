@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
-     id="nnan0110">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0110">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0110</eadid>
       <filedesc>
@@ -68,8 +64,7 @@
          <subject>Numismatics--Societies, etc</subject>
          <genreform source="aat" authfilenumber="300026877">Correspondence</genreform>
          <genreform source="aat" authfilenumber="300027267">Reports</genreform>
-         <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society"
-                   role="xeac:entity">American Numismatic Society</corpname>
+         <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society" role="xeac:entity">American Numismatic Society</corpname>
          <persname authfilenumber="http://numismatics.org/authority/beldon" role="xeac:entity">Belden, Bauman L. (Bauman Lowe), 1862-1931</persname>
          <persname authfilenumber="http://numismatics.org/authority/drowne" role="xeac:entity">Drowne, Henry Russell, 1860-1934</persname>
          <persname authfilenumber="http://numismatics.org/authority/poillon" role="xeac:entity">Poillon, William, 1844-1918</persname>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
-     id="nnan0054">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0054">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0054</eadid>
       <filedesc>
@@ -12,7 +8,7 @@
          </titlestmt>
          <publicationstmt>
             <publisher>ANS Archives</publisher>
-            <date normal="2011">©2011</date>
+            <date normal="2011">2011</date>
             <address>
                <addressline>American Numismatic Society Archives</addressline>
                <addressline>75 Varick Street, 11th floor</addressline>
@@ -30,11 +26,11 @@
          <head>Descriptive Summary</head>
          <unittitle>T. Harrison and John Work Garrett papers</unittitle>
          <abstract>Correspondence of T. Harrison Garrett and John Work Garrett, and John Work Garrett’s handwritten card file documenting the Garrett coin collection.</abstract>
-         <physloc audience="internal">ANS Rare Book Room</physloc>
+         <physloc audience="internal">ANS Rare Book Room. B. Max Mehl advertisement/poster/broadside in broadside box</physloc>
          <langmaterial>
             <language langcode="eng">English</language>
          </langmaterial>
-         <unitdate type="inclusive" normal="1875/1942">circa 1875-1942</unitdate>
+         <unitdate type="inclusive" normal="1875/1942">1875 - 1942</unitdate>
          <repository>American Numismatic Society</repository>
          <physdesc>
             <extent>5.3 cubic feet (20 boxes)</extent>

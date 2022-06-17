@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
-     id="nnan0067">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0067">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0067</eadid>
       <filedesc>
@@ -84,8 +80,7 @@
          <persname authfilenumber="http://numismatics.org/authority/schulman" role="xeac:entity">Schulman, Hans M. F. (Hans Moritz Friedrich), 1913-1990</persname>
          <persname>Wittlin, Paul H.</persname>
          <persname authfilenumber="http://numismatics.org/authority/grunthal" role="xeac:entity">Grunthal, Henry, 1905-2001</persname>
-         <corpname authfilenumber="http://numismatics.org/authority/new_netherlands_coin_co"
-                   role="xeac:entity">New Netherlands Coin Co.</corpname>
+         <corpname authfilenumber="http://numismatics.org/authority/new_netherlands_coin_co" role="xeac:entity">New Netherlands Coin Co.</corpname>
          <corpname authfilenumber="127881901" source="viaf">B.A. Seaby (Firm)</corpname>
          <corpname>Manhattan Coin Company</corpname>
          <corpname authfilenumber="130276223" source="viaf">Numismatic Fine Arts, Inc.</corpname>

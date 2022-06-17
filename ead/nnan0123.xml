@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     id="nnan0123"
-     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0123" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader langencoding="iso639-2b">
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0123</eadid>
       <filedesc>
@@ -44,8 +40,7 @@
             <p>PORTIONS OF THE FINDING AID ARE SUPPRESSED FROM PUBLIC VIEW. ANS staff can log into Staff View for the full record group description.</p>
          </note>
          <origination>
-            <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society"
-                      role="xeac:entity">American Numismatic Society</corpname>
+            <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society" role="xeac:entity">American Numismatic Society</corpname>
          </origination>
       </did>
       <note>
@@ -1438,7 +1433,7 @@
                </did>
                <c id="c_02113cd81c31154a789ebcf886010b90" level="item">
                   <did>
-                     <unittitle>Portrait of John Reilly, Jr.&#8232;</unittitle>
+                     <unittitle>Portrait of John Reilly, Jr. </unittitle>
                   </did>
                </c>
                <c id="c_b7cce76d9f9d9c28ebe9fc74963a7408" level="item">

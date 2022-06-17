@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
-     id="nnan0034">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0034">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0034</eadid>
       <filedesc>
@@ -120,8 +116,7 @@
 				coins (late 1900s), rubber stamps used by Virgil M. Brand, and photocopies of Virgil M. Brand’s accession books.</p>
       </scopecontent>
       <dsc>
-         <c id="c_75c308c1effffeff15cd6455ff67cc2d" level="otherlevel"
-            otherlevel="Container">
+         <c id="c_75c308c1effffeff15cd6455ff67cc2d" level="otherlevel" otherlevel="Container">
             <did>
                <unittitle>Box 1</unittitle>
             </did>
@@ -281,8 +276,7 @@
                </did>
             </c>
          </c>
-         <c id="c_172b3282514f1d545b8121e74dcff7c6" level="otherlevel"
-            otherlevel="Container">
+         <c id="c_172b3282514f1d545b8121e74dcff7c6" level="otherlevel" otherlevel="Container">
             <did>
                <unittitle>Box 2</unittitle>
             </did>
@@ -452,8 +446,7 @@
                </did>
             </c>
          </c>
-         <c id="c_4f22ef1245b3e66369d2e30cb9331478" level="otherlevel"
-            otherlevel="Container">
+         <c id="c_4f22ef1245b3e66369d2e30cb9331478" level="otherlevel" otherlevel="Container">
             <did>
                <unittitle>Box 3</unittitle>
             </did>
@@ -568,8 +561,7 @@
                </did>
             </c>
          </c>
-         <c id="c_57e9bd37d2d36f4af8c87b25b4249a67" level="otherlevel"
-            otherlevel="Container">
+         <c id="c_57e9bd37d2d36f4af8c87b25b4249a67" level="otherlevel" otherlevel="Container">
             <did>
                <unittitle>Box 4</unittitle>
             </did>
@@ -768,8 +760,7 @@
                   <unittitle>39. Brand Papers: Brand Company: Jane Brand von Boecklin Allen's correspondence with Horace L. Brand concerning the sale of part of Brand Company's coal yards, 1949-1950</unittitle>
                </did>
             </c>
-            <c id="c_ad69796c0e522bf886b29a1a0ea9e125" level="otherlevel"
-               otherlevel="Envelopes">
+            <c id="c_ad69796c0e522bf886b29a1a0ea9e125" level="otherlevel" otherlevel="Envelopes">
                <did>
                   <unittitle>40. Coin cards - notes on cost, prices being asked for similar specimens, buyer's names (5 envelopes)</unittitle>
                </did>
@@ -825,8 +816,7 @@
                </did>
             </c>
          </c>
-         <c id="c_bf4deddbb69f281f95d0ef38bea4da06" level="otherlevel"
-            otherlevel="Container">
+         <c id="c_bf4deddbb69f281f95d0ef38bea4da06" level="otherlevel" otherlevel="Container">
             <did>
                <unittitle>Box 5</unittitle>
             </did>

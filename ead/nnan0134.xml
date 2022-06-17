@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     id="nnan0134"
-     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" id="nnan0134" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader langencoding="iso639-2b">
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0134</eadid>
       <filedesc>
@@ -38,8 +34,7 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <origination>
-            <corpname authfilenumber="http://numismatics.org/authority/national_bank_of_detroit_money_museum"
-                      role="xeac:entity">National Bank of Detroit. Money Museum</corpname>
+            <corpname authfilenumber="http://numismatics.org/authority/national_bank_of_detroit_money_museum" role="xeac:entity">National Bank of Detroit. Money Museum</corpname>
          </origination>
          <unitdate normal="1960">1960</unitdate>
          <repository>American Numismatic Society</repository>
@@ -52,8 +47,7 @@
       <controlaccess>
          <genreform authfilenumber="300046300" source="aat">Photographs</genreform>
          <genreform>Press releases</genreform>
-         <corpname authfilenumber="http://numismatics.org/authority/national_bank_of_detroit_money_museum"
-                   role="xeac:entity">National Bank of Detroit. Money Museum</corpname>
+         <corpname authfilenumber="http://numismatics.org/authority/national_bank_of_detroit_money_museum" role="xeac:entity">National Bank of Detroit. Money Museum</corpname>
          <persname>Dodson, Oscar Henry, 1905-1996</persname>
          <persname>Shapero, Nate S., 1892-1990</persname>
          <subject authfilenumber="sh85093254" source="lcsh">Numismatic museums</subject>

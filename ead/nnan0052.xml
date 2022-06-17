@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     id="nnan0052"
-     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0052" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0052</eadid>
       <filedesc>
@@ -87,8 +83,7 @@
          <persname>Schultz, William J.</persname>
          <corpname authfilenumber="154498098" source="viaf">Scott Stamp and Coin Co.</corpname>
          <corpname>Art Trading Company</corpname>
-         <corpname authfilenumber="http://numismatics.org/authority/new_netherlands_coin_co"
-                   role="xeac:entity">New Netherlands Coin Co.</corpname>
+         <corpname authfilenumber="http://numismatics.org/authority/new_netherlands_coin_co" role="xeac:entity">New Netherlands Coin Co.</corpname>
          <corpname>New Zealand Coin Exchange</corpname>
          <corpname>Guttag Brothers</corpname>
          <corpname authfilenumber="158256089" source="viaf">Spink &amp; Son</corpname>

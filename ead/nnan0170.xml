@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nnan">nnan0170</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Tammany Society materials, 1819, 1880-1894, and 1926-1927</titleproper>
+                <author>Jared Goldfarb</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2022-05-10">May 10, 2022</date>
+                <address>
+                    <addressline>American Numismatic Society Archives</addressline>
+                    <addressline>75 Varick Street, 11th floor</addressline>
+                    <addressline>New York, NY 10013</addressline>
+                </address>
+                <publisher>ANS Archives</publisher>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user dhill.</creation>
+            <langusage>Finding aid written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <frontmatter/>
+    <archdesc level="collection">
+        <did>
+            <head>Descriptive Summary</head>
+            <unittitle>Tammany Society Documents from 1819-1927</unittitle>
+            <abstract>Tammany Society papers with emphasis placed on medals and the 1892 commemoration of the four-hundredth anniversary of Columbus' arrival in the Americas.</abstract>
+            <physloc>Archives</physloc>
+            <physdesc>
+                <extent>2 folders</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <corpname authfilenumber="141998985" source="viaf">Tammany Society, or Columbian Order (New York, N.Y.)</corpname>
+            </origination>
+            <unitdate normal="1819/1927" type="inclusive">1819 - 1927</unitdate>
+            <repository>American Numismatic Society</repository>
+        </did>
+        <controlaccess>
+            <corpname authfilenumber="141998985" source="viaf">Tammany Society, or Columbian Order (New York, N.Y.)</corpname>
+            <subject>Commemorative Medals</subject>
+            <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+            <genreform authfilenumber="300111999" source="aat">publications (documents)</genreform>
+        <genreform authfilenumber="300079783" source="aat">conceptual drawings</genreform>
+        <subject>Crime</subject></controlaccess>
+        <scopecontent>
+            <p>Contains various papers relating to the Tammany Society, with special emphasis on its medals. Some documents describe the history of the Tammany Society (or Columbian Order) and refer to events around 1892, the 400th anniversary of Columbus’s discovery of America. The Tammany Society erected a statue in New York City of Columbus to commemorate this anniversary. Some of the papers refer to the commemorative medal that was struck for the 300th anniversary in 1792. According to the documents the whereabouts of the medal were uncertain at the time.</p>
+            
+            
+        <p>Folder one contains: a two-page index of the folder’s contents; 
+the pamphlet “Address of the Society of Tammany or Columbian Order,” by Clarkson Crolius, Grand Sachem, October 4, 1819 (40 pages); the pamphlet “Columbian Exhibition of Coins and Medals” by the American Numismatic and Archaeological Society, April 25, 1893 (8 pages); three pages of a handwritten article with corrections titled “Society of the Sons of St. Tammany,” describing the origin of the society and the creation of its museum; a newspaper article titled “Big Tammany Men of Early Times: Jefferson, Burr, Van Buren, the Clintons and their work,” New York, Feb 27, 1885, by S.S. McClure Ltd. (newspaper unknown); an article from the American Journal of Numismatics titled “Some Columbian medals” by Edmond J. Cleveland, 1894; two pages titled “Selections from the Correspondence and Papers: laid before the Society, May 21st, 1857”; a letter from A. Thompson (May 20, 1857) regarding the diploma given by the Tammany Society to members as proof of membership; a list of three New Jersey regiments raised for the American Revolution, some of whose members were in the Tammany Society; three typed pages titled “New York, October 17: Description of the Monument Lately Erected in this City by the Tammany Society, at Their Celebration of the Commencement of the IVth Columbian Century” (“Taken from the New Jersey State Gazette, Wednesday, October 24th, 1792, Volume 1, No. 7”); two handwritten letters from Wm. Kelby at the New-York Historical Society to William Weeks dated February 21 and 23, 1894 regarding the certificate of the Tammany Society issued to John Pintard (?);
+two letters between Weeks and Guernsey, with Weeks writing to Guernsey on February 21st, 1894 asking him if he has any information about a medal struck by the Tammany Society in 1792 to commemorate the 300th anniversary of the discovery of America and Guernsey replying from New Jersey on February 23rd, saying he knows nothing of this medal, but perhaps the Philadelphia branch of the Tammany Society does; a letter from M. Cogan, of Bangs &amp; Co. Auctioneers of Books, to Weeks, dated March 8th, 1894, regarding an order; an envelope with return address of H. J. Thein Photographers, Newark, N.J., containing a photocopy of a Tammany Society Diploma for Jesse(?)  Baldwin, 1779; an envelope with the American Numismatic Society address on Broadway, with handwritten note on the outside (“20 slips- manuscript notes on Tammany- its origins and its medals (put in this envelope 3 Feb 1914- see Accession Book 2 Feb 1914 at no. 2252”); one printed page titled “United States Cents and Half cents” with manuscript superscription, “Sale by Ed. Frossard, March 22/-94 at 59 Fifth Ave., D. R. Kennedy Auctioneer.”</p><p>Folder two contains documents describing the medals issued by the Tammany Society from 1790-1812. There is also reference to the museum built by the Society called the American Museum. Coins were stolen from the museum in 1796. The museum was bought by P.T. Barnum in 1841. It burned down in 1865 in Civil War-era rioting.  Also mentioned are the Society colors. Referred to in these letters but not elaborated on is the relationship between the American Numismatic Society, the New-York Historical Society and the Tammany Society.  There was a lecture at the New-York Historical Society about the theft of coins from the Tammany Museum, and the records for this lecture seem to have been held at the American Numismatic Society. Included is a handwritten letter on American Numismatic Society letterhead dated March 9, 1926 from Harry Russell Drowne to Howland Wood referring to enclosed notes on a lecture at the New-York Historical Society about the Tammany Society and its colors. The writer believes the information from the lecture was published in the Numismatist. (Possibly the enclosure referred to in the above letter). A one-page sheet titled “Of Numismatic Interest” is undated and has both typed and handwritten notes on it about the Tammany Museum (later the American Museum) and the theft of coins from it in 1796. Also found in folder two are: a two-page typed letter dated January 5, 1926, from Edwin P Kilroe to Wayte Raymond about the recent purchase, at auction, of a Tammany medal in which Mr Kilroe gives a history of the Tammany medals, the rules governing their use, and the inscriptions on them (the medals came in tin, copper or iron, or could be struck in silver or gold at the wearer’s expense, and two are currently in the Rhode Island Historical Society); one page of rough notes, undated, that say “Early Origin of Tammany Society: Edwin P Kilroe,” which are possibly notes from a lecture given by Kilroe and which give dates in the history of the Tammany Society; one page letter from Edwin Robinson in Rhode Island, to Mr Wood, dated April 26 192?, that appear to describe three Tammany medals at the Newport Historical Society, describing their engravings and referring to another handwritten sheet of paper with drawings of the Tammany medal. These drawings are on scratch paper, the other side of which is the beginning of a letter to Drowne.</p></scopecontent>
+        <bioghist>
+            
+            
+        </bioghist>
+        
+        <accessrestrict>
+            <head>Access</head>
+            <p>Collection open to all researchers.</p>
+        </accessrestrict>
+        
+        <prefercite>
+            <head>Preferred Citation</head>
+            <p>Tammany Society documents from 1819 to 1927, Archives, American Numismatic Society.</p>
+        </prefercite>
+        <userestrict>
+            <head>Restrictions</head>
+            <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
+        </userestrict>
+    </archdesc>
+</ead>

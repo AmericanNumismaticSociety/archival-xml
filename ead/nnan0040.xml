@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
-     id="nnan0040">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0040">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0040</eadid>
       <filedesc>
@@ -46,6 +42,10 @@
             </daodesc>
          </daogrp>
       </did>
+        <separatedmaterial>
+            
+        
+        <head>Separated Material</head><p>Coins and currency removed to curatorial: James Hood, five Confederate notes (0000.999.57581-57585); D. Meekins, Jr., Confederate note (counterfeit) (0000.999.57586);  C. Wilson, Hong Kong coin (0000.999.57587); Jesse C. Green, three fractional currency (0000.999.57578-57580).</p></separatedmaterial>
       <bioghist>
          <head>Biographical Note</head>
          <p>Brothers Henry Chapman (1859-1935) and S.H. (Samuel Hudson) Chapman (1857-1931) of Philadelphia began collecting stamps and other items by the age of ten. Educated in the Friends
@@ -58,7 +58,7 @@
       </bioghist>
       <acqinfo audience="internal">
          <head>Provenance</head>
-         <p>Catalogs and materials relating to the John Story Jenks collection donated to the AN by Chapman family heirs in 1982. Correspondence and other papers were donated to the ANS in 2002 by
+         <p>Catalogs and materials relating to the John Story Jenks collection donated to the ANS by Chapman family heirs in 1982. Correspondence and other papers were donated to the ANS in 2002 by
 				the Estate of Mrs. Henrietta Chapman Judson.</p>
       </acqinfo>
       <accessrestrict>
