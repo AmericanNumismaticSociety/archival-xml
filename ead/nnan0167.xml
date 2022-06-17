@@ -1,4 +1,7 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader langencoding="iso639-2b">
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0167</eadid>
       <filedesc>
@@ -39,10 +42,11 @@
          <unitdate normal="1861/1883" type="inclusive">1861 - 1883</unitdate>
          <repository>American Numismatic Society</repository>
       </did>
-        <controlaccess>
-            <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
-            <subject>Coin dealers--United States</subject>
-        <persname>Mason, George B.</persname></controlaccess>
+      <controlaccess>
+         <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+         <subject>Coin dealers--United States</subject>
+         <persname>Mason, George B.</persname>
+      </controlaccess>
       <scopecontent>
          <head>Scope and content note</head>
          <p>The letters deal with a variety of subjects including requests for store cards, price lists, want lists, US stamps, coin catalogs, and offers to purchase coins. Of the 92 letters in the collection, many were from some of the more prominent numismatists of the era, including officers and members of American Numismatic Society. Some of the individuals with whom Mason corresponded include: Anthon, C.; Attinelli, E.J.; Betts, C.W.; Bolen, J.A.; Crosby, S.S.; Frossard, E.; Groh, E.; Harzfeld, S.K.; Haseltine, J.W.; Heath, G.; Hickcox, J.H.; Idler, W.; Kline, A.C.; Leavitt, J.P.; Mickley,J.J.; Parish, D.; Pollion, W.; Sage, A.B.; Tiffany, John K.; Wood, I.F.; Woodward, William Elliott; Zabiriski, A.C.

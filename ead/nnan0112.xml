@@ -1,4 +1,9 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0112">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+     id="nnan0112">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0112</eadid>
       <filedesc>
@@ -31,7 +36,8 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <origination>
-            <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society" role="xeac:entity">American Numismatic Society</corpname>
+            <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society"
+                      role="xeac:entity">American Numismatic Society</corpname>
          </origination>
          <unitdate>1868-2007</unitdate>
          <repository>American Numismatic Society</repository>
@@ -42,6 +48,24 @@
             <daodesc>
                <p>A photograph from the collection of the construction of an addition to the Society's Audubon Terrace headquarters, Marc Eidlitz &amp; Son, July 11, 1929</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6009/5933939976_ea4e9702f0_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6009/5933939976_ea4e9702f0_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6009/5933939976_ea4e9702f0_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6009/5933939976_ea4e9702f0.jpg"
+                    xlink:label="Medium"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6009/5933939976_ea4e9702f0_z.jpg"
+                    xlink:label="Medium 640"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6009/5933939976_ea4e9702f0_b.jpg"
+                    xlink:label="Large"/>
          </daogrp>
       </did>
       <acqinfo audience="internal">
@@ -63,7 +87,8 @@
       <controlaccess>
          <subject>Numismatics--Societies, etc</subject>
          <subject source="lcsh" authfilenumber="sh85082800">Medal of Honor</subject>
-         <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society" role="xeac:entity">American Numismatic Society</corpname>
+         <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society"
+                   role="xeac:entity">American Numismatic Society</corpname>
          <genreform authfilenumber="300046300" source="aat">Photographs</genreform>
          <genreform authfilenumber="300128371" source="aat">Slides (Photographs)</genreform>
          <genreform authfilenumber="300127173" source="aat">Negatives (Photographic)</genreform>

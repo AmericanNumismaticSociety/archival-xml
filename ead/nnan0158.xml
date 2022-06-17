@@ -1,4 +1,8 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader langencoding="iso639-2b">
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0158</eadid>
       <filedesc>
@@ -42,6 +46,33 @@
             <daodesc>
                <p>A card from the collection</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="https://farm6.staticflickr.com/5597/15047242324_019e363443_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="https://farm6.staticflickr.com/5597/15047242324_019e363443_q.jpg"
+                    xlink:label="Large Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="https://farm6.staticflickr.com/5597/15047242324_019e363443_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="https://farm6.staticflickr.com/5597/15047242324_019e363443_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="https://farm6.staticflickr.com/5597/15047242324_019e363443_n.jpg"
+                    xlink:label="Small 320"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="https://farm6.staticflickr.com/5597/15047242324_019e363443.jpg"
+                    xlink:label="Medium"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="https://farm6.staticflickr.com/5597/15047242324_019e363443_z.jpg"
+                    xlink:label="Medium 640"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="https://farm6.staticflickr.com/5597/15047242324_019e363443_b.jpg"
+                    xlink:label="Large"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="https://farm6.staticflickr.com/5597/15047242324_73dfc3f74b_o.jpg"
+                    xlink:label="Original"/>
          </daogrp>
       </did>
       <controlaccess>
@@ -165,7 +196,8 @@
             <did>
                <unittitle>Box 4: Card File</unittitle>
             </did>
-            <c id="c_2872831ef0dc25daa0ee1eaeb07ec96f" level="otherlevel" otherlevel="Contents">
+            <c id="c_2872831ef0dc25daa0ee1eaeb07ec96f" level="otherlevel"
+               otherlevel="Contents">
                <did>
                   <unittitle>Chiefly items copied from entries in Medici manuscripts of Harvard Business School showing values of Florentine coins. Some bibliography cards.</unittitle>
                </did>
@@ -175,7 +207,8 @@
             <did>
                <unittitle>Box 5: Card File</unittitle>
             </did>
-            <c id="c_8bff19b853b4b3dcd82198e8030946aa" level="otherlevel" otherlevel="Contents">
+            <c id="c_8bff19b853b4b3dcd82198e8030946aa" level="otherlevel"
+               otherlevel="Contents">
                <did>
                   <unittitle>Entries copied from Medici manuscripts of Harvard Business School to show values of Florentine coins</unittitle>
                </did>
@@ -185,7 +218,8 @@
             <did>
                <unittitle>Box 6: Microfilm</unittitle>
             </did>
-            <c id="c_788c547f410cbbbd3183684399e26890" level="otherlevel" otherlevel="Contents">
+            <c id="c_788c547f410cbbbd3183684399e26890" level="otherlevel"
+               otherlevel="Contents">
                <did>
                   <unittitle>25 rolls of microfilm of medieval manuscripts</unittitle>
                </did>
@@ -195,7 +229,8 @@
             <did>
                <unittitle>Box 7: Microfilm</unittitle>
             </did>
-            <c id="c_07714d7776920478d2e75796ae5dbb4e" level="otherlevel" otherlevel="Contents">
+            <c id="c_07714d7776920478d2e75796ae5dbb4e" level="otherlevel"
+               otherlevel="Contents">
                <did>
                   <unittitle>43 rolls of microfilm of medieval manuscripts</unittitle>
                </did>

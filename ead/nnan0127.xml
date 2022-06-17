@@ -1,4 +1,9 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" id="nnan0127" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     id="nnan0127"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader langencoding="iso639-2b">
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0127</eadid>
       <filedesc>
@@ -42,6 +47,36 @@
             <daodesc>
                <p>Illustration from an article in the scrapbook on the opening of St. Luke's Hospital in New York City.</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm9.staticflickr.com/8402/8619864434_f9ca5f50e3_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm9.staticflickr.com/8402/8619864434_f9ca5f50e3_q.jpg"
+                    xlink:label="Large Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm9.staticflickr.com/8402/8619864434_f9ca5f50e3_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm9.staticflickr.com/8402/8619864434_f9ca5f50e3_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm9.staticflickr.com/8402/8619864434_f9ca5f50e3_n.jpg"
+                    xlink:label="Small 320"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm9.staticflickr.com/8402/8619864434_f9ca5f50e3.jpg"
+                    xlink:label="Medium"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm9.staticflickr.com/8402/8619864434_f9ca5f50e3_z.jpg"
+                    xlink:label="Medium 640"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm9.staticflickr.com/8402/8619864434_f9ca5f50e3_c.jpg"
+                    xlink:label="Medium 800"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm9.staticflickr.com/8402/8619864434_f9ca5f50e3_b.jpg"
+                    xlink:label="Large"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm9.staticflickr.com/8402/8619864434_4ee53230e6_o.jpg"
+                    xlink:label="Original"/>
          </daogrp>
       </did>
       <processinfo audience="internal">

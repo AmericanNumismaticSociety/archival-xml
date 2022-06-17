@@ -1,4 +1,8 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0039">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+     id="nnan0039">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0039</eadid>
       <filedesc>
@@ -42,6 +46,18 @@
             <daodesc>
                <p>Part of the title page from the first issue of Revue Numismatique, 1836</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6173/6238555128_c855a236a4_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6173/6238555128_c855a236a4_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6173/6238555128_c855a236a4_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6173/6238555128_c855a236a4.jpg"
+                    xlink:label="Medium"/>
          </daogrp>
       </did>
       <bioghist>
@@ -82,7 +98,7 @@
       <scopecontent>
          <head>Scope and Content Note</head>
          <p>Just over 100 letters in French written by Cartier to his friend and co-founder of the journal Revue Numismatique (Numismatic Review), Jean-Francois de Paule-Louis de La Saussaye. By the 1840s, Cartier began to express concerns for the fate of the Revue because he felt that de La Saussaye’s overburdened schedule did not permit him to devote enough time to it. By the 1850s he began to state his desire to withdraw from the Revue, and letters from 1855 to 1856 concern the selling of the journal. Another point of contention between the two friends was the reluctance of Cartier to give space in the Revue to antique coins and Cartier’s feeling that his partner gave too much space to Paris intellectuals at the expense of provincial subscribers.</p>
-            <p>Also present are transcriptions of letters from Cartier to La Saussaye beginning in 1830. The beginning of their friendship, originally based on the exchange of coins and information about them, is reflected in the correspondence, but as their association developed other matters, such as business worries and resentments over the younger de La Saussaye’s attainment of honors of which Cartier felt he was being deprived, are discussed.</p>
+         <p>Also present are transcriptions of letters from Cartier to La Saussaye beginning in 1830. The beginning of their friendship, originally based on the exchange of coins and information about them, is reflected in the correspondence, but as their association developed other matters, such as business worries and resentments over the younger de La Saussaye’s attainment of honors of which Cartier felt he was being deprived, are discussed.</p>
       </scopecontent>
    </archdesc>
 </ead>

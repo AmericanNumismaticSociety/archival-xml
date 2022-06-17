@@ -1,4 +1,8 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0115" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     id="nnan0115"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader langencoding="iso639-2b">
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0115</eadid>
       <filedesc>
@@ -35,11 +39,31 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <origination>
-            <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society" role="xeac:entity">American Numismatic Society</corpname>
+            <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society"
+                      role="xeac:entity">American Numismatic Society</corpname>
          </origination>
          <unitdate>1858-ongoing</unitdate>
          <repository>American Numismatic Society</repository>
-         <daogrp/>
+         <daogrp>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_q.jpg"
+                    xlink:label="Large Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_n.jpg"
+                    xlink:label="Small 320"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef.jpg"
+                    xlink:label="Medium"/>
+         </daogrp>
          <note>
             <p>PORTIONS OF THE FINDING AID ARE SUPPRESSED FROM PUBLIC VIEW. ANS staff can log into Staff View for the full record group description.</p>
          </note>
@@ -175,14 +199,17 @@
                <genreform source="aat" authfilenumber="300027119">Lists (Document genres)</genreform>
                <genreform source="aat" authfilenumber="300026867">Clippings (Information artifacts)</genreform>
                <genreform source="aat" authfilenumber="300026877">Correspondence</genreform>
-               <corpname authfilenumber="http://numismatics.org/authority/chase_manhattan_bank_money_museum" role="xeac:entity">Chase Manhattan Bank Money Museum</corpname>
+               <corpname authfilenumber="http://numismatics.org/authority/chase_manhattan_bank_money_museum"
+                         role="xeac:entity">Chase Manhattan Bank Money Museum</corpname>
             </controlaccess>
             <scopecontent>
                <p>Contains a variety of coin collection accession records, such as acknowledgment letters, other correspondence, and unrestricted gift forms. Not all of the files contain the same
 						types of records. Some contain materials such as wills, estate inventories, clippings, and coin lists. The “1980.66-1980.67 – Chase Manhattan Bank Money Museum” file has
 						correspondence relating to an 1804 silver dollar, and includes the earliest materials in the series, an 1894 letter relating to the dollar.</p>
             </scopecontent>
-            <c level="otherlevel" otherlevel="Container" id="c_e2285dd3ddee1c9b43434606bdcbb826" audience="internal">
+            <c level="otherlevel" otherlevel="Container"
+               id="c_e2285dd3ddee1c9b43434606bdcbb826"
+               audience="internal">
                <did>
                   <unittitle>Box 1 of 3</unittitle>
                </did>
@@ -802,7 +829,8 @@
                   </odd>
                </c>
             </c>
-            <c id="c_11ad71754f6277030b8bc79914855019" level="otherlevel" otherlevel="Container">
+            <c id="c_11ad71754f6277030b8bc79914855019" level="otherlevel"
+               otherlevel="Container">
                <did>
                   <unittitle>Box 2 of 3</unittitle>
                </did>
@@ -812,7 +840,8 @@
                   </did>
                </c>
             </c>
-            <c id="c_9863c52fabdeef08a5293abc47702a1b" level="otherlevel" otherlevel="Container">
+            <c id="c_9863c52fabdeef08a5293abc47702a1b" level="otherlevel"
+               otherlevel="Container">
                <did>
                   <unittitle>Box 3 of 3</unittitle>
                </did>
@@ -852,7 +881,9 @@
 						accession number is written on the document. The series is a somewhat ad hoc gathering of materials relating to accessions that were filed in different ways over time, and
 						includes stray files not easily placed elsewhere.</p>
             </scopecontent>
-            <c level="otherlevel" otherlevel="Container" id="c_0fbe92baf79aae6eb7a335b13a4e3a54" audience="internal">
+            <c level="otherlevel" otherlevel="Container"
+               id="c_0fbe92baf79aae6eb7a335b13a4e3a54"
+               audience="internal">
                <did>
                   <unittitle>Box 1 of 1</unittitle>
                </did>
@@ -1239,7 +1270,8 @@
                <p>Correspondence, auction catalogs, lists of coins to be auctioned, and disposition forms, all relating to the deaccessioning and disposition of duplicate and otherwise
 						undesirable items in the collections.</p>
             </scopecontent>
-            <c level="otherlevel" otherlevel="Box" id="c_1154ae415474666e9127be58c8024c7b" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_1154ae415474666e9127be58c8024c7b"
+               audience="internal">
                <did>
                   <unittitle>Box 1 of 1</unittitle>
                </did>
@@ -1397,7 +1429,8 @@
 						ANS from 1931 to 1994; and the buy-back of coins on long term loan to the ANS by the Metropolitan Museum of Art that were scheduled to be auctioned in 1973. The earliest
 						materials are those pertaining to an ANS loan to the New-York Historical Society (1918).</p>
             </scopecontent>
-            <c level="otherlevel" otherlevel="Box" id="c_38b161d0586c77ebccfb6ffbc4a38a96" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_38b161d0586c77ebccfb6ffbc4a38a96"
+               audience="internal">
                <did>
                   <unittitle>Box 1 of 7: Incoming Loans</unittitle>
                </did>
@@ -1772,7 +1805,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_3520a23f4ac7dea2ad58c60c3150d1d4" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_3520a23f4ac7dea2ad58c60c3150d1d4"
+               audience="internal">
                <did>
                   <unittitle>Box 2 of 7: Incoming Loans (continued)</unittitle>
                </did>
@@ -1972,7 +2006,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_8d34f6bd02cb82ecbfde6f74c5ebe5f5" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_8d34f6bd02cb82ecbfde6f74c5ebe5f5"
+               audience="internal">
                <did>
                   <unittitle>Box 3 of 7: Outgoing Loans</unittitle>
                </did>
@@ -2297,7 +2332,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_e671a58f52143a835ce9d3e1079ab196" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_e671a58f52143a835ce9d3e1079ab196"
+               audience="internal">
                <did>
                   <unittitle>Box 4 of 7: Outgoing loans (continued)</unittitle>
                </did>
@@ -2657,7 +2693,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_1c61f6955bdc33cc28470631bad15aae" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_1c61f6955bdc33cc28470631bad15aae"
+               audience="internal">
                <did>
                   <unittitle>Box 5 of 7: Outgoing loans (continued)</unittitle>
                </did>
@@ -2917,7 +2954,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_aa7ca57b5ed923758130e6fed58f40b8" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_aa7ca57b5ed923758130e6fed58f40b8"
+               audience="internal">
                <did>
                   <unittitle>Box 6 of 7: Outgoing loans (continued)</unittitle>
                </did>
@@ -3012,7 +3050,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_e61d75b4246e42d98f608f2abd0392cc" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_e61d75b4246e42d98f608f2abd0392cc"
+               audience="internal">
                <did>
                   <unittitle>Box 7 of 7: Incoming and Outgoing</unittitle>
                </did>
@@ -3961,7 +4000,8 @@
                <p>See also Howland Wood personal correspondence, 1873, 1902-1938.</p>
             </relatedmaterial>
             <controlaccess>
-               <persname authfilenumber="http://numismatics.org/authority/wood_howland" role="xeac:entity">Wood, Howland, 1877-1938</persname>
+               <persname authfilenumber="http://numismatics.org/authority/wood_howland"
+                         role="xeac:entity">Wood, Howland, 1877-1938</persname>
                <persname authfilenumber="http://numismatics.org/authority/zabriskie" role="xeac:entity">Zabriskie, Andrew C. (Andrew Christian), 1853-1916</persname>
                <persname authfilenumber="18394487" source="viaf">Morgan, J. P. (John Pierpont), 1867-1943</persname>
                <persname authfilenumber="http://numismatics.org/authority/robertson" role="xeac:entity">Robertson, Robert, 1869-1937</persname>
@@ -3972,7 +4012,8 @@
                <persname authfilenumber="55604642" source="viaf">Canfield, Frederick A. (Frederick Alexander), 1849-1926</persname>
                <corpname authfilenumber="126658221" source="viaf">New Jersey Historical Society</corpname>
                <corpname>American Journal of Numismatics</corpname>
-               <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society" role="xeac:entity">American Numismatic Society</corpname>
+               <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society"
+                         role="xeac:entity">American Numismatic Society</corpname>
                <corpname authfilenumber="131496305" source="viaf">D.O. Mills &amp; Co. (Sacramento, Calif.)</corpname>
                <genreform source="aat" authfilenumber="300103035">Rubbings (Visual works)</genreform>
                <genreform source="aat" authfilenumber="300026877">Correspondence</genreform>
@@ -7871,7 +7912,8 @@
 						American excavations at Fustat, the oldest Islamic section of Cairo. He was first elected a member of the International Numismatic Commission (INC) in 1979, and in addition to
 						publishing on a variety of topics, Bates also organized educational seminars at ANS on topics such as collecting Islamic coins and the Arab-Sasanian coinage of Iran.</p>
             </bioghist>
-            <c level="otherlevel" otherlevel="Box" id="c_c36a4f7de5e16a0a18997ce4222f8dc5" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_c36a4f7de5e16a0a18997ce4222f8dc5"
+               audience="internal">
                <did>
                   <unittitle>Box 1 of 5</unittitle>
                </did>
@@ -8166,7 +8208,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_6375dda3659c8513a3395edde7a1cb9b" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_6375dda3659c8513a3395edde7a1cb9b"
+               audience="internal">
                <did>
                   <unittitle>Box 2 of 5</unittitle>
                </did>
@@ -8326,7 +8369,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_778bc2dd96b3284edaa48f2f9b2b176b" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_778bc2dd96b3284edaa48f2f9b2b176b"
+               audience="internal">
                <did>
                   <unittitle>Box 3 of 5</unittitle>
                </did>
@@ -8471,7 +8515,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_169ddfa9c23791fad08e8fa836016649" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_169ddfa9c23791fad08e8fa836016649"
+               audience="internal">
                <did>
                   <unittitle>Box 4 of 5</unittitle>
                </did>
@@ -8556,7 +8601,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_b0f66d7e2615946343206852c52b03e9" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_b0f66d7e2615946343206852c52b03e9"
+               audience="internal">
                <did>
                   <unittitle>Box 5 of 5</unittitle>
                </did>
@@ -8648,7 +8694,8 @@
 						medals, some correspondence, and photocopies from published sources as well as circulars (fliers) for some of the medals, such as Ernest Babelon (1912), Declaration of War
 						(1917), and Catskill Aqueduct (1917), Prince of Wales (1919), and Centennial (1958).</p>
             </scopecontent>
-            <c level="otherlevel" otherlevel="Box" id="c_1040651adc7b5a5827597b990f7a6263" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_1040651adc7b5a5827597b990f7a6263"
+               audience="internal">
                <did>
                   <unittitle>Box 1 of 2</unittitle>
                </did>
@@ -8800,7 +8847,8 @@
 						temporary deposit at ANS (1986); notes, research letters, and materials relating to her efforts in 1974 to build upon her 1968 dissertation on a die-study of the Alexander mint
 						at Babylon; and session lectures and student papers from the seminar she taught at Columbia University (1982-1989). </p>
             </scopecontent>
-            <c level="otherlevel" otherlevel="Box" id="c_876d3b08dd6e097867c592aff429371a" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_876d3b08dd6e097867c592aff429371a"
+               audience="internal">
                <did>
                   <unittitle>Box 1 of 2</unittitle>
                </did>
@@ -8965,7 +9013,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_1a67e4a5df9cb6a691a061741f7cdfed" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_1a67e4a5df9cb6a691a061741f7cdfed"
+               audience="internal">
                <did>
                   <unittitle>Box 2 of 2</unittitle>
                </did>
@@ -9073,7 +9122,8 @@
 						Fédération Internationale de la Médaille (FIDEM) and the American Medallic Sculpture Association (AMSA). The earliest item in the records is a postcard from a "J.S.S." to
 						Bauman Belden (1914) filed with FIDEM materials (1996-2000).</p>
             </scopecontent>
-            <c level="otherlevel" otherlevel="Box" id="c_ee4f8bc3d42f525ba533c9887b62f7a9" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_ee4f8bc3d42f525ba533c9887b62f7a9"
+               audience="internal">
                <did>
                   <unittitle>Box 1 of 13</unittitle>
                </did>
@@ -9283,7 +9333,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_c37dd7d5f8d7807a6bfb499604ffa297" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_c37dd7d5f8d7807a6bfb499604ffa297"
+               audience="internal">
                <did>
                   <unittitle>Box 2 of 13</unittitle>
                </did>
@@ -9528,7 +9579,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_badf94b9dee00da3a32a063c185dd79d" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_badf94b9dee00da3a32a063c185dd79d"
+               audience="internal">
                <did>
                   <unittitle>Box 3 of 13</unittitle>
                </did>
@@ -9838,7 +9890,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_ed289b5b4a52ff04397abae803deb772" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_ed289b5b4a52ff04397abae803deb772"
+               audience="internal">
                <did>
                   <unittitle>Box 4 of 13</unittitle>
                </did>
@@ -10268,7 +10321,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_429083674b37a66abeaa3cb521bcc9fb" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_429083674b37a66abeaa3cb521bcc9fb"
+               audience="internal">
                <did>
                   <unittitle>Box 5 of 13</unittitle>
                </did>
@@ -10559,7 +10613,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_6286a1e9b39f052737fa69473e3c3284" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_6286a1e9b39f052737fa69473e3c3284"
+               audience="internal">
                <did>
                   <unittitle>Box 6 of 13</unittitle>
                </did>
@@ -10844,7 +10899,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_805e4071a59442609ab2835b9a1811ca" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_805e4071a59442609ab2835b9a1811ca"
+               audience="internal">
                <did>
                   <unittitle>Box 7 of 13</unittitle>
                </did>
@@ -11099,7 +11155,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_289f0422a84929542bc6131031063e0a" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_289f0422a84929542bc6131031063e0a"
+               audience="internal">
                <did>
                   <unittitle>Box 8 of 13</unittitle>
                </did>
@@ -11329,7 +11386,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_bfb9f178912480c9d0e662a9f6e84f61" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_bfb9f178912480c9d0e662a9f6e84f61"
+               audience="internal">
                <did>
                   <unittitle>Box 9 of 13</unittitle>
                </did>
@@ -11554,7 +11612,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_ab3c5411164ed9b2f5bc2d2c337f15e5" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_ab3c5411164ed9b2f5bc2d2c337f15e5"
+               audience="internal">
                <did>
                   <unittitle>Box 10 of 13</unittitle>
                </did>
@@ -11779,7 +11838,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_3faa4155d6cf1e63bf04c7cc4b7d568e" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_3faa4155d6cf1e63bf04c7cc4b7d568e"
+               audience="internal">
                <did>
                   <unittitle>Box 11 of 13</unittitle>
                </did>
@@ -12019,7 +12079,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_78c6b2f80c71cf4d92066fba4d7c1740" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_78c6b2f80c71cf4d92066fba4d7c1740"
+               audience="internal">
                <did>
                   <unittitle>Box 12 of 13</unittitle>
                </did>
@@ -12359,7 +12420,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_1ff7504437958d4c08cb9bfa48532d42" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_1ff7504437958d4c08cb9bfa48532d42"
+               audience="internal">
                <did>
                   <unittitle>Box 13 of 13</unittitle>
                </did>
@@ -12524,7 +12586,8 @@
 						Mythologiae Classicae (LIMC) in Basle (1974-1977) and at Rutgers University in New Jersey (1979-1981) before her employment at ANS, which followed her attendance of the ANS
 						Graduate Summer Seminar in 1981. She currently holds the position of Damarete Curator of Ancient Coins, Division of Asian and Mediterranean Art, Harvard Art Museums.</p>
             </bioghist>
-            <c level="otherlevel" otherlevel="Box" id="c_26df4ff26f0033ddcb869da724ab287e" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_26df4ff26f0033ddcb869da724ab287e"
+               audience="internal">
                <did>
                   <unittitle>Box 1 of 2</unittitle>
                </did>
@@ -12599,7 +12662,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_593435520c0ab4facd533ba92f6add56" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_593435520c0ab4facd533ba92f6add56"
+               audience="internal">
                <did>
                   <unittitle>Box 2 of 2</unittitle>
                </did>
@@ -12722,7 +12786,8 @@
 						to arrange for the study of the ANS’s collection of Chinese coins, and include the progress reports (1947) from Yü-ch'üan Wang, author of the ANS publication Early Chinese
 						Coinage (1951), and materials regarding later efforts to carry on the work, such as grant applications resulting in the appointment of researcher Chee-Nam Tay (1968).</p>
             </scopecontent>
-            <c level="otherlevel" otherlevel="Box" id="c_7722cd6cf83ad484b95ec50be37ad0a3" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_7722cd6cf83ad484b95ec50be37ad0a3"
+               audience="internal">
                <did>
                   <unittitle>Box 1 of 1</unittitle>
                </did>
@@ -12970,7 +13035,8 @@
 						includes some files that Metcalf may have been using for research, such as the earliest materials found in these records: correspondence, notes, and photographs relating to
 						several hoards (1954-, Box 3), and letters and notes from Alexander Veglery to George Miles on Byzantine seals (1963).</p>
             </scopecontent>
-            <c level="otherlevel" otherlevel="Box" id="c_bb43fbf7a515f9138b94743d7188dd41" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_bb43fbf7a515f9138b94743d7188dd41"
+               audience="internal">
                <did>
                   <unittitle>Box 1 of 10</unittitle>
                </did>
@@ -13085,7 +13151,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_3dce3e10db2b7f2cb7293098077ded20" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_3dce3e10db2b7f2cb7293098077ded20"
+               audience="internal">
                <did>
                   <unittitle>Box 2 of 10</unittitle>
                </did>
@@ -13270,7 +13337,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_4da46e2fadb1208bd3be412ff35d54c4" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_4da46e2fadb1208bd3be412ff35d54c4"
+               audience="internal">
                <did>
                   <unittitle>Box 3 of 10</unittitle>
                </did>
@@ -13430,7 +13498,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_0e53495a680d564d352cf72af2ac1966" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_0e53495a680d564d352cf72af2ac1966"
+               audience="internal">
                <did>
                   <unittitle>Box 4 of 10</unittitle>
                </did>
@@ -13530,7 +13599,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_50a57b6af34ab5d1b183d52334afe215" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_50a57b6af34ab5d1b183d52334afe215"
+               audience="internal">
                <did>
                   <unittitle>Box 5 of 10</unittitle>
                </did>
@@ -13800,7 +13870,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_6d4fd6a6badf9084c11ade05eb4f6b3a" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_6d4fd6a6badf9084c11ade05eb4f6b3a"
+               audience="internal">
                <did>
                   <unittitle>Box 6 of 10</unittitle>
                </did>
@@ -14065,7 +14136,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_edc3e78b4177f06d63bf324f759b05cc" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_edc3e78b4177f06d63bf324f759b05cc"
+               audience="internal">
                <did>
                   <unittitle>Box 7 of 10</unittitle>
                </did>
@@ -14305,7 +14377,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_541b387ae8fc97373828e96f18b39893" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_541b387ae8fc97373828e96f18b39893"
+               audience="internal">
                <did>
                   <unittitle>Box 8 of 10</unittitle>
                </did>
@@ -14415,7 +14488,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_6a762640f203b9bdf98ce7d9d94020e5" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_6a762640f203b9bdf98ce7d9d94020e5"
+               audience="internal">
                <did>
                   <unittitle>Box 9 of 10</unittitle>
                </did>
@@ -14475,7 +14549,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_7667cb12acde5d758d49c9cba3e2b686" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_7667cb12acde5d758d49c9cba3e2b686"
+               audience="internal">
                <did>
                   <unittitle>Box 10 of 10</unittitle>
                </did>

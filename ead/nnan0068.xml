@@ -1,4 +1,8 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0068">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+     id="nnan0068">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0068</eadid>
       <filedesc>
@@ -42,6 +46,18 @@
             <daodesc>
                <p>George F. Kunz</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6140/5934008022_3a2f6728a6_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6140/5934008022_3a2f6728a6_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6140/5934008022_3a2f6728a6_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6140/5934008022_3a2f6728a6.jpg"
+                    xlink:label="Medium"/>
          </daogrp>
       </did>
       <bioghist>
@@ -50,7 +66,8 @@
       </bioghist>
       <acqinfo audience="internal">
          <head>Provenance</head>
-         <p>Purchased from the Armand Champa Library sale, September 10, 1995, through the generosity of the Harry Bass foundation.</p><p>Additional letters purchased 10/2016. One folder “St. Gaudens Columbian Medal” found loose in stacks.</p>
+         <p>Purchased from the Armand Champa Library sale, September 10, 1995, through the generosity of the Harry Bass foundation.</p>
+         <p>Additional letters purchased 10/2016. One folder “St. Gaudens Columbian Medal” found loose in stacks.</p>
       </acqinfo>
       <accessrestrict>
          <head>Access</head>
@@ -83,7 +100,8 @@
          <persname>Roberts, George</persname>
          <persname authfilenumber="http://numismatics.org/authority/brenner" role="xeac:entity">Brenner, Victor D. (Victor David), 1871-1924</persname>
          <persname authfilenumber="44573950" source="viaf">Avery, Samuel Putnam, 1822-1904</persname>
-         <persname authfilenumber="http://numismatics.org/authority/saint-gaudens" role="xeac:entity">Saint-Gaudens, Augustus, 1848-1907</persname>
+         <persname authfilenumber="http://numismatics.org/authority/saint-gaudens"
+                   role="xeac:entity">Saint-Gaudens, Augustus, 1848-1907</persname>
          <corpname authfilenumber="154771285" source="viaf">Tiffany and Company</corpname>
          <corpname authfilenumber="138814402" source="viaf">Carrère &amp; Hastings</corpname>
          <corpname authfilenumber="130279624" source="viaf">United States Mint</corpname>
@@ -92,7 +110,12 @@
          <genreform source="aat" authfilenumber="300046300">Photographs</genreform>
          <genreform source="aat" authfilenumber="300027267">Reports</genreform>
          <corpname>American Numismatic Society--Officers</corpname>
-      <persname>Laubenheimer, Rudolph</persname><persname>Oettinger, Sigmund</persname><persname authfilenumber="45507373" source="viaf">Palmer, Bertha Honoré, 1849-1918</persname><persname source="viaf" authfilenumber="235460609">Comparette, T. Louis (Thomas Louis), 1868-</persname><persname authfilenumber="96051528" source="viaf">Ruckstull, F. W. (Fred Wellington), 1853-1942</persname></controlaccess>
+         <persname>Laubenheimer, Rudolph</persname>
+         <persname>Oettinger, Sigmund</persname>
+         <persname authfilenumber="45507373" source="viaf">Palmer, Bertha Honoré, 1849-1918</persname>
+         <persname source="viaf" authfilenumber="235460609">Comparette, T. Louis (Thomas Louis), 1868-</persname>
+         <persname authfilenumber="96051528" source="viaf">Ruckstull, F. W. (Fred Wellington), 1853-1942</persname>
+      </controlaccess>
       <scopecontent>
          <head>Scope and Content Note</head>
          <p>Letters received by Kunz, with only a few copies of outgoing letters from him, on topics relating to numismatics. These include letters from Charles T. Cook at Tiffany &amp; Company (he would become president of the company in 1902) discussing his recommendation of the adoption of a Christopher Columbus medal and the costs and other issues associated with the production of other medals (1893); letters from Bertha Palmer (1893), Sigmund Oettinger (1893), and National Sculpture Society founder Frederick Wellington Ruckstuhl (later Ruckstull) (1894 and 1895); a letter from Augustus Saint-Gaudens discussing his controversial Columbus medal reverse design that had been rejected by the United States Mint (1894); items pertaining to the American Numismatic and Archaeological Society (later the American Numismatic Society), including the nomination of Samuel P. Avery and other routine issues and a certificate acknowledging a gift to the Society of items from the Pan-American Exposition at Buffalo, 1901 (1894-1906); a letter from Victor David Brenner expressing his desire to cut the dies for a Ulysses S. Grant medal, which were instead later cut by Tiffany &amp; Company (likely 1897); a letter and business card from engraver Rudolph Laubenheimer expressing interest in the proposed Grant medal (ca. 1897); a letter regarding his two exhibits at the Paris Exposition of 1900 (1899); a letter regarding a proposed Rumphius Medal in the Netherlands (1902); letters from the U.S. Mint, including one from curator Thomas Louis Comparette regarding President Roosevelt and the new designs for the double eagle (1907) and another from mint director George Roberts in which he is critical of what he considered to be Chief Engraver Charles Barber’s disagreeable attitude, which in this case arose from difficulties with hubs that had not been produced by the U.S. mint, along with Barber’s drawings and technical report (1914); three Adolph Alexander Weinman letters relating to Roosevelt’s Inaugural Medal (1909); several letters from coin collector James W. Ellsworth, one of which raised questions about mint employees selling rarities, in this case a Saint-Gaudens double eagle (1915-1918); a letter from Thomas Hastings of the architectural firm Carrère and Hastings thanking Kunz for an Avery medal (1915); and a small group of letters having to do with the new U.S. coin designs of 1916, including a letter from Weinman, designer of the Walking Liberty half dollar and the Mercury dime, and a letter from Hermon Atkins MacNeil, designer of the Standing Liberty quarter. Also present is a photograph of MacNeil sent to Kunz by him, and an annotated typescript, “The Designers of the New Silver Coinage,” which provides biographical information on Weinman and MacNeil. Another untitled typescript discusses the relative permanence of materials used to record human history, such as paper, papyrus, and metal coins. In addition there is a folder labeled “St. Gaudens Columbian Medal,” containing one photocopy (1908) and two original (and possibly unrelated) letters (1909 and 1921), a news clipping (1907) and photocopies of American Journal of Numismatics articles (1891, 1894, 1896).</p>

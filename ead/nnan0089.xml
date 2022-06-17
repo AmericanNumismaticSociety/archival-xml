@@ -1,4 +1,8 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0089">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+     id="nnan0089">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0089</eadid>
       <filedesc>
@@ -42,6 +46,18 @@
             <daodesc>
                <p>Part of a photograph of Adam Pietz from the collection</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6221/6286681863_08d61b8b7e_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6221/6286681863_08d61b8b7e_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6221/6286681863_08d61b8b7e_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6221/6286681863_08d61b8b7e.jpg"
+                    xlink:label="Medium"/>
          </daogrp>
       </did>
       <bibliography>

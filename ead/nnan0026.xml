@@ -1,4 +1,8 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0026">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+     id="nnan0026">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0026</eadid>
       <filedesc>
@@ -32,7 +36,8 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <origination>
-            <persname authfilenumber="http://numismatics.org/authority/adams_edgar" role="xeac:entity">Adams, Edgar H. (Edgar Holmes), 1868-1940</persname>
+            <persname authfilenumber="http://numismatics.org/authority/adams_edgar"
+                      role="xeac:entity">Adams, Edgar H. (Edgar Holmes), 1868-1940</persname>
          </origination>
          <unitdate normal="1924/1962" type="inclusive">circa 1924, 1933-1962</unitdate>
          <repository>American Numismatic Society</repository>
@@ -43,6 +48,24 @@
             <daodesc>
                <p>Part of a page from one of the notebooks</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6159/6218330666_9707c77a6e_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6159/6218330666_9707c77a6e_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6159/6218330666_9707c77a6e_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6159/6218330666_9707c77a6e.jpg"
+                    xlink:label="Medium"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6159/6218330666_9707c77a6e_z.jpg"
+                    xlink:label="Medium 640"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6159/6218330666_9707c77a6e_b.jpg"
+                    xlink:label="Large"/>
          </daogrp>
       </did>
       <bioghist>
@@ -76,7 +99,8 @@
          <subject source="lcsh" authfilenumber="sh2009120563">Coins, American--Collectors and collecting</subject>
          <subject>Copper coins--United States</subject>
          <subject>Silver Coins--United States</subject>
-         <persname authfilenumber="http://numismatics.org/authority/adams_edgar" role="xeac:entity">Adams, Edgar H. (Edgar Holmes), 1868-1940</persname>
+         <persname authfilenumber="http://numismatics.org/authority/adams_edgar"
+                   role="xeac:entity">Adams, Edgar H. (Edgar Holmes), 1868-1940</persname>
          <genreform source="aat" authfilenumber="300264354">Notebooks</genreform>
          <genreform source="aat" authfilenumber="300046300">Photographs</genreform>
       </controlaccess>

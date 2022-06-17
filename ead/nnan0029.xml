@@ -1,4 +1,8 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0029">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+     id="nnan0029">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0029</eadid>
       <filedesc>
@@ -32,7 +36,8 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <origination>
-            <persname authfilenumber="http://numismatics.org/authority/adams_john_w" role="xeac:entity">Adams, John W. (John Weston), 1936- , collector</persname>
+            <persname authfilenumber="http://numismatics.org/authority/adams_john_w"
+                      role="xeac:entity">Adams, John W. (John Weston), 1936- , collector</persname>
          </origination>
          <unitdate normal="1907/1972" type="inclusive">1907-1972, bulk 1939-1949</unitdate>
          <repository>American Numismatic Society</repository>
@@ -43,6 +48,24 @@
             <daodesc>
                <p>The cover of Henry Hines' annotated copy of The United States Copper Cents, 1816-1857</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6126/5933918334_a42218903c_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6126/5933918334_a42218903c_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6126/5933918334_a42218903c_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6126/5933918334_a42218903c.jpg"
+                    xlink:label="Medium"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6126/5933918334_a42218903c_z.jpg"
+                    xlink:label="Medium 640"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6126/5933918334_a42218903c_b.jpg"
+                    xlink:label="Large"/>
          </daogrp>
       </did>
       <bioghist>
@@ -97,7 +120,8 @@
          <subject source="lcsh" authfilenumber="sh85021837">Cent</subject>
          <subject>Copper coins--United States</subject>
          <persname>Adams, John W. (John Weston), 1936-</persname>
-         <persname authfilenumber="http://numismatics.org/authority/clapp_george" role="xeac:entity">Clapp, George H. (George Hubbard), 1858-1949</persname>
+         <persname authfilenumber="http://numismatics.org/authority/clapp_george"
+                   role="xeac:entity">Clapp, George H. (George Hubbard), 1858-1949</persname>
          <persname>Clarke, T. James (Thomas James), 1875-1952</persname>
          <persname>Hines, Henry Clay, 1856-1946</persname>
          <persname>Downing, Homer K., 1898-1951</persname>
@@ -106,7 +130,8 @@
          <persname>Pearl, Oscar J.</persname>
          <persname authfilenumber="76711748" source="viaf">Sheldon, William H. (William Herbert), 1898-1977</persname>
          <persname authfilenumber="http://numismatics.org/authority/kosoff" role="xeac:entity">Kosoff, A. (Abraham Kosoff), 1912-1983</persname>
-         <persname authfilenumber="http://numismatics.org/authority/wood_howland" role="xeac:entity">Wood, Howland, 1877-1938</persname>
+         <persname authfilenumber="http://numismatics.org/authority/wood_howland"
+                   role="xeac:entity">Wood, Howland, 1877-1938</persname>
          <genreform source="aat" authfilenumber="300026877">Correspondence</genreform>
          <genreform authfilenumber="300026068" source="aat">Auction catalogs</genreform>
          <genreform authfilenumber="300027200" source="aat">Notes</genreform>

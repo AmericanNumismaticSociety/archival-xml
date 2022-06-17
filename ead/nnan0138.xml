@@ -1,4 +1,8 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0138" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     id="nnan0138"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader langencoding="iso639-2b">
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0138</eadid>
       <filedesc>
@@ -42,6 +46,30 @@
             <daodesc>
                <p>Part of an entry from the inventory</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7313/10476379313_97bbfb9732_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7313/10476379313_97bbfb9732_q.jpg"
+                    xlink:label="Large Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7313/10476379313_97bbfb9732_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7313/10476379313_97bbfb9732_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7313/10476379313_97bbfb9732_n.jpg"
+                    xlink:label="Small 320"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7313/10476379313_97bbfb9732.jpg"
+                    xlink:label="Medium"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7313/10476379313_97bbfb9732_z.jpg"
+                    xlink:label="Medium 640"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7313/10476379313_1e299d852e_o.jpg"
+                    xlink:label="Original"/>
          </daogrp>
       </did>
       <scopecontent>

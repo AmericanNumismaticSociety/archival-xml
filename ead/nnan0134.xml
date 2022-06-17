@@ -1,4 +1,9 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" id="nnan0134" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     id="nnan0134"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader langencoding="iso639-2b">
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0134</eadid>
       <filedesc>
@@ -34,7 +39,8 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <origination>
-            <corpname authfilenumber="http://numismatics.org/authority/national_bank_of_detroit_money_museum" role="xeac:entity">National Bank of Detroit. Money Museum</corpname>
+            <corpname authfilenumber="http://numismatics.org/authority/national_bank_of_detroit_money_museum"
+                      role="xeac:entity">National Bank of Detroit. Money Museum</corpname>
          </origination>
          <unitdate normal="1960">1960</unitdate>
          <repository>American Numismatic Society</repository>
@@ -42,12 +48,34 @@
             <daodesc>
                <p>Rear Admiral Oscar H. Dodson showing Carol Brander and Linda Gibson a 17th-century Japanese counting board</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm4.staticflickr.com/3787/10347517164_050123cd32_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm4.staticflickr.com/3787/10347517164_050123cd32_q.jpg"
+                    xlink:label="Large Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm4.staticflickr.com/3787/10347517164_050123cd32_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm4.staticflickr.com/3787/10347517164_050123cd32_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm4.staticflickr.com/3787/10347517164_050123cd32_n.jpg"
+                    xlink:label="Small 320"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm4.staticflickr.com/3787/10347517164_050123cd32.jpg"
+                    xlink:label="Medium"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm4.staticflickr.com/3787/10347517164_a9007e248b_o.jpg"
+                    xlink:label="Original"/>
          </daogrp>
       </did>
       <controlaccess>
          <genreform authfilenumber="300046300" source="aat">Photographs</genreform>
          <genreform>Press releases</genreform>
-         <corpname authfilenumber="http://numismatics.org/authority/national_bank_of_detroit_money_museum" role="xeac:entity">National Bank of Detroit. Money Museum</corpname>
+         <corpname authfilenumber="http://numismatics.org/authority/national_bank_of_detroit_money_museum"
+                   role="xeac:entity">National Bank of Detroit. Money Museum</corpname>
          <persname>Dodson, Oscar Henry, 1905-1996</persname>
          <persname>Shapero, Nate S., 1892-1990</persname>
          <subject authfilenumber="sh85093254" source="lcsh">Numismatic museums</subject>

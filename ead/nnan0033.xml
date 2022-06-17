@@ -1,4 +1,8 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0033">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+     id="nnan0033">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0033</eadid>
       <filedesc>
@@ -43,6 +47,18 @@
             <daodesc>
                <p>Bauman L. Belden</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6149/5933619209_f8f048b5aa_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6149/5933619209_f8f048b5aa_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6149/5933619209_f8f048b5aa_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6149/5933619209_f8f048b5aa.jpg"
+                    xlink:label="Medium"/>
          </daogrp>
       </did>
       <bioghist>
@@ -84,7 +100,8 @@
          <genreform>Photographs</genreform>
          <genreform>Correspondence</genreform>
          <genreform>Reports</genreform>
-         <persname authfilenumber="http://numismatics.org/authority/wood_howland" role="xeac:entity">Wood, Howland, 1877-1938</persname>
+         <persname authfilenumber="http://numismatics.org/authority/wood_howland"
+                   role="xeac:entity">Wood, Howland, 1877-1938</persname>
          <persname>Adams, Eva</persname>
          <persname>Kobayagawa, Jun</persname>
          <persname>Ramsden, Henry A., d. 1915</persname>

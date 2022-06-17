@@ -1,4 +1,8 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0038">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+     id="nnan0038">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0038</eadid>
       <filedesc>
@@ -42,6 +46,24 @@
             <daodesc>
                <p>David M. Bullowa's class photograph from The Lincolnian, 1930</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6009/5933379493_53acf573fa_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6009/5933379493_53acf573fa_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6009/5933379493_53acf573fa_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6009/5933379493_53acf573fa.jpg"
+                    xlink:label="Medium"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6009/5933379493_53acf573fa_z.jpg"
+                    xlink:label="Medium 640"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6009/5933379493_53acf573fa_b.jpg"
+                    xlink:label="Large"/>
          </daogrp>
       </did>
       <bioghist>
@@ -77,7 +99,8 @@
          <subject>Paper money--Collectors and collecting</subject>
          <subject source="lcsh" authfilenumber="sh85033440">Counterfeits and counterfeiting</subject>
          <persname authfilenumber="http://numismatics.org/authority/bullowa" role="xeac:entity">Bullowa, David M. (David Marks), 1912-1953</persname>
-         <persname authfilenumber="http://numismatics.org/authority/wood_howland" role="xeac:entity">Wood, Howland, 1877-1938</persname>
+         <persname authfilenumber="http://numismatics.org/authority/wood_howland"
+                   role="xeac:entity">Wood, Howland, 1877-1938</persname>
          <persname>Bullowa, Catherine</persname>
          <genreform authfilenumber="300026914" source="aat">Correspondence</genreform>
          <genreform source="aat" authfilenumber="300264354">Notebooks</genreform>

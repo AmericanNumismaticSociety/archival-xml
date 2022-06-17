@@ -1,4 +1,9 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0040">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+     id="nnan0040">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0040</eadid>
       <filedesc>
@@ -40,12 +45,30 @@
             <daodesc>
                <p>An envelope containing a 1902 letter from M.J. Friedman of Chicago to S.H. &amp; H. Chapman </p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6123/5933434981_1f6f9971a8_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6123/5933434981_1f6f9971a8_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6123/5933434981_1f6f9971a8_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6123/5933434981_1f6f9971a8.jpg"
+                    xlink:label="Medium"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6123/5933434981_1f6f9971a8_z.jpg"
+                    xlink:label="Medium 640"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6123/5933434981_1f6f9971a8_b.jpg"
+                    xlink:label="Large"/>
          </daogrp>
       </did>
-        <separatedmaterial>
-            
-        
-        <head>Separated Material</head><p>Coins and currency removed to curatorial: James Hood, five Confederate notes (0000.999.57581-57585); D. Meekins, Jr., Confederate note (counterfeit) (0000.999.57586);  C. Wilson, Hong Kong coin (0000.999.57587); Jesse C. Green, three fractional currency (0000.999.57578-57580).</p></separatedmaterial>
+      <separatedmaterial>
+         <head>Separated Material</head>
+         <p>Coins and currency removed to curatorial: James Hood, five Confederate notes (0000.999.57581-57585); D. Meekins, Jr., Confederate note (counterfeit) (0000.999.57586);  C. Wilson, Hong Kong coin (0000.999.57587); Jesse C. Green, three fractional currency (0000.999.57578-57580).</p>
+      </separatedmaterial>
       <bioghist>
          <head>Biographical Note</head>
          <p>Brothers Henry Chapman (1859-1935) and S.H. (Samuel Hudson) Chapman (1857-1931) of Philadelphia began collecting stamps and other items by the age of ten. Educated in the Friends

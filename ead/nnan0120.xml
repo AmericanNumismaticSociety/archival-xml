@@ -1,4 +1,9 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" id="nnan0120" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     id="nnan0120"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader langencoding="iso639-2b">
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0120</eadid>
       <filedesc>
@@ -42,6 +47,33 @@
             <daodesc>
                <p>Letter to Raymond H. Williamson from Stuart Mosher regarding Walter H. Breen, 1949</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7268/7677899072_88e988f337_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7268/7677899072_88e988f337_q.jpg"
+                    xlink:label="Large Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7268/7677899072_88e988f337_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7268/7677899072_88e988f337_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7268/7677899072_88e988f337_n.jpg"
+                    xlink:label="Small 320"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7268/7677899072_88e988f337.jpg"
+                    xlink:label="Medium"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7268/7677899072_88e988f337_z.jpg"
+                    xlink:label="Medium 640"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7268/7677899072_88e988f337_c.jpg"
+                    xlink:label="Medium 800"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7268/7677899072_88e988f337_b.jpg"
+                    xlink:label="Large"/>
          </daogrp>
       </did>
       <controlaccess>

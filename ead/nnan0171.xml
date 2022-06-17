@@ -1,72 +1,73 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-    <eadheader langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-nnan">nnan0171</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Peace Medal correspondence and photographs, 1915-1933</titleproper>
-                <author>Jared Goldfarb</author>
-            </titlestmt>
-            <publicationstmt>
-                <date normal="2022-05-10">May 10, 2022</date>
-                <address>
-                    <addressline>American Numismatic Society Archives</addressline>
-                    <addressline>75 Varick Street, 11th floor</addressline>
-                    <addressline>New York, NY 10013</addressline>
-                </address>
-                <publisher>ANS Archives</publisher>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>Finding aid created with EADitor by user dhill.</creation>
-            <langusage>Finding aid written in English</langusage>
-        </profiledesc>
-    </eadheader>
-    <frontmatter/>
-    <archdesc level="collection">
-        <did>
-            <head>Descriptive Summary</head>
-            <unittitle>Peace Medals in the Early United States</unittitle>
-            <abstract>Photographs, correspondence, typed lists, a bibliography, and an auction catalog relating to Peace medals.</abstract>
-            <physloc>Archives</physloc>
-            <physdesc>
-                <extent>1 folder</extent>
-            </physdesc>
-            <langmaterial>
-                <language langcode="eng">English</language>
-            </langmaterial>
-            <origination><corpname>ANS</corpname>
-                
-            </origination>
-            <unitdate normal="1915/1933" type="inclusive">1915 - 1933</unitdate>
-            <repository>American Numismatic Society</repository>
-        </did>
-        <scopecontent>
-            <p>Contains: a “List of References of Indian Peace Medals”; a photograph of an “Indian Gorget in possession of the Historical Society of Penn.”; two photographs of a George Washington Indian Peace Medal dated 1795; a photograph of a 1789 Indian Peace Medal; two photographs of the front and back of a 1792 George Washington Indian Peace Medal; a photograph of three medals, front and back, from 1796 commemorating the “Second Presidency of George Washington”;
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b">
+      <eadid countrycode="US" mainagencycode="US-nnan">nnan0171</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Peace Medal correspondence and photographs, 1915-1933</titleproper>
+            <author>Jared Goldfarb</author>
+         </titlestmt>
+         <publicationstmt>
+            <date normal="2022-05-10">May 10, 2022</date>
+            <address>
+               <addressline>American Numismatic Society Archives</addressline>
+               <addressline>75 Varick Street, 11th floor</addressline>
+               <addressline>New York, NY 10013</addressline>
+            </address>
+            <publisher>ANS Archives</publisher>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid created with EADitor by user dhill.</creation>
+         <langusage>Finding aid written in English</langusage>
+      </profiledesc>
+   </eadheader>
+   <frontmatter/>
+   <archdesc level="collection">
+      <did>
+         <head>Descriptive Summary</head>
+         <unittitle>Peace Medals in the Early United States</unittitle>
+         <abstract>Photographs, correspondence, typed lists, a bibliography, and an auction catalog relating to Peace medals.</abstract>
+         <physloc>Archives</physloc>
+         <physdesc>
+            <extent>1 folder</extent>
+         </physdesc>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <origination>
+            <corpname>ANS</corpname>
+         </origination>
+         <unitdate normal="1915/1933" type="inclusive">1915 - 1933</unitdate>
+         <repository>American Numismatic Society</repository>
+      </did>
+      <scopecontent>
+         <p>Contains: a “List of References of Indian Peace Medals”; a photograph of an “Indian Gorget in possession of the Historical Society of Penn.”; two photographs of a George Washington Indian Peace Medal dated 1795; a photograph of a 1789 Indian Peace Medal; two photographs of the front and back of a 1792 George Washington Indian Peace Medal; a photograph of three medals, front and back, from 1796 commemorating the “Second Presidency of George Washington”;
 two photographs of Indian Peace medal reverses (no date); one photograph of the front of a George Washington Indian Peace medal dated 1793; a letter from the office of the director at the Metropolitan Museum of Art to the Museum of the American Indian; a letter from Wayte Raymond to Sydney Noe, dated April 20, 1933 with a picture of an “early American Indian medal” (a 1793, George Washington Indian Peace medal); ten pages of a foolscap list of 35 Indian Peace medals in which each medal is dated and a description of the obverse and reverse surfaces are given and in some cases an account of why it was struck. There are three letters from Henry Chapman to Howland Wood dated November 29, December 21 and December 25, 1915 in which Chapman discusses an Indian Peace Medal (1789) being offered at auction that Wood apparently wants to obtain. In the letters Mr. Chapman mentions that he is sending photographs of the medal. Includes a catalog of the “Collection of American Colonial and State Coins, United States Coins and Foreign Coins the property of Clarence S. Bement” to be sold at auction of May 29, 1916, containing a 1789 Indian Peace medal, and a rubbing of a “Union Fur Company Medal” 1844 that has the words “Peace” and “Friendship” on one side. </p>
-        </scopecontent>
-        <controlaccess>
-            <subject>Peace Medals</subject>
-            <subject>Indian peace medals</subject>
-            <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
-        <genreform>Photographs</genreform>
-        </controlaccess>
-        <bioghist>
-            <head>Historical Note</head>
-            <p>The earliest Peace Medals issued by the United States government are dated 1789, the year of George Washington’s inauguration, and include the inscription G. WASHINGTON. PRESIDENT. During the colonization of America, European nations issued the earliest peace medals to build alliances and negotiate with tribes, and these date as far back as the seventeenth century. Medals were given to North American Indians by the British, French, and Spanish in the eighteenth century as sentiments of peace, often in conjunction with national flags and other gifts. Medals were also used by European nations to curry favor and secure military alliances with tribes during wartime.</p>
-        </bioghist>
-        
-        <accessrestrict>
-            <head>Access</head>
-            <p>Collection open to all researchers.</p>
-        </accessrestrict>
-        
-        <prefercite>
-            <head>Preferred Citation</head>
-            <p>Peace Medal correspondence and photographs, 1915-1933, Archives, American Numismatic Society.</p>
-        </prefercite>
-        <userestrict>
-            <head>Restrictions</head>
-            <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
-        </userestrict>
-    </archdesc>
+      </scopecontent>
+      <controlaccess>
+         <subject>Peace Medals</subject>
+         <subject>Indian peace medals</subject>
+         <genreform authfilenumber="300026877" source="aat">correspondence</genreform>
+         <genreform>Photographs</genreform>
+      </controlaccess>
+      <bioghist>
+         <head>Historical Note</head>
+         <p>The earliest Peace Medals issued by the United States government are dated 1789, the year of George Washington’s inauguration, and include the inscription G. WASHINGTON. PRESIDENT. During the colonization of America, European nations issued the earliest peace medals to build alliances and negotiate with tribes, and these date as far back as the seventeenth century. Medals were given to North American Indians by the British, French, and Spanish in the eighteenth century as sentiments of peace, often in conjunction with national flags and other gifts. Medals were also used by European nations to curry favor and secure military alliances with tribes during wartime.</p>
+      </bioghist>
+      <accessrestrict>
+         <head>Access</head>
+         <p>Collection open to all researchers.</p>
+      </accessrestrict>
+      <prefercite>
+         <head>Preferred Citation</head>
+         <p>Peace Medal correspondence and photographs, 1915-1933, Archives, American Numismatic Society.</p>
+      </prefercite>
+      <userestrict>
+         <head>Restrictions</head>
+         <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
+      </userestrict>
+   </archdesc>
 </ead>

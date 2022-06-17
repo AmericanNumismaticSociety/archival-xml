@@ -1,4 +1,9 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" id="nnan0128" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     id="nnan0128"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader langencoding="iso639-2b">
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0128</eadid>
       <filedesc>
@@ -41,6 +46,39 @@
             <daodesc>
                <p>Elvira E. Clain-Stefanelli (1914-2001) and her husband Dr. Vladimir Clain-Stefanelli (1914-1982)</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7381/9773270843_b6ec13c27c_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7381/9773270843_b6ec13c27c_q.jpg"
+                    xlink:label="Large Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7381/9773270843_b6ec13c27c_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7381/9773270843_b6ec13c27c_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7381/9773270843_b6ec13c27c_n.jpg"
+                    xlink:label="Small 320"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7381/9773270843_b6ec13c27c.jpg"
+                    xlink:label="Medium"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7381/9773270843_b6ec13c27c_z.jpg"
+                    xlink:label="Medium 640"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7381/9773270843_b6ec13c27c_c.jpg"
+                    xlink:label="Medium 800"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7381/9773270843_b6ec13c27c_b.jpg"
+                    xlink:label="Large"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7381/9773270843_a26f1b9e77_h.jpg"
+                    xlink:label="Large 1600"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7381/9773270843_2f38320160_o.jpg"
+                    xlink:label="Original"/>
          </daogrp>
       </did>
       <bibliography>

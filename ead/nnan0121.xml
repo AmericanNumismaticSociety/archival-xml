@@ -1,4 +1,9 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" id="nnan0121" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     id="nnan0121"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader langencoding="iso639-2b">
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0121</eadid>
       <filedesc>
@@ -34,10 +39,33 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <origination>
-            <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society" role="xeac:entity">American Numismatic Society</corpname>
+            <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society"
+                      role="xeac:entity">American Numismatic Society</corpname>
          </origination>
          <repository>American Numismatic Society</repository>
-         <daogrp/>
+         <daogrp>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_q.jpg"
+                    xlink:label="Large Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_n.jpg"
+                    xlink:label="Small 320"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef.jpg"
+                    xlink:label="Medium"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_f38972f561_o.jpg"
+                    xlink:label="Original"/>
+         </daogrp>
          <note>
             <p>PORTIONS OF THE FINDING AID ARE SUPPRESSED FROM PUBLIC VIEW. ANS staff can log into Staff View for the full record group description.</p>
          </note>
@@ -1773,7 +1801,8 @@ Medallic Art Company.; Meritt, B.D.; Merrymount Press.; Merrymount Press.; Merry
             <scopecontent>
                <p>Consists of files containing biographical materials on individuals with a connection to the American Numismatic Society, including employees, officers, councilors, trustees, fellows, and Huntington and Saltus medal award recipients. The files were started ca. 2005 by the ANS archivist but include copies and some originals of older materials such as obituaries, ANS Newsletter items, ANS Proceedings excerpts, resumes, printed booklets and brochures, ANS membership card photocopies, correspondence (original and photocopies), and biographical materials obtained from colleges and other institutions. Many files contain only one or two items, though some, like the Archer Huntington file, are quite substantial. The Huntington file includes a copy of the book The Remarkable Huntingtons (2004), copies of correspondence from Syracuse University, and copies of legal documents and correspondence (1946-2008) relating to the Hispanic Society of America (HSA) and the legal ownership of Huntington’s coin collection.</p>
             </scopecontent>
-            <c level="otherlevel" otherlevel="Drawer" id="c_45972f87f70ab886f6143503542bb13a" audience="internal">
+            <c level="otherlevel" otherlevel="Drawer" id="c_45972f87f70ab886f6143503542bb13a"
+               audience="internal">
                <did>
                   <unittitle>Drawer 1</unittitle>
                </did>
@@ -1783,7 +1812,8 @@ Medallic Art Company.; Meritt, B.D.; Merrymount Press.; Merrymount Press.; Merry
 Arnold-Biucchi, Carmen; Avery, Samuel Putnam; Bacharach, Jere L.; Badal, Charles; [Bailey – card: out since 2007]; Balog, Paul; Bass, Harry W.; Bates, Michael; Batista, Helder; Beach, H. (Harry) Prescott; Beatty, W. Gedney; Belden, Bauman L.; Bellinger, Alfred R.; Berghaus, Peter; Bergmann, Johanna; Betts, Benjamin; Bischoff, William L.; Blunt, C.E.; Bonous-Smit, Barbara; Bowersock, Glen W.; Boyce, Aline Abaecherli; Brady, Marion; Brady, Jeremiah D.; [Bramhall – card: out since 2007]; Bransbourg, Gilles; Breaden, Richard P.; Brenner, Victor David; Brett, Agnes Baldwin; Brooks, Kay M.; Bruun, Patrick; Buttrey, Theodore V.; Cahn, Herbert Adolph; Campbell, Francis D.; Canfield, Frederick A.; Carter, Candace; Carter, Elizabeth B.; Carter, Martha; Chapman Brothers: Chapman, Henry, 1859-1935; Chapman, S.H. (Samuel Hudson); Clapp, George H.; Clark, William L.; Cohen, Stephanie; Coleman, Alan B.; Comparette, T. Louis; Cook, John; Cooper-Prichard, Arthur Henry; Coronis, Persy; Cuhaj, George S.; D’Ambrosio, Margaret; Davenport, John; Davidson, Anne; Daub, Eugene; Deak, Frank; DeGennaro, Theodore; Dewing, Arthur S.; DiBiase, Michael V.; Dolley, Michael; Donnelly, Florence; Doty, Richard G.; Drowne, Henry Russell; Dunscomb, S. Whitney; Edlow, Kenneth L.; Eidlitz, Robert J.; Elam, Leslie A.; Eldada, Katherina H.; Elinson, Sande; Fagerlie, Joan M.; Falls, DeWitt Clinton; Field, William B. Osgood; Finke, Leonda; Ford, John J.; Fowler, Harry W.; Franke, Peter Robert; Fraser, James Earle; Fried, Sally; Fultz, Tamara; Gallatin, Albert; Ganz, David L.; Garrett, John Work; Gillilland, Cory; Glassmeyer, Edward; Göbl, Bernd; Greenfieldt, John; Greenstein, Roxanne; Gillingham, Harrold Edgar; Grierson, Philip; Grove, Edward R.; Grunthal, Henry; Gupta, Parmeshwari Lal; Hanson, Elsworth T.; Harcuba, Jiři̕; Heath, Sebastian; Hersh, Charles Austin; Hightower, Catherine; Hirshon, Leanore; Hoge, Robert; Hoover, Oliver D.; Hornsby, Roger A.; Houghton, Arthur; Houston, Rose Chan; Huntington, Archer M.</p>
                </scopecontent>
             </c>
-            <c level="otherlevel" otherlevel="Drawer" id="c_54d6218777f0605a359f775323d69b80" audience="internal">
+            <c level="otherlevel" otherlevel="Drawer" id="c_54d6218777f0605a359f775323d69b80"
+               audience="internal">
                <did>
                   <unittitle>Drawer 2</unittitle>
                </did>

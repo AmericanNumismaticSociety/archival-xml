@@ -1,4 +1,9 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0107">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+     id="nnan0107">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0107</eadid>
       <filedesc>
@@ -31,7 +36,8 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <origination>
-            <persname authfilenumber="http://numismatics.org/authority/wood_howland" role="xeac:entity">Wood, Howland, 1877-1938</persname>
+            <persname authfilenumber="http://numismatics.org/authority/wood_howland"
+                      role="xeac:entity">Wood, Howland, 1877-1938</persname>
          </origination>
          <unitdate type="inclusive" normal="1873/1938">1873, 1902-1938</unitdate>
          <repository>American Numismatic Society</repository>
@@ -43,6 +49,24 @@
                <p>Part of a cartoon caricature lampooning Virgil Brand, Thomas Elder, and other prominent numismatic figures circa 1912
 </p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6053/6283660513_727bac6ffc_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6053/6283660513_727bac6ffc_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6053/6283660513_727bac6ffc_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6053/6283660513_727bac6ffc.jpg"
+                    xlink:label="Medium"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6053/6283660513_727bac6ffc_z.jpg"
+                    xlink:label="Medium 640"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6053/6283660513_727bac6ffc_b.jpg"
+                    xlink:label="Large"/>
          </daogrp>
       </did>
       <bioghist>
@@ -78,7 +102,8 @@
          <subject source="lcsh" authfilenumber="sh85088712">Museum curators</subject>
          <subject>Coins, Chinese--Collectors and collecting</subject>
          <subject>Coins, Far Eastern--Collectors and collecting</subject>
-         <persname authfilenumber="http://numismatics.org/authority/wood_howland" role="xeac:entity">Wood, Howland, 1877-1938</persname>
+         <persname authfilenumber="http://numismatics.org/authority/wood_howland"
+                   role="xeac:entity">Wood, Howland, 1877-1938</persname>
          <persname>Heal, S.S.</persname>
          <persname authfilenumber="http://numismatics.org/authority/low" role="xeac:entity">Low, Lyman Haynes, 1844-1924</persname>
          <persname authfilenumber="89386855" source="viaf">Ros, Giuseppe</persname>
@@ -96,7 +121,8 @@
          <persname>Heath, George Francis, 1850-1908</persname>
          <persname>Comparette, T. Louis (Thomas Louis), 1868-1922</persname>
          <persname authfilenumber="http://numismatics.org/authority/zerbe" role="xeac:entity">Zerbe, Farran, 1871-1949</persname>
-         <persname authfilenumber="http://numismatics.org/authority/adams_edgar" role="xeac:entity">Adams, Edgar H. (Edgar Holmes), 1868-1940</persname>
+         <persname authfilenumber="http://numismatics.org/authority/adams_edgar"
+                   role="xeac:entity">Adams, Edgar H. (Edgar Holmes), 1868-1940</persname>
          <persname authfilenumber="http://numismatics.org/authority/elder" role="xeac:entity">Elder, Thomas L. (Thomas Lindsey), 1874-1948</persname>
          <persname>Higgins, Frank C. (Francis Carlos), 1867-1928</persname>
          <persname authfilenumber="91219339" source="viaf">Chapman, Henry, 1859-1935</persname>
@@ -107,7 +133,8 @@
          <corpname authfilenumber="134857252" source="viaf">British Museum</corpname>
          <corpname authfilenumber="140200406" source="viaf">Museum of Fine Arts, Boston</corpname>
          <corpname authfilenumber="136013212" source="viaf">Royal Numismatic Society (Great Britain)</corpname>
-         <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society" role="xeac:entity">American Numismatic Society</corpname>
+         <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society"
+                   role="xeac:entity">American Numismatic Society</corpname>
          <corpname authfilenumber="168422392" source="viaf">Baldwin’s Auctions Ltd.</corpname>
          <genreform source="aat" authfilenumber="300026877">Correspondence</genreform>
          <genreform authfilenumber="300026671" source="aat">Speeches</genreform>

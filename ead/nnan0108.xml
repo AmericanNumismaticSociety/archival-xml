@@ -1,4 +1,9 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0108">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+     id="nnan0108">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0108</eadid>
       <filedesc>
@@ -31,7 +36,8 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <origination>
-            <persname authfilenumber="http://numismatics.org/authority/wood_howland" role="xeac:entity">Wood, Howland, 1877-1938</persname>
+            <persname authfilenumber="http://numismatics.org/authority/wood_howland"
+                      role="xeac:entity">Wood, Howland, 1877-1938</persname>
          </origination>
          <unitdate normal="1913/1917" type="inclusive">1913-1937</unitdate>
          <repository>American Numismatic Society</repository>
@@ -42,6 +48,18 @@
             <daodesc>
                <p>Howland Wood</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6060/6284351056_e24ae8b771_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6060/6284351056_e24ae8b771_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6060/6284351056_e24ae8b771_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6060/6284351056_e24ae8b771.jpg"
+                    xlink:label="Medium"/>
          </daogrp>
       </did>
       <bioghist>
@@ -77,7 +95,8 @@
          <subject>Coins--Collectors and collecting</subject>
          <subject>Medals--Collectors and collecting</subject>
          <subject>Coins, Far Eastern--Collectors and collecting</subject>
-         <persname authfilenumber="http://numismatics.org/authority/wood_howland" role="xeac:entity">Wood, Howland, 1877-1938</persname>
+         <persname authfilenumber="http://numismatics.org/authority/wood_howland"
+                   role="xeac:entity">Wood, Howland, 1877-1938</persname>
          <persname authfilenumber="http://numismatics.org/authority/zabriskie" role="xeac:entity">Zabriskie, Andrew C. (Andrew Christian), 1853-1916</persname>
          <persname authfilenumber="18394487" source="viaf">Morgan, J. P. (John Pierpont), 1867-1943</persname>
          <persname authfilenumber="http://numismatics.org/authority/robertson" role="xeac:entity">Robertson, Robert, 1869-1937</persname>
@@ -88,7 +107,8 @@
          <persname authfilenumber="55604642" source="viaf">Canfield, Frederick A. (Frederick Alexander), 1849-1926</persname>
          <corpname authfilenumber="126658221" source="viaf">New Jersey Historical Society</corpname>
          <corpname>American Journal of Numismatics</corpname>
-         <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society" role="xeac:entity">American Numismatic Society</corpname>
+         <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society"
+                   role="xeac:entity">American Numismatic Society</corpname>
          <corpname authfilenumber="131496305" source="viaf">D.O. Mills &amp; Co. (Sacramento, Calif.)</corpname>
          <genreform source="aat" authfilenumber="300103035">Rubbings (Visual works)</genreform>
          <genreform source="aat" authfilenumber="300026877">Correspondence</genreform>

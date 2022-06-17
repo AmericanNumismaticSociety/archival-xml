@@ -1,4 +1,9 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0103">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+     id="nnan0103">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0103</eadid>
       <filedesc>
@@ -31,7 +36,8 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <origination>
-            <corpname authfilenumber="http://numismatics.org/authority/united_states_dept_of_the_treasury" role="xeac:entity">United States. Dept. of the Treasury</corpname>
+            <corpname authfilenumber="http://numismatics.org/authority/united_states_dept_of_the_treasury"
+                      role="xeac:entity">United States. Dept. of the Treasury</corpname>
          </origination>
          <unitdate normal="1875/1961" type="inclusive">1875-1961</unitdate>
          <repository>American Numismatic Society</repository>
@@ -42,6 +48,18 @@
             <daodesc>
                <p>Part of a page from a book of reports on the printing of 50 cent fractional currency</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6235/6307103522_86c163faa4_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6235/6307103522_86c163faa4_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6235/6307103522_86c163faa4_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6235/6307103522_86c163faa4.jpg"
+                    xlink:label="Medium"/>
          </daogrp>
       </did>
       <bioghist>
@@ -78,7 +96,8 @@
          <genreform source="aat" authfilenumber="300027496">Ledgers (Account books)</genreform>
          <genreform source="aat" authfilenumber="300311670">Booklets</genreform>
          <genreform source="aat" authfilenumber="300141693">Business records</genreform>
-         <corpname authfilenumber="http://numismatics.org/authority/united_states_dept_of_the_treasury" role="xeac:entity">United States. Dept. of the Treasury</corpname>
+         <corpname authfilenumber="http://numismatics.org/authority/united_states_dept_of_the_treasury"
+                   role="xeac:entity">United States. Dept. of the Treasury</corpname>
       </controlaccess>
       <scopecontent>
          <head>Scope and Content Note</head>

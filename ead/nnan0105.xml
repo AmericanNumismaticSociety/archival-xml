@@ -1,4 +1,9 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0105">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+     id="nnan0105">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0105</eadid>
       <filedesc>
@@ -42,6 +47,21 @@
             <daodesc>
                <p>From the title page of one of the scrapbooks</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6100/6311784737_0a1c2b1888_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6100/6311784737_0a1c2b1888_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6100/6311784737_0a1c2b1888_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6100/6311784737_0a1c2b1888.jpg"
+                    xlink:label="Medium"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6100/6311784737_0a1c2b1888_z.jpg"
+                    xlink:label="Medium 640"/>
          </daogrp>
       </did>
       <bioghist>
@@ -73,7 +93,8 @@
          <subject>Silver coins--Sri Lanka</subject>
          <persname authfilenumber="http://numismatics.org/authority/wood_casey" role="xeac:entity">Wood, Casey A. (Casey Albert), 1856-1942</persname>
          <persname authfilenumber="http://numismatics.org/authority/noe" role="xeac:entity">Noe, Sydney P. (Sydney Philip), 1885-1969</persname>
-         <persname authfilenumber="http://numismatics.org/authority/wood_howland" role="xeac:entity">Wood, Howland, 1877-1938</persname>
+         <persname authfilenumber="http://numismatics.org/authority/wood_howland"
+                   role="xeac:entity">Wood, Howland, 1877-1938</persname>
          <persname>Allan, John</persname>
          <genreform authfilenumber="300028577" source="aat">Typescripts</genreform>
          <genreform source="aat" authfilenumber="300256200">Grey literature</genreform>

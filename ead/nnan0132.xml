@@ -1,4 +1,9 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" id="nnan0132" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     id="nnan0132"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader langencoding="iso639-2b">
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0132</eadid>
       <filedesc>
@@ -34,11 +39,34 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <origination>
-            <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society" role="xeac:entity">American Numismatic Society</corpname>
+            <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society"
+                      role="xeac:entity">American Numismatic Society</corpname>
          </origination>
          <unitdate normal="1859/2999">1859-ongoing</unitdate>
          <repository>American Numismatic Society</repository>
-         <daogrp/>
+         <daogrp>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_q.jpg"
+                    xlink:label="Large Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_n.jpg"
+                    xlink:label="Small 320"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef.jpg"
+                    xlink:label="Medium"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_f38972f561_o.jpg"
+                    xlink:label="Original"/>
+         </daogrp>
          <note>
             <p>PORTIONS OF THE FINDING AID ARE SUPPRESSED FROM PUBLIC VIEW. ANS staff can log into Staff View for the full record group description.</p>
          </note>
@@ -153,7 +181,8 @@ Geoffrey North (1966-1975); Frank Campbell (1975-2008); Elizabeth Hahn (2008- )
                <persname>Dodd, Charles G., d. 1914</persname>
                <persname authfilenumber="53853657" source="viaf">Dunscomb, S. Whitney (Samuel Whitney), 1868-1936</persname>
                <persname>Weeks, William R. (William Raymond), d. 1918</persname>
-               <persname authfilenumber="http://numismatics.org/authority/cooper-prichard" role="xeac:entity">Cooper-Prichard, Arthur Henry, 1874-1947</persname>
+               <persname authfilenumber="http://numismatics.org/authority/cooper-prichard"
+                         role="xeac:entity">Cooper-Prichard, Arthur Henry, 1874-1947</persname>
                <persname>Savage, Alexander D.</persname>
                <persname authfilenumber="http://numismatics.org/authority/noe" role="xeac:entity">Noe, Sydney P. (Sydney Philip), 1885-1969</persname>
                <genreform authfilenumber="300026877" source="aat">Correspondence</genreform>

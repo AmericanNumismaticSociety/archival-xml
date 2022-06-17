@@ -1,4 +1,9 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" id="nnan0126" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     id="nnan0126"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader langencoding="iso639-2b">
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0126</eadid>
       <filedesc>
@@ -39,6 +44,33 @@
             <daodesc>
                <p>Gutzon Borglum working on the statue of General Philip Sheridan for Sheridan Circle, Washington, D.C., ca. 1908</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm9.staticflickr.com/8496/8411478003_6a7ff38b4f_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm9.staticflickr.com/8496/8411478003_6a7ff38b4f_q.jpg"
+                    xlink:label="Large Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm9.staticflickr.com/8496/8411478003_6a7ff38b4f_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm9.staticflickr.com/8496/8411478003_6a7ff38b4f_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm9.staticflickr.com/8496/8411478003_6a7ff38b4f_n.jpg"
+                    xlink:label="Small 320"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm9.staticflickr.com/8496/8411478003_6a7ff38b4f.jpg"
+                    xlink:label="Medium"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm9.staticflickr.com/8496/8411478003_6a7ff38b4f_z.jpg"
+                    xlink:label="Medium 640"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm9.staticflickr.com/8496/8411478003_6a7ff38b4f_b.jpg"
+                    xlink:label="Large"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm9.staticflickr.com/8496/8411478003_5331fd7277_o.jpg"
+                    xlink:label="Original"/>
          </daogrp>
       </did>
       <processinfo audience="internal">

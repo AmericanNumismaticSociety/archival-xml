@@ -1,4 +1,8 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="nnan0096">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+     id="nnan0096">
    <eadheader>
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0096</eadid>
       <filedesc>
@@ -42,6 +46,24 @@
             <daodesc>
                <p>Part of a ledger page</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6169/6186688426_ac8b9e0777_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6169/6186688426_ac8b9e0777_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6169/6186688426_ac8b9e0777_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6169/6186688426_ac8b9e0777.jpg"
+                    xlink:label="Medium"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6169/6186688426_ac8b9e0777_z.jpg"
+                    xlink:label="Medium 640"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm7.static.flickr.com/6169/6186688426_ac8b9e0777_b.jpg"
+                    xlink:label="Large"/>
          </daogrp>
       </did>
       <bioghist>
@@ -75,7 +97,8 @@
          <genreform source="aat" authfilenumber="300027123">Checklists</genreform>
          <genreform source="aat" authfilenumber="300027496">Ledgers (Account books)</genreform>
          <genreform source="aat" authfilenumber="300027162">Price lists</genreform>
-         <corpname authfilenumber="http://numismatics.org/authority/new_netherlands_coin_co" role="xeac:entity">New Netherlands Coin Co.</corpname>
+         <corpname authfilenumber="http://numismatics.org/authority/new_netherlands_coin_co"
+                   role="xeac:entity">New Netherlands Coin Co.</corpname>
       </controlaccess>
       <scopecontent>
          <head>Scope and Content Note</head>

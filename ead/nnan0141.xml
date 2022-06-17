@@ -1,4 +1,9 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" id="nnan0141" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     id="nnan0141"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader langencoding="iso639-2b">
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0141</eadid>
       <filedesc>
@@ -34,7 +39,8 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <origination>
-            <persname authfilenumber="http://numismatics.org/authority/saint-gaudens" role="xeac:entity">Saint-Gaudens, Augustus, 1848-1907</persname>
+            <persname authfilenumber="http://numismatics.org/authority/saint-gaudens"
+                      role="xeac:entity">Saint-Gaudens, Augustus, 1848-1907</persname>
          </origination>
          <unitdate normal="1906">1906</unitdate>
          <repository>American Numismatic Society</repository>
@@ -42,7 +48,8 @@
       <controlaccess>
          <genreform authfilenumber="300026877" source="aat">Correspondence</genreform>
          <genreform authfilenumber="300027200" source="aat">Notes</genreform>
-         <persname authfilenumber="http://numismatics.org/authority/saint-gaudens" role="xeac:entity">Saint-Gaudens, Augustus, 1848-1907</persname>
+         <persname authfilenumber="http://numismatics.org/authority/saint-gaudens"
+                   role="xeac:entity">Saint-Gaudens, Augustus, 1848-1907</persname>
          <persname authfilenumber="95863638" source="viaf">Saint-Gaudens, Louis, 1854-</persname>
          <persname authfilenumber="96606783" source="viaf">Saint-Gaudens, Annette</persname>
          <persname authfilenumber="75645408" source="viaf">Saint-Gaudens, Paul</persname>

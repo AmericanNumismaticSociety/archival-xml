@@ -1,74 +1,73 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-    <eadheader langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-nnan">nnan0168</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Mrs. M.W. Sterling’s documents donated to Bauman L. Belden</titleproper>
-                <author>Jared Goldfarb</author>
-            </titlestmt>
-            <publicationstmt>
-                <date normal="2021-12-20">December 20, 2021</date>
-                <address>
-                    <addressline>American Numismatic Society Archives</addressline>
-                    <addressline>75 Varick Street, 11th floor</addressline>
-                    <addressline>New York, NY 10013</addressline>
-                </address>
-                <publisher>ANS Archives</publisher>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>Finding aid created with EADitor by user jgoldfarbl.</creation>
-            <langusage>Finding aid written in English</langusage>
-        </profiledesc>
-    </eadheader>
-    <frontmatter/>
-    <archdesc level="collection">
-        <did>
-            <head>Descriptive Summary</head>
-            <unittitle>Mrs. M.W. Sterling’s documents donated to Bauman L. Belden</unittitle>
-            <abstract>Documents sent by M.W. Sterling to Bauman L. Belden</abstract>
-            <physloc>Rare Book - Pamphlet - Archives 2</physloc>
-            <physdesc>
-                <extent>1 Folder</extent>
-            </physdesc>
-            <langmaterial>
-                <language langcode="eng">English</language>
-            </langmaterial>
-            <origination>
-                
-                
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b">
+      <eadid countrycode="US" mainagencycode="US-nnan">nnan0168</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Mrs. M.W. Sterling’s documents donated to Bauman L. Belden</titleproper>
+            <author>Jared Goldfarb</author>
+         </titlestmt>
+         <publicationstmt>
+            <date normal="2021-12-20">December 20, 2021</date>
+            <address>
+               <addressline>American Numismatic Society Archives</addressline>
+               <addressline>75 Varick Street, 11th floor</addressline>
+               <addressline>New York, NY 10013</addressline>
+            </address>
+            <publisher>ANS Archives</publisher>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid created with EADitor by user jgoldfarbl.</creation>
+         <langusage>Finding aid written in English</langusage>
+      </profiledesc>
+   </eadheader>
+   <frontmatter/>
+   <archdesc level="collection">
+      <did>
+         <head>Descriptive Summary</head>
+         <unittitle>Mrs. M.W. Sterling’s documents donated to Bauman L. Belden</unittitle>
+         <abstract>Documents sent by M.W. Sterling to Bauman L. Belden</abstract>
+         <physloc>Rare Book - Pamphlet - Archives 2</physloc>
+         <physdesc>
+            <extent>1 Folder</extent>
+         </physdesc>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <origination>
             <persname>Sterling, M. W.</persname>
-            </origination>
-            <unitdate type="inclusive" normal="1800/1899">1800 - 1899</unitdate>
-            <repository>American Numismatic Society</repository>
-        </did>
-        <controlaccess>
-            
-            
-            <subject>Clippings (Books, newspapers, etc.)</subject>
-        <persname authfilenumber="http://numismatics.org/authority/beldon" role="xeac:entity">Belden, Bauman L. (Bauman Lowe), 1862-1931</persname>
-            <persname>Sterling, M. W.</persname>
-        <genreform authfilenumber="300026867" source="aat">clippings (information artifacts)</genreform></controlaccess>
-        <scopecontent>
-            <p>Eleven documents including newspaper clippings and handwritten notes that probably date between the early and late nineteenth century.  One newspaper article dated from August 29, 1829 mentions medals presented to surviving seamen for heroic service aboard the British ship Beaufort Castle, which was wrecked in the Atlantic Ocean on October 8, 1828.  This article would have been of interest to Belden since he was working on a project involving life saving medals at the time of his death.  Another (undated) article, entitled “Old America Coins,” describes nine pre-colonial American copper coins.</p>
-        </scopecontent>
-        <bioghist>
-            <head>Biographical Note</head>
-            <p>Bauman L. Belden (1862-1931) of Cranford, New Jersey, served the American Numismatic Society as librarian (1891-1896), secretary (1896-1903, 1905-1916), director (1909-1915), and council member (1906-1928). He sat on several Society committees, including the Committee on Indian Peace Medals, which he chaired. He was the author of Medals and Publications of the American Numismatic Society (1915), Indian Peace Medals Issued in the United States (1927), and A Mint in New York (1930). He was a member of the American Numismatic Association and was active in the New York Numismatic Club. At the time of his death he was working on a project involving life saving medals.</p>
-        </bioghist>
-        <acqinfo>
-            <head>Provenance</head>
-            <p>The documents were compiled by Mrs. M.W. Sterling and sent from Detroit.</p>
-        </acqinfo>
-        <accessrestrict>
-            <head>Access</head>
-            <p>Collection open to all researchers.</p>
-        </accessrestrict>
-        
-        
-        <userestrict>
-            <head>Restrictions</head>
-            <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
-        </userestrict>
-    </archdesc>
+         </origination>
+         <unitdate type="inclusive" normal="1800/1899">1800 - 1899</unitdate>
+         <repository>American Numismatic Society</repository>
+      </did>
+      <controlaccess>
+         <subject>Clippings (Books, newspapers, etc.)</subject>
+         <persname authfilenumber="http://numismatics.org/authority/beldon" role="xeac:entity">Belden, Bauman L. (Bauman Lowe), 1862-1931</persname>
+         <persname>Sterling, M. W.</persname>
+         <genreform authfilenumber="300026867" source="aat">clippings (information artifacts)</genreform>
+      </controlaccess>
+      <scopecontent>
+         <p>Eleven documents including newspaper clippings and handwritten notes that probably date between the early and late nineteenth century.  One newspaper article dated from August 29, 1829 mentions medals presented to surviving seamen for heroic service aboard the British ship Beaufort Castle, which was wrecked in the Atlantic Ocean on October 8, 1828.  This article would have been of interest to Belden since he was working on a project involving life saving medals at the time of his death.  Another (undated) article, entitled “Old America Coins,” describes nine pre-colonial American copper coins.</p>
+      </scopecontent>
+      <bioghist>
+         <head>Biographical Note</head>
+         <p>Bauman L. Belden (1862-1931) of Cranford, New Jersey, served the American Numismatic Society as librarian (1891-1896), secretary (1896-1903, 1905-1916), director (1909-1915), and council member (1906-1928). He sat on several Society committees, including the Committee on Indian Peace Medals, which he chaired. He was the author of Medals and Publications of the American Numismatic Society (1915), Indian Peace Medals Issued in the United States (1927), and A Mint in New York (1930). He was a member of the American Numismatic Association and was active in the New York Numismatic Club. At the time of his death he was working on a project involving life saving medals.</p>
+      </bioghist>
+      <acqinfo>
+         <head>Provenance</head>
+         <p>The documents were compiled by Mrs. M.W. Sterling and sent from Detroit.</p>
+      </acqinfo>
+      <accessrestrict>
+         <head>Access</head>
+         <p>Collection open to all researchers.</p>
+      </accessrestrict>
+      <userestrict>
+         <head>Restrictions</head>
+         <p>Copyright restrictions may apply. Permission to publish or reproduce must be secured from the American Numismatic Society.</p>
+      </userestrict>
+   </archdesc>
 </ead>

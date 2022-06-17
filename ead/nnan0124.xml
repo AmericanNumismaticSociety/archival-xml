@@ -1,4 +1,9 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" id="nnan0124" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     id="nnan0124"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader langencoding="iso639-2b">
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0124</eadid>
       <filedesc>
@@ -34,11 +39,34 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <origination>
-            <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society" role="xeac:entity">American Numismatic Society</corpname>
+            <corpname authfilenumber="http://numismatics.org/authority/american_numismatic_society"
+                      role="xeac:entity">American Numismatic Society</corpname>
          </origination>
          <unitdate normal="1858/2999">1858-ongoing</unitdate>
          <repository>American Numismatic Society</repository>
-         <daogrp/>
+         <daogrp>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_q.jpg"
+                    xlink:label="Large Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef_n.jpg"
+                    xlink:label="Small 320"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_9b0a0571ef.jpg"
+                    xlink:label="Medium"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm8.staticflickr.com/7232/7314465768_f38972f561_o.jpg"
+                    xlink:label="Original"/>
+         </daogrp>
          <note>
             <p>PORTIONS OF THE FINDING AID ARE SUPPRESSED FROM PUBLIC VIEW. ANS staff can log into Staff View for the full record group description.</p>
          </note>
@@ -531,7 +559,8 @@
                   </did>
                </c>
             </c>
-            <c level="otherlevel" otherlevel="Box" id="c_90c14043e0982567215a0bb5eed238ef" audience="internal">
+            <c level="otherlevel" otherlevel="Box" id="c_90c14043e0982567215a0bb5eed238ef"
+               audience="internal">
                <did>
                   <unittitle>Box 3 of 3</unittitle>
                </did>

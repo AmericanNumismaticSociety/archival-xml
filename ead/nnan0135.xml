@@ -1,4 +1,8 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="nnan0135" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     id="nnan0135"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
    <eadheader langencoding="iso639-2b">
       <eadid countrycode="US" mainagencycode="US-nnan">nnan0135</eadid>
       <filedesc>
@@ -43,6 +47,36 @@
             <daodesc>
                <p>An entry from the notebook</p>
             </daodesc>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm4.staticflickr.com/3711/10405021763_ce5a4f94f8_s.jpg"
+                    xlink:label="Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm4.staticflickr.com/3711/10405021763_ce5a4f94f8_q.jpg"
+                    xlink:label="Large Square"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm4.staticflickr.com/3711/10405021763_ce5a4f94f8_t.jpg"
+                    xlink:label="Thumbnail"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm4.staticflickr.com/3711/10405021763_ce5a4f94f8_m.jpg"
+                    xlink:label="Small"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm4.staticflickr.com/3711/10405021763_ce5a4f94f8_n.jpg"
+                    xlink:label="Small 320"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm4.staticflickr.com/3711/10405021763_ce5a4f94f8.jpg"
+                    xlink:label="Medium"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm4.staticflickr.com/3711/10405021763_ce5a4f94f8_z.jpg"
+                    xlink:label="Medium 640"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm4.staticflickr.com/3711/10405021763_ce5a4f94f8_c.jpg"
+                    xlink:label="Medium 800"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm4.staticflickr.com/3711/10405021763_ce5a4f94f8_b.jpg"
+                    xlink:label="Large"/>
+            <daoloc xlink:type="locator"
+                    xlink:href="http://farm4.staticflickr.com/3711/10405021763_bfb6f05259_o.jpg"
+                    xlink:label="Original"/>
          </daogrp>
       </did>
       <controlaccess>
