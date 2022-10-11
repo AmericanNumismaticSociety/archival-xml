@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xml:id="shubin.0005">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Michael Shubin collection of engraved gem and seal impressions and photographs, Box 5.</title>
+                <author>
+                    <persName ref="http://numismatics.org/authority/shubin_michael">Shubin, Michael J., 1950-2008</persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>American Numismatic Society</name>
+                    <idno type="URI">http://numismatics.org/authority/american_numismatic_society</idno>
+                </publisher>
+                <pubPlace>New York (N.Y.)</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <title>Michael Shubin collection of engraved gem and seal impressions and photographs, Box 5.</title>
+                        <author>
+                            <persName ref="http://numismatics.org/authority/shubin_michael">Shubin, Michael J., 1950-2008</persName>
+                        </author>
+                        <imprint>
+                            <date from="1970" to="2000">1970-2000</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>The photographs' file names (e.g., 1.4.1.1.B) are numeric and indicate where the impressions can be found in the collection and how they were grouped when they were packed up prior to being recieved at the ANS. The first number indicates the box they are currently in. The second number refers to the group in which they were originally received. The third number indicates the container within the group. The fourth is the photograph number of the impressions in the container. The letters A and B are used to indicate fronts and backs of impressions and their supporting documentation. When there was nothing on the backs, there is no B photograph, and this is indicated by an X.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p>Photographs taken at the American Numismatic Society in July 2022 of the gem and seal impressions made by the collector Michael Shubin. The items were photographed and stored as they had been grouped prior to their receipt by the ANS. This is box 5 of 5 boxes containing impressions. The other boxes in the Shubin collection contain his own photographs (including negatives and slides)--many of them done for the catalogs of Malter Galleries--of seals, gems, and various other artifacts as well as some papers and other materials.</p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://vocab.getty.edu/aat/">300417667</classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2022-10-11">Generated TEI document from spreadsheet created by ANS Librarian, David Hill.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:id="shubin.5.1.1.1.A.X" style="depiction">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.1.1.1.A.X.jpg" n="19 impressions" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.1.1.2.A">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.1.1.2.A.jpg" n="13 impressions (fronts)" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.1.1.2.B">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.1.1.2.B.jpg" n="13 impressions (backs)" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.1.2.1.A.X">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.1.2.1.A.X.jpg" n="50 impressions" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.2.1.1.A.X">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.2.1.1.A.X.jpg" n="38 impressions" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.3.1.1.A.X">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.3.1.1.A.X.jpg" n="8 impressions" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.4.1.1.A">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.4.1.1.A.jpg" n="45 impressions (fronts)" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.4.1.1.B">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.4.1.1.B.jpg" n="45 impressions (backs)" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.4.2.1.A">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.4.2.1.A.jpg" n="34 impressions (fronts)" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.4.2.1.B">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.4.2.1.B.jpg" n="34 impressions (backs)" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.5.1.1.A.X">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.5.1.1.A.X.jpg" n="2 gem holders" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.6.1.1.A.X">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.6.1.1.A.X.jpg" n="36 impressions" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.6.2.1.A.X">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.6.2.1.A.X.jpg" n="16 impressions" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.7.1.1.A.X">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.7.1.1.A.X.jpg" n="4 impressions" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.8.1.1.A.X">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.8.1.1.A.X.jpg" n="1 impression" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.9.1.1.A.X">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.9.1.1.A.X.jpg" n="12 impressions" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.10.1.1.A">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.10.1.1.A.jpg" n="70 impressions (fronts)" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.10.1.1.B">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.10.1.1.B.jpg" n="70 impressions (backs)" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.11.1.1.A">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.11.1.1.A.jpg" n="5 impressions (fronts)" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.11.1.1.B">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.11.1.1.B.jpg" n="5 impressions (backs)" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.12.1.1.A">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.12.1.1.A.jpg" n="39 impressions (fronts)" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+    <facsimile xml:id="shubin.5.12.1.1.B">
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Fshubin.5.12.1.1.B.jpg" n="39 impressions (backs)" mimeType="image/jpeg" type="IIIFService" height="4000px" width="3000px"/>
+    </facsimile>
+</TEI>
