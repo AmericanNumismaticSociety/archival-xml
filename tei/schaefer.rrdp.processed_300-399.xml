@@ -232,6 +232,7 @@
                     <term ref="http://numismatics.org/crro/id/rrc-342.1" facs="#schaefer_clippings_output_342_01_od">RRC 342/1</term>
                     <term ref="http://numismatics.org/crro/id/rrc-342.1" facs="#schaefer_clippings_output_342_04_sd">RRC 342/1</term>
                     <term ref="http://numismatics.org/crro/id/rrc-342.2" facs="#schaefer_clippings_output_342_04_sd">RRC 342/2</term>
+                    <term ref="http://numismatics.org/crro/id/rrc-342.3a" facs="#schaefer_clippings_output_342-2_01_od">RRC 342/3a</term>
                     <term ref="http://numismatics.org/crro/id/rrc-342.3a" facs="#schaefer_clippings_output_342-2_02_od">RRC 342/3a</term>
                     <term ref="http://numismatics.org/crro/id/rrc-342.3b" facs="#schaefer_clippings_output_342-2_02_od">RRC 342/3b</term>
                     <term ref="http://numismatics.org/crro/id/rrc-342.6a" facs="#schaefer_clippings_output_342_04_sd">RRC 342/6a</term>
@@ -1512,6 +1513,9 @@
     </facsimile>
     <facsimile xml:id="schaefer_clippings_output_342_08_sd">
         <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_clippings_output_342_08_sd.jpg" n="342_08_sd" mimeType="image/jpeg" type="IIIFService" height="7319px" width="8235px"/>
+    </facsimile>
+    <facsimile xml:id="schaefer_clippings_output_342-2_01_od">
+        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_clippings_output_342-2_01_od.jpg" n="342-2_01_od" mimeType="image/jpeg" type="IIIFService" height="7319px" width="5175px"/>
     </facsimile>
     <facsimile xml:id="schaefer_clippings_output_342-2_02_od">
         <media url="http://images.numismatics.org/archivesimages%2Farchive%2Fschaefer_clippings_output_342-2_02_od.jpg" n="342-2_02_od" mimeType="image/jpeg" type="IIIFService" height="7319px" width="5175px"/>
