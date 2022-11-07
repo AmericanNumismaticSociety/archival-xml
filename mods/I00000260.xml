@@ -4,10 +4,10 @@
                 xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
    <mods version="3.6">
       <titleInfo>
-         <title>Photograph of Farran Zerbe at the American Numismatic Association Convention</title>
+         <title>Photograph of attendees at the American Numismatic Association Convention, 1910</title>
       </titleInfo>
       <identifier>05-00022</identifier>
-      <abstract>Image shows Farran Zerbe, J.M. Henderson, Frankfurter Duffield and other attendees at the American Numismatic Association convention in 1910. Image taken at the entrance to the Society's Audubon Terrace headquarters building.</abstract>
+      <abstract>Image shows J.M. Henderson, Frankfurter Duffield, Howland Wood, and other attendees at the American Numismatic Association convention in 1910. Image taken at the entrance to the Society's Audubon Terrace headquarters building.</abstract>
       <physicalDescription>
          <internetMediaType>image/jpeg</internetMediaType>
          <digitalOrigin>reformatted digital</digitalOrigin>
@@ -50,8 +50,8 @@
          <geographic valueURI="http://www.geonames.org/7177500">Audubon Terrace (New York, N.Y.)</geographic>
       </subject>
       <subject>
-         <name valueURI="http://numismatics.org/authority/zerbe" type="personal">
-            <namePart>Zerbe, Farran, 1871-1949</namePart>
+         <name valueURI="http://numismatics.org/authority/wood_howland" type="personal">
+            <namePart>Wood, Howland, 1877-1938</namePart>
          </name>
       </subject>
       <subject>
