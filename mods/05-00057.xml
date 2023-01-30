@@ -6,7 +6,7 @@
       <titleInfo>
          <title>Portrait photograph of Archer M. Huntington</title>
       </titleInfo>
-      <identifier>I00000100</identifier>
+      <identifier>05-00057</identifier>
       <physicalDescription>
          <internetMediaType>image/jpeg</internetMediaType>
          <digitalOrigin>reformatted digital</digitalOrigin>
@@ -29,17 +29,17 @@
          </physicalDescription>
       </relatedItem>
       <location>
-         <url access="raw object" note="IIIFService">http://images.numismatics.org/archivesimages%2Farchive%2FI00000100.jpg</url>
-         <url access="preview">http://numismatics.org/archivesimages/thumbnail/I00000100.jpg</url>
-         <url usage="primary display">http://numismatics.org/archivesimages/reference/I00000100.jpg</url>
+         <url access="raw object" note="IIIFService">http://images.numismatics.org/archivesimages%2Farchive%2F05-00057.jpg</url>
+         <url access="preview">http://numismatics.org/archivesimages/thumbnail/05-00057.jpg</url>
+         <url usage="primary display">http://numismatics.org/archivesimages/reference/05-00057.jpg</url>
       </location>
       <accessCondition>In some cases images are owned by repositories other than the American Numismatic Society and require outside permission for use. Additional copyright restrictions may also apply.</accessCondition>
       <note type="preferred_citation">Courtesy of Archives, American Numismatic Society.</note>
       <recordInfo>
          <recordContentSource>American Numismatic Society</recordContentSource>
          <recordCreationDate encoding="iso8601">2012-07-23</recordCreationDate>
-         <recordIdentifier>I00000100</recordIdentifier>
-         <recordChangeDate encoding="iso8601">2017-10-11</recordChangeDate>
+         <recordIdentifier>05-00057</recordIdentifier>
+         <recordChangeDate encoding="iso8601">2023-01-30</recordChangeDate>         
       </recordInfo>
       <accessCondition type="rights">
          <url>http://rightsstatements.org/vocab/NoC-US/1.0/</url>
