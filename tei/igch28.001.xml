@@ -40,9 +40,9 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="igch28.001_001_001" style="depiction">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch28.001_001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="3000px" width="2400px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch28.001_001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="3000px" width="2400px"/>
     </facsimile>
     <facsimile xml:id="igch28.001_002_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch28.001_002.jpg" n="Invoice" mimeType="image/jpeg" type="IIIFService" height="3000px" width="2250px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch28.001_002.jpg" n="Invoice" mimeType="image/jpeg" type="IIIFService" height="3000px" width="2250px"/>
     </facsimile>
 </TEI>

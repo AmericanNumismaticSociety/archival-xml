@@ -36,12 +36,12 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="igch1928.004_001_001" style="depiction">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch1928.004_001.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="2514px" width="1614px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch1928.004_001.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="2514px" width="1614px"/>
     </facsimile>
     <facsimile xml:id="igch1928.004_002_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch1928.004_002.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="2514px" width="1614px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch1928.004_002.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="2514px" width="1614px"/>
     </facsimile>
     <facsimile xml:id="igch1928.004_003_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch1928.004_003.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="2514px" width="1614px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch1928.004_003.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="2514px" width="1614px"/>
     </facsimile>
 </TEI>

@@ -61,9 +61,9 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="igch1928.015_001_001" style="depiction">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch1928.015_001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2475px" width="1575px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch1928.015_001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2475px" width="1575px"/>
     </facsimile>
     <facsimile xml:id="igch1928.015_002_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch1928.015_002.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2475px" width="1575px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch1928.015_002.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2475px" width="1575px"/>
     </facsimile>
 </TEI>

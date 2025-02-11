@@ -61,6 +61,6 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="chII20.002_001" style="depiction">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2FchII20.002.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="3509px" width="2481px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2FchII20.002.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="3509px" width="2481px"/>
     </facsimile>
 </TEI>

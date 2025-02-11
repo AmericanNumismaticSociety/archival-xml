@@ -61,12 +61,12 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="igch85.004_001_001" style="depiction">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch85.004_001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="1650px" width="2064px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch85.004_001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="1650px" width="2064px"/>
     </facsimile>
     <facsimile xml:id="igch85.004_002_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch85.004_002.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2664px" width="2064px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch85.004_002.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2664px" width="2064px"/>
     </facsimile>
     <facsimile xml:id="igch85.004_003_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch85.004_003.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2664px" width="2064px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch85.004_003.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2664px" width="2064px"/>
     </facsimile>
 </TEI>

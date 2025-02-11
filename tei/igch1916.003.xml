@@ -36,9 +36,9 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="igch1916.003_001_001" style="depiction">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch1916.003_001.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1800px" width="1332px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch1916.003_001.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1800px" width="1332px"/>
     </facsimile>
     <facsimile xml:id="igch1916.003_002_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch1916.003_002.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1800px" width="1332px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch1916.003_002.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1800px" width="1332px"/>
     </facsimile>
 </TEI>

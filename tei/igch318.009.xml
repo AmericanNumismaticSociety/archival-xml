@@ -32,15 +32,15 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="igch318.009_001_001" style="depiction">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch318.009_001.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch318.009_001.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
     </facsimile>
     <facsimile xml:id="igch318.009_002_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch318.009_002.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch318.009_002.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
     </facsimile>
     <facsimile xml:id="igch318.009_003_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch318.009_003.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch318.009_003.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
     </facsimile>
     <facsimile xml:id="igch318.009_004_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch318.009_004.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch318.009_004.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
     </facsimile>
 </TEI>

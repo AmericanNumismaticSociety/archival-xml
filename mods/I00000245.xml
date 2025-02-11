@@ -25,7 +25,7 @@
          </physicalDescription>
       </relatedItem>
       <location>
-         <url access="raw object" note="IIIFService">http://images.numismatics.org/archivesimages%2Farchive%2F04-00019.jpg</url>
+         <url access="raw object" note="IIIFService">https://images.numismatics.org/archivesimages%2Farchive%2F04-00019.jpg</url>
          <url access="preview">http://numismatics.org/archivesimages/thumbnail/04-00019.jpg</url>
          <url usage="primary display">http://numismatics.org/archivesimages/reference/04-00019.jpg</url>
       </location>

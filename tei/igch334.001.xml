@@ -32,9 +32,9 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="igch334.001_001_001" style="depiction">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch334.001_001.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="3000px" width="2100px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch334.001_001.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="3000px" width="2100px"/>
     </facsimile>
     <facsimile xml:id="igch334.001_002_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch334.001_002.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="3000px" width="2100px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch334.001_002.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="3000px" width="2100px"/>
     </facsimile>
 </TEI>

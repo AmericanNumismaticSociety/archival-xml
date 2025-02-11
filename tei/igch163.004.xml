@@ -53,6 +53,6 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="igch163.004_001" style="depiction">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch163.004.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="869px" width="1464px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch163.004.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="869px" width="1464px"/>
     </facsimile>
 </TEI>

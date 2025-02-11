@@ -32,18 +32,18 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="igch267.001_001_001" style="depiction">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch267.001_001.jpg" n="Publication" mimeType="image/jpeg" type="IIIFService" height="2814px" width="1950px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch267.001_001.jpg" n="Publication" mimeType="image/jpeg" type="IIIFService" height="2814px" width="1950px"/>
     </facsimile>
     <facsimile xml:id="igch267.001_002_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch267.001_002.jpg" n="Publication" mimeType="image/jpeg" type="IIIFService" height="2814px" width="1950px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch267.001_002.jpg" n="Publication" mimeType="image/jpeg" type="IIIFService" height="2814px" width="1950px"/>
     </facsimile>
     <facsimile xml:id="igch267.001_003_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch267.001_003.jpg" n="Publication" mimeType="image/jpeg" type="IIIFService" height="2814px" width="1950px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch267.001_003.jpg" n="Publication" mimeType="image/jpeg" type="IIIFService" height="2814px" width="1950px"/>
     </facsimile>
     <facsimile xml:id="igch267.001_004_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch267.001_004.jpg" n="Publication" mimeType="image/jpeg" type="IIIFService" height="2814px" width="1950px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch267.001_004.jpg" n="Publication" mimeType="image/jpeg" type="IIIFService" height="2814px" width="1950px"/>
     </facsimile>
     <facsimile xml:id="igch267.001_005_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch267.001_005.jpg" n="Publication" mimeType="image/jpeg" type="IIIFService" height="2814px" width="1950px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch267.001_005.jpg" n="Publication" mimeType="image/jpeg" type="IIIFService" height="2814px" width="1950px"/>
     </facsimile>
 </TEI>

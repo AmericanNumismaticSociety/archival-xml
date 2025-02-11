@@ -64,9 +64,9 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="igch357.001_001_001" style="depiction">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch357.001_001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2064px" width="1314px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch357.001_001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2064px" width="1314px"/>
     </facsimile>
     <facsimile xml:id="igch357.001_002_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch357.001_002.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2064px" width="1314px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch357.001_002.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2064px" width="1314px"/>
     </facsimile>
 </TEI>

@@ -33,9 +33,9 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="igch1888.001_001_001" style="depiction">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch1888.001_001.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1652px" width="2757px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch1888.001_001.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1652px" width="2757px"/>
     </facsimile>
     <facsimile xml:id="igch1888.001_002_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch1888.001_002.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1652px" width="2757px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch1888.001_002.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="1652px" width="2757px"/>
     </facsimile>
 </TEI>

@@ -79,9 +79,9 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="igch223.003_001_001" style="depiction">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch223.003_001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2400px" width="2025px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch223.003_001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2400px" width="2025px"/>
     </facsimile>
     <facsimile xml:id="igch223.003_002_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch223.003_002.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2400px" width="2025px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch223.003_002.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2400px" width="2025px"/>
     </facsimile>
 </TEI>

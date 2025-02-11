@@ -32,15 +32,15 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="igch274.002_001_001" style="depiction">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch274.002_001.jpg" n="Publication" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch274.002_001.jpg" n="Publication" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
     </facsimile>
     <facsimile xml:id="igch274.002_002_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch274.002_002.jpg" n="Publication" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch274.002_002.jpg" n="Publication" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
     </facsimile>
     <facsimile xml:id="igch274.002_003_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch274.002_003.jpg" n="Publication" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch274.002_003.jpg" n="Publication" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
     </facsimile>
     <facsimile xml:id="igch274.002_004_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch274.002_004.jpg" n="Publication" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch274.002_004.jpg" n="Publication" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
     </facsimile>
 </TEI>

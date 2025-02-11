@@ -36,12 +36,12 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="igch293.001_001_001" style="depiction">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch293.001_001.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="2364px" width="1464px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch293.001_001.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="2364px" width="1464px"/>
     </facsimile>
     <facsimile xml:id="igch293.001_002_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch293.001_002.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="2364px" width="1464px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch293.001_002.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="2364px" width="1464px"/>
     </facsimile>
     <facsimile xml:id="igch293.001_003_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch293.001_003.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="2364px" width="1464px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch293.001_003.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="2364px" width="1464px"/>
     </facsimile>
 </TEI>

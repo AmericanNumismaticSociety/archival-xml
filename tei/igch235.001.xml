@@ -67,6 +67,6 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="igch235.001_001" style="depiction">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch235.001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="3509px" width="2481px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch235.001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="3509px" width="2481px"/>
     </facsimile>
 </TEI>

@@ -61,15 +61,15 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="igch1874.002_001_001" style="depiction">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch1874.002_001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2267px" width="1725px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch1874.002_001.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2267px" width="1725px"/>
     </facsimile>
     <facsimile xml:id="igch1874.002_002_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch1874.002_002.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2267px" width="1725px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch1874.002_002.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2267px" width="1725px"/>
     </facsimile>
     <facsimile xml:id="igch1874.002_003_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch1874.002_003.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2267px" width="1725px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch1874.002_003.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2267px" width="1725px"/>
     </facsimile>
     <facsimile xml:id="igch1874.002_004_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch1874.002_004.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2267px" width="1725px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch1874.002_004.jpg" n="Correspondence" mimeType="image/jpeg" type="IIIFService" height="2267px" width="1725px"/>
     </facsimile>
 </TEI>

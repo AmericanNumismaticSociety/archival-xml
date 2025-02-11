@@ -33,7 +33,7 @@
          </location>
       </relatedItem>
       <location>
-         <url access="raw object" note="IIIFService">http://images.numismatics.org/archivesimages%2Farchive%2F05-00003.jpg</url>
+         <url access="raw object" note="IIIFService">https://images.numismatics.org/archivesimages%2Farchive%2F05-00003.jpg</url>
          <url access="preview">http://numismatics.org/archivesimages/thumbnail/05-00003.jpg</url>
          <url usage="primary display">http://numismatics.org/archivesimages/reference/05-00003.jpg</url>
       </location>

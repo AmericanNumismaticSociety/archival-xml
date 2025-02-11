@@ -32,21 +32,21 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="igch2122.001_001_001" style="depiction">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2122.001_001.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="2775px" width="1709px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch2122.001_001.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="2775px" width="1709px"/>
     </facsimile>
     <facsimile xml:id="igch2122.001_002_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2122.001_002.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="2775px" width="1950px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch2122.001_002.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="2775px" width="1950px"/>
     </facsimile>
     <facsimile xml:id="igch2122.001_003_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2122.001_003.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="2775px" width="1740px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch2122.001_003.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="2775px" width="1740px"/>
     </facsimile>
     <facsimile xml:id="igch2122.001_004_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2122.001_004.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="2775px" width="1740px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch2122.001_004.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="2775px" width="1740px"/>
     </facsimile>
     <facsimile xml:id="igch2122.001_005_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2122.001_005.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1683px" width="1859px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch2122.001_005.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1683px" width="1859px"/>
     </facsimile>
     <facsimile xml:id="igch2122.001_006_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch2122.001_006.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1683px" width="1859px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch2122.001_006.jpg" n="Hoard Photographs" mimeType="image/jpeg" type="IIIFService" height="1683px" width="1859px"/>
     </facsimile>
 </TEI>

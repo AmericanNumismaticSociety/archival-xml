@@ -53,9 +53,9 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="igch76.001_001_001" style="depiction">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch76.001_001.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch76.001_001.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
     </facsimile>
     <facsimile xml:id="igch76.001_002_001">
-        <media url="http://images.numismatics.org/archivesimages%2Farchive%2Figch76.001_002.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
+        <media url="https://images.numismatics.org/archivesimages%2Farchive%2Figch76.001_002.jpg" n="Notes" mimeType="image/jpeg" type="IIIFService" height="3300px" width="2550px"/>
     </facsimile>
 </TEI>
